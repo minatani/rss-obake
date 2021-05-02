@@ -1,142 +1,187 @@
 {
   "sources": [
     {
-      "href": "https://css-tricks.com/feed/",
+      "href": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
-          "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
-          "publishedOn": "2021-04-30T21:51:08.000Z",
-          "wordCount": 677,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Safari 14.1 Adds Support for Flexbox Gaps"
+          "description": "竹井千代（杉咲花）が出演するラジオドラマ「お父さんはお人好（よ）し」は、果物屋を営む夫婦と１２人の子どもたちが巻き起こすホームドラマで、千代と漫才師の花車当郎（塚地武雅）が夫婦役。初めての台本読み合わせの日、千代は出演者に互いに役の名前で呼び合わないかと提案する。鶴亀新喜劇やうどん店「岡福」の人た",
+          "link": "https://mainichi.jp/articles/20210502/ddm/018/200/027000c",
+          "publishedOn": "2021-05-01T17:00:30.000Z",
+          "wordCount": 446,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "今週のＮＨＫ連続テレビ小説:おちょやん"
         },
         {
-          "description": "Jim Nielsen quoting Eric Bailey:\nHe references an example on Twitter where someone noted you can use the &#60;details&#62; element to “create a native HTML accordion,” to which someone responded: “this works without Bootstrap? &#x1f92f;”\nWhat’s the problem here? From \n&#8230;\nThe post Web Languages as Compile Targets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blog.jim-nielsen.com/2021/web-languages-as-compile-targets/",
-          "publishedOn": "2021-04-30T18:05:37.000Z",
-          "wordCount": 798,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Web Languages as Compile Targets"
+          "description": "◆ブルー・アース生命の海（ＢＳ―ＴＢＳ＝後１０・０） 　海の豊かさを伝え、それを守るためにできることを考えるドキュメンタリー番組。出演は元宇宙飛行士の毛利衛、さかなクンら。",
+          "link": "https://mainichi.jp/articles/20210502/ddm/018/200/028000c",
+          "publishedOn": "2021-05-01T17:00:12.000Z",
+          "wordCount": 448,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "視聴室:ブルー・アース生命の海"
         },
         {
-          "description": "Jenny B Kowalski has been posting a-letter-a-day on Instagram exploring multi-axis variable/responsive letterforms. They are very clever in that one of the axes controls an uppercase-to-lowercase conversion, literally morphing the shape of the letters from an uppercase version to a &#8230;\nThe post Jenny B Kowalski&#8217;s A-Z (and a-z) as Variable Letterforms appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jenny-b-kowalskis-a-z-and-a-z-as-variable-letterforms/",
-          "publishedOn": "2021-04-30T16:02:53.000Z",
-          "wordCount": 422,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Jenny B Kowalski’s A-Z (and a-z) as Variable Letterforms"
+          "description": "１９９８年の長野オリンピック、スキージャンプ・ラージヒル団体金メダルの大逆転劇に隠された実話を描いた映画「ヒノマルソウル～舞台裏の英雄たち～」（毎日新聞社など製作委員会）が、近く全国公開される。裏方として競技を支えたテストジャンパーに焦点を当てた感動作だ。物語の当事者であり、長年日本ジャンプ界をけ",
+          "link": "https://mainichi.jp/articles/20210501/ddm/010/200/005000c",
+          "publishedOn": "2021-05-01T04:37:29.000Z",
+          "wordCount": 445,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "映画「ヒノマルソウル～舞台裏の英雄たち～」　栄光の陰にドラマ　物語モデルの原田雅彦さん・西方仁也さん、公開目前対談"
         },
         {
-          "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
-          "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 1856,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "You Can Label a JavaScript `if` Statement"
+          "description": "テーマや長さが絶妙で、心の隙間（すきま）に入り込んでくるＢＳテレ東のドラマ。「高嶺のハナさん」は、年下のダメで可愛い弱木くんを心の中でめでるキャリア系ＯＬ高嶺華が主人公。第３回は、バレンタインデーでの告白失敗や、お菓子の食材候補のわさび農家訪問、体育館で開催された部長の送別会など、充実した内容。ス",
+          "link": "https://mainichi.jp/articles/20210501/dde/018/070/005000c",
+          "publishedOn": "2021-05-01T03:45:47.000Z",
+          "wordCount": 446,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "辛酸なめ子のＴＶセラピー:テーマや長さが絶妙で…"
         },
         {
-          "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/sending-large-files/",
-          "publishedOn": "2021-04-29T17:52:55.000Z",
-          "wordCount": 1649,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Sending Large Files"
+          "description": "Ｓｔｙｌｅ２０３０　賢者が映す未来　ＢＳ－ＴＢＳ＝２日午前１１時 　最近、あちこちで「ＳＤＧｓ（持続可能な開発目標）」という言葉を目にする機会が増えた。地球の未来のために、各国が２０３０年までに達成すべき目標を定めたもの。この番組では、３０年に向けた考え方や行動のヒントを、各分野の専門家「賢者」とと",
+          "link": "https://mainichi.jp/articles/20210501/dde/018/200/004000c",
+          "publishedOn": "2021-05-01T03:43:01.000Z",
+          "wordCount": 456,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "ワイド視聴室:Ｓｔｙｌｅ２０３０　賢者が映す未来　柔らかに探るＳＤＧｓの道"
         },
         {
-          "description": "Raygun is an error and performance monitoring software for websites and mobile apps. In the case of websites, you install their JavaScript snippet onto your site, which takes 2 seconds, and now you&#8217;ve got monitoring in place. Why? Well now &#8230;\nThe post How to Monitor Core Web Vitals and Take Action with Raygun appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-monitor-core-web-vitals-and-take-action-with-raygun/",
-          "publishedOn": "2021-04-29T17:50:39.000Z",
-          "wordCount": 764,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Monitor Core Web Vitals and Take Action with Raygun"
+          "description": "テレビ朝日系のニュース情報番組「大下容子ワイド！スクランブル」（月～金曜午前１０時２５分）で司会を務める大下容子アナウンサー（５０）は昨年６月、同社の現役アナとして初めて役員待遇のエグゼクティブアナウンサーに昇格した。女性の役員や管理職比率が低い日本企業だが、情報番組の制作現場も男性が多い。女性の",
+          "link": "https://mainichi.jp/articles/20210501/dde/018/200/007000c",
+          "publishedOn": "2021-05-01T03:42:00.000Z",
+          "wordCount": 442,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "女性目線、いかに生かすか　テレ朝系「ワイド！スクランブル」司会、大下容子アナ"
         },
         {
-          "description": "Lists—we’ve all worked with them in one form or another. I’m talking about HTML’s &#60;ol&#62; and &#60;ul&#62;. Much of the time, because we desire styling control, we turn off the list’s markers completely with list-style-type: none, and start &#8230;\nThe post List Markers and String Styles appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/list-markers-and-string-styles/",
-          "publishedOn": "2021-04-29T14:32:41.000Z",
-          "wordCount": 1012,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "List Markers and String Styles"
+          "description": "日曜劇場「ドラゴン桜」（ＴＢＳ系、日曜午後９時）が始まった。「半沢直樹」の７年を超える、１６年ぶりの続編だ。しかも主人公は同じだが、雰囲気は「別物」と言っていいほど異なっている。それは一体なぜなのか。",
+          "link": "https://mainichi.jp/articles/20210501/dde/018/070/006000c",
+          "publishedOn": "2021-05-01T03:12:41.000Z",
+          "wordCount": 451,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "週刊テレビ評:１６年ぶりの「ドラゴン桜」　原作と「別物」、期待と戸惑い＝碓井広義"
         },
         {
-          "description": "This post was written for engineering managers, but anyone is welcome to read it.\nLet’s talk for a moment about how we talk about our teams. This might not seem like something that needs a whole article dedicated to it, &#8230;\nThe post Your Team is Not &#8220;Them&#8221; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/your-team-is-not-them/",
-          "publishedOn": "2021-04-28T19:35:32.000Z",
-          "wordCount": 1883,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Your Team is Not “Them”"
+          "description": "ジャニーズ事務所は３０日、所属する歌手で俳優の近藤真彦さん（５６）が同日付で事務所を退所したと発表した。事務所によると、近藤さんから「これからの人生、自分の責任において芸能とレースの道を歩んでいきたい」と申し出があったといい、近藤さんの意向を尊重したという。自動車レースのレーシングチームの監督業と",
+          "link": "https://mainichi.jp/articles/20210501/ddm/012/200/139000c",
+          "publishedOn": "2021-04-30T17:01:54.000Z",
+          "wordCount": 438,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "近藤真彦さん、ジャニーズ退所"
         },
         {
-          "description": "Click, drag, release: you’ve just selected some text on a webpage — probably to copy and paste it somewhere or to share it. Wouldn&#8217;t it be cool if selecting that text revealed some options that make those tasks easier? That’s &#8230;\nThe post How to Create Actions for Selected Text With the Selection API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/",
-          "publishedOn": "2021-04-28T14:19:54.000Z",
-          "wordCount": 1514,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Create Actions for Selected Text With the Selection API"
+          "description": "■教育・教養・実用 （１）真相報道バンキシャ！　　　　　　　　　日テレ　１５．６　日 （２）新・情報７ｄａｙｓニュースキャスター　ＴＢＳ　１５．３　土 （３）サンデーモーニング　　　　　　　　　　　同　　１４．６　日",
+          "link": "https://mainichi.jp/articles/20210501/ddm/018/200/025000c",
+          "publishedOn": "2021-04-30T17:01:32.000Z",
+          "wordCount": 464,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "視聴率:４月１９～２５日"
         },
         {
-          "description": "I was just Hoping for Better Native Page&#160;Transitions, and Bramus commented that Chrome is working on something. Looks like it has some fresh enthusiasm for it, as there is a brand new repo, and you can literally test &#8230;\nThe post Shared Element Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/shared-element-transitions/",
-          "publishedOn": "2021-04-27T20:12:04.000Z",
-          "wordCount": 1092,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Shared Element Transitions"
+          "description": "◆コタローは１人暮らし（朝日＝後１１・３０） 　あるアパートに引っ越してきた１人暮らしの５歳児、さとうコタロー（川原瑛都）と住人との交流を描いたハートフルコメディーの第２話。原作は津村マミの同名人気コミック。",
+          "link": "https://mainichi.jp/articles/20210501/ddm/018/200/023000c",
+          "publishedOn": "2021-04-30T17:01:06.000Z",
+          "wordCount": 450,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "視聴室:コタローは１人暮らし"
         },
         {
-          "description": "Everything important and useful to know about CSS Custom Properties. Like that they are often referred to as \"CSS Variables\" but that's not their real name.\nThe post A Complete Guide to Custom Properties appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-complete-guide-to-custom-properties/",
-          "publishedOn": "2021-04-27T14:26:16.000Z",
-          "wordCount": 5544,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "A Complete Guide to Custom Properties"
+          "description": "２月に米人気歌手のレディー・ガガさん（３５）の愛犬３匹を散歩させていた男性が銃撃され、うち２匹が連れ去られた事件で、ロサンゼルス市警は２９日、１８～５０歳の容疑者の男女５人を殺人未遂などの罪で訴追したと発表した。米メディアによると、５人のうち４人はギャングのメンバー。２匹の飼い主がガガさんだとは知",
+          "link": "https://mainichi.jp/articles/20210430/dde/007/030/026000c",
+          "publishedOn": "2021-04-30T05:36:03.000Z",
+          "wordCount": 445,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "ガガさんの犬強奪、５容疑者訴追　「飼い主、知らなかった」"
         },
         {
-          "description": "I saw in the release notes for Safari Technical Preview 122 that it has support for a color-contrast() function in CSS. Safari is first out of the gate here. As far as I know, no other browser supports this yet &#8230;\nThe post Exploring color-contrast() for the First Time appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-color-contrast-for-the-first-time/",
-          "publishedOn": "2021-04-26T21:02:49.000Z",
-          "wordCount": 1031,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Exploring color-contrast() for the First Time"
+          "description": "ギャンブルの強さで生徒の階級が決まる名門・私立百花王学園。最狂の賭け狂い、蛇喰夢子（浜辺美波）の脅威に、生徒会は危機感を募らせていた。そこに、２年前の事件で停学処分を受け学園を追われていた視鬼神真玄（藤井流星）が現れる。視鬼神の毒牙は、早乙女芽亜里（森川葵）を家畜に陥れ、夢子や生徒会長の桃喰綺羅莉",
+          "link": "https://mainichi.jp/articles/20210430/dde/018/070/005000c",
+          "publishedOn": "2021-04-30T05:22:36.000Z",
+          "wordCount": 451,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "シネマの週末・トピックス:賭ケグルイ　絶体絶命ロシアンルーレット"
         },
         {
-          "description": "I love to make CSS do stuff it shouldn’t. It’s the type of problem-solving brain training you’d get building a calculator in Minecraft, except you probably won’t get a job working with Minecraft Redstone no matter how good you &#8230;\nThe post Generating (and Solving!) Sudokus in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/generating-and-solving-sudokus-in-css/",
-          "publishedOn": "2021-04-26T14:05:00.000Z",
-          "wordCount": 5071,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Generating (and Solving!) Sudokus in CSS"
+          "description": "旬の俳優がそろったのを見ただけで、松居大悟監督への期待度が分かるというもの。青春の忘れ物を回収するオトナコドモ男子の感傷物語を、生き生きと描く。 　結婚式で集まった高校の同窓生、いずれも３０歳間近の６人。披露宴の余興で会場をドン引きさせた後、２次会までポカンと時間が空いた。所在なく歩き回る彼らが、",
+          "link": "https://mainichi.jp/articles/20210430/dde/018/070/008000c",
+          "publishedOn": "2021-04-30T05:21:48.000Z",
+          "wordCount": 452,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "シネマの週末・時代の目:くれなずめ　さえない青春の忘れ物"
         },
         {
-          "description": "Robert Nyman and Philip Jägenstedt:\nGoogle is working with other browser vendors and industry partners to fix the top five browser compatibility pain points for web developers. The areas of focus are CSS Flexbox, CSS Grid,&#160;position: sticky,&#160;\n&#8230;\nThe post Eliminating five top compatibility pain points on the web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/compat2021/",
-          "publishedOn": "2021-04-23T20:55:19.000Z",
-          "wordCount": 1181,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Eliminating five top compatibility pain points on the web"
+          "description": "技能実習生としてベトナムから来日したフォン（ホアン・フォン）、アン、ニューが劣悪な労働環境に耐えかねて脱走した。ブローカーの手引きで、ある漁村にたどり着いた３人は、母国の家族を思いながら働き始めるが、フォンが体調不良に見舞われる。",
+          "link": "https://mainichi.jp/articles/20210430/dde/018/070/007000c",
+          "publishedOn": "2021-04-30T05:21:19.000Z",
+          "wordCount": 448,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "シネマの週末・トピックス:海辺の彼女たち"
         },
         {
-          "description": "In my previous article, I discussed how I learned to create a decoupled WordPress powered Gatsby site using the Gatsby Source WPGraphQL plugin. The project was done following the ongoing developmental version of WPGraphQL and an excellent tutorial by Henrik &#8230;\nThe post Using New Gatsby Source WordPress Plugin appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-new-gatsby-source-wordpress-plugin/",
-          "publishedOn": "2021-04-23T14:03:18.000Z",
-          "wordCount": 6095,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Using New Gatsby Source WordPress Plugin"
+          "description": "妻だったマドンナを起用した「流されて…」で大コケしたかと思えば、「シャーロック・ホームズ」は大当たりしてシリーズ化。当たり外れの差が大きいガイ・リッチー監督、今作は原点回帰。デビュー作「ロック、ストック＆トゥー・スモーキング・バレルズ」を思わせる、アクの強いクセ者が入り乱れる犯罪物語だ。",
+          "link": "https://mainichi.jp/articles/20210430/dde/018/070/009000c",
+          "publishedOn": "2021-04-30T05:20:49.000Z",
+          "wordCount": 452,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "シネマの週末・この１本:ジェントルメン　クセある悪党入り乱れ"
+        },
+        {
+          "description": "「名探偵コナン　緋色の弾丸」が２週連続１位となり、２位には前週末公開の人気シリーズ最終章、２部作の１作目「るろうに剣心最終章ＴｈｅＦｉｎａｌ」がつけた。しかし動員は「こんなはずじゃなかった」という結果となった。",
+          "link": "https://mainichi.jp/articles/20210430/dde/018/070/004000c",
+          "publishedOn": "2021-04-30T03:32:34.000Z",
+          "wordCount": 449,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "シネマの週末・データで読解:「映画復興」再度足踏み"
+        },
+        {
+          "description": "◆新番組・あのときキスしておけば（朝日＝後１１・１５） 　松坂桃李主演のラブコメディーの第１話。桃地のぞむ（松坂）はスーパーの店員。仕事は失敗続きで、特に目標もなく生きていた。ある日、ひょんなことから唯月巴（麻生久美子）と知り合う。実は彼女は、桃地の大好きな漫画「ＳＥＩＫＡの空」の作者・蟹釜ジョー",
+          "link": "https://mainichi.jp/articles/20210430/ddm/018/200/013000c",
+          "publishedOn": "2021-04-29T17:00:30.000Z",
+          "wordCount": 449,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "視聴室:新番組・あのときキスしておけば"
+        },
+        {
+          "description": "「不要不急の外出はいけません」と言われ続けて美しい５月が過ぎるのか。４月の花見でもそうだったなあ。ＢＳ朝日で５月５日放送の「京都ぶらり歴史探訪　今宵（こよい）はリモート花見！～２０２１年　都の美しき桜～」（午後８時）で、失った季節を取り戻したい。",
+          "link": "https://mainichi.jp/articles/20210430/ddm/018/200/015000c",
+          "publishedOn": "2021-04-29T17:00:18.000Z",
+          "wordCount": 449,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "ＢＳ未来館:見られなかった京都の桜を"
+        },
+        {
+          "description": "東京都内の寄席４軒と落語協会、落語芸術協会が、緊急事態宣言による都の無観客開催の要請に応じず営業を続けている件で、寄席側は２８日、一転して５月１日から１１日まで休業することを決めた。都は２８日午前、無観客の要請に応じない場合は休業を要請すると寄席側に伝え、寄席側が再協議していた。",
+          "link": "https://mainichi.jp/articles/20210429/ddm/012/040/054000c",
+          "publishedOn": "2021-04-28T17:03:57.000Z",
+          "wordCount": 519,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "新型コロナ　都内の４寄席、一転休業"
+        },
+        {
+          "description": "＜ＴＢＳ系火曜ドラマ「着飾る恋には理由があって」（火曜午後１０時）寺井陽人役＞ 　ルームシェアしている人たちの“うちキュン”ラブストーリーですが、僕が撮影現場でキュンキュンしているのが、こうじ。夏川結衣さん演じる家主の愛犬で、名前は麴から。女の子です。一緒にいると本当に癒やされます。お芝居がまた良",
+          "link": "https://mainichi.jp/articles/20210429/ddm/018/200/009000c",
+          "publishedOn": "2021-04-28T17:00:38.000Z",
+          "wordCount": 450,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "赤坂電視台:丸山隆平／３　女性同士の距離感が新鮮"
         }
       ]
     },
