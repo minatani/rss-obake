@@ -1,5 +1,5 @@
 cacheUrl: https://minatani.github.io/rss-obake/cache.json
 sources:
   - href: https://mainichi.jp/rss/etc/mainichi-enta.rss
-  - href: https://www.smashingmagazine.com/feed/
+  - href: https://blog.prusaprinters.org/feed/
   - href: https://www.freecodecamp.org/news/rss/
