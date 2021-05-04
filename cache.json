@@ -4,6 +4,33 @@
       "href": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "description": "コロナ禍での度重なる営業時間短縮要請や休業要請に苦しむライブハウスが、生き残りの道を模索している。何年も全国のライブハウスを回ってきたシンガー・ソングライターの聞間拓（ききまたく）さん（４２）は「音楽が鳴るのを止めちゃいけない」と支援を続けてきた。聞間さんが定期的にライブを行う横浜のライブバーも、",
+          "link": "https://mainichi.jp/articles/20210504/ddm/013/040/011000c",
+          "publishedOn": "2021-05-03T17:11:48.000Z",
+          "wordCount": 456,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "くらしナビ・ライフスタイル:新型コロナ　「音を止めるな」ライブハウス奮闘"
+        },
+        {
+          "description": "◆ものまねグランプリ（日テレ＝後９・０） 　１年をかけて最強のものまね芸人を決めるプロジェクトが始動。今回は「ガチの歌ものまね№１決定戦」と題し、新人からベテランまで３２組が出場。王者の座を目指す。",
+          "link": "https://mainichi.jp/articles/20210504/ddm/018/200/014000c",
+          "publishedOn": "2021-05-03T17:07:28.000Z",
+          "wordCount": 451,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "視聴室:ものまねグランプリ"
+        },
+        {
+          "description": "＜ＴＢＳ系バラエティー「オトラクション」（火曜午後７時）ＭＣ（司会）＞ 　“音”と“アトラクション”を合わせて「オトラクション」。音感やリズム感を使ってゲームに挑戦する体感型バラエティー番組がレギュラー放送になりました。音にここまで特化したバラエティーは初めてではないでしょうか。どうしたら視聴者の",
+          "link": "https://mainichi.jp/articles/20210504/ddm/018/200/013000c",
+          "publishedOn": "2021-05-03T17:07:15.000Z",
+          "wordCount": 453,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "赤坂電視台:西川貴教／１　音楽をもっと身近に感じて"
+        },
+        {
           "description": "◆あのとき、タクシーに乗って（ＮＨＫ＝後７・３０） 　タクシーの車内では、目的地に着くまでに、運転手と乗客の間でさまざまな世間話や身の上話が繰り広げられ、時に本音もこぼれる。東京都内を走るタクシー車内にカメラを設置し、その会話から世相を探る番組。",
           "link": "https://mainichi.jp/articles/20210503/ddm/018/200/042000c",
           "publishedOn": "2021-05-02T17:10:37.000Z",
@@ -229,6 +256,42 @@
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
+          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
+          "publishedOn": "2021-05-03T17:20:56.000Z",
+          "wordCount": 2495,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Fetch Data in React from a GraphQL API"
+        },
+        {
+          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
+          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
+          "publishedOn": "2021-05-03T16:40:08.000Z",
+          "wordCount": 1158,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Common Mistakes React Developers Make – And How to Fix Them"
+        },
+        {
+          "description": "Cross Site Request Forgery, or CSRF occurs when a malicious site or program causes a user's browser to perform an unwanted action on a trusted site when the user is authenticated. Any malicious action is limited to the capability of the website to which the user is authenticated. For example,",
+          "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
+          "publishedOn": "2021-05-03T16:13:55.000Z",
+          "wordCount": 1398,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It"
+        },
+        {
+          "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure. It also allows",
+          "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
+          "publishedOn": "2021-05-03T15:31:42.000Z",
+          "wordCount": 890,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Azure Administrator Certification (AZ-104) – Pass the Exam With This Free 11-Hour Course"
+        },
         {
           "description": "These days, computers can pretty much do anything. Now if you are a frequent computer user like I am, I'm sure you interact with the keyboard all the time. And in this article, I'm going to show you some helpful keyboard shortcuts that will make your work easier",
           "link": "https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/",
