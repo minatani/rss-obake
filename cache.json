@@ -4,6 +4,42 @@
       "href": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "description": "＜ＴＢＳ系バラエティー「オトラクション」（火曜午後７時）ＭＣ（司会）＞ 　番組の人気アトラクションの一つに、カラオケを使った「ピッタシンガー」があります。曲の途中を無音状態にして、最後のフレーズの歌い出しをピッタリ合わせるゲーム。本業の歌手なら簡単だろうとか、聞き慣れた曲ならできると思うかもしれま",
+          "link": "https://mainichi.jp/articles/20210505/ddm/018/200/005000c",
+          "publishedOn": "2021-05-04T17:01:19.000Z",
+          "wordCount": 455,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "赤坂電視台:西川貴教／２　一人でも家族でも楽しめる"
+        },
+        {
+          "description": "◆ダーウィンが来た！１５周年ＳＰ（ＮＨＫ総合＝後７・３０） 　世界の生き物たちの驚きや感動の物語を届ける番組の放送開始１５周年記念の特番。今回は絶滅の危機にある生き物をテーマに、国内の画期的な保護活動を紹介する。",
+          "link": "https://mainichi.jp/articles/20210505/ddm/018/200/013000c",
+          "publishedOn": "2021-05-04T17:01:07.000Z",
+          "wordCount": 453,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "視聴室:ダーウィンが来た！１５周年ＳＰ"
+        },
+        {
+          "description": "◆まんぷくダービー（ＴＢＳ＝後８・０） 　宮川大輔、山崎弘也、ジェシーと森本慎太郎（ＳｉｘＴＯＮＥＳ）の３チームが別々のルートに分かれて大食いに挑戦し、食べた総重量を競う。昨年２月、１１月に続く第３弾。",
+          "link": "https://mainichi.jp/articles/20210505/ddm/018/200/009000c",
+          "publishedOn": "2021-05-04T17:00:47.000Z",
+          "wordCount": 455,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "視聴室:まんぷくダービー"
+        },
+        {
+          "description": "＜ＴＢＳ系バラエティー「オトラクション」（火曜午後７時）ＭＣ（司会）＞ 　僕は音楽で元気を届けたいと活動してきましたが、この１年、それがかなわなくなってしまいました。だったら、できなかったことをやろうと昨年末、「ベストボディ・ジャパン２０２０日本大会」に出場しました。体は２０代から鍛えていますが、",
+          "link": "https://mainichi.jp/articles/20210505/ddm/018/200/003000c",
+          "publishedOn": "2021-05-04T17:00:38.000Z",
+          "wordCount": 458,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "赤坂電視台:西川貴教／３　これからも挑戦し続けたい"
+        },
+        {
           "description": "コロナ禍での度重なる営業時間短縮要請や休業要請に苦しむライブハウスが、生き残りの道を模索している。何年も全国のライブハウスを回ってきたシンガー・ソングライターの聞間拓（ききまたく）さん（４２）は「音楽が鳴るのを止めちゃいけない」と支援を続けてきた。聞間さんが定期的にライブを行う横浜のライブバーも、",
           "link": "https://mainichi.jp/articles/20210504/ddm/013/040/011000c",
           "publishedOn": "2021-05-03T17:11:48.000Z",
@@ -257,6 +293,24 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
+          "description": "A complete guide to Node.js async await",
+          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
+          "publishedOn": "2021-05-04T16:07:17.000Z",
+          "wordCount": 2235,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
+        },
+        {
+          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
+          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
+          "publishedOn": "2021-05-04T15:33:12.000Z",
+          "wordCount": 1012,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
+        },
+        {
           "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
           "publishedOn": "2021-05-03T17:20:56.000Z",
@@ -385,5 +439,5 @@
       ]
     }
   ],
-  "cliVersion": "1.3.0"
+  "cliVersion": "1.3.1"
 }
