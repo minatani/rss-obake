@@ -4,6 +4,33 @@
       "href": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "description": "武者たちの雄たけびや、馬のいななきが聞こえてくるような平家物語の合戦場面。だが、屋島の戦いで那須与一が扇の的を射る時の描写は静寂が支配する。ＮＨＫＢＳプレミアムで８日放送の「偉人にチャレンジ　伝説の真相に迫る」（午後７時半）がこの瞬間を検証する。合戦当日１１８５年３月２８日（新暦）夕方の潮の流れま",
+          "link": "https://mainichi.jp/articles/20210507/ddm/018/200/013000c",
+          "publishedOn": "2021-05-06T18:17:02.000Z",
+          "wordCount": 452,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "ＢＳ未来館:那須与一は扇の的を射抜いたか"
+        },
+        {
+          "description": "緊急事態宣言発令後も、東京都の無観客開催の要請に応じずに営業を続けていた都内の寄席４軒が４月２８日、都から新たに休業要請を受ける形で５月１～１１日の営業休止を決めた。わずか４日で一転、休業を余儀なくされた寄席の“舞台裏”を探った。",
+          "link": "https://mainichi.jp/articles/20210507/ddm/013/040/014000c",
+          "publishedOn": "2021-05-06T17:21:25.000Z",
+          "wordCount": 457,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "くらしナビ・ライフスタイル:寄席、一転休業の「舞台裏」"
+        },
+        {
+          "description": "◆警視庁ゼロ係　ＳＥＡＳＯＮ５（東京＝後７・５５） 　空気の読めないキャリア警視の冬彦（小泉孝太郎）と、ノンキャリアのベテラン刑事の寅三（松下由樹）がコンビを組んで事件を解決していく連続ドラマの第２話。",
+          "link": "https://mainichi.jp/articles/20210507/ddm/018/200/015000c",
+          "publishedOn": "2021-05-06T17:01:57.000Z",
+          "wordCount": 454,
+          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "title": "視聴室:警視庁ゼロ係　ＳＥＡＳＯＮ５"
+        },
+        {
           "description": "＜ＴＢＳ系バラエティー「オトラクション」（火曜午後７時）ＭＣ（司会）＞ 　番組の人気アトラクションの一つに、カラオケを使った「ピッタシンガー」があります。曲の途中を無音状態にして、最後のフレーズの歌い出しをピッタリ合わせるゲーム。本業の歌手なら簡単だろうとか、聞き慣れた曲ならできると思うかもしれま",
           "link": "https://mainichi.jp/articles/20210505/ddm/018/200/005000c",
           "publishedOn": "2021-05-04T17:01:19.000Z",
@@ -292,6 +319,33 @@
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
+          "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
+          "publishedOn": "2021-05-06T21:41:34.000Z",
+          "wordCount": 1349,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "What Is &quot;Lifting State Up&quot; in React?"
+        },
+        {
+          "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
+          "publishedOn": "2021-05-06T16:26:08.000Z",
+          "wordCount": 426,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
+        },
+        {
+          "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
+          "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
+          "publishedOn": "2021-05-06T16:06:35.000Z",
+          "wordCount": 1775,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
+        },
         {
           "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
           "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
