@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T01:07:46.309Z</updated>
+    <updated>2021-05-10T01:07:19.999Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:探偵☆星鴨]]></title>
+        <id>https://mainichi.jp/articles/20210510/ddm/018/200/025000c</id>
+        <link href="https://mainichi.jp/articles/20210510/ddm/018/200/025000c"/>
+        <updated>2021-05-09T17:04:54.000Z</updated>
+        <summary type="html"><![CDATA[◆探偵☆星鴨（日テレ＝深夜０・５９） 　女性に免疫がなく、女性に見つめられたり近づかれたりするだけでドギマギしてしまう探偵星鴨（有岡大貴）が活躍する連続ドラマの第３話。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[続・リモコンの片隅から:ＢＳ１２トゥエルビ　“ゲッ”と思うかもしれないけれど]]></title>
+        <id>https://mainichi.jp/articles/20210510/ddm/018/200/029000c</id>
+        <link href="https://mainichi.jp/articles/20210510/ddm/018/200/029000c"/>
+        <updated>2021-05-09T17:03:39.000Z</updated>
+        <summary type="html"><![CDATA[「パラサイト　半地下の家族」のポン・ジュノ監督作に「スノーピアサー」という映画がある。氷河期を迎え絶滅寸前となった人類が、唯一走り続ける列車の中で生き残るというＳＦ映画だ。車内は富裕層と貧困層で完全に分断され、貧困層の食事は黒い大きな固形物が配られるのみ。その“黒いもの”の正体は……。トラウマもの]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[入管法改正案　＃難民の送還ではなく保護を　小泉今日子さんら反対]]></title>
         <id>https://mainichi.jp/articles/20210509/ddm/041/010/054000c</id>
@@ -704,17 +724,6 @@ The post 3D print a Recorder, an Ocarina or a Kazoo &#8211; print a musical inst
         <updated>2021-04-23T17:20:42.000Z</updated>
         <summary type="html"><![CDATA[Have you ever tried printing vases, bowls, cups and other waterproof models? If so, what type of filament did you use, what settings did you&#8230;
 The post Watertight 3D printing PT1: Vases, cups and other open models appeared first on Prusa Printers.]]></summary>
-        <author>
-            <name>Prusa Printers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 3D-printed accessories for pets and animals]]></title>
-        <id>https://blog.prusaprinters.org/3d-printing-for-pets-and-animals_46054/</id>
-        <link href="https://blog.prusaprinters.org/3d-printing-for-pets-and-animals_46054/"/>
-        <updated>2021-04-09T13:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Do you like animals? We do! That’s why we’re always happy to see creative models that make the lives of our pets happier. Of course,&#8230;
-The post Top 3D-printed accessories for pets and animals appeared first on Prusa Printers.]]></summary>
         <author>
             <name>Prusa Printers</name>
         </author>
