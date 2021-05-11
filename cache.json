@@ -1,688 +1,314 @@
 {
   "sources": [
     {
-      "href": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+      "title": "毎日新聞 「エンタメ」RSS",
+      "feedUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+      "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
-          "id": "https://mainichi.jp/articles/20210510/ddm/018/200/025000c",
-          "author": "毎日新聞 「エンタメ」RSS",
-          "description": "◆探偵☆星鴨（日テレ＝深夜０・５９） 　女性に免疫がなく、女性に見つめられたり近づかれたりするだけでドギマギしてしまう探偵星鴨（有岡大貴）が活躍する連続ドラマの第３話。",
-          "link": "https://mainichi.jp/articles/20210510/ddm/018/200/025000c",
-          "publishedOn": "2021-05-09T17:04:54.000Z",
-          "wordCount": 454,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "視聴室:探偵☆星鴨"
+          "id": "https://mainichi.jp/articles/20210511/ddm/018/200/020000c",
+          "author": null,
+          "description": "＜ＴＢＳ系バラエティー「クレイジージャーニー」　（１９日午後９時）フォトグラファー＞ 　世界４大廃虚や長崎の軍艦島、珍しい祭りなど、世界各地の奇妙なものを写真に撮っています。その撮影旅に番組スタッフが同行し、スタジオでＭＣ（司会）の松本人志さん、設楽統さん、小池栄子さんに報告します。３人が面白いの",
+          "link": "https://mainichi.jp/articles/20210511/ddm/018/200/020000c",
+          "publishedOn": "2021-05-10T17:05:00.000Z",
+          "wordCount": 463,
+          "title": "赤坂電視台:佐藤健寿　松本人志さんの反応が楽しみ"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210511/ddm/012/040/107000c",
+          "author": null,
+          "description": "東京都文京区の湯島聖堂近くで２０１８年、倒れてきた看板の下敷きとなり、車いす生活となったアイドルグループ「仮面女子」の猪狩（いがり）ともかさん（２９）と両親が、国に計１０００万円の損害賠償を求める訴訟を東京地裁に起こした。看板は国が設置したもので、木製の脚の根元が腐っていたとし、「国は数十年にわた",
+          "link": "https://mainichi.jp/articles/20210511/ddm/012/040/107000c",
+          "publishedOn": "2021-05-10T17:03:01.000Z",
+          "wordCount": 452,
+          "title": "「仮面女子」猪狩さん、国提訴"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210511/ddm/041/040/052000c",
+          "author": null,
+          "description": "映画配給会社「太秦」（東京都渋谷区）は１０日、１９７４～７５年の連続企業爆破事件に関与した「東アジア反日武装戦線」のメンバーを追った映画「狼をさがして」を上映していた横浜市の映画館が「反日的な内容だ」などと街宣活動や抗議を受けたと明らかにした。７日には男性２人が６時間にわたり館内で上映中止を求めた",
+          "link": "https://mainichi.jp/articles/20210511/ddm/041/040/052000c",
+          "publishedOn": "2021-05-10T17:00:51.000Z",
+          "wordCount": 459,
+          "title": "「反日的」館内で抗議　記録映画　別会場、上映中止　神奈川"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210511/ddm/018/200/021000c",
+          "author": null,
+          "description": "◆オトラクション（ＴＢＳ＝後７・０） 　司会の西川貴教とお笑いコンビ「霜降り明星」らによる「オトラクションチーム」が、音をテーマにしたアトラクションでゲストと対戦するバラエティー番組。",
+          "link": "https://mainichi.jp/articles/20210511/ddm/018/200/021000c",
+          "publishedOn": "2021-05-10T17:00:22.000Z",
+          "wordCount": 460,
+          "title": "視聴室:オトラクション"
         },
         {
           "id": "https://mainichi.jp/articles/20210510/ddm/018/200/029000c",
-          "author": "毎日新聞 「エンタメ」RSS",
+          "author": null,
           "description": "「パラサイト　半地下の家族」のポン・ジュノ監督作に「スノーピアサー」という映画がある。氷河期を迎え絶滅寸前となった人類が、唯一走り続ける列車の中で生き残るというＳＦ映画だ。車内は富裕層と貧困層で完全に分断され、貧困層の食事は黒い大きな固形物が配られるのみ。その“黒いもの”の正体は……。トラウマもの",
           "link": "https://mainichi.jp/articles/20210510/ddm/018/200/029000c",
-          "publishedOn": "2021-05-09T17:03:39.000Z",
-          "wordCount": 457,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "publishedOn": "2021-05-10T06:01:08.000Z",
+          "wordCount": 463,
           "title": "続・リモコンの片隅から:ＢＳ１２トゥエルビ　“ゲッ”と思うかもしれないけれど"
         },
         {
+          "id": "https://mainichi.jp/articles/20210510/dde/018/200/011000c",
+          "author": null,
+          "description": "東京・京橋の国立映画アーカイブの特集上映「１９８０年代日本映画　試行と新生」に、時々出かけていた。時勢柄の厳重警戒、チケット入手法も煩雑で不便なのに、けっこう盛況だった。学生時代に映画館通いをして思い入れがあるだけでなく、映画界が大きくかじを切った時代、プログラムピクチャーとアートフィルムの雰囲気",
+          "link": "https://mainichi.jp/articles/20210510/dde/018/200/011000c",
+          "publishedOn": "2021-05-10T04:28:35.000Z",
+          "wordCount": 461,
+          "title": "映画のミカタ:もっと助け合う時＝勝田友巳"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210510/dde/018/200/012000c",
+          "author": null,
+          "description": "「憧れのママ」を選ぶ第１３回ベストマザー賞に、タレントで俳優の篠田麻里子らが選ばれ、東京都内で開かれた授賞式に出席した。芸能部門で受賞した篠田は「不安もあるが、自分なりにベストを尽くして育児を楽しんでいきたい」と話した。",
+          "link": "https://mainichi.jp/articles/20210510/dde/018/200/012000c",
+          "publishedOn": "2021-05-10T03:10:23.000Z",
+          "wordCount": 468,
+          "title": "Ｔｏｐｉｃｓ:ベストマザー賞　篠田麻里子「育児楽しむ」"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210510/dde/018/200/008000c",
+          "author": null,
+          "description": "■２０２０年ミュージカル・ベストテン（ミュージカル出版社選定） 　≪作品ベスト１０≫（１）ロボット・イン・ザ・ガーデン（劇団四季）（２）ナイン（梅田芸術劇場など）（３）シャボン玉とんだ宇宙（ソラ）までとんだ（東宝）（４）ＶＩＯＬＥＴ（梅田芸術劇場）（５）ＯＮＣＥ　ＵＰＯＮ　Ａ　ＴＩＭＥ　ＩＮ　ＡＭ",
+          "link": "https://mainichi.jp/articles/20210510/dde/018/200/008000c",
+          "publishedOn": "2021-05-10T03:10:17.000Z",
+          "wordCount": 464,
+          "title": "クリップ:２０２０年ミュージカル・ベストテン"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210510/ddm/018/200/025000c",
+          "author": null,
+          "description": "◆探偵☆星鴨（日テレ＝深夜０・５９） 　女性に免疫がなく、女性に見つめられたり近づかれたりするだけでドギマギしてしまう探偵星鴨（有岡大貴）が活躍する連続ドラマの第３話。",
+          "link": "https://mainichi.jp/articles/20210510/ddm/018/200/025000c",
+          "publishedOn": "2021-05-09T17:04:54.000Z",
+          "wordCount": 462,
+          "title": "視聴室:探偵☆星鴨"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210509/ddm/041/010/054000c",
-          "author": "毎日新聞 「エンタメ」RSS",
+          "author": null,
           "description": "国会で審議中の入管法改正案への批判が、俳優の小泉今日子さんら著名人の間で広まっている。 　小泉さんは７日朝、自ら代表取締役を務める「株式会社明後日」のアカウントでツイッターに投稿。「＃難民の送還ではなく保護を」というハッシュタグ（ラベル）をつけ、改正案に反対する６日の記者会見のツイートをリツイート",
           "link": "https://mainichi.jp/articles/20210509/ddm/041/010/054000c",
           "publishedOn": "2021-05-08T17:35:25.000Z",
-          "wordCount": 450,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 458,
           "title": "入管法改正案　＃難民の送還ではなく保護を　小泉今日子さんら反対"
         },
         {
           "id": "https://mainichi.jp/articles/20210509/ddm/041/040/045000c",
-          "author": "毎日新聞 「エンタメ」RSS",
+          "author": null,
           "description": "緊急事態宣言による東京都の休業要請で１日から休業中の都内の寄席４軒は８日、客を定員の半数までにするなど感染予防対策をした上で、緊急事態宣言が延長される１２日から営業を再開することを決めた。",
           "link": "https://mainichi.jp/articles/20210509/ddm/041/040/045000c",
           "publishedOn": "2021-05-08T17:01:13.000Z",
-          "wordCount": 524,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 532,
           "title": "新型コロナ　都内の４寄席、１２日から再開"
         },
         {
           "id": "https://mainichi.jp/articles/20210509/ddm/018/200/024000c",
-          "author": "毎日新聞 「エンタメ」RSS",
+          "author": null,
           "description": "◆お笑いオムニバスＧＰ（フジ＝後７・０） 　さまざまなジャンルのお笑いナンバーワンを決める大会をオムニバス形式で見せる総合バラエティー番組の特番。 　三つの企画で構成する。前半は、全４６組の芸人がジャンル不問のネタを次々と披露する「バク速―１ＧＰ」に続いて「ドッキリツッコミＧＰ」。ドッキリを仕掛け",
           "link": "https://mainichi.jp/articles/20210509/ddm/018/200/024000c",
           "publishedOn": "2021-05-08T17:01:00.000Z",
-          "wordCount": 452,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 462,
           "title": "視聴室:お笑いオムニバスＧＰ"
         },
         {
           "id": "https://mainichi.jp/articles/20210509/ddm/018/200/025000c",
-          "author": "毎日新聞 「エンタメ」RSS",
+          "author": null,
           "description": "（最終週） 　竹井千代（杉咲花）と天海一平（成田凌）が別れて２年がたった。千代はラジオドラマ「お父さんはお人好（よ）し」の花車当郎（塚地武雅）とのコンビで全国的に名を広め、一平も鶴亀新喜劇の「初代桂春団治」でついに大成功。そんな時、鶴亀株式会社の熊田（西川忠志）が、千代に１日だけ鶴亀新喜劇の舞台に",
           "link": "https://mainichi.jp/articles/20210509/ddm/018/200/025000c",
           "publishedOn": "2021-05-08T17:00:46.000Z",
-          "wordCount": 451,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 459,
           "title": "今週のＮＨＫ連続テレビ小説:おちょやん"
         },
         {
           "id": "https://mainichi.jp/articles/20210508/dde/018/200/011000c",
-          "author": "毎日新聞 「エンタメ」RSS",
+          "author": null,
           "description": "各分野のトップランナーに長期間にわたって密着するＮＨＫのドキュメンタリー番組「プロフェッショナル　仕事の流儀」（火曜午後１０時半）は、１月で放送開始から１５周年を迎えた。これまで、イチローや高倉健など約５００人を取材し、その覚悟や葛藤を伝えてきた。番組のチーフプロデューサー２人に、制作の舞台裏を聞",
           "link": "https://mainichi.jp/articles/20210508/dde/018/200/011000c",
           "publishedOn": "2021-05-08T04:20:41.000Z",
-          "wordCount": 453,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 461,
           "title": "ＮＨＫ「プロフェッショナル　仕事の流儀」１５周年　対象の全てを撮る　チーフプロデューサー２氏に聞く"
         },
         {
           "id": "https://mainichi.jp/articles/20210508/dde/018/070/007000c",
-          "author": "毎日新聞 「エンタメ」RSS",
+          "author": null,
           "description": "今季のプロ野球は、新型コロナウイルスまん延防止の観点から（効果の方は定かではないが）延長戦が行われない。ために、随分と興ざめな思いもしていた。かねて回数制限など設けず、米大リーグのようにたとえ日付をまたがってでも決着をつけてほしいと願っていたくらいで、延長ナシなど興ざめもいいところ――。",
           "link": "https://mainichi.jp/articles/20210508/dde/018/070/007000c",
           "publishedOn": "2021-05-08T03:15:55.000Z",
-          "wordCount": 457,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 465,
           "title": "週刊テレビ評:延長ナシのプロ野球　両監督の頭脳戦　九回裏の攻防＝やくみつる"
         },
         {
           "id": "https://mainichi.jp/articles/20210508/dde/018/070/006000c",
-          "author": "毎日新聞 「エンタメ」RSS",
+          "author": null,
           "description": "伊沢・ふくらの２人が即興でクイズを出してその場で解説し、スタッフが裏で情報の真偽を確認するというライブ感あふれる番組。「スタッフもよくそこまで丸投げに」と出演者の出川哲朗も驚いていましたが、ＭＣと知識人とクイズ作家を兼ねているような有能さで、何人分もの働きをしています。この２人の活躍で仕事がなくな",
           "link": "https://mainichi.jp/articles/20210508/dde/018/070/006000c",
           "publishedOn": "2021-05-08T03:15:54.000Z",
-          "wordCount": 449,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 457,
           "title": "辛酸なめ子のＴＶセラピー:伊沢・ふくらの２人が即興でクイズを出して…"
         },
         {
           "id": "https://mainichi.jp/articles/20210508/dde/018/200/005000c",
-          "author": "毎日新聞 「エンタメ」RSS",
+          "author": null,
           "description": "世界！ニッポン行きたい人応援団　テレビ東京系＝月曜午後８時 　日本文化が大好きな外国人を招待してその道のプロから教えを請い、より深く理解してもらうバラエティー。１０日の放送は、日本の朝食に欠かせない２品に焦点を当てる。",
           "link": "https://mainichi.jp/articles/20210508/dde/018/200/005000c",
           "publishedOn": "2021-05-08T03:15:53.000Z",
-          "wordCount": 457,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 465,
           "title": "ワイド視聴室:世界！ニッポン行きたい人応援団　ぬか漬けがつなぐ人と人"
         },
         {
+          "id": "https://mainichi.jp/articles/20210508/ddm/018/200/026000c",
+          "author": null,
           "description": "◆泣くな研修医（朝日＝後１１・０） 　中山祐次郎の同名小説を原作にした連続ドラマの第３話。主人公の雨野隆治（白浜亜嵐）は東京都内の総合病院で外科を目指して研修する。上司や先輩医師に叱られながらも、同期の研修医たちと共に成長していく。",
           "link": "https://mainichi.jp/articles/20210508/ddm/018/200/026000c",
           "publishedOn": "2021-05-07T17:02:25.000Z",
-          "wordCount": 452,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 463,
           "title": "視聴室:泣くな研修医"
         },
         {
+          "id": "https://mainichi.jp/articles/20210507/dde/018/070/011000c",
+          "author": null,
           "description": "アンソニー・ホプキンスのアカデミー賞主演男優賞も納得。彼の演技だけでも見る価値はあるが、もちろんそれだけではない。認知症を映画言語で体験させるという、知的で大胆な試みである。",
           "link": "https://mainichi.jp/articles/20210507/dde/018/070/011000c",
           "publishedOn": "2021-05-07T04:21:05.000Z",
-          "wordCount": 454,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 463,
           "title": "シネマの週末・この１本:ファーザー　混濁する記憶を痛切に"
         },
         {
-          "description": "高校時代に出会って結婚したラファエル（フランソワ・シビル）とオリヴィア（ジョセフィーヌ・ジャピ）。結婚１０年目、ラファエルは小説家になる夢をかなえ、子供に人気のベストセラー作家に。オリヴィアはピアニストとしての成功を目指し、小さなピアノ教室を開いていた。二人の生活がすれ違い、ケンカした翌朝に不思議",
-          "link": "https://mainichi.jp/articles/20210507/dde/018/070/007000c",
-          "publishedOn": "2021-05-07T04:20:26.000Z",
-          "wordCount": 452,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "シネマの週末・トピックス:ラブ・セカンド・サイト　はじまりは初恋のおわりから"
-        },
-        {
+          "id": "https://mainichi.jp/articles/20210507/dde/018/070/010000c",
+          "author": null,
           "description": "アンプもスピーカーもない空っぽの舞台。そこに哲学者のような風情の男が、人間の脳の模型を手に現れる。そんな奇妙な光景に目を奪われる本作は、元トーキング・ヘッズのデイヴィッド・バーンがコロナ禍直前にブロードウェーで開いたコンサートの記録映画。とてつもなく型破りで刺激的、驚きに満ちたショーの幕開きだ。",
           "link": "https://mainichi.jp/articles/20210507/dde/018/070/010000c",
           "publishedOn": "2021-05-07T04:20:01.000Z",
-          "wordCount": 453,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
+          "wordCount": 462,
           "title": "シネマの週末・時代の目:アメリカン・ユートピア　多様性と可能性、ライブで"
-        },
-        {
-          "description": "鳶（とび）の跡取り武志（三浦貴大）と韓国人研修医ジヒョン（知英）は、ある事件で出会い互いに好意を寄せ合う。その頃、武志の家では母（石野真子）が定年退職を宣言して家事を放棄、妹（比嘉愛未）や父らが頭を悩ませていた。鹿児島県薩摩川内市で４２０年続く「川内大綱引」を背景にしたラブストーリーで、佐々部清監",
-          "link": "https://mainichi.jp/articles/20210507/dde/018/070/006000c",
-          "publishedOn": "2021-05-07T04:19:39.000Z",
-          "wordCount": 454,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "シネマの週末・トピックス:大綱引の恋"
-        },
-        {
-          "description": "４都府県に及ぶ緊急事態宣言下のゴールデンウイーク興行が過ぎた。限定的な映画館の休業だったが、興行への影響は計り知れない。東京都内ではミニシアターなどへの休業協力の示唆もあった。新作の延期も続いた。宣言前、映画界は補償などを巡って声を上げた。当然である。",
-          "link": "https://mainichi.jp/articles/20210507/dde/018/070/004000c",
-          "publishedOn": "2021-05-07T03:13:33.000Z",
-          "wordCount": 452,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "シネマの週末・チャートの裏側:映画界は「補償」の要求を"
-        },
-        {
-          "description": "武者たちの雄たけびや、馬のいななきが聞こえてくるような平家物語の合戦場面。だが、屋島の戦いで那須与一が扇の的を射る時の描写は静寂が支配する。ＮＨＫＢＳプレミアムで８日放送の「偉人にチャレンジ　伝説の真相に迫る」（午後７時半）がこの瞬間を検証する。合戦当日１１８５年３月２８日（新暦）夕方の潮の流れま",
-          "link": "https://mainichi.jp/articles/20210507/ddm/018/200/013000c",
-          "publishedOn": "2021-05-06T18:17:02.000Z",
-          "wordCount": 452,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "ＢＳ未来館:那須与一は扇の的を射抜いたか"
-        },
-        {
-          "description": "緊急事態宣言発令後も、東京都の無観客開催の要請に応じずに営業を続けていた都内の寄席４軒が４月２８日、都から新たに休業要請を受ける形で５月１～１１日の営業休止を決めた。わずか４日で一転、休業を余儀なくされた寄席の“舞台裏”を探った。",
-          "link": "https://mainichi.jp/articles/20210507/ddm/013/040/014000c",
-          "publishedOn": "2021-05-06T17:21:25.000Z",
-          "wordCount": 457,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "くらしナビ・ライフスタイル:寄席、一転休業の「舞台裏」"
-        },
-        {
-          "description": "◆警視庁ゼロ係　ＳＥＡＳＯＮ５（東京＝後７・５５） 　空気の読めないキャリア警視の冬彦（小泉孝太郎）と、ノンキャリアのベテラン刑事の寅三（松下由樹）がコンビを組んで事件を解決していく連続ドラマの第２話。",
-          "link": "https://mainichi.jp/articles/20210507/ddm/018/200/015000c",
-          "publishedOn": "2021-05-06T17:01:57.000Z",
-          "wordCount": 454,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "視聴室:警視庁ゼロ係　ＳＥＡＳＯＮ５"
-        },
-        {
-          "description": "＜ＴＢＳ系バラエティー「オトラクション」（火曜午後７時）ＭＣ（司会）＞ 　番組の人気アトラクションの一つに、カラオケを使った「ピッタシンガー」があります。曲の途中を無音状態にして、最後のフレーズの歌い出しをピッタリ合わせるゲーム。本業の歌手なら簡単だろうとか、聞き慣れた曲ならできると思うかもしれま",
-          "link": "https://mainichi.jp/articles/20210505/ddm/018/200/005000c",
-          "publishedOn": "2021-05-04T17:01:19.000Z",
-          "wordCount": 455,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "赤坂電視台:西川貴教／２　一人でも家族でも楽しめる"
-        },
-        {
-          "description": "◆ダーウィンが来た！１５周年ＳＰ（ＮＨＫ総合＝後７・３０） 　世界の生き物たちの驚きや感動の物語を届ける番組の放送開始１５周年記念の特番。今回は絶滅の危機にある生き物をテーマに、国内の画期的な保護活動を紹介する。",
-          "link": "https://mainichi.jp/articles/20210505/ddm/018/200/013000c",
-          "publishedOn": "2021-05-04T17:01:07.000Z",
-          "wordCount": 453,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "視聴室:ダーウィンが来た！１５周年ＳＰ"
-        },
-        {
-          "description": "◆まんぷくダービー（ＴＢＳ＝後８・０） 　宮川大輔、山崎弘也、ジェシーと森本慎太郎（ＳｉｘＴＯＮＥＳ）の３チームが別々のルートに分かれて大食いに挑戦し、食べた総重量を競う。昨年２月、１１月に続く第３弾。",
-          "link": "https://mainichi.jp/articles/20210505/ddm/018/200/009000c",
-          "publishedOn": "2021-05-04T17:00:47.000Z",
-          "wordCount": 455,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "視聴室:まんぷくダービー"
-        },
-        {
-          "description": "＜ＴＢＳ系バラエティー「オトラクション」（火曜午後７時）ＭＣ（司会）＞ 　僕は音楽で元気を届けたいと活動してきましたが、この１年、それがかなわなくなってしまいました。だったら、できなかったことをやろうと昨年末、「ベストボディ・ジャパン２０２０日本大会」に出場しました。体は２０代から鍛えていますが、",
-          "link": "https://mainichi.jp/articles/20210505/ddm/018/200/003000c",
-          "publishedOn": "2021-05-04T17:00:38.000Z",
-          "wordCount": 458,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "赤坂電視台:西川貴教／３　これからも挑戦し続けたい"
-        },
-        {
-          "description": "コロナ禍での度重なる営業時間短縮要請や休業要請に苦しむライブハウスが、生き残りの道を模索している。何年も全国のライブハウスを回ってきたシンガー・ソングライターの聞間拓（ききまたく）さん（４２）は「音楽が鳴るのを止めちゃいけない」と支援を続けてきた。聞間さんが定期的にライブを行う横浜のライブバーも、",
-          "link": "https://mainichi.jp/articles/20210504/ddm/013/040/011000c",
-          "publishedOn": "2021-05-03T17:11:48.000Z",
-          "wordCount": 456,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "くらしナビ・ライフスタイル:新型コロナ　「音を止めるな」ライブハウス奮闘"
-        },
-        {
-          "description": "◆ものまねグランプリ（日テレ＝後９・０） 　１年をかけて最強のものまね芸人を決めるプロジェクトが始動。今回は「ガチの歌ものまね№１決定戦」と題し、新人からベテランまで３２組が出場。王者の座を目指す。",
-          "link": "https://mainichi.jp/articles/20210504/ddm/018/200/014000c",
-          "publishedOn": "2021-05-03T17:07:28.000Z",
-          "wordCount": 451,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "視聴室:ものまねグランプリ"
-        },
-        {
-          "description": "＜ＴＢＳ系バラエティー「オトラクション」（火曜午後７時）ＭＣ（司会）＞ 　“音”と“アトラクション”を合わせて「オトラクション」。音感やリズム感を使ってゲームに挑戦する体感型バラエティー番組がレギュラー放送になりました。音にここまで特化したバラエティーは初めてではないでしょうか。どうしたら視聴者の",
-          "link": "https://mainichi.jp/articles/20210504/ddm/018/200/013000c",
-          "publishedOn": "2021-05-03T17:07:15.000Z",
-          "wordCount": 453,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "赤坂電視台:西川貴教／１　音楽をもっと身近に感じて"
-        },
-        {
-          "description": "◆あのとき、タクシーに乗って（ＮＨＫ＝後７・３０） 　タクシーの車内では、目的地に着くまでに、運転手と乗客の間でさまざまな世間話や身の上話が繰り広げられ、時に本音もこぼれる。東京都内を走るタクシー車内にカメラを設置し、その会話から世相を探る番組。",
-          "link": "https://mainichi.jp/articles/20210503/ddm/018/200/042000c",
-          "publishedOn": "2021-05-02T17:10:37.000Z",
-          "wordCount": 449,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "視聴室:あのとき、タクシーに乗って"
-        },
-        {
-          "description": "「ＳＤＧｓ」。今日の紙面に、この単語がいくつ登場しているでしょうか？　政治面、社会面、経済面、あらゆる記事に、登場していることだと思います。そんなＳＤＧｓの１７の項目、あなたは正しく思い浮かべることができますか？　もう知らないふりはできないＳＤＧｓ。でも難しそうなＳＤＧｓ。そんなあなたにお勧めした",
-          "link": "https://mainichi.jp/articles/20210503/ddm/018/200/041000c",
-          "publishedOn": "2021-05-02T17:09:42.000Z",
-          "wordCount": 449,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "“耳寄り”な話・ＴＢＳラジオ:身の回りからＳＤＧｓ"
-        },
-        {
-          "description": "竹井千代（杉咲花）が出演するラジオドラマ「お父さんはお人好（よ）し」は、果物屋を営む夫婦と１２人の子どもたちが巻き起こすホームドラマで、千代と漫才師の花車当郎（塚地武雅）が夫婦役。初めての台本読み合わせの日、千代は出演者に互いに役の名前で呼び合わないかと提案する。鶴亀新喜劇やうどん店「岡福」の人た",
-          "link": "https://mainichi.jp/articles/20210502/ddm/018/200/027000c",
-          "publishedOn": "2021-05-01T17:00:30.000Z",
-          "wordCount": 446,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "今週のＮＨＫ連続テレビ小説:おちょやん"
-        },
-        {
-          "description": "◆ブルー・アース生命の海（ＢＳ―ＴＢＳ＝後１０・０） 　海の豊かさを伝え、それを守るためにできることを考えるドキュメンタリー番組。出演は元宇宙飛行士の毛利衛、さかなクンら。",
-          "link": "https://mainichi.jp/articles/20210502/ddm/018/200/028000c",
-          "publishedOn": "2021-05-01T17:00:12.000Z",
-          "wordCount": 448,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "視聴室:ブルー・アース生命の海"
-        },
-        {
-          "description": "１９９８年の長野オリンピック、スキージャンプ・ラージヒル団体金メダルの大逆転劇に隠された実話を描いた映画「ヒノマルソウル～舞台裏の英雄たち～」（毎日新聞社など製作委員会）が、近く全国公開される。裏方として競技を支えたテストジャンパーに焦点を当てた感動作だ。物語の当事者であり、長年日本ジャンプ界をけ",
-          "link": "https://mainichi.jp/articles/20210501/ddm/010/200/005000c",
-          "publishedOn": "2021-05-01T04:37:29.000Z",
-          "wordCount": 445,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "映画「ヒノマルソウル～舞台裏の英雄たち～」　栄光の陰にドラマ　物語モデルの原田雅彦さん・西方仁也さん、公開目前対談"
-        },
-        {
-          "description": "テーマや長さが絶妙で、心の隙間（すきま）に入り込んでくるＢＳテレ東のドラマ。「高嶺のハナさん」は、年下のダメで可愛い弱木くんを心の中でめでるキャリア系ＯＬ高嶺華が主人公。第３回は、バレンタインデーでの告白失敗や、お菓子の食材候補のわさび農家訪問、体育館で開催された部長の送別会など、充実した内容。ス",
-          "link": "https://mainichi.jp/articles/20210501/dde/018/070/005000c",
-          "publishedOn": "2021-05-01T03:45:47.000Z",
-          "wordCount": 446,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "辛酸なめ子のＴＶセラピー:テーマや長さが絶妙で…"
-        },
-        {
-          "description": "Ｓｔｙｌｅ２０３０　賢者が映す未来　ＢＳ－ＴＢＳ＝２日午前１１時 　最近、あちこちで「ＳＤＧｓ（持続可能な開発目標）」という言葉を目にする機会が増えた。地球の未来のために、各国が２０３０年までに達成すべき目標を定めたもの。この番組では、３０年に向けた考え方や行動のヒントを、各分野の専門家「賢者」とと",
-          "link": "https://mainichi.jp/articles/20210501/dde/018/200/004000c",
-          "publishedOn": "2021-05-01T03:43:01.000Z",
-          "wordCount": 456,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "ワイド視聴室:Ｓｔｙｌｅ２０３０　賢者が映す未来　柔らかに探るＳＤＧｓの道"
-        },
-        {
-          "description": "テレビ朝日系のニュース情報番組「大下容子ワイド！スクランブル」（月～金曜午前１０時２５分）で司会を務める大下容子アナウンサー（５０）は昨年６月、同社の現役アナとして初めて役員待遇のエグゼクティブアナウンサーに昇格した。女性の役員や管理職比率が低い日本企業だが、情報番組の制作現場も男性が多い。女性の",
-          "link": "https://mainichi.jp/articles/20210501/dde/018/200/007000c",
-          "publishedOn": "2021-05-01T03:42:00.000Z",
-          "wordCount": 442,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "女性目線、いかに生かすか　テレ朝系「ワイド！スクランブル」司会、大下容子アナ"
-        },
-        {
-          "description": "日曜劇場「ドラゴン桜」（ＴＢＳ系、日曜午後９時）が始まった。「半沢直樹」の７年を超える、１６年ぶりの続編だ。しかも主人公は同じだが、雰囲気は「別物」と言っていいほど異なっている。それは一体なぜなのか。",
-          "link": "https://mainichi.jp/articles/20210501/dde/018/070/006000c",
-          "publishedOn": "2021-05-01T03:12:41.000Z",
-          "wordCount": 451,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "週刊テレビ評:１６年ぶりの「ドラゴン桜」　原作と「別物」、期待と戸惑い＝碓井広義"
-        },
-        {
-          "description": "ジャニーズ事務所は３０日、所属する歌手で俳優の近藤真彦さん（５６）が同日付で事務所を退所したと発表した。事務所によると、近藤さんから「これからの人生、自分の責任において芸能とレースの道を歩んでいきたい」と申し出があったといい、近藤さんの意向を尊重したという。自動車レースのレーシングチームの監督業と",
-          "link": "https://mainichi.jp/articles/20210501/ddm/012/200/139000c",
-          "publishedOn": "2021-04-30T17:01:54.000Z",
-          "wordCount": 438,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "近藤真彦さん、ジャニーズ退所"
-        },
-        {
-          "description": "■教育・教養・実用 （１）真相報道バンキシャ！　　　　　　　　　日テレ　１５．６　日 （２）新・情報７ｄａｙｓニュースキャスター　ＴＢＳ　１５．３　土 （３）サンデーモーニング　　　　　　　　　　　同　　１４．６　日",
-          "link": "https://mainichi.jp/articles/20210501/ddm/018/200/025000c",
-          "publishedOn": "2021-04-30T17:01:32.000Z",
-          "wordCount": 464,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "視聴率:４月１９～２５日"
-        },
-        {
-          "description": "◆コタローは１人暮らし（朝日＝後１１・３０） 　あるアパートに引っ越してきた１人暮らしの５歳児、さとうコタロー（川原瑛都）と住人との交流を描いたハートフルコメディーの第２話。原作は津村マミの同名人気コミック。",
-          "link": "https://mainichi.jp/articles/20210501/ddm/018/200/023000c",
-          "publishedOn": "2021-04-30T17:01:06.000Z",
-          "wordCount": 450,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "視聴室:コタローは１人暮らし"
-        },
-        {
-          "description": "２月に米人気歌手のレディー・ガガさん（３５）の愛犬３匹を散歩させていた男性が銃撃され、うち２匹が連れ去られた事件で、ロサンゼルス市警は２９日、１８～５０歳の容疑者の男女５人を殺人未遂などの罪で訴追したと発表した。米メディアによると、５人のうち４人はギャングのメンバー。２匹の飼い主がガガさんだとは知",
-          "link": "https://mainichi.jp/articles/20210430/dde/007/030/026000c",
-          "publishedOn": "2021-04-30T05:36:03.000Z",
-          "wordCount": 445,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "ガガさんの犬強奪、５容疑者訴追　「飼い主、知らなかった」"
-        },
-        {
-          "description": "ギャンブルの強さで生徒の階級が決まる名門・私立百花王学園。最狂の賭け狂い、蛇喰夢子（浜辺美波）の脅威に、生徒会は危機感を募らせていた。そこに、２年前の事件で停学処分を受け学園を追われていた視鬼神真玄（藤井流星）が現れる。視鬼神の毒牙は、早乙女芽亜里（森川葵）を家畜に陥れ、夢子や生徒会長の桃喰綺羅莉",
-          "link": "https://mainichi.jp/articles/20210430/dde/018/070/005000c",
-          "publishedOn": "2021-04-30T05:22:36.000Z",
-          "wordCount": 451,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "シネマの週末・トピックス:賭ケグルイ　絶体絶命ロシアンルーレット"
-        },
-        {
-          "description": "旬の俳優がそろったのを見ただけで、松居大悟監督への期待度が分かるというもの。青春の忘れ物を回収するオトナコドモ男子の感傷物語を、生き生きと描く。 　結婚式で集まった高校の同窓生、いずれも３０歳間近の６人。披露宴の余興で会場をドン引きさせた後、２次会までポカンと時間が空いた。所在なく歩き回る彼らが、",
-          "link": "https://mainichi.jp/articles/20210430/dde/018/070/008000c",
-          "publishedOn": "2021-04-30T05:21:48.000Z",
-          "wordCount": 452,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "シネマの週末・時代の目:くれなずめ　さえない青春の忘れ物"
-        },
-        {
-          "description": "技能実習生としてベトナムから来日したフォン（ホアン・フォン）、アン、ニューが劣悪な労働環境に耐えかねて脱走した。ブローカーの手引きで、ある漁村にたどり着いた３人は、母国の家族を思いながら働き始めるが、フォンが体調不良に見舞われる。",
-          "link": "https://mainichi.jp/articles/20210430/dde/018/070/007000c",
-          "publishedOn": "2021-04-30T05:21:19.000Z",
-          "wordCount": 448,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "シネマの週末・トピックス:海辺の彼女たち"
-        },
-        {
-          "description": "妻だったマドンナを起用した「流されて…」で大コケしたかと思えば、「シャーロック・ホームズ」は大当たりしてシリーズ化。当たり外れの差が大きいガイ・リッチー監督、今作は原点回帰。デビュー作「ロック、ストック＆トゥー・スモーキング・バレルズ」を思わせる、アクの強いクセ者が入り乱れる犯罪物語だ。",
-          "link": "https://mainichi.jp/articles/20210430/dde/018/070/009000c",
-          "publishedOn": "2021-04-30T05:20:49.000Z",
-          "wordCount": 452,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "シネマの週末・この１本:ジェントルメン　クセある悪党入り乱れ"
-        },
-        {
-          "description": "「名探偵コナン　緋色の弾丸」が２週連続１位となり、２位には前週末公開の人気シリーズ最終章、２部作の１作目「るろうに剣心最終章ＴｈｅＦｉｎａｌ」がつけた。しかし動員は「こんなはずじゃなかった」という結果となった。",
-          "link": "https://mainichi.jp/articles/20210430/dde/018/070/004000c",
-          "publishedOn": "2021-04-30T03:32:34.000Z",
-          "wordCount": 449,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "シネマの週末・データで読解:「映画復興」再度足踏み"
-        },
-        {
-          "description": "◆新番組・あのときキスしておけば（朝日＝後１１・１５） 　松坂桃李主演のラブコメディーの第１話。桃地のぞむ（松坂）はスーパーの店員。仕事は失敗続きで、特に目標もなく生きていた。ある日、ひょんなことから唯月巴（麻生久美子）と知り合う。実は彼女は、桃地の大好きな漫画「ＳＥＩＫＡの空」の作者・蟹釜ジョー",
-          "link": "https://mainichi.jp/articles/20210430/ddm/018/200/013000c",
-          "publishedOn": "2021-04-29T17:00:30.000Z",
-          "wordCount": 449,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "視聴室:新番組・あのときキスしておけば"
-        },
-        {
-          "description": "「不要不急の外出はいけません」と言われ続けて美しい５月が過ぎるのか。４月の花見でもそうだったなあ。ＢＳ朝日で５月５日放送の「京都ぶらり歴史探訪　今宵（こよい）はリモート花見！～２０２１年　都の美しき桜～」（午後８時）で、失った季節を取り戻したい。",
-          "link": "https://mainichi.jp/articles/20210430/ddm/018/200/015000c",
-          "publishedOn": "2021-04-29T17:00:18.000Z",
-          "wordCount": 449,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "ＢＳ未来館:見られなかった京都の桜を"
-        },
-        {
-          "description": "東京都内の寄席４軒と落語協会、落語芸術協会が、緊急事態宣言による都の無観客開催の要請に応じず営業を続けている件で、寄席側は２８日、一転して５月１日から１１日まで休業することを決めた。都は２８日午前、無観客の要請に応じない場合は休業を要請すると寄席側に伝え、寄席側が再協議していた。",
-          "link": "https://mainichi.jp/articles/20210429/ddm/012/040/054000c",
-          "publishedOn": "2021-04-28T17:03:57.000Z",
-          "wordCount": 519,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "新型コロナ　都内の４寄席、一転休業"
-        },
-        {
-          "description": "＜ＴＢＳ系火曜ドラマ「着飾る恋には理由があって」（火曜午後１０時）寺井陽人役＞ 　ルームシェアしている人たちの“うちキュン”ラブストーリーですが、僕が撮影現場でキュンキュンしているのが、こうじ。夏川結衣さん演じる家主の愛犬で、名前は麴から。女の子です。一緒にいると本当に癒やされます。お芝居がまた良",
-          "link": "https://mainichi.jp/articles/20210429/ddm/018/200/009000c",
-          "publishedOn": "2021-04-28T17:00:38.000Z",
-          "wordCount": 450,
-          "sourceHref": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
-          "sourceTitle": "毎日新聞 「エンタメ」RSS",
-          "title": "赤坂電視台:丸山隆平／３　女性同士の距離感が新鮮"
         }
       ]
     },
     {
-      "href": "https://blog.prusaprinters.org/feed/",
+      "title": "Prusa Printers",
+      "feedUrl": "https://blog.prusaprinters.org/feed/",
+      "siteUrl": "https://blog.prusaprinters.org",
       "articles": [
         {
+          "id": "https://blog.prusaprinters.org/?p=49390",
+          "author": "Mikolas Zuza",
           "description": "Woodwind instruments have been with us for as long as we can remember. In fact, the “Neanderthal flute” found by Slovenian archaeologist Ivan Turk in&#8230;\nThe post 3D print a Recorder, an Ocarina or a Kazoo &#8211; print a musical instrument! appeared first on Prusa Printers.",
           "link": "https://blog.prusaprinters.org/3d-print-a-recorder-an-ocarina-or-a-kazoo-3d-pritned-musical-instruments_49390/",
           "publishedOn": "2021-05-07T10:18:49.000Z",
-          "wordCount": 2288,
-          "sourceHref": "https://blog.prusaprinters.org/feed/",
-          "sourceTitle": "Prusa Printers",
+          "wordCount": 2398,
           "title": "3D print a Recorder, an Ocarina or a Kazoo – print a musical instrument!"
         },
         {
+          "id": "https://blog.prusaprinters.org/?p=48949",
+          "author": "Jakub Kočí",
           "description": "Have you ever tried printing vases, bowls, cups and other waterproof models? If so, what type of filament did you use, what settings did you&#8230;\nThe post Watertight 3D printing PT1: Vases, cups and other open models appeared first on Prusa Printers.",
           "link": "https://blog.prusaprinters.org/watertight-3d-printing-pt1-vases-cups-and-other-open-models_48949/",
           "publishedOn": "2021-04-23T17:20:42.000Z",
-          "wordCount": 2444,
-          "sourceHref": "https://blog.prusaprinters.org/feed/",
-          "sourceTitle": "Prusa Printers",
+          "wordCount": 2873,
           "title": "Watertight 3D printing PT1: Vases, cups and other open models"
         }
       ]
     },
     {
-      "href": "https://www.freecodecamp.org/news/rss/",
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60953e202cd0545b5e943a8b",
+          "author": "",
+          "description": "Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you",
+          "link": "https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/",
+          "publishedOn": "2021-05-10T17:04:31.000Z",
+          "wordCount": 1254,
+          "title": "How to Ace Your Coding Interview – Advice from a Senior Software Engineer"
+        },
+        {
+          "id": "609558382cd0545b5e943c6f",
+          "author": "",
           "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
           "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
           "publishedOn": "2021-05-07T21:07:57.000Z",
           "wordCount": 1065,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
         },
         {
+          "id": "609551f02cd0545b5e943bc0",
+          "author": "",
           "description": "Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:",
           "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
           "publishedOn": "2021-05-07T16:59:53.000Z",
           "wordCount": 1278,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
         },
         {
+          "id": "609409c201fc34080ef81f97",
+          "author": "",
           "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
           "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
           "publishedOn": "2021-05-06T21:41:34.000Z",
-          "wordCount": 1349,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
+          "wordCount": 1339,
           "title": "What Is &quot;Lifting State Up&quot; in React?"
         },
         {
+          "id": "609415eb2cd0545b5e943534",
+          "author": "",
           "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
           "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
           "publishedOn": "2021-05-06T16:26:08.000Z",
           "wordCount": 426,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
         },
         {
+          "id": "60939bde01fc34080ef81a19",
+          "author": "",
           "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
           "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
           "publishedOn": "2021-05-06T16:06:35.000Z",
           "wordCount": 1775,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
         },
         {
-          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
+          "id": "609307e801fc34080ef8191e",
+          "author": "",
+          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
           "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
           "publishedOn": "2021-05-05T21:11:40.000Z",
           "wordCount": 352,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Create Computer Vision Apps in the Cloud With OpenCV and Python"
+          "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
         },
         {
+          "id": "609011fd8eb3fb07cf09a034",
+          "author": "",
           "description": "A complete guide to Node.js async await",
           "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
           "publishedOn": "2021-05-04T16:07:17.000Z",
-          "wordCount": 2235,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
+          "wordCount": 2241,
           "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
         },
         {
+          "id": "608f5ad48eb3fb07cf099ddb",
+          "author": "",
           "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
           "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
           "publishedOn": "2021-05-04T15:33:12.000Z",
-          "wordCount": 1012,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
+          "wordCount": 1018,
           "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
         },
         {
+          "id": "6090187c8eb3fb07cf09a060",
+          "author": "",
           "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
           "publishedOn": "2021-05-03T17:20:56.000Z",
-          "wordCount": 2495,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
+          "wordCount": 2491,
           "title": "How to Fetch Data in React from a GraphQL API"
-        },
-        {
-          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
-          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
-          "publishedOn": "2021-05-03T16:40:08.000Z",
-          "wordCount": 1158,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Common Mistakes React Developers Make – And How to Fix Them"
-        },
-        {
-          "description": "Cross Site Request Forgery, or CSRF occurs when a malicious site or program causes a user's browser to perform an unwanted action on a trusted site when the user is authenticated. Any malicious action is limited to the capability of the website to which the user is authenticated. For example,",
-          "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
-          "publishedOn": "2021-05-03T16:13:55.000Z",
-          "wordCount": 1398,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It"
-        },
-        {
-          "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure. It also allows",
-          "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
-          "publishedOn": "2021-05-03T15:31:42.000Z",
-          "wordCount": 890,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Azure Administrator Certification (AZ-104) – Pass the Exam With This Free 11-Hour Course"
-        },
-        {
-          "description": "These days, computers can pretty much do anything. Now if you are a frequent computer user like I am, I'm sure you interact with the keyboard all the time. And in this article, I'm going to show you some helpful keyboard shortcuts that will make your work easier",
-          "link": "https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/",
-          "publishedOn": "2021-04-30T18:37:37.000Z",
-          "wordCount": 1334,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Keyboard Shortcuts to Improve Your Coding Productivity"
-        },
-        {
-          "description": "In this article, you'll practice your JavaScript skills while streamlining your household chores by creating your very own home inventory system.  I've often found that it's hard to keep track common household items that I buy frequently such as food, spices, medicine, and the like. It's annoying at best and",
-          "link": "https://www.freecodecamp.org/news/nodejs-and-cloud-firestore-tutorial-build-a-home-inventory-system/",
-          "publishedOn": "2021-04-30T16:26:24.000Z",
-          "wordCount": 1429,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Node.js and Cloud Firestore Tutorial – How to Build a Home Inventory System"
-        },
-        {
-          "description": "Docker is an open source project that makes it easy to create containers and container-based apps. Docker's lightweight and portable software containers simplify application development, testing, and deployment. We just released a course on the freeCodeCamp.org YouTube channel that will help you learn the core fundamentals of Docker by",
-          "link": "https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/",
-          "publishedOn": "2021-04-29T20:05:04.000Z",
-          "wordCount": 496,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn Docker by Building a Node / Express App"
-        },
-        {
-          "description": "In this article, I'll teach you CSS Flexbox basics so you can make your own responsive sites. I'll explain how each of Flexbox's properties work, and I'll give you a cheatsheet that covers everything you can do with Flexbox. Let's Go 🎖️ Table of ContentsFlexbox Architectureflex-directionjustify-contentalign-contentalign-itemsalign-selfflex - grow | shrink | wrap | basisShort",
-          "link": "https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/",
-          "publishedOn": "2021-04-28T19:33:57.000Z",
-          "wordCount": 1289,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet 🎖️"
-        },
-        {
-          "description": "The MERN stack is a popular way to make a full stack web app. MERN stands for MongoDB, Express, React, and Node.js. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the MERN stack by building a restaurant review web",
-          "link": "https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/",
-          "publishedOn": "2021-04-28T14:05:56.000Z",
-          "wordCount": 384,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Create a MERN Stack App with a Serverless Backend"
-        },
-        {
-          "description": "JavaScript is an easy-to-learn programming language compared to many of its counterparts. However, a few basic concepts need a bit more attention if you want to understand, debug, and write better code.  In this article, we will learn about two such concepts, Execution ContextHoistingAs a beginner to JavaScript, understanding these",
-          "link": "https://www.freecodecamp.org/news/javascript-execution-context-and-hoisting/",
-          "publishedOn": "2021-04-27T22:53:14.000Z",
-          "wordCount": 2010,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "JavaScript Execution Context and Hoisting Explained with Code Examples"
-        },
-        {
-          "description": "Hi! Welcome. If you are learning Python, then this article is for you. You will find a thorough description of Python syntax and lots of code examples to guide you during your coding journey.  What we will cover:Variable Definitions in PythonHello, World! Program in PythonData Types and Built-in Data",
-          "link": "https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/",
-          "publishedOn": "2021-04-27T19:55:23.000Z",
-          "wordCount": 12960,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Python Code Examples – Sample Script Coding Tutorial for Beginners"
-        },
-        {
-          "description": "Hello, everyone! In this article we are going to learn how to add the Realm database to an iOS app.  We'll create a simple ToDo app so you can learn how to perform CRUD (Create, Read, Update, Delete) operations in the Realm database. What is Realm?Realm is an open-source",
-          "link": "https://www.freecodecamp.org/news/add-realm-database-to-ios-crud-app-with-with-swift/",
-          "publishedOn": "2021-04-27T18:21:00.000Z",
-          "wordCount": 1815,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Add the Realm Database to an iOS CRUD App using Swift"
-        },
-        {
-          "description": "What is Lazy Loading?Lazy loading is the process of loading components, modules, or other assets of a website as they're required.  Since Angular creates a SPA (Single Page Application), all of its components are loaded at once. This means that a lot of unnecessary libraries or modules might be",
-          "link": "https://www.freecodecamp.org/news/lazy-loading-in-angular-intro-to-ngmodules/",
-          "publishedOn": "2021-04-27T18:17:43.000Z",
-          "wordCount": 1178,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Lazy Loading in Angular – A Beginner&#x27;s Guide to NgModules"
-        },
-        {
-          "description": "In this article, we will build a React application using class components. Then we'll convert it to functional components using React Hooks in a step-by-step way. By building this app, you will learn: How to make API callsHow to implement load more functionalityHow to debug application issuesHow to use async/",
-          "link": "https://www.freecodecamp.org/news/build-a-react-application-with-load-more-functionality-react-hooks/",
-          "publishedOn": "2021-04-27T18:12:22.000Z",
-          "wordCount": 3778,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Build a React Application with Load More Functionality using React Hooks"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }
