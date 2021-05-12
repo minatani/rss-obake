@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T01:06:18.350Z</updated>
+    <updated>2021-05-12T01:08:07.934Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
+        <id>6096aafe2cd0545b5e944430</id>
+        <link href="https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/"/>
+        <updated>2021-05-11T22:53:43.000Z</updated>
+        <summary type="html"><![CDATA[When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a Résumé – Practical Guide with Example Résumé]]></title>
+        <id>6093929601fc34080ef81a0f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/"/>
+        <updated>2021-05-11T19:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Writing a résumé can be a little intimidating. And the pressure to make it really good and fill in each detail can be tiresome and scary. This is especially true if you're doing it for the first time, because you might not know what to add in or what to]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Beautiful Page Transitions in Angular]]></title>
+        <id>609a73156008950828b3f2ce</id>
+        <link href="https://www.freecodecamp.org/news/beautiful-page-transitions-in-angular/"/>
+        <updated>2021-05-11T17:50:09.000Z</updated>
+        <summary type="html"><![CDATA[In today’s world, just having a website is not enough. The website needs to have a clean UI and it needs to be intuitive. And most importantly, it needs to have some sort of interactive element. Interactivity keeps users glued to your site for longer periods of time. As]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:佐藤健寿　“普通”が揺らぐ面白さがある]]></title>
+        <id>https://mainichi.jp/articles/20210512/ddm/018/200/030000c</id>
+        <link href="https://mainichi.jp/articles/20210512/ddm/018/200/030000c"/>
+        <updated>2021-05-11T17:30:02.000Z</updated>
+        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「クレイジージャーニー」（１９日午後９時）フォトグラファー＞ 　番組で思い出深い撮影旅の一つが、アメリカの死体農場。反響も大きかったです。さまざまな遺体が自然に朽ちていく様子を観察する研究施設で、取材後も腐臭がしばらく抜けなくて。ここをテレビで放送できると思っていませんでした]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Job by Building Relationships – Advice from a Senior Software Engineer]]></title>
+        <id>609552842cd0545b5e943bcd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/"/>
+        <updated>2021-05-11T17:29:13.000Z</updated>
+        <summary type="html"><![CDATA[The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:ＤＩＶＥ‼]]></title>
+        <id>https://mainichi.jp/articles/20210512/ddm/018/200/031000c</id>
+        <link href="https://mainichi.jp/articles/20210512/ddm/018/200/031000c"/>
+        <updated>2021-05-11T17:00:47.000Z</updated>
+        <summary type="html"><![CDATA[◆ＤＩＶＥ‼（東京＝深夜０・０） 　直木賞作家・森絵都の同名小説を原作にした連続ドラマの第５話。高さ１０メートルから時速６０キロでダイブする飛び込み競技。わずか１・４秒間の空中演技に青春を懸ける少年たちの姿を描く。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Hash Table – Associative Array Hashing in JS]]></title>
+        <id>60856789dd38b9088c2bf4ff</id>
+        <link href="https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/"/>
+        <updated>2021-05-11T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Start Using Chakra UI]]></title>
+        <id>60977de12cd0545b5e944661</id>
+        <link href="https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/"/>
+        <updated>2021-05-11T15:22:27.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Good Typography - Free Treehouse Course]]></title>
+        <id>60998ee76008950828b3ed10</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-good-typography/"/>
+        <updated>2021-05-11T12:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脱出不能、美しき「タイ沼」　ＢＬドラマ　イケメン純愛に胸キュン]]></title>
+        <id>https://mainichi.jp/articles/20210511/dde/007/200/033000c</id>
+        <link href="https://mainichi.jp/articles/20210511/dde/007/200/033000c"/>
+        <updated>2021-05-11T04:24:22.000Z</updated>
+        <summary type="html"><![CDATA[「もう、タイ沼から抜け出せない」――。男性同士の恋愛を描くタイのボーイズラブ（ＢＬ）ドラマが、日本でも動画配信サービスなどで人気を博している。ネット交流サービス（ＳＮＳ）上で、夢中になっていることを表す「沼る」から「はまると抜け出せないタイドラマ」という意味の「タイ沼」という言葉まで生まれている。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福本莉子、映画で「会社員の気分に」　「しあわせのマスカット」]]></title>
+        <id>https://mainichi.jp/articles/20210511/dde/012/200/002000c</id>
+        <link href="https://mainichi.jp/articles/20210511/dde/012/200/002000c"/>
+        <updated>2021-05-11T04:18:25.000Z</updated>
+        <summary type="html"><![CDATA[「フルーツ王国」といわれる岡山県を舞台にした映画「しあわせのマスカット」（１４日公開）の完成披露試写会が東京都内で開かれ、俳優の福本莉子、中河内雅貴、竹中直人らが登場した。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特薦盤:ロック・ブラック・ジャズ　中川五郎・選]]></title>
+        <id>https://mainichi.jp/articles/20210511/dde/012/070/005000c</id>
+        <link href="https://mainichi.jp/articles/20210511/dde/012/070/005000c"/>
+        <updated>2021-05-11T04:17:24.000Z</updated>
+        <summary type="html"><![CDATA[■ウィリアム・ザ・コンカラー／マーヴェリック・シンカー（ＣＨＲＹＳＡＬＩＳ） 　ルアリ・ジョセフは１９８２年にスコットランドのエディンバラで生まれ、ニュージーランドやイングランドで育ち、一時はロンドンを活動の拠点としたものの、現在はイングランド南西部のコーンウォールに暮らすシンガー・ソングライター]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特薦盤:ロック・ブラック・ジャズ　中川ヨウ・選]]></title>
+        <id>https://mainichi.jp/articles/20210511/dde/012/070/003000c</id>
+        <link href="https://mainichi.jp/articles/20210511/dde/012/070/003000c"/>
+        <updated>2021-05-11T04:14:39.000Z</updated>
+        <summary type="html"><![CDATA[■ヴィジェイ・アイヤー／アンイージー（ユニバーサル） 　インド系アメリカ人で、現在はハーバード大学音楽部の教授でもあるピアニスト、ヴィジェイ・アイヤーの新作「アンイージー」を共感をもって聴いた。彼が次のように語った。「ここ２０年間に作曲した、不安や不安定さを感じさせる曲を選び作品にした」。その理由]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私の記念碑:歌舞伎俳優　尾上菊五郎／１　立ち役も　女形も]]></title>
+        <id>https://mainichi.jp/articles/20210511/dde/012/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210511/dde/012/200/007000c"/>
+        <updated>2021-05-11T04:13:17.000Z</updated>
+        <summary type="html"><![CDATA[代々の歌舞伎俳優は、時として競走馬のサラブレッドに例えられるが、菊五郎は異を唱える。 　「サラブレッドではなく農耕馬ですよ。劇場での１カ月興行の約２５日間、ポッコポッコ、ポッコポッコと同じペースで歩き続ける。パワーも要りますしね」]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:「ファーザー」がアカデミー賞２部門受賞　家族の病気、観客と共有　ゼレール監督、自身の経験を映画化]]></title>
+        <id>https://mainichi.jp/articles/20210511/dde/012/200/009000c</id>
+        <link href="https://mainichi.jp/articles/20210511/dde/012/200/009000c"/>
+        <updated>2021-05-11T04:12:25.000Z</updated>
+        <summary type="html"><![CDATA[映画「ファーザー」は、フロリアン・ゼレール監督が自身の舞台劇を映画化した。これが映画初監督だ。アカデミー賞授賞式前のインタビューでは「主演のアンソニー・ホプキンスに受賞してほしい」と語っていたが、見事実現。加えて脚色賞も受賞した。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your First Developer Job through Intelligent, Genuine Networking]]></title>
+        <id>605cf4879618b008528a77e2</id>
+        <link href="https://www.freecodecamp.org/news/networking-for-aspiring-developers/"/>
+        <updated>2021-05-11T01:38:36.000Z</updated>
+        <summary type="html"><![CDATA["It's not about what you know, it's about whom you know." "70-80% of jobs are found via someone's network." Most of us have heard cliches and stats like the above. And I think most of us intuitively know that having a network of people that can help us find opportunities]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赤坂電視台:佐藤健寿　松本人志さんの反応が楽しみ]]></title>
         <id>https://mainichi.jp/articles/20210511/ddm/018/200/020000c</id>
