@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T01:11:52.597Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-18T01:15:13.769Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
+        <id>60a2771762ab9107fe5ab383</id>
+        <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
+        <updated>2021-05-17T21:11:58.000Z</updated>
+        <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
+        <id>60a16df162ab9107fe5ab01b</id>
+        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
+        <updated>2021-05-17T17:45:50.000Z</updated>
+        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:高島彩／１　楽しむ気持ちを優先できる]]></title>
+        <id>https://mainichi.jp/articles/20210518/ddm/018/200/017000c</id>
+        <link href="https://mainichi.jp/articles/20210518/ddm/018/200/017000c"/>
+        <updated>2021-05-17T17:08:43.000Z</updated>
+        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ワールド極限ミステリー」（２６日午後８時）ＭＣ（司会）＞ 　かわいい動物の映像に癒やされたり、国内外で起きた実話の再現ドラマに感動したり、人気スポットのバックヤードを学んだり……。ミステリー仕立ての中に、喜怒哀楽がギュッと詰まった番組です。ＭＣの私もゲストの皆さんと一緒にな]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「おちょやん」　関東視聴率１７．４％]]></title>
+        <id>https://mainichi.jp/articles/20210518/ddm/012/200/093000c</id>
+        <link href="https://mainichi.jp/articles/20210518/ddm/012/200/093000c"/>
+        <updated>2021-05-17T17:05:10.000Z</updated>
+        <summary type="html"><![CDATA[１４日に終了したＮＨＫ連続テレビ小説「おちょやん」（全１１５回）の関東地区の番組平均世帯視聴率が１７．４％だったとビデオリサーチが１７日、発表した。平均視聴率が２０％を割るのは２０１９年度後期の「スカーレット」以来となる。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:名所から一番近い家]]></title>
+        <id>https://mainichi.jp/articles/20210518/ddm/018/200/020000c</id>
+        <link href="https://mainichi.jp/articles/20210518/ddm/018/200/020000c"/>
+        <updated>2021-05-17T17:00:50.000Z</updated>
+        <summary type="html"><![CDATA[◆名所から一番近い家（朝日＝後８・０） 　誰もが知る全国の名所に、一番近い住宅はどこかを現地を歩いて調べる。不定期で放送されているバラエティー番組で、今回は厳島神社をはじめ４カ所が登場する。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
+        <id>609f552e62ab9107fe5aaba0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
+        <updated>2021-05-17T16:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
+        <id>609cb90262ab9107fe5aa026</id>
+        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
+        <updated>2021-05-17T14:39:55.000Z</updated>
+        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特集ワイド:還暦記者・鈴木琢磨の、ああコロナブルー　ホームドラマどこへ　「若者たち」「北の国から」誕生秘話]]></title>
+        <id>https://mainichi.jp/articles/20210517/dde/012/040/014000c</id>
+        <link href="https://mainichi.jp/articles/20210517/dde/012/040/014000c"/>
+        <updated>2021-05-17T04:08:04.000Z</updated>
+        <summary type="html"><![CDATA[田中邦衛さんの訃報に接した７３歳になる男性読者が毎日新聞の「みんなの広場」に思い出を寄せていた。若いころ、難病に苦しむ二つ違いの弟に寄り添って生活しながら、楽しみに見ていたのがテレビドラマ「若者たち」だったという。両親を亡くし、貧しくともひたむきに生きる５人きょうだいの長男役が邦衛さんで、２人で口]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[演劇　新国立劇場「東京ゴッドファーザーズ」　コロナ下の心に明かり＝評・濱田元子]]></title>
+        <id>https://mainichi.jp/articles/20210517/dde/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210517/dde/018/200/012000c"/>
+        <updated>2021-05-17T03:14:01.000Z</updated>
+        <summary type="html"><![CDATA[言い知れない喪失感や痛みが社会を覆う。それでもまだ人間は捨てたものではないと、心に明かりをともす舞台だ。今敏監督による長編アニメーション映画の舞台化（土屋理敬上演台本）。演出の藤田俊太郎が奇跡の物語にアクチュアリティーを注ぐ。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:京都浪漫　悠久の物語]]></title>
         <id>https://mainichi.jp/articles/20210517/ddm/018/200/036000c</id>
