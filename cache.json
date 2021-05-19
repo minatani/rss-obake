@@ -6,6 +6,78 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210519/ddm/041/040/045000c",
+          "author": null,
+          "description": "新型コロナウイルス対策の緊急事態宣言が３１日まで延長された東京都で、多様な映画を上映する小規模映画館（ミニシアター）が苦境に立たされている。都による休業の要請や協力依頼が続き、深刻な資金難に直面しているためだ。閉館を余儀なくされる映画館もあり、関係者は公的な支援を強く求めている。",
+          "link": "https://mainichi.jp/articles/20210519/ddm/041/040/045000c",
+          "publishedOn": "2021-05-18T18:12:39.000Z",
+          "wordCount": 534,
+          "title": "新型コロナ　ミニシアターへ休業依頼　映画文化、守れない　閉館次々「公的支援を」"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210519/ddm/012/200/105000c",
+          "author": null,
+          "description": "１７日に始まったＮＨＫ連続テレビ小説「おかえりモネ」の初回世帯視聴率は、関東地区で１９．２％だった。ビデオリサーチが１８日、発表した。２０％を割るのは前作の「おちょやん」から２作連続。宮城県出身の女性が気象予報士として成長する物語。地元・仙台地区の初回世帯視聴率は２２．３％だった。",
+          "link": "https://mainichi.jp/articles/20210519/ddm/012/200/105000c",
+          "publishedOn": "2021-05-18T17:01:37.000Z",
+          "wordCount": 445,
+          "title": "おかえりモネ、視聴率１９．２％"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210519/ddm/018/200/015000c",
+          "author": null,
+          "description": "◆クレイジージャーニーＳＰ（ＴＢＳ＝後９・０） 　独自の目的で世界を旅する人に同行するバラエティー番組。過去にレギュラー放送されていたが、久しぶりに特番で復活する。司会は松本人志ら。フォトグラファーの佐藤健寿は、米国ネバダ州の砂漠でアートを楽しむイベントに訪れる。ジャーナリストの丸山ゴンザレスは娯",
+          "link": "https://mainichi.jp/articles/20210519/ddm/018/200/015000c",
+          "publishedOn": "2021-05-18T17:01:31.000Z",
+          "wordCount": 454,
+          "title": "視聴室:クレイジージャーニーＳＰ"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210519/ddm/018/200/014000c",
+          "author": null,
+          "description": "＜ＴＢＳ系バラエティー「ワールド極限ミステリー」（２６日午後８時）ＭＣ（司会）＞ 　ニュースにはハッピーなものも痛ましいものもあります。新人アナウンサーの頃、ニュースを伝えながら自分の感情をどう処理すればいいか悩んだことがあります。そんな時、安藤優子さんがかけてくださった言葉が「ページをめくるよう",
+          "link": "https://mainichi.jp/articles/20210519/ddm/018/200/014000c",
+          "publishedOn": "2021-05-18T17:01:22.000Z",
+          "wordCount": 457,
+          "title": "赤坂電視台:高島彩／２　再現ドラマの完成度が高い"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210519/ddm/041/200/063000c",
+          "author": null,
+          "description": "憧れ、まねさせていただき、古畑任三郎では、夢の共演まで！　夢をたくさんいただきました。男も女も、魅了する本物の男前でした！　合掌。",
+          "link": "https://mainichi.jp/articles/20210519/ddm/041/200/063000c",
+          "publishedOn": "2021-05-18T17:00:55.000Z",
+          "wordCount": 449,
+          "title": "田村正和さん死去　本物の男前　ドラマ「古畑任三郎」で共演した小堺一機さんの話"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210518/dde/012/200/006000c",
+          "author": null,
+          "description": "劇団青年座は２１～３０日、東京・六本木の俳優座劇場でマイク・バートレットの戯曲「アルビオン―白亜の地イングランド」を上演する。片田舎の邸宅の庭を巡る現代版「桜の園」。女主人オードリーを演じる津田真澄は「周囲のさまざまな価値観に揺らされ、もがきながらも生きていく人間の姿を見てほしい」と語る。",
+          "link": "https://mainichi.jp/articles/20210518/dde/012/200/006000c",
+          "publishedOn": "2021-05-18T03:47:22.000Z",
+          "wordCount": 466,
+          "title": "Ｉｎｔｅｒｖｉｅｗ:津田真澄　もどかしい生き様　バートレットの「アルビオン」出演"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210518/dde/012/200/007000c",
+          "author": null,
+          "description": "現在は東京・歌舞伎座、「五月大歌舞伎」（２８日まで）の第２部で「仮名手本忠臣蔵六段目　与市兵衛内勘平腹切」の早野勘平を演じている。「とてもつらい、難役中の難役で、やることも多いです」",
+          "link": "https://mainichi.jp/articles/20210518/dde/012/200/007000c",
+          "publishedOn": "2021-05-18T03:46:29.000Z",
+          "wordCount": 464,
+          "title": "私の記念碑:歌舞伎俳優　尾上菊五郎／２　自分に合わせた演じ方"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210518/dde/012/200/009000c",
+          "author": null,
+          "description": "救命救急の現場から在宅医療に転じた医師の姿を通し、尊厳ある死とは何かを問いかける吉永小百合の主演映画「いのちの停車場」（成島出監督）が２１日、全国公開される。吉永は映画出演１２２本目にして初の医師役。「（救命救急と在宅医療という）命を助ける立場と命に寄り添う立場、二つの役を演じたようだった。在宅医",
+          "link": "https://mainichi.jp/articles/20210518/dde/012/200/009000c",
+          "publishedOn": "2021-05-18T03:45:38.000Z",
+          "wordCount": 461,
+          "title": "Ｉｎｔｅｒｖｉｅｗ:吉永小百合　映画「いのちの停車場」で初の医師役　在宅医療の大切さ伝え"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210518/ddm/018/200/017000c",
           "author": null,
           "description": "＜ＴＢＳ系バラエティー「ワールド極限ミステリー」（２６日午後８時）ＭＣ（司会）＞ 　かわいい動物の映像に癒やされたり、国内外で起きた実話の再現ドラマに感動したり、人気スポットのバックヤードを学んだり……。ミステリー仕立ての中に、喜怒哀楽がギュッと詰まった番組です。ＭＣの私もゲストの皆さんと一緒にな",
@@ -613,6 +685,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a3780f906c5207e3a7db5f",
+          "author": "",
+          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
+          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
+          "publishedOn": "2021-05-18T17:12:59.000Z",
+          "wordCount": 1973,
+          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
+        },
+        {
+          "id": "6068f146d5756f080ba9402d",
+          "author": "",
+          "description": "Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free",
+          "link": "https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/",
+          "publishedOn": "2021-05-18T16:50:36.000Z",
+          "wordCount": 3309,
+          "title": "Coding Programs – 101 Ways to Learn to Code for Free"
+        },
+        {
+          "id": "609bea6b62ab9107fe5a9f89",
+          "author": "",
+          "description": "If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with",
+          "link": "https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/",
+          "publishedOn": "2021-05-18T16:36:22.000Z",
+          "wordCount": 1938,
+          "title": "How to Convert a Keras SavedModel into a Browser-based Web App"
+        },
+        {
+          "id": "609fc4cc62ab9107fe5aac91",
+          "author": "",
+          "description": "Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry",
+          "link": "https://www.freecodecamp.org/news/redux-for-beginners/",
+          "publishedOn": "2021-05-18T16:18:18.000Z",
+          "wordCount": 2037,
+          "title": "Redux for Beginners – Learn Redux Basics with Code Examples"
+        },
+        {
+          "id": "60685767d5756f080ba93df4",
+          "author": "",
+          "description": "According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you",
+          "link": "https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/",
+          "publishedOn": "2021-05-18T16:08:27.000Z",
+          "wordCount": 4368,
+          "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
+        },
         {
           "id": "60a2771762ab9107fe5ab383",
           "author": "",
