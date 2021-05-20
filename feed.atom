@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T01:11:08.862Z</updated>
+    <updated>2021-05-20T01:08:55.891Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
+        <id>60a42386906c5207e3a7dfe2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
+        <updated>2021-05-19T21:09:01.000Z</updated>
+        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timekeepers Contest]]></title>
+        <id>https://blog.prusaprinters.org/?p=49378</id>
+        <link href="https://blog.prusaprinters.org/timekeepers-contest_49378/"/>
+        <updated>2021-05-19T18:59:45.000Z</updated>
+        <summary type="html"><![CDATA[It’s time for our next contest and this time it’s all about time. Seconds, minutes, hours, days, weeks, months, and years, we want to see…
+The post Timekeepers Contest appeared first on Prusa Printers.]]></summary>
+        <author>
+            <name>MattStultz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新垣さんと星野さん、「逃げ恥」婚]]></title>
+        <id>https://mainichi.jp/articles/20210520/ddm/012/200/069000c</id>
+        <link href="https://mainichi.jp/articles/20210520/ddm/012/200/069000c"/>
+        <updated>2021-05-19T18:33:53.000Z</updated>
+        <summary type="html"><![CDATA[女優の新垣結衣さん（３２）と俳優でミュージシャンの星野源さん（４０）は１９日、所属事務所を通じて結婚することを発表した。「これからも互いに支え合い豊かな時間を積み重ねていけたらと思っております」などとコメントした。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[死去の田村正和さん　「十分やりきった」]]></title>
+        <id>https://mainichi.jp/articles/20210520/ddm/041/200/037000c</id>
+        <link href="https://mainichi.jp/articles/20210520/ddm/041/200/037000c"/>
+        <updated>2021-05-19T18:10:48.000Z</updated>
+        <summary type="html"><![CDATA[４月３日に７７歳で亡くなった俳優の田村正和さんは、テレビドラマを中心にニヒルな二枚目からコミカルな役まで幅広く演じ、お茶の間に親しまれた。近年は芸能活動から離れていたが、周囲には「十分やりきった」と俳優人生をまっとうした思いを話していたという。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
+        <id>60a469ec906c5207e3a7e1b9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
+        <updated>2021-05-19T17:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:ナゼそこ？]]></title>
+        <id>https://mainichi.jp/articles/20210520/ddm/018/200/019000c</id>
+        <link href="https://mainichi.jp/articles/20210520/ddm/018/200/019000c"/>
+        <updated>2021-05-19T17:05:13.000Z</updated>
+        <summary type="html"><![CDATA[◆ナゼそこ？（東京＝後７・５８） 　日本の不思議に迫るバラエティー。今回は「未確認日本人“ＴＨＥ仙人”スペシャル」と称し、富山と屋久島で自給自足生活をする「仙人」のような人々に焦点を当てる。ＭＣはユースケ・サンタマリアと新井恵理那。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ＪＡＳＲＡＣ賞金賞に「鬼滅」主題歌]]></title>
+        <id>https://mainichi.jp/articles/20210520/ddm/012/200/051000c</id>
+        <link href="https://mainichi.jp/articles/20210520/ddm/012/200/051000c"/>
+        <updated>2021-05-19T17:02:47.000Z</updated>
+        <summary type="html"><![CDATA[日本音楽著作権協会（ＪＡＳＲＡＣ）は１９日、２０２０年度に著作物使用料の分配額が多かった楽曲を表彰する「２０２１年ＪＡＳＲＡＣ賞」の金賞に、ＬｉＳＡさんの「紅蓮華（ぐれんげ）」（ＬｉＳＡ作詞、草野華余子作曲）が決まったと発表した。テレビアニメ「鬼滅（きめつ）の刃（やいば）」の主題歌として音楽配信サ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:高島彩／３　家族で楽しめる番組]]></title>
+        <id>https://mainichi.jp/articles/20210520/ddm/018/200/017000c</id>
+        <link href="https://mainichi.jp/articles/20210520/ddm/018/200/017000c"/>
+        <updated>2021-05-19T17:01:23.000Z</updated>
+        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ワールド極限ミステリー」（２６日午後８時）ＭＣ（司会）＞ 　２児の母になって一層、性格が大ざっぱになった気がします。日々、自分の思いだけではどうにもならないことばかり。最近は娘たちがけんかを始めても、どうやって終わるかなと見ています。だいぶ人間が辛抱強くなりました（笑い）。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォーカス:清原果耶　連続テレビ小説「おかえりモネ」永浦百音役　豊かな感性、素直に表現]]></title>
+        <id>https://mainichi.jp/articles/20210519/dde/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210519/dde/018/200/012000c"/>
+        <updated>2021-05-19T04:27:12.000Z</updated>
+        <summary type="html"><![CDATA[連続テレビ小説「おかえりモネ」永浦百音（ももね）役（ＮＨＫ＝月～土曜午前８時） 　１７日から始まった連続テレビ小説で、宮城県気仙沼市の島で生まれ育ったヒロイン（愛称モネ）を演じる。高校卒業と同時に内陸の登米（とめ）市で下宿し、林業の見習いをするが、東京から来た気象キャスター（西島秀俊）と出会い、未来]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナレーター近藤サトのテレビぎらい:現場で味わう人、街、自然]]></title>
+        <id>https://mainichi.jp/articles/20210519/dde/018/070/011000c</id>
+        <link href="https://mainichi.jp/articles/20210519/dde/018/070/011000c"/>
+        <updated>2021-05-19T02:40:42.000Z</updated>
+        <summary type="html"><![CDATA[先日、久しぶりのテレビロケで三重県四日市市を訪れました。ところで三重県の人の話し言葉を聞くと、岐阜県出身の私は、わかっちゃいるけど、近しい愛知、岐阜とはほとんど共通点のないその京阪式アクセントにいつも意表を突かれます。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荻原魚雷のラジオ交差点:運転免許取得　リスナーの心も乗せて]]></title>
+        <id>https://mainichi.jp/articles/20210519/dde/018/200/010000c</id>
+        <link href="https://mainichi.jp/articles/20210519/dde/018/200/010000c"/>
+        <updated>2021-05-19T02:40:41.000Z</updated>
+        <summary type="html"><![CDATA[この１カ月くらい、土曜日にＴＢＳラジオの「藤田ニコルのあしたはにちようび」を毎週聴いている。同番組は２０２０年１月４日に放送開始、愛称は「にこにち」。 　５月８日のオープニングトークの第一声は「私、ついに免許取りました」。藤田さんは自動車の教習所に通わず、一発試験で普通自動車免許を取得した（テレビ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
+        <id>60a53182906c5207e3a7e588</id>
+        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
+        <updated>2021-05-18T21:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナ　ミニシアターへ休業依頼　映画文化、守れない　閉館次々「公的支援を」]]></title>
         <id>https://mainichi.jp/articles/20210519/ddm/041/040/045000c</id>
@@ -147,6 +268,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Complete Guide to Full Stack Ethereum Development]]></title>
+        <id>60a536e1906c5207e3a7e6b5</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-ethereum-development/"/>
+        <updated>2021-05-17T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
         <id>60a16df162ab9107fe5ab01b</id>
         <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
@@ -224,6 +355,17 @@
         <summary type="html"><![CDATA[言い知れない喪失感や痛みが社会を覆う。それでもまだ人間は捨てたものではないと、心に明かりをともす舞台だ。今敏監督による長編アニメーション映画の舞台化（土屋理敬上演台本）。演出の藤田俊太郎が奇跡の物語にアクチュアリティーを注ぐ。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s The Winners Of Our Gardening Competition]]></title>
+        <id>https://blog.prusaprinters.org/?p=49963</id>
+        <link href="https://blog.prusaprinters.org/heres-the-winners-of-our-gardening-competition_49963/"/>
+        <updated>2021-05-16T22:58:18.000Z</updated>
+        <summary type="html"><![CDATA[We are now fully in the beginning of the gardening season and thanks to all of you, it should be a good one. In our…
+The post Here’s The Winners Of Our Gardening Competition appeared first on Prusa Printers.]]></summary>
+        <author>
+            <name>MattStultz</name>
         </author>
     </entry>
     <entry>
