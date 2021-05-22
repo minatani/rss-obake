@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T01:12:54.850Z</updated>
+    <updated>2021-05-22T01:11:52.979Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:いいダシとってんね～]]></title>
+        <id>https://mainichi.jp/articles/20210522/ddm/018/200/024000c</id>
+        <link href="https://mainichi.jp/articles/20210522/ddm/018/200/024000c"/>
+        <updated>2021-05-21T17:02:43.000Z</updated>
+        <summary type="html"><![CDATA[◆いいダシとってんね～（日テレ＝後１・３０） 　人気お笑いコンビの和牛（水田信二、川西賢志郎）とかまいたち（山内健司、浜家隆一）が最高のダシが取れる食材を求めて愛媛県と島根県を奔走する。南海放送（愛媛）制作。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴率:３～９日]]></title>
+        <id>https://mainichi.jp/articles/20210522/ddm/018/200/023000c</id>
+        <link href="https://mainichi.jp/articles/20210522/ddm/018/200/023000c"/>
+        <updated>2021-05-21T17:02:18.000Z</updated>
+        <summary type="html"><![CDATA[■教育・教養・実用 （１）新・情報７ｄａｙｓニュースキャスター　ＴＢＳ　１５．６　土 （２）サンデーモーニング　　　　　　　　　　　同　　１４．５　日 （３）真相報道バンキシャ！　　　　　　　　　日テレ　１３．３　日]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript Array Handbook – JS Array Methods Explained with Examples]]></title>
+        <id>6098ce302cd0545b5e944d0b</id>
+        <link href="https://www.freecodecamp.org/news/the-javascript-array-handbook/"/>
+        <updated>2021-05-21T15:33:45.000Z</updated>
+        <summary type="html"><![CDATA[In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get your Original Prusa MINI+ organized with a custom printed base]]></title>
+        <id>https://blog.prusaprinters.org/?p=50290</id>
+        <link href="https://blog.prusaprinters.org/enter-the-mini-base_50290/"/>
+        <updated>2021-05-21T15:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Even though the Original Prusa MINI+ is a compact printer, sometimes you might feel it takes up a little more space than is necessary. There…
+The post Get your Original Prusa MINI+ organized with a custom printed base appeared first on Prusa Printers.]]></summary>
+        <author>
+            <name>Prusa Research Content Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・トピックス:やすらぎの森]]></title>
+        <id>https://mainichi.jp/articles/20210521/dde/018/070/009000c</id>
+        <link href="https://mainichi.jp/articles/20210521/dde/018/070/009000c"/>
+        <updated>2021-05-21T04:46:07.000Z</updated>
+        <summary type="html"><![CDATA[カナダ・ケベックの森林地帯で撮られた人間ドラマである。俗世間のしがらみを断ち、湖畔の小屋で暮らすチャーリー（ジルベール・スィコット）とトム（レミー・ジラール）の元に、ジェルトルード（アンドレ・ラシャペル）という老女が転がり込んでくる。６０年も精神科療養所に入れられていたジェルトルードは、チャーリー]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・トピックス:いのちの停車場]]></title>
+        <id>https://mainichi.jp/articles/20210521/dde/018/070/012000c</id>
+        <link href="https://mainichi.jp/articles/20210521/dde/018/070/012000c"/>
+        <updated>2021-05-21T04:45:03.000Z</updated>
+        <summary type="html"><![CDATA[東京の大病院で救命救急医として働く白石（吉永小百合）はある事件の責任をとって退職。実家の金沢に帰郷し、まほろば診療所の在宅医になる。院長（西田敏行）や看護師（広瀬すず）、白石を慕って東京から来た医大卒の野呂（松坂桃李）も加わり、患者の生き方を尊重する在宅医療の現場に向き合っていく。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・時代の目:茜色に焼かれる　今だからこそ撮る熱量]]></title>
+        <id>https://mainichi.jp/articles/20210521/dde/018/070/006000c</id>
+        <link href="https://mainichi.jp/articles/20210521/dde/018/070/006000c"/>
+        <updated>2021-05-21T04:43:53.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍だからこそ撮りたい、撮らなければならないという熱量があふれている映画だ。主人公は、夫（オダギリジョー）を交通事故で失い、中学生の息子、純平（和田庵）を一人で育てている良子（尾野真千子）。スーパーの花屋と風俗の仕事を掛け持ちするが、義父の介護施設の費用や、亡き夫と愛人との子供の養育費も払って]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・この１本:ペトルーニャに祝福を　十字架巡る騒ぎの行方]]></title>
+        <id>https://mainichi.jp/articles/20210521/dde/018/070/015000c</id>
+        <link href="https://mainichi.jp/articles/20210521/dde/018/070/015000c"/>
+        <updated>2021-05-21T04:42:26.000Z</updated>
+        <summary type="html"><![CDATA[ペトルーニャ（ゾリツァ・ヌシェヴァ）は３２歳で独身、無職。母親にせかされて赴いた採用面接で容姿を侮辱されて不採用と散々だ。その帰り道、川の中の群衆に成り行きで加わり、見事に十字架をつかみ取った。これはキリスト教の行事で、司祭が投げ込んだ十字架を手にした者に幸せが訪れるというものだ。実は女人禁制。ペ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・チャートの裏側:より弱い立場に深手]]></title>
+        <id>https://mainichi.jp/articles/20210521/dde/018/070/003000c</id>
+        <link href="https://mainichi.jp/articles/20210521/dde/018/070/003000c"/>
+        <updated>2021-05-21T03:22:42.000Z</updated>
+        <summary type="html"><![CDATA[緊急事態宣言の延長により、東京都や大阪府では要請を受けた映画館の休業が続いている。これに伴い、新作の延期が相次いだことは以前に記した。ただ、そのまま新作が公開されている場合もある。ではいったい、延期と公開では配給会社にどのような事情の違いがあるのか。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
         <id>60a6b3ab906c5207e3a7f5fa</id>
