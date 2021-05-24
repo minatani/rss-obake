@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T01:21:53.168Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-24T01:19:14.233Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:有吉ゼミ２時間ＳＰ]]></title>
+        <id>https://mainichi.jp/articles/20210524/ddm/018/200/028000c</id>
+        <link href="https://mainichi.jp/articles/20210524/ddm/018/200/028000c"/>
+        <updated>2021-05-23T17:02:42.000Z</updated>
+        <summary type="html"><![CDATA[◆有吉ゼミ２時間ＳＰ（日テレ＝後７・０） 　芸能人を教材に社会を学ぶバラエティー番組の２時間スペシャル。教授役は有吉弘行。ギャル曽根は渡辺正行や小倉久寛とうどんのデカ盛りに挑戦する。さらに、ゴルゴ松本、坂井真紀らは激辛冷麺を食する。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[続・リモコンの片隅から:ＢＳ１２トゥエルビ　人生の箸休めにいかがですか？]]></title>
+        <id>https://mainichi.jp/articles/20210524/ddm/018/200/047000c</id>
+        <link href="https://mainichi.jp/articles/20210524/ddm/018/200/047000c"/>
+        <updated>2021-05-23T17:01:20.000Z</updated>
+        <summary type="html"><![CDATA[仕事柄、常に頭の中は情報過多で脳内処理が追いつかず、結局何も得られないことがある。仕事ができない典型的なパターンだと言われそうだが、ここは「お疲れなんですね」と、ご返答いただいたと仮定して話を進めたい。日々の生活に脳と心が疲れたら、ぜひ“箸休め”の時間を。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わざおぎ登場:「下の巻」　見せたい「哀れ」　桜姫東文章で清玄と権助の２役　片岡仁左衛門さん]]></title>
         <id>https://mainichi.jp/articles/20210523/ddm/014/200/004000c</id>
@@ -1498,17 +1518,6 @@ The post 3D print a Recorder, an Ocarina or a Kazoo &#8211; print a musical inst
         <summary type="html"><![CDATA[Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watertight 3D printing PT1: Vases, cups and other open models]]></title>
-        <id>https://blog.prusaprinters.org/?p=48949</id>
-        <link href="https://blog.prusaprinters.org/watertight-3d-printing-pt1-vases-cups-and-other-open-models_48949/"/>
-        <updated>2021-04-23T17:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever tried printing vases, bowls, cups and other waterproof models? If so, what type of filament did you use, what settings did you&#8230;
-The post Watertight 3D printing PT1: Vases, cups and other open models appeared first on Prusa Printers.]]></summary>
-        <author>
-            <name>Jakub Kočí</name>
         </author>
     </entry>
 </feed>

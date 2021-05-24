@@ -6,6 +6,24 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210524/ddm/018/200/028000c",
+          "author": null,
+          "description": "◆有吉ゼミ２時間ＳＰ（日テレ＝後７・０） 　芸能人を教材に社会を学ぶバラエティー番組の２時間スペシャル。教授役は有吉弘行。ギャル曽根は渡辺正行や小倉久寛とうどんのデカ盛りに挑戦する。さらに、ゴルゴ松本、坂井真紀らは激辛冷麺を食する。",
+          "link": "https://mainichi.jp/articles/20210524/ddm/018/200/028000c",
+          "publishedOn": "2021-05-23T17:02:42.000Z",
+          "wordCount": 455,
+          "title": "視聴室:有吉ゼミ２時間ＳＰ"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210524/ddm/018/200/047000c",
+          "author": null,
+          "description": "仕事柄、常に頭の中は情報過多で脳内処理が追いつかず、結局何も得られないことがある。仕事ができない典型的なパターンだと言われそうだが、ここは「お疲れなんですね」と、ご返答いただいたと仮定して話を進めたい。日々の生活に脳と心が疲れたら、ぜひ“箸休め”の時間を。",
+          "link": "https://mainichi.jp/articles/20210524/ddm/018/200/047000c",
+          "publishedOn": "2021-05-23T17:01:20.000Z",
+          "wordCount": 455,
+          "title": "続・リモコンの片隅から:ＢＳ１２トゥエルビ　人生の箸休めにいかがですか？"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210523/ddm/014/200/004000c",
           "author": null,
           "description": "流浪の姫を軸に、２人の男性が絡み合う四世鶴屋南北作「桜姫東文章（あずまぶんしょう）　下の巻」が、東京・歌舞伎座の「六月大歌舞伎」（６月３～２８日）第２部で上演され、片岡仁左衛門さんが清玄と権助の２役を演じる。「四月大歌舞伎」で前編が「上の巻」として公演され、仁左衛門さんの３６年ぶりの２役が話題とな",
@@ -938,15 +956,6 @@
           "publishedOn": "2021-05-07T10:18:49.000Z",
           "wordCount": 2398,
           "title": "3D print a Recorder, an Ocarina or a Kazoo – print a musical instrument!"
-        },
-        {
-          "id": "https://blog.prusaprinters.org/?p=48949",
-          "author": "Jakub Kočí",
-          "description": "Have you ever tried printing vases, bowls, cups and other waterproof models? If so, what type of filament did you use, what settings did you&#8230;\nThe post Watertight 3D printing PT1: Vases, cups and other open models appeared first on Prusa Printers.",
-          "link": "https://blog.prusaprinters.org/watertight-3d-printing-pt1-vases-cups-and-other-open-models_48949/",
-          "publishedOn": "2021-04-23T17:20:42.000Z",
-          "wordCount": 2873,
-          "title": "Watertight 3D printing PT1: Vases, cups and other open models"
         }
       ]
     },
@@ -1372,5 +1381,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }
