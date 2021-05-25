@@ -6,6 +6,60 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210525/ddm/018/200/012000c",
+          "author": null,
+          "description": "＜ＴＢＳ系バラエティー「ウッチャン式」（２８日午後８時）ＭＣ（司会）＞ 　過去２回の放送を経て、「ウッチャン式」第３弾をゴールデンタイムに２時間スペシャルでお届けすることになりました！",
+          "link": "https://mainichi.jp/articles/20210525/ddm/018/200/012000c",
+          "publishedOn": "2021-05-24T17:40:36.000Z",
+          "wordCount": 459,
+          "title": "赤坂電視台:内村光良／１　オリジナルの計算式を導き出す"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210525/ddm/012/040/037000c",
+          "author": null,
+          "description": "２０２０年１０月に公開し、爆発的なヒットとなったアニメ映画「劇場版『鬼滅（きめつ）の刃（やいば）』無限列車編」の興行収入が２３日までに４００億１６９４万円に達したと、配給元の東宝とアニプレックスが２４日、発表した。観客動員数は２８９７万人。",
+          "link": "https://mainichi.jp/articles/20210525/ddm/012/040/037000c",
+          "publishedOn": "2021-05-24T17:01:48.000Z",
+          "wordCount": 447,
+          "title": "「鬼滅」の興行収入４００億円突破"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210524/dde/018/200/009000c",
+          "author": null,
+          "description": "大阪の天才将棋指し、坂田三吉の激烈な生きざまを、周囲の人々とのかかわりの中で情濃く描いた北條秀司の代表作。長塚圭史の演出・構成台本による再びの３部作一挙上演が好舞台となっている。",
+          "link": "https://mainichi.jp/articles/20210524/dde/018/200/009000c",
+          "publishedOn": "2021-05-24T06:40:39.000Z",
+          "wordCount": 455,
+          "title": "演劇　新ロイヤル大衆舎×ＫＡＡＴ　「王将」－三部作－　はまり役の福田が情味濃く＝評・濱田元子"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210524/dde/018/200/007000c",
+          "author": null,
+          "description": "市川海老蔵を主軸に「海老蔵歌舞伎」と銘打った公演が２９、３０日に東京・明治座で、６月４～１３日に京都・南座で催される。演目は古典の「実盛物語」と新作の「ＫＡＢＵＫＵ」。前者では長男の堀越勸玄（かんげん）と親子共演する。１９８７年に海老蔵（当時七代目市川新之助）は父の十二代目市川團十郎と共に「実盛物",
+          "link": "https://mainichi.jp/articles/20210524/dde/018/200/007000c",
+          "publishedOn": "2021-05-24T06:09:56.000Z",
+          "wordCount": 457,
+          "title": "Ｔｏｐｉｃｓ:「海老蔵歌舞伎」で親子共演"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210524/dde/018/200/011000c",
+          "author": null,
+          "description": "都会的なサウンドと心の機微に触れる歌で注目を集める3人組バンド「Awesome　City　Club(オーサム・シティー・クラブ)」が2月にリリースした楽曲「勿忘(わすれな)」が快進撃を続けている。YouTubeやApple　Musicなど、音楽・動画配信サービスでの再生回数に基づく「オリコン週間ス",
+          "link": "https://mainichi.jp/articles/20210524/dde/018/200/011000c",
+          "publishedOn": "2021-05-24T05:02:45.000Z",
+          "wordCount": 487,
+          "title": "Ｉｎｔｅｒｖｉｅｗ:Awesome　City　Club　気持ち届けて結実　「勿忘」ヒット　累計再生が1億回突破"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210524/dde/018/200/008000c",
+          "author": null,
+          "description": "加藤清正は豊臣秀吉に取り立てられ、大名にまで累進した武将で、「賤ケ岳の七本槍」での武勲や小牧・長久手の合戦などでの活躍は後世までの語り草となった。 　関ケ原の合戦では東軍に属し、戦後は肥後の領主となった。慶長１６（１６１１）年には豊臣秀頼を説得して、二条城での徳川家康との対面を成功させたが、まもな",
+          "link": "https://mainichi.jp/articles/20210524/dde/018/200/008000c",
+          "publishedOn": "2021-05-24T03:46:35.000Z",
+          "wordCount": 461,
+          "title": "役の履歴書:佐藤正清　「純情で誠心誠意」が人気＝小玉祥子"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210524/ddm/018/200/028000c",
           "author": null,
           "description": "◆有吉ゼミ２時間ＳＰ（日テレ＝後７・０） 　芸能人を教材に社会を学ぶバラエティー番組の２時間スペシャル。教授役は有吉弘行。ギャル曽根は渡辺正行や小倉久寛とうどんのデカ盛りに挑戦する。さらに、ゴルゴ松本、坂井真紀らは激辛冷麺を食する。",
@@ -964,6 +1018,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60abc6d011ffb70827ef630f",
+          "author": null,
+          "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/",
+          "publishedOn": "2021-05-25T00:48:45.000Z",
+          "wordCount": 710,
+          "title": "How to Use Node Environment Variables with a DotEnv File for Node.js and npm"
+        },
+        {
+          "id": "60626dc29618b008528a9589",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Nibbles machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/",
+          "publishedOn": "2021-05-25T00:20:22.000Z",
+          "wordCount": 1905,
+          "title": "Keep Calm and Hack The Box – Nibbles"
+        },
+        {
+          "id": "60aaba5911ffb70827ef5ffc",
+          "author": null,
+          "description": "Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I",
+          "link": "https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/",
+          "publishedOn": "2021-05-24T21:30:43.000Z",
+          "wordCount": 1835,
+          "title": "How to Use Small and Sustainable Habits to Get Your First Dev Job"
+        },
+        {
+          "id": "60ac07ec11ffb70827ef66e4",
+          "author": null,
+          "description": "CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/",
+          "publishedOn": "2021-05-24T20:36:07.000Z",
+          "wordCount": 319,
+          "title": "How to Use CSS Media Queries to Create Responsive Websites"
+        },
+        {
+          "id": "60aa161211ffb70827ef5f2c",
+          "author": null,
+          "description": "Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/",
+          "publishedOn": "2021-05-24T19:40:36.000Z",
+          "wordCount": 2263,
+          "title": "How to Generate a Code Coverage Report with CodeCov and GitHub Actions"
+        },
+        {
+          "id": "60a5248c906c5207e3a7e54b",
+          "author": null,
+          "description": "No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and",
+          "link": "https://www.freecodecamp.org/news/best-no-code-tools-for-developers/",
+          "publishedOn": "2021-05-24T14:54:42.000Z",
+          "wordCount": 2493,
+          "title": "The Best No-Code Tools for Developers in 2021"
+        },
         {
           "id": "6098ce302cd0545b5e944d0b",
           "author": "",
