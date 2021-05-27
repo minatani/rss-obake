@@ -6,6 +6,60 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210527/ddm/012/200/096000c",
+          "author": null,
+          "description": "女優の深田恭子さん（３８）が適応障害のため活動休止することが２６日、発表された。所属事務所によると、昨年春ごろから体調を崩しがちとなり、今月に医師から適応障害と診断された。当面は治療を優先する。７月から主演する予定だったフジテレビの連続ドラマは降板するという。所属事務所は「関係者の皆様には大変なご",
+          "link": "https://mainichi.jp/articles/20210527/ddm/012/200/096000c",
+          "publishedOn": "2021-05-26T18:05:30.000Z",
+          "wordCount": 446,
+          "title": "深田恭子さん活動休止"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210527/ddm/018/200/008000c",
+          "author": null,
+          "description": "＜ＴＢＳ系バラエティー「ウッチャン式」（２８日午後８時）ＭＣ（司会）＞ 　「恐怖×○○＝怖くなくなる」の企画は興味深い内容です。怖がりの芸能人を集めてジェットコースターやお化け屋敷に挑戦してもらいますが、直前に激辛料理を食べてもらったり、催眠術師が自己暗示をかけたり。結果、最強の「ウッチャン式」を",
+          "link": "https://mainichi.jp/articles/20210527/ddm/018/200/008000c",
+          "publishedOn": "2021-05-26T17:04:39.000Z",
+          "wordCount": 457,
+          "title": "赤坂電視台:内村光良／３　予測不能を楽しんで！"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210527/ddm/018/200/016000c",
+          "author": null,
+          "description": "◆新番組・レオナルド（ＷＯＷＯＷプライム＝後１１・０） 　レオナルド・ダビンチの謎の半生を描いたミステリー歴史ドラマ。第１話のみ無料放送。イタリア、英国、米国など５カ国合作。",
+          "link": "https://mainichi.jp/articles/20210527/ddm/018/200/016000c",
+          "publishedOn": "2021-05-26T17:04:16.000Z",
+          "wordCount": 455,
+          "title": "視聴室:新番組・レオナルド"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210526/dde/018/200/012000c",
+          "author": null,
+          "description": "ドラマ「春の呪い」立花夏美役（テレビ東京系＝土曜午後１１時２５分） 　同名漫画が原作の連続ドラマで、主人公の立花夏美役に抜てきされた。ドラマ出演のほか、バラエティー番組では明るい笑顔を振りまく１９歳だが、今作は「どのシーンも、悩みながら演じました」と感慨を口にする。",
+          "link": "https://mainichi.jp/articles/20210526/dde/018/200/012000c",
+          "publishedOn": "2021-05-26T07:34:37.000Z",
+          "wordCount": 464,
+          "title": "フォーカス:高橋ひかる　ドラマ「春の呪い」立花夏美役　人に向き合う思い強く"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210526/dde/018/070/011000c",
+          "author": null,
+          "description": "＜映像プロデューサー・吉川圭三のテレビ応援団＞ 　「進め！電波少年」の土屋敏男プロデューサーより「吉川が好みそうな番組を見た」との連絡があり、録画ＤＶＤを送ってもらった。ＮＨＫＢＳプレミアムで放送された「世界サブカルチャー史　欲望の系譜」である。",
+          "link": "https://mainichi.jp/articles/20210526/dde/018/070/011000c",
+          "publishedOn": "2021-05-26T02:49:42.000Z",
+          "wordCount": 458,
+          "title": "テレビ応援団:歴史に求める未来のヒント"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210526/dde/018/200/009000c",
+          "author": null,
+          "description": "飲食店などで流れているラジオを聴くのが好きだ。店ごとに大体好みの局が決まっているのも面白い。たまに行く博多うどんの店はいつもＪ―ＷＡＶＥである。平日の夕方、食券を購入し椅子に座るとピストン西沢さんの「ＧＲＯＯＶＥ　ＬＩＮＥ」（月～木曜午後４時半）が耳に入ってくる。",
+          "link": "https://mainichi.jp/articles/20210526/dde/018/200/009000c",
+          "publishedOn": "2021-05-26T02:49:41.000Z",
+          "wordCount": 459,
+          "title": "荻原魚雷のラジオ交差点:ゲストもトークも緩急自在"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210526/ddm/018/200/016000c",
           "author": null,
           "description": "＜ＴＢＳ系バラエティー「ウッチャン式」（２８日午後８時）ＭＣ（司会）＞ 　今回のロケ企画は三つで、ディレクターが全て違うので、各テイストを楽しんでいただけると思います。",
@@ -1082,6 +1136,51 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60a44b9f906c5207e3a7e098",
+          "author": null,
+          "description": "In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video",
+          "link": "https://www.freecodecamp.org/news/giphy-api-tutorial/",
+          "publishedOn": "2021-05-26T21:44:01.000Z",
+          "wordCount": 2014,
+          "title": "Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS"
+        },
+        {
+          "id": "60abe7fb11ffb70827ef63a6",
+          "author": null,
+          "description": "If you're a developer, you've probably come across the term \"open source.\" If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made",
+          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/",
+          "publishedOn": "2021-05-26T18:01:00.000Z",
+          "wordCount": 2370,
+          "title": "How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "606f4f5fd5756f080ba96b65",
+          "author": null,
+          "description": "In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without",
+          "link": "https://www.freecodecamp.org/news/terraform-syntax-for-beginners/",
+          "publishedOn": "2021-05-26T18:00:52.000Z",
+          "wordCount": 3782,
+          "title": "Learn Basic Terraform Syntax in 20 minutes"
+        },
+        {
+          "id": "60abc59d11ffb70827ef6304",
+          "author": null,
+          "description": "In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed",
+          "link": "https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/",
+          "publishedOn": "2021-05-26T16:34:32.000Z",
+          "wordCount": 3054,
+          "title": "How to Build a GraphQL API Using Laravel"
+        },
+        {
+          "id": "60aced0011ffb70827ef6d96",
+          "author": null,
+          "description": "In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/",
+          "publishedOn": "2021-05-26T14:12:27.000Z",
+          "wordCount": 1273,
+          "title": "How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js"
+        },
+        {
           "id": "60ac3a2711ffb70827ef6aec",
           "author": null,
           "description": "Walkthrough for Hack The Box Valentine machine",
@@ -1579,5 +1678,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }

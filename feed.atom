@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T01:34:09.056Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-27T01:45:46.857Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
+        <id>60a44b9f906c5207e3a7e098</id>
+        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
+        <updated>2021-05-26T21:44:01.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深田恭子さん活動休止]]></title>
+        <id>https://mainichi.jp/articles/20210527/ddm/012/200/096000c</id>
+        <link href="https://mainichi.jp/articles/20210527/ddm/012/200/096000c"/>
+        <updated>2021-05-26T18:05:30.000Z</updated>
+        <summary type="html"><![CDATA[女優の深田恭子さん（３８）が適応障害のため活動休止することが２６日、発表された。所属事務所によると、昨年春ごろから体調を崩しがちとなり、今月に医師から適応障害と診断された。当面は治療を優先する。７月から主演する予定だったフジテレビの連続ドラマは降板するという。所属事務所は「関係者の皆様には大変なご]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide]]></title>
+        <id>60abe7fb11ffb70827ef63a6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"/>
+        <updated>2021-05-26T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're a developer, you've probably come across the term "open source." If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Basic Terraform Syntax in 20 minutes]]></title>
+        <id>606f4f5fd5756f080ba96b65</id>
+        <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
+        <updated>2021-05-26T18:00:52.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:内村光良／３　予測不能を楽しんで！]]></title>
+        <id>https://mainichi.jp/articles/20210527/ddm/018/200/008000c</id>
+        <link href="https://mainichi.jp/articles/20210527/ddm/018/200/008000c"/>
+        <updated>2021-05-26T17:04:39.000Z</updated>
+        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ウッチャン式」（２８日午後８時）ＭＣ（司会）＞ 　「恐怖×○○＝怖くなくなる」の企画は興味深い内容です。怖がりの芸能人を集めてジェットコースターやお化け屋敷に挑戦してもらいますが、直前に激辛料理を食べてもらったり、催眠術師が自己暗示をかけたり。結果、最強の「ウッチャン式」を]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:新番組・レオナルド]]></title>
+        <id>https://mainichi.jp/articles/20210527/ddm/018/200/016000c</id>
+        <link href="https://mainichi.jp/articles/20210527/ddm/018/200/016000c"/>
+        <updated>2021-05-26T17:04:16.000Z</updated>
+        <summary type="html"><![CDATA[◆新番組・レオナルド（ＷＯＷＯＷプライム＝後１１・０） 　レオナルド・ダビンチの謎の半生を描いたミステリー歴史ドラマ。第１話のみ無料放送。イタリア、英国、米国など５カ国合作。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
+        <id>60abc59d11ffb70827ef6304</id>
+        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
+        <updated>2021-05-26T16:34:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
+        <id>60aced0011ffb70827ef6d96</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
+        <updated>2021-05-26T14:12:27.000Z</updated>
+        <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォーカス:高橋ひかる　ドラマ「春の呪い」立花夏美役　人に向き合う思い強く]]></title>
+        <id>https://mainichi.jp/articles/20210526/dde/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210526/dde/018/200/012000c"/>
+        <updated>2021-05-26T07:34:37.000Z</updated>
+        <summary type="html"><![CDATA[ドラマ「春の呪い」立花夏美役（テレビ東京系＝土曜午後１１時２５分） 　同名漫画が原作の連続ドラマで、主人公の立花夏美役に抜てきされた。ドラマ出演のほか、バラエティー番組では明るい笑顔を振りまく１９歳だが、今作は「どのシーンも、悩みながら演じました」と感慨を口にする。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テレビ応援団:歴史に求める未来のヒント]]></title>
+        <id>https://mainichi.jp/articles/20210526/dde/018/070/011000c</id>
+        <link href="https://mainichi.jp/articles/20210526/dde/018/070/011000c"/>
+        <updated>2021-05-26T02:49:42.000Z</updated>
+        <summary type="html"><![CDATA[＜映像プロデューサー・吉川圭三のテレビ応援団＞ 　「進め！電波少年」の土屋敏男プロデューサーより「吉川が好みそうな番組を見た」との連絡があり、録画ＤＶＤを送ってもらった。ＮＨＫＢＳプレミアムで放送された「世界サブカルチャー史　欲望の系譜」である。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荻原魚雷のラジオ交差点:ゲストもトークも緩急自在]]></title>
+        <id>https://mainichi.jp/articles/20210526/dde/018/200/009000c</id>
+        <link href="https://mainichi.jp/articles/20210526/dde/018/200/009000c"/>
+        <updated>2021-05-26T02:49:41.000Z</updated>
+        <summary type="html"><![CDATA[飲食店などで流れているラジオを聴くのが好きだ。店ごとに大体好みの局が決まっているのも面白い。たまに行く博多うどんの店はいつもＪ―ＷＡＶＥである。平日の夕方、食券を購入し椅子に座るとピストン西沢さんの「ＧＲＯＯＶＥ　ＬＩＮＥ」（月～木曜午後４時半）が耳に入ってくる。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
         <id>60ac3a2711ffb70827ef6aec</id>
