@@ -6,6 +6,60 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210528/ddm/018/200/013000c",
+          "author": null,
+          "description": "興味はあるが取り組むには至らない。筆者にとってのそんな分野の一つが「韓国ドラマ」だ。ＢＳフジで３０日放送の「ＭＵＳＩＣ　ＬＩＳＴ―ＯＳＴって何？　２時間ＳＰ　冬ソナから愛の不時着まで」（午後１０時）で入門気分になった。",
+          "link": "https://mainichi.jp/articles/20210528/ddm/018/200/013000c",
+          "publishedOn": "2021-05-27T17:59:46.000Z",
+          "wordCount": 457,
+          "title": "ＢＳ未来館:韓国ドラマと音楽の貴重なガイド"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210528/ddm/018/200/012000c",
+          "author": null,
+          "description": "◆新番組・大富豪同心２（ＮＨＫＢＳプレミアム＝後８・０） 　江戸一番の豪商「三国屋」の孫・卯之吉（中村隼人）が、ひょんなことから奉行所の同心となって事件を解決する時代劇ドラマ続編の第１話。",
+          "link": "https://mainichi.jp/articles/20210528/ddm/018/200/012000c",
+          "publishedOn": "2021-05-27T17:02:00.000Z",
+          "wordCount": 454,
+          "title": "視聴室:新番組・大富豪同心２"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210527/dde/018/200/015000c",
+          "author": null,
+          "description": "「アメリカ近代劇の父」と称されるユージン・オニール（１８８８～１９５３年）の戯曲「夜への長い旅路」が６月７日～７月４日、東京・渋谷のＢｕｎｋａｍｕｒａシアターコクーンで上演される。ある家族の愛憎を描いたオニールの自伝的作品。主演の大竹しのぶは「亡霊に取りつかれたような家族の物語です。生きていくとは",
+          "link": "https://mainichi.jp/articles/20210527/dde/018/200/015000c",
+          "publishedOn": "2021-05-27T05:57:13.000Z",
+          "wordCount": 471,
+          "title": "Ｉｎｔｅｒｖｉｅｗ:大竹しのぶ　生きるのは大変なこと　舞台「夜への長い旅路」で主演"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210527/dde/018/200/011000c",
+          "author": null,
+          "description": "できるのか、できないのか――。劇場やスタッフ、キャスト、観客も、みんなハムレットのような心境だったに違いない。コロナで３度目の緊急事態宣言と、その延長を巡るドタバタだ。東京は１２日から「無観客開催」の枷（かせ）が外れ、客席数を減らして再開。興行的には厳しいだろうが、いまに響いてくる作品が続き、充実",
+          "link": "https://mainichi.jp/articles/20210527/dde/018/200/011000c",
+          "publishedOn": "2021-05-27T05:31:30.000Z",
+          "wordCount": 464,
+          "title": "日々是・感劇:それが問題だ"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210527/dde/018/200/009000c",
+          "author": null,
+          "description": "寛容や協調性を欠いた社会はどこに行き着くのか。グローバル化の一方、コロナ禍で強まる排他的な空気への問いかけとも響く。気鋭の英劇作家マイク・バートレットの、一筋縄ではいかない戯曲が刺激的だ。小田島則子訳、伊藤大演出。",
+          "link": "https://mainichi.jp/articles/20210527/dde/018/200/009000c",
+          "publishedOn": "2021-05-27T05:28:27.000Z",
+          "wordCount": 466,
+          "title": "演劇　青年座「アルビオン－白亜の地イングランド」　協調欠く社会の行く先＝評・濱田元子"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210527/dde/018/200/014000c",
+          "author": null,
+          "description": "コクーン歌舞伎「夏祭浪花鑑（なつまつり　なにわ　かがみ）」 　夏の暑さの中で、もつれ合う人間関係から起きる殺人と悲劇が主題の古典。コクーン歌舞伎では１３年ぶりの上演。串田和美演出・美術。骨子を生かしながら全体を刈り込み、発端から義兄弟の契りを結んだ団七九郎兵衛と一寸徳兵衛が捕り手に囲まれての最後まで",
+          "link": "https://mainichi.jp/articles/20210527/dde/018/200/014000c",
+          "publishedOn": "2021-05-27T03:36:50.000Z",
+          "wordCount": 453,
+          "title": "歌舞伎　コクーン歌舞伎「夏祭浪花鑑」　テンポのいい展開＝評・小玉祥子"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210527/ddm/012/200/096000c",
           "author": null,
           "description": "女優の深田恭子さん（３８）が適応障害のため活動休止することが２６日、発表された。所属事務所によると、昨年春ごろから体調を崩しがちとなり、今月に医師から適応障害と診断された。当面は治療を優先する。７月から主演する予定だったフジテレビの連続ドラマは降板するという。所属事務所は「関係者の皆様には大変なご",
@@ -1135,6 +1189,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60af931811ffb70827ef85d3",
+          "author": null,
+          "description": "When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating",
+          "link": "https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/",
+          "publishedOn": "2021-05-27T17:55:23.000Z",
+          "wordCount": 1828,
+          "title": "How to Improve Machine Learning Model Performance by Combining Categorical Features"
+        },
+        {
+          "id": "60a325c6906c5207e3a7da25",
+          "author": null,
+          "description": "In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/",
+          "publishedOn": "2021-05-27T15:16:34.000Z",
+          "wordCount": 1399,
+          "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
+        },
         {
           "id": "60a44b9f906c5207e3a7e098",
           "author": null,
