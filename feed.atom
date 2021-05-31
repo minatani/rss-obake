@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T02:25:39.215Z</updated>
+    <updated>2021-05-31T02:36:29.953Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:アクター＆リアクター]]></title>
+        <id>https://mainichi.jp/articles/20210531/ddm/018/200/029000c</id>
+        <link href="https://mainichi.jp/articles/20210531/ddm/018/200/029000c"/>
+        <updated>2021-05-30T17:02:30.000Z</updated>
+        <summary type="html"><![CDATA[◆アクター＆リアクター（ＴＢＳ＝後８・０） 　ロケ中にドッキリを仕掛け、メンバーに交じって驚いているリアクションを演じているアクター（俳優）が誰かを当てるバラエティー番組。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“耳寄り”な話・ＴＢＳラジオ:生配信アプリとタッグ]]></title>
+        <id>https://mainichi.jp/articles/20210531/ddm/018/200/027000c</id>
+        <link href="https://mainichi.jp/articles/20210531/ddm/018/200/027000c"/>
+        <updated>2021-05-30T17:00:58.000Z</updated>
+        <summary type="html"><![CDATA[木曜夜９時３０分になるとあふれ出す「＃かじさじ」。“Ｓｐооｎ”では読み切れないほどのコメントが流れます。とにかくリスナー熱の高い番組がスタートしました。ゲストも超豪華！　あー木曜日が待ち遠しい！]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ともに・共生社会めざして:ＳＤＧｓ、まずは知ることから　お笑いコンビ「ＥＸＩＴ」　りんたろー。さん、兼近大樹さん]]></title>
         <id>https://mainichi.jp/articles/20210530/ddm/010/040/021000c</id>
