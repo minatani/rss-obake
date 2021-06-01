@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T02:36:29.953Z</updated>
+    <updated>2021-06-01T03:05:05.945Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:山本里菜アナウンサー／１　一体感のある番組作り]]></title>
+        <id>https://mainichi.jp/articles/20210601/ddm/018/200/009000c</id>
+        <link href="https://mainichi.jp/articles/20210601/ddm/018/200/009000c"/>
+        <updated>2021-05-31T17:00:33.000Z</updated>
+        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ジョブチューン」（５日午後７時）進行＞ 　この４月から「ジョブチューン」の進行を担当しています。ＴＢＳに入社する前からファンで毎回見ていましたし、前任者の田中みな実アナウンサーはいろいろお世話になった大好きな先輩。その番組の一員になれると聞いた時は、すごくうれしかったです。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:いいいじゅー‼]]></title>
+        <id>https://mainichi.jp/articles/20210601/ddm/018/200/010000c</id>
+        <link href="https://mainichi.jp/articles/20210601/ddm/018/200/010000c"/>
+        <updated>2021-05-31T17:00:17.000Z</updated>
+        <summary type="html"><![CDATA[◆いいいじゅー‼（ＮＨＫＢＳプレミアム＝後７・３０） 　移住を通して新たなライフスタイルを模索する人々を追ったドキュメンタリー。今回は東京から電車で１時間ほどの埼玉県小川町を取り上げる。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:歌舞伎「人情噺文七元結」　扇雀・松緑夫婦、心温まる作品]]></title>
+        <id>https://mainichi.jp/articles/20210531/dde/018/200/002000c</id>
+        <link href="https://mainichi.jp/articles/20210531/dde/018/200/002000c"/>
+        <updated>2021-05-31T04:57:29.000Z</updated>
+        <summary type="html"><![CDATA[初代三遊亭円朝口演による落語を原作にした歌舞伎「人情噺文七元結（にんじょうばなしぶんしちもっとい）」（竹柴金作脚色、尾上菊五郎監修）が、中村扇雀と尾上松緑の顔合わせにより、６月２～２３日に東京・国立劇場大劇場の「歌舞伎鑑賞教室」で上演される。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:ブルハン・クルバニ監督　破壊から再生の道へ　映画「ベルリン・アレクサンダープラッツ」]]></title>
+        <id>https://mainichi.jp/articles/20210531/dde/018/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210531/dde/018/200/007000c"/>
+        <updated>2021-05-31T04:54:49.000Z</updated>
+        <summary type="html"><![CDATA[デーブリーンの小説「ベルリン・アレクサンダー広場」は、第一次世界大戦後の大都市における人間模様を描いた大著として、ドイツ文学史に名を刻む。特に、ファスビンダー監督が手がけた同名の長編テレビ映画（１９８０年公開）により高い知名度を得た。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[演劇　ＮＯＤＡ・ＭＡＰ「フェイクスピア」　生死のあわいで「本物」問う＝評・濱田元子]]></title>
+        <id>https://mainichi.jp/articles/20210531/dde/018/200/005000c</id>
+        <link href="https://mainichi.jp/articles/20210531/dde/018/200/005000c"/>
+        <updated>2021-05-31T03:43:30.000Z</updated>
+        <summary type="html"><![CDATA[野田秀樹がコロナ禍に揺れる社会に放つ１年半ぶりの新作だ。タイトルにある「フェイク」、すなわち偽物がはびこる社会に焦点を当て、本物とは何か、生と死のあわいで問いかける。想像を突き抜ける世界に、言葉を操る作家の覚悟も浮かぶ。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:アクター＆リアクター]]></title>
         <id>https://mainichi.jp/articles/20210531/ddm/018/200/029000c</id>
