@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T03:03:56.735Z</updated>
+    <updated>2021-06-03T02:39:17.529Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
+        <id>60afce3011ffb70827ef869c</id>
+        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
+        <updated>2021-06-02T23:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
+        <id>60b3a25211ffb70827ef9b39</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
+        <updated>2021-06-02T22:54:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Your Own Learning Plan for Any Tech Stack]]></title>
+        <id>60b3ccee11ffb70827ef9bc0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/"/>
+        <updated>2021-06-02T21:18:15.000Z</updated>
+        <summary type="html"><![CDATA[One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More]]></title>
+        <id>60a699b0906c5207e3a7f5ab</id>
+        <link href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"/>
+        <updated>2021-06-02T20:44:22.000Z</updated>
+        <summary type="html"><![CDATA[Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetch API – How to Make a GET Request and POST Request in JavaScript]]></title>
+        <id>60b0f11411ffb70827ef8dbc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/"/>
+        <updated>2021-06-02T19:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project]]></title>
+        <id>60b4ff4711ffb70827ef9eb2</id>
+        <link href="https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/"/>
+        <updated>2021-06-02T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:山本里菜アナウンサー／３　次回は自衛隊のヒミツ]]></title>
+        <id>https://mainichi.jp/articles/20210603/ddm/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210603/ddm/018/200/013000c"/>
+        <updated>2021-06-02T17:53:11.000Z</updated>
+        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ジョブチューン」（５日午後７時）進行＞ 　ＭＣ（司会）がネプチューンさんで、パネラーはバナナマンさんと土田晃之さん。皆さん番組を積極的に盛り上げてくださって、食リポも本当にお上手。進行の私はいつも助けられています。ギャグのむちゃぶりもありますが、嫌いではない私も思い切って返]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ギャラクシー賞　大賞にフジドラマ]]></title>
+        <id>https://mainichi.jp/articles/20210603/ddm/012/200/052000c</id>
+        <link href="https://mainichi.jp/articles/20210603/ddm/012/200/052000c"/>
+        <updated>2021-06-02T17:05:12.000Z</updated>
+        <summary type="html"><![CDATA[優れた放送番組などに贈られる第５８回ギャラクシー賞の贈賞式（放送批評懇談会主催）が２日、東京都内で行われた。テレビ部門の大賞には、フジテレビのドラマ「世界は３で出来ている」が選ばれた。他の部門の大賞は次の通り。ラジオ＝文化放送「戦後７５年スペシャル『封印された真実～軍属ラジオ』」▽報道活動＝ＴＢＳ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
+        <id>60b51f6e11ffb70827ef9f7c</id>
+        <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
+        <updated>2021-06-02T14:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォーカス:羽田美智子　ドラマ「＃コールドゲーム」木村祥子役　念願の詐欺師、極限状態で]]></title>
+        <id>https://mainichi.jp/articles/20210602/dde/018/200/014000c</id>
+        <link href="https://mainichi.jp/articles/20210602/dde/018/200/014000c"/>
+        <updated>2021-06-02T05:42:21.000Z</updated>
+        <summary type="html"><![CDATA[ドラマ「＃コールドゲーム」木村祥子役（フジテレビ系＝土曜午後１１時４０分、初回５日は深夜０時１０分） 　隕石（いんせき）が落ちてマイナス４５度の氷河期に入った地球が舞台。演じるのは前科２犯の天才詐欺師で、生き別れた息子に再会するため、極限状態を生き延びようとする女性だ。「欲しい物は全て手に入れるとい]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[放送作家たむらようこの窓辺から:「若年層向け」に見切り発車]]></title>
+        <id>https://mainichi.jp/articles/20210602/dde/018/070/013000c</id>
+        <link href="https://mainichi.jp/articles/20210602/dde/018/070/013000c"/>
+        <updated>2021-06-02T03:11:46.000Z</updated>
+        <summary type="html"><![CDATA[テレビは社会の窓である。今回は番組の評価指標のお話――。 　私ごとで恐縮ですが、小さな手術を受けるため２週間ほど入院していました。同じ病室には、７０代後半から９０歳くらいの３人の女性。お一方は１０分に１度「看護婦さーん」と、大きな声で看護師さんを呼びます。最初、私は彼女が、ナースコールをご存じない]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荻原魚雷のラジオ交差点:演技派アルピーの巧みな話術]]></title>
+        <id>https://mainichi.jp/articles/20210602/dde/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210602/dde/018/200/012000c"/>
+        <updated>2021-06-02T03:11:44.000Z</updated>
+        <summary type="html"><![CDATA[部屋の掃除をしていたらＴＢＳラジオの「オトビヨリ」という広報誌の４月号が出てきた。同誌には「ヤングリスナーの一問一答」というコーナーがあり、「普段聴いているＴＢＳラジオの番組は？」の問いに対し、３人の学生のうちの２人が「アルコ＆ピース　Ｄ．Ｃ．ＧＡＲＡＧＥ（ＤＣＧ）」と答えていた。そんなヤングなリ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
         <id>60b5025111ffb70827ef9ebe</id>
@@ -2326,16 +2446,6 @@ The post 3D print a Recorder, an Ocarina or a Kazoo &#8211; print a musical inst
         <link href="https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/"/>
         <updated>2021-05-04T15:33:12.000Z</updated>
         <summary type="html"><![CDATA[To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fetch Data in React from a GraphQL API]]></title>
-        <id>6090187c8eb3fb07cf09a060</id>
-        <link href="https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/"/>
-        <updated>2021-05-03T17:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included]]></summary>
         <author>
             <name/>
         </author>
