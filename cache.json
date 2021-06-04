@@ -6,6 +6,51 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210604/ddm/012/200/026000c",
+          "author": null,
+          "description": "フランスで７月６～１７日に開催される世界最高峰の映画祭、第７４回カンヌ国際映画祭で最高賞「パルムドール」などを競うコンペティション部門に、浜口竜介監督（４２）の新作「ドライブ・マイ・カー」が選出された。映画祭事務局が３日発表した。",
+          "link": "https://mainichi.jp/articles/20210604/ddm/012/200/026000c",
+          "publishedOn": "2021-06-03T17:06:11.000Z",
+          "wordCount": 451,
+          "title": "浜口監督新作カンヌのコンペ入り"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210604/ddm/018/200/006000c",
+          "author": null,
+          "description": "ＮＨＫＢＳ１の「ＣＯＯＬ　ＪＡＰＡＮ～発掘！かっこいいニッポン～」（日曜午後６時）は、外国人から見た日本のｃｏｏｌ（かっこいい）なものを聞く番組だ。だが６日の放送は司会の鴻上尚史が「今日は針のムシロ」と身をすくめる。",
+          "link": "https://mainichi.jp/articles/20210604/ddm/018/200/006000c",
+          "publishedOn": "2021-06-03T17:02:49.000Z",
+          "wordCount": 458,
+          "title": "ＢＳ未来館:クールではないＪａｐａｎ"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210604/ddm/018/200/012000c",
+          "author": null,
+          "description": "◆ウワサのお客さま（フジ＝後８・０） 　日本中のさまざまな店でうわさになっている客を潜入取材するバラエティー番組。今回は３人の女性を中心に取り上げる。ＭＣはサンドウィッチマンと川島明（麒麟）。",
+          "link": "https://mainichi.jp/articles/20210604/ddm/018/200/012000c",
+          "publishedOn": "2021-06-03T17:01:09.000Z",
+          "wordCount": 457,
+          "title": "視聴室:ウワサのお客さま"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210603/dde/018/200/011000c",
+          "author": null,
+          "description": "「北白川派」は、京都芸術大教員の映画監督や学生による劇場公開映画の製作プロジェクト。公開中の「のさりの島」が７作目となる。山本起也監督が、熊本・天草で全編をロケした。",
+          "link": "https://mainichi.jp/articles/20210603/dde/018/200/011000c",
+          "publishedOn": "2021-06-03T04:24:43.000Z",
+          "wordCount": 468,
+          "title": "Ｉｎｔｅｒｖｉｅｗ:映画「のさりの島」　山本起也監督　天草が協力、人生投影"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210603/dde/018/200/015000c",
+          "author": null,
+          "description": "歌舞伎俳優、松本幸四郎が構成・演出し、４６人の舞踊家とともに踊る日本舞踊協会主催公演「夢追う子」（鈴木英一脚本）が、４～６日、東京・国立劇場小劇場で催される。「日本舞踊の伝統をつなぎながら、未来へ光を放つ」ことを目標に、２０１７年に始められた「日本舞踊　未来座＝祭（ＳＡＩ）＝」の第４回公演。昨年の",
+          "link": "https://mainichi.jp/articles/20210603/dde/018/200/015000c",
+          "publishedOn": "2021-06-03T04:22:54.000Z",
+          "wordCount": 461,
+          "title": "Ｔｏｐｉｃｓ:松本幸四郎が演出「夢追う子」　４６人の舞踊家と踊る"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210603/ddm/018/200/013000c",
           "author": null,
           "description": "＜ＴＢＳ系バラエティー「ジョブチューン」（５日午後７時）進行＞ 　ＭＣ（司会）がネプチューンさんで、パネラーはバナナマンさんと土田晃之さん。皆さん番組を積極的に盛り上げてくださって、食リポも本当にお上手。進行の私はいつも助けられています。ギャグのむちゃぶりもありますが、嫌いではない私も思い切って返",
@@ -1523,6 +1568,60 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b11ff811ffb70827ef8f94",
+          "author": null,
+          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
+          "publishedOn": "2021-06-03T21:44:03.000Z",
+          "wordCount": 3978,
+          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
+        },
+        {
+          "id": "60afd68611ffb70827ef86d8",
+          "author": null,
+          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called \"Schofield's Laws of Computing\". Jack didn't create these",
+          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
+          "publishedOn": "2021-06-03T18:46:12.000Z",
+          "wordCount": 1588,
+          "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
+        },
+        {
+          "id": "60b7c02cacb62507dd1d7b80",
+          "author": null,
+          "description": "Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to",
+          "link": "https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/",
+          "publishedOn": "2021-06-03T18:42:20.000Z",
+          "wordCount": 1748,
+          "title": "Lists in Python – A Comprehensive Guide"
+        },
+        {
+          "id": "60affbe411ffb70827ef8951",
+          "author": null,
+          "description": "A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a",
+          "link": "https://www.freecodecamp.org/news/build-a-hackintosh/",
+          "publishedOn": "2021-06-03T18:07:17.000Z",
+          "wordCount": 2708,
+          "title": "How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore"
+        },
+        {
+          "id": "60aa708711ffb70827ef5f4b",
+          "author": null,
+          "description": "If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service",
+          "link": "https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/",
+          "publishedOn": "2021-06-03T16:51:37.000Z",
+          "wordCount": 1453,
+          "title": "Serverless vs Fully Managed Services: What&#x27;s the Difference?"
+        },
+        {
+          "id": "5fff3d3098be260817e495bd",
+          "author": null,
+          "description": "Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be",
+          "link": "https://www.freecodecamp.org/news/what-is-a-block-cipher/",
+          "publishedOn": "2021-06-03T16:21:19.000Z",
+          "wordCount": 2747,
+          "title": "Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?"
+        },
+        {
           "id": "60afce3011ffb70827ef869c",
           "author": null,
           "description": "Git has a feature to \"sign\" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using",
@@ -2196,24 +2295,6 @@
           "publishedOn": "2021-05-05T21:11:40.000Z",
           "wordCount": 352,
           "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
-        },
-        {
-          "id": "609011fd8eb3fb07cf09a034",
-          "author": "",
-          "description": "A complete guide to Node.js async await",
-          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
-          "publishedOn": "2021-05-04T16:07:17.000Z",
-          "wordCount": 2241,
-          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
-        },
-        {
-          "id": "608f5ad48eb3fb07cf099ddb",
-          "author": "",
-          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
-          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
-          "publishedOn": "2021-05-04T15:33:12.000Z",
-          "wordCount": 1018,
-          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
         }
       ]
     }

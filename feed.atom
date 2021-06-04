@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T02:39:17.529Z</updated>
+    <updated>2021-06-04T02:01:59.918Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
+        <id>60b11ff811ffb70827ef8f94</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
+        <updated>2021-06-03T21:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
+        <id>60afd68611ffb70827ef86d8</id>
+        <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
+        <updated>2021-06-03T18:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called "Schofield's Laws of Computing". Jack didn't create these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
+        <id>60b7c02cacb62507dd1d7b80</id>
+        <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
+        <updated>2021-06-03T18:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
+        <id>60affbe411ffb70827ef8951</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
+        <updated>2021-06-03T18:07:17.000Z</updated>
+        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浜口監督新作カンヌのコンペ入り]]></title>
+        <id>https://mainichi.jp/articles/20210604/ddm/012/200/026000c</id>
+        <link href="https://mainichi.jp/articles/20210604/ddm/012/200/026000c"/>
+        <updated>2021-06-03T17:06:11.000Z</updated>
+        <summary type="html"><![CDATA[フランスで７月６～１７日に開催される世界最高峰の映画祭、第７４回カンヌ国際映画祭で最高賞「パルムドール」などを競うコンペティション部門に、浜口竜介監督（４２）の新作「ドライブ・マイ・カー」が選出された。映画祭事務局が３日発表した。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ＢＳ未来館:クールではないＪａｐａｎ]]></title>
+        <id>https://mainichi.jp/articles/20210604/ddm/018/200/006000c</id>
+        <link href="https://mainichi.jp/articles/20210604/ddm/018/200/006000c"/>
+        <updated>2021-06-03T17:02:49.000Z</updated>
+        <summary type="html"><![CDATA[ＮＨＫＢＳ１の「ＣＯＯＬ　ＪＡＰＡＮ～発掘！かっこいいニッポン～」（日曜午後６時）は、外国人から見た日本のｃｏｏｌ（かっこいい）なものを聞く番組だ。だが６日の放送は司会の鴻上尚史が「今日は針のムシロ」と身をすくめる。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:ウワサのお客さま]]></title>
+        <id>https://mainichi.jp/articles/20210604/ddm/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210604/ddm/018/200/012000c"/>
+        <updated>2021-06-03T17:01:09.000Z</updated>
+        <summary type="html"><![CDATA[◆ウワサのお客さま（フジ＝後８・０） 　日本中のさまざまな店でうわさになっている客を潜入取材するバラエティー番組。今回は３人の女性を中心に取り上げる。ＭＣはサンドウィッチマンと川島明（麒麟）。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
+        <id>60aa708711ffb70827ef5f4b</id>
+        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
+        <updated>2021-06-03T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?]]></title>
+        <id>5fff3d3098be260817e495bd</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-block-cipher/"/>
+        <updated>2021-06-03T16:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:映画「のさりの島」　山本起也監督　天草が協力、人生投影]]></title>
+        <id>https://mainichi.jp/articles/20210603/dde/018/200/011000c</id>
+        <link href="https://mainichi.jp/articles/20210603/dde/018/200/011000c"/>
+        <updated>2021-06-03T04:24:43.000Z</updated>
+        <summary type="html"><![CDATA[「北白川派」は、京都芸術大教員の映画監督や学生による劇場公開映画の製作プロジェクト。公開中の「のさりの島」が７作目となる。山本起也監督が、熊本・天草で全編をロケした。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:松本幸四郎が演出「夢追う子」　４６人の舞踊家と踊る]]></title>
+        <id>https://mainichi.jp/articles/20210603/dde/018/200/015000c</id>
+        <link href="https://mainichi.jp/articles/20210603/dde/018/200/015000c"/>
+        <updated>2021-06-03T04:22:54.000Z</updated>
+        <summary type="html"><![CDATA[歌舞伎俳優、松本幸四郎が構成・演出し、４６人の舞踊家とともに踊る日本舞踊協会主催公演「夢追う子」（鈴木英一脚本）が、４～６日、東京・国立劇場小劇場で催される。「日本舞踊の伝統をつなぎながら、未来へ光を放つ」ことを目標に、２０１７年に始められた「日本舞踊　未来座＝祭（ＳＡＩ）＝」の第４回公演。昨年の]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
         <id>60afce3011ffb70827ef869c</id>
@@ -2426,26 +2536,6 @@ The post 3D print a Recorder, an Ocarina or a Kazoo &#8211; print a musical inst
         <link href="https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/"/>
         <updated>2021-05-05T21:11:40.000Z</updated>
         <summary type="html"><![CDATA[OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Async Await Tutorial – With Asynchronous JavaScript Examples]]></title>
-        <id>609011fd8eb3fb07cf09a034</id>
-        <link href="https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/"/>
-        <updated>2021-05-04T16:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide to Node.js async await]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)]]></title>
-        <id>608f5ad48eb3fb07cf099ddb</id>
-        <link href="https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/"/>
-        <updated>2021-05-04T15:33:12.000Z</updated>
-        <summary type="html"><![CDATA[To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual]]></summary>
         <author>
             <name/>
         </author>
