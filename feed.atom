@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T01:02:21.585Z</updated>
+    <updated>2021-06-12T00:57:38.209Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business]]></title>
+        <id>60b72d5facb62507dd1d777b</id>
+        <link href="https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/"/>
+        <updated>2021-06-11T22:56:56.000Z</updated>
+        <summary type="html"><![CDATA[If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Center Anything in CSS Using Flexbox and Grid ✨]]></title>
+        <id>6063b9189618b008528a9d81</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-objects-using-css/"/>
+        <updated>2021-06-11T20:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Keyboard Accessibility for Complex React Experiences]]></title>
+        <id>5f9c97e9740569d1a4ca1768</id>
+        <link href="https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/"/>
+        <updated>2021-06-11T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
+        <id>60bc0444acb62507dd1d9a31</id>
+        <link href="https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/"/>
+        <updated>2021-06-11T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴率:5月31日～6月6日]]></title>
+        <id>https://mainichi.jp/articles/20210612/ddm/018/200/027000c</id>
+        <link href="https://mainichi.jp/articles/20210612/ddm/018/200/027000c"/>
+        <updated>2021-06-11T17:02:07.000Z</updated>
+        <summary type="html"><![CDATA[■教育・教養・実用 （1）新・情報7daysニュースキャスター　TBS　15．1　土 （2）サンデーモーニング　　　　　　　　　　　同　　14．0　日 （3）ファミリーヒストリー　　　　　　　　　NHK　13．4　月]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
+        <id>60c24cf8d3126007592d61d5</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-conditionals/"/>
+        <updated>2021-06-11T16:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・トピックス:ベル・エポックでもう一度]]></title>
+        <id>https://mainichi.jp/articles/20210611/dde/018/070/015000c</id>
+        <link href="https://mainichi.jp/articles/20210611/dde/018/070/015000c"/>
+        <updated>2021-06-11T04:10:56.000Z</updated>
+        <summary type="html"><![CDATA[イラストレーターとしての仕事を失い、妻（ファニー・アルダン）にも相手にされなくなってしまったヴィクトル（ダニエル・オートゥイユ）。そんな父を励まそうとした息子（ギョーム・カネ）からの贈り物は、戻りたい過去を映画のように再現する体験型のエンターテインメントサービスだった。1970年代に戻ったヴィクト]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・トピックス:ブラックバード　家族が家族であるうちに]]></title>
+        <id>https://mainichi.jp/articles/20210611/dde/018/070/018000c</id>
+        <link href="https://mainichi.jp/articles/20210611/dde/018/070/018000c"/>
+        <updated>2021-06-11T04:10:23.000Z</updated>
+        <summary type="html"><![CDATA[ある週末、医師のポール（サム・ニール）と妻リリー（スーザン・サランドン）が住む邸宅に、長女ジェニファー（ケイト・ウィンスレット）とその家族、次女アナ（ミア・ワシコウスカ）、リリーの親友リズら親しい人が集まる。リリーは病が進行して安楽死を決意、家族らと最後の時を過ごそうとしていた。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・特選掘り出し！:クローブヒッチ・キラー　揺らぐ日常、少年の不安]]></title>
+        <id>https://mainichi.jp/articles/20210611/dde/018/070/027000c</id>
+        <link href="https://mainichi.jp/articles/20210611/dde/018/070/027000c"/>
+        <updated>2021-06-11T04:09:56.000Z</updated>
+        <summary type="html"><![CDATA[連続殺人事件を題材にしているが、直接的な猟奇描写は一切ない。「自分の父親はシリアルキラーかもしれない」という疑念を抱いた16歳の少年の不安をあぶり出す一級の心理サスペンスだ。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・この１本:逃げた女　ふわっと魔術で謎かけ]]></title>
+        <id>https://mainichi.jp/articles/20210611/dde/018/070/031000c</id>
+        <link href="https://mainichi.jp/articles/20210611/dde/018/070/031000c"/>
+        <updated>2021-06-11T04:09:05.000Z</updated>
+        <summary type="html"><![CDATA[思わせぶりの韓国の巨匠、ホン・サンス。どの作品でも事件は起こらず、登場人物のおしゃべりばかり。会話の中身も登場人物も煮え切らず、唐突なカメラワークで戸惑わせる。全てが意味ありげで、見ている方が勝手に深読みするように仕向けている。頭をひねる観客を、ホン・サンスがニヤニヤしながら眺めている風情である。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・チャートの裏側:時代と格闘、有終の美]]></title>
+        <id>https://mainichi.jp/articles/20210611/dde/018/070/011000c</id>
+        <link href="https://mainichi.jp/articles/20210611/dde/018/070/011000c"/>
+        <updated>2021-06-11T03:46:23.000Z</updated>
+        <summary type="html"><![CDATA[「るろうに剣心」2部作が1、2位のそろい踏みだ。2位の前作は緊急事態宣言に伴い、公開3日目の4月25日から東京都、大阪府の上映館が休業になった。1位の新作は、2都府での休業要請緩和後の6月4日から公開された。2作品は緊急事態宣言に翻弄（ほんろう）されたと言える。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ＢＳ未来館:賃貸でも壁を変えられる]]></title>
         <id>https://mainichi.jp/articles/20210611/ddm/018/200/015000c</id>
@@ -2609,76 +2719,6 @@ The post Here’s The Winners Of Our Gardening Competition appeared first on Pru
         <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特集ワイド:笑いの原点、本音のラジオ　テレ東「ゴッドタン」名物プロデューサー、佐久間宣行さん]]></title>
-        <id>https://mainichi.jp/articles/20210513/dde/012/200/029000c</id>
-        <link href="https://mainichi.jp/articles/20210513/dde/012/200/029000c"/>
-        <updated>2021-05-13T03:52:54.000Z</updated>
-        <summary type="html"><![CDATA[テレビ業界は今、お笑い番組ブームだ。漫才、コント、トークなど各局の人気番組が高視聴率をたたき出す。「コロナの時代」の鬱屈を笑い飛ばしてくれるから？　ブームの理由を知りたくなり、「ゴッドタン」などテレビ東京の多数の人気番組を作ってきた名物プロデューサーを直撃して「ヒットの秘訣（ひけつ）」を聞いてみる]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宝塚歌劇　星組「ロミオとジュリエット」　喜びの美しいデュエット＝評・小玉祥子]]></title>
-        <id>https://mainichi.jp/articles/20210513/dde/018/200/010000c</id>
-        <link href="https://mainichi.jp/articles/20210513/dde/018/200/010000c"/>
-        <updated>2021-05-13T03:52:40.000Z</updated>
-        <summary type="html"><![CDATA[シェークスピア原作のミュージカル。宝塚では２０１０年に星組で初演し、各組で再演を重ねて今回が８年ぶり５度目の上演となる人気作品。ジェラール・プレスギュルヴィック作、小池修一郎潤色・演出、稲葉太地演出。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＧＨＱ検閲官たちの芸術への愛「わが花」　ワンダーワークス]]></title>
-        <id>https://mainichi.jp/articles/20210513/dde/018/200/007000c</id>
-        <link href="https://mainichi.jp/articles/20210513/dde/018/200/007000c"/>
-        <updated>2021-05-13T03:51:07.000Z</updated>
-        <summary type="html"><![CDATA[ｗｏｎｄｅｒ×ｗｏｒｋｓ（ワンダーワークス）の八鍬健之介が書き下ろし舞台「わが花」を１９～３０日、東京・新宿の雑遊で上演する。演出も八鍬。 　第二次大戦後、歌舞伎などの上演規制と解禁に関わった連合国軍総司令部（ＧＨＱ）の検閲官たちの芸術への愛を描く物語。実在のフォービアン・バワーズ少佐らがモデルだ。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify]]></title>
-        <id>5fde208ae6787e09839407c3</id>
-        <link href="https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/"/>
-        <updated>2021-05-12T20:53:20.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a single]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use the Kivy Python Library to Create Games and Mobile Apps]]></title>
-        <id>609c215862ab9107fe5a9fa9</id>
-        <link href="https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/"/>
-        <updated>2021-05-12T18:49:36.000Z</updated>
-        <summary type="html"><![CDATA[Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:丸山ゴンザレス　善悪より構造を理解したい]]></title>
-        <id>https://mainichi.jp/articles/20210513/ddm/018/200/026000c</id>
-        <link href="https://mainichi.jp/articles/20210513/ddm/018/200/026000c"/>
-        <updated>2021-05-12T17:02:39.000Z</updated>
-        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「クレイジージャーニー」　（１９日午後９時）ジャーナリスト＞ 　僕の取材対象はスラム街や麻薬、銃の密売など、いわゆる裏社会や危険地帯。表側には出てこない物事に対する単純な好奇心がベースです。善悪よりも、そこでどんな暮らしをしているか、モノの品質や流通システムはどうなっているか]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:日本人のおなまえ]]></title>
-        <id>https://mainichi.jp/articles/20210513/ddm/018/200/028000c</id>
-        <link href="https://mainichi.jp/articles/20210513/ddm/018/200/028000c"/>
-        <updated>2021-05-12T17:01:26.000Z</updated>
-        <summary type="html"><![CDATA[◆日本人のおなまえ（ＮＨＫ＝後７・５７） 　名前に秘められた意味を探るバラエティー番組。今回は過去２回の放送で好評だった「外国人のギモン解決」シリーズの第３弾。スーパーを舞台に、外国人が日常生活の中で感じる素朴な疑問に答えていく。司会は古舘伊知郎と赤木野々花アナウンサー。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
