@@ -1561,15 +1561,6 @@
           "publishedOn": "2021-05-17T17:00:50.000Z",
           "wordCount": 454,
           "title": "視聴室:名所から一番近い家"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210517/dde/012/040/014000c",
-          "author": null,
-          "description": "田中邦衛さんの訃報に接した７３歳になる男性読者が毎日新聞の「みんなの広場」に思い出を寄せていた。若いころ、難病に苦しむ二つ違いの弟に寄り添って生活しながら、楽しみに見ていたのがテレビドラマ「若者たち」だったという。両親を亡くし、貧しくともひたむきに生きる５人きょうだいの長男役が邦衛さんで、２人で口",
-          "link": "https://mainichi.jp/articles/20210517/dde/012/040/014000c",
-          "publishedOn": "2021-05-17T04:08:04.000Z",
-          "wordCount": 463,
-          "title": "特集ワイド:還暦記者・鈴木琢磨の、ああコロナブルー　ホームドラマどこへ　「若者たち」「北の国から」誕生秘話"
         }
       ]
     },
@@ -1631,6 +1622,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b7cb6aacb62507dd1d7c1a",
+          "author": null,
+          "description": "You can now open anything (that you have access to) on GitHub directly from VS Code.",
+          "link": "https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/",
+          "publishedOn": "2021-06-15T16:06:54.000Z",
+          "wordCount": 1714,
+          "title": "How to Open Any Repo in VS Code Without Cloning It"
+        },
+        {
+          "id": "60c6aec3d3126007592d7bd5",
+          "author": null,
+          "description": "What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database",
+          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/",
+          "publishedOn": "2021-06-15T15:48:09.000Z",
+          "wordCount": 888,
+          "title": "SQL Aggregate Functions – With Example Data Queries for Beginners"
+        },
+        {
+          "id": "60bbdd8dacb62507dd1d9a2d",
+          "author": null,
+          "description": "You've probably seen the term \"full stack developer\" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article",
+          "link": "https://www.freecodecamp.org/news/what-is-a-fullstack-developer/",
+          "publishedOn": "2021-06-15T15:35:39.000Z",
+          "wordCount": 2706,
+          "title": "What is Full Stack? How to Become a Full Stack Developer"
+        },
         {
           "id": "60873d1fdd38b9088c2c0842",
           "author": null,

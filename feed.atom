@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T15:21:55.031Z</updated>
+    <updated>2021-06-15T16:33:33.454Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Open Any Repo in VS Code Without Cloning It]]></title>
+        <id>60b7cb6aacb62507dd1d7c1a</id>
+        <link href="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/"/>
+        <updated>2021-06-15T16:06:54.000Z</updated>
+        <summary type="html"><![CDATA[You can now open anything (that you have access to) on GitHub directly from VS Code.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Aggregate Functions – With Example Data Queries for Beginners]]></title>
+        <id>60c6aec3d3126007592d7bd5</id>
+        <link href="https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/"/>
+        <updated>2021-06-15T15:48:09.000Z</updated>
+        <summary type="html"><![CDATA[What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Full Stack? How to Become a Full Stack Developer]]></title>
+        <id>60bbdd8dacb62507dd1d9a2d</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-fullstack-developer/"/>
+        <updated>2021-06-15T15:35:39.000Z</updated>
+        <summary type="html"><![CDATA[You've probably seen the term "full stack developer" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特集ワイド:還暦記者・鈴木琢磨の、ああコロナブルー　人生、七転び八起き　還暦ケンちゃん、万感のエール]]></title>
         <id>https://mainichi.jp/articles/20210615/dde/012/040/014000c</id>
@@ -2618,16 +2648,6 @@ The post Timekeepers Contest appeared first on Prusa Printers.]]></summary>
         <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特集ワイド:還暦記者・鈴木琢磨の、ああコロナブルー　ホームドラマどこへ　「若者たち」「北の国から」誕生秘話]]></title>
-        <id>https://mainichi.jp/articles/20210517/dde/012/040/014000c</id>
-        <link href="https://mainichi.jp/articles/20210517/dde/012/040/014000c"/>
-        <updated>2021-05-17T04:08:04.000Z</updated>
-        <summary type="html"><![CDATA[田中邦衛さんの訃報に接した７３歳になる男性読者が毎日新聞の「みんなの広場」に思い出を寄せていた。若いころ、難病に苦しむ二つ違いの弟に寄り添って生活しながら、楽しみに見ていたのがテレビドラマ「若者たち」だったという。両親を亡くし、貧しくともひたむきに生きる５人きょうだいの長男役が邦衛さんで、２人で口]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
