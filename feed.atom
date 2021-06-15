@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T20:18:32.531Z</updated>
+    <updated>2021-06-15T21:17:39.546Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest]]></title>
+        <id>60c8912c4dc1a607ed7b2fff</id>
+        <link href="https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/"/>
+        <updated>2021-06-15T21:10:54.000Z</updated>
+        <summary type="html"><![CDATA[As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder "Am I setting my price too high?" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Decorators – How to Create and Use Decorators in Python With Examples]]></title>
         <id>60c3dcb3d3126007592d6c6d</id>

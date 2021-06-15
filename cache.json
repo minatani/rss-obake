@@ -1641,6 +1641,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c8912c4dc1a607ed7b2fff",
+          "author": null,
+          "description": "As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder \"Am I setting my price too high?\" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding",
+          "link": "https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/",
+          "publishedOn": "2021-06-15T21:10:54.000Z",
+          "wordCount": 2031,
+          "title": "What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest"
+        },
+        {
           "id": "60c3dcb3d3126007592d6c6d",
           "author": null,
           "description": "Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following",
