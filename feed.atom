@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T21:17:39.546Z</updated>
+    <updated>2021-06-15T22:18:47.474Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineering Course for Beginners]]></title>
+        <id>60c91b2b4dc1a607ed7b389a</id>
+        <link href="https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"/>
+        <updated>2021-06-15T21:33:17.000Z</updated>
+        <summary type="html"><![CDATA[DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does &#x27;this&#x27; Mean in JavaScript? The this Keyword Explained with Examples]]></title>
+        <id>60c72a0ad3126007592d7e2a</id>
+        <link href="https://www.freecodecamp.org/news/what-is-this-in-javascript/"/>
+        <updated>2021-06-15T21:19:12.000Z</updated>
+        <summary type="html"><![CDATA[To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word "run". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest]]></title>
         <id>60c8912c4dc1a607ed7b2fff</id>
