@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T16:33:33.454Z</updated>
+    <updated>2021-06-15T17:36:13.961Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:♯ワンチャン賭けとくぅ？]]></title>
+        <id>https://mainichi.jp/articles/20210616/ddm/018/200/016000c</id>
+        <link href="https://mainichi.jp/articles/20210616/ddm/018/200/016000c"/>
+        <updated>2021-06-15T17:02:26.000Z</updated>
+        <summary type="html"><![CDATA[◆♯ワンチャン賭けとくぅ？（朝日＝後6・45） 　誰も調べたことがないことをレースにして予想するバラエティー番組。4月の放送が好評だったため、ゴールデンに再登場した。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:明石家さんま　マツコ・デラックス／2　何が起こるか分からない]]></title>
+        <id>https://mainichi.jp/articles/20210616/ddm/018/200/017000c</id>
+        <link href="https://mainichi.jp/articles/20210616/ddm/018/200/017000c"/>
+        <updated>2021-06-15T17:02:17.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系バラエティー「週刊さんまとマツコ」（日曜午後6時30分）プロデューサー、篠塚純＞ 　毎週、企画もテーマもさまざまです。明石家さんまさんとマツコ・デラックスさんが出演するという以外は、何が起こるか分からない。毎回の中身はこちらの提案を元に、お二人にもご意見を聞きながら詰めています。さんまさ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Open Any Repo in VS Code Without Cloning It]]></title>
         <id>60b7cb6aacb62507dd1d7c1a</id>
