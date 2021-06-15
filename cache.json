@@ -6,6 +6,33 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210615/ddm/018/200/028000c",
+          "author": null,
+          "description": "＜TBS系バラエティー「週刊さんまとマツコ」（日曜午後6時30分）プロデューサー、篠塚純＞ 　この春、「週刊さんまとマツコ」がスタートしました。明石家さんまさんとマツコ・デラックスさんの冠番組なんて、企画しても簡単に実現できるものではありません。それが幸運にもご縁に恵まれ、私たち制作側としては非常",
+          "link": "https://mainichi.jp/articles/20210615/ddm/018/200/028000c",
+          "publishedOn": "2021-06-14T17:14:40.000Z",
+          "wordCount": 455,
+          "title": "赤坂電視台:マツコ・デラックス／1　週刊さんまとマツコ"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210615/ddm/018/200/033000c",
+          "author": null,
+          "description": "◆新番組・REAL⇔FAKE　2nd　Stage（TBS＝深夜1時28分） 　男性ユニットの、カメラの前での真実とうそをミステリータッチで描く連続ドラマ続編の第1話。男性ユニット「Stellar　CROWNS（ステラクラウンズ）」は、新社長に就任した朱音（蒼井翔太）の下で活動を再開する。その直後、",
+          "link": "https://mainichi.jp/articles/20210615/ddm/018/200/033000c",
+          "publishedOn": "2021-06-14T17:07:36.000Z",
+          "wordCount": 458,
+          "title": "視聴室:新番組・REAL⇔FAKE　2nd　Stage"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210614/dde/018/200/010000c",
+          "author": null,
+          "description": "一番の話題は2部の仁左衛門の清玄・権助、玉三郎の桜姫による「桜姫東文章　下の巻」（四世鶴屋南北作、郡司正勝補綴（ほてつ））。4月の「上の巻」に続いての上演。仁左衛門は桜姫に妄執したあげくに命を落とす清玄で哀れさとこっけいさを示し、権助では欲にまみれた姿を描いた。玉三郎は公家風のとりなしと下世話さが",
+          "link": "https://mainichi.jp/articles/20210614/dde/018/200/010000c",
+          "publishedOn": "2021-06-14T04:36:57.000Z",
+          "wordCount": 450,
+          "title": "歌舞伎　六月大歌舞伎　欲にまみれる権助＝評・小玉祥子"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210613/ddm/018/200/027000c",
           "author": null,
           "description": "◆おもひで銭湯探訪（BS－TBS＝後5・0） 　地域に愛され続けている銭湯を訪ね歩く番組。東京都内4カ所を15分ずつ紹介し、女優の清水みさとと歌舞伎俳優の中村鶴松が湯船からリポートする。",
@@ -1516,33 +1543,6 @@
           "publishedOn": "2021-05-16T17:01:12.000Z",
           "wordCount": 451,
           "title": "“耳寄り”な話・ＴＢＳラジオ:野球の面白さ満載"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210516/ddm/014/070/029000c",
-          "author": null,
-          "description": "緊急事態宣言が５月末まで延長になり、まだまだ油断できない状況が続いていますが、宝塚大劇場では１５日からの月組公演「桜嵐記」「Ｄｒｅａｍ　Ｃｈａｓｅｒ」から公演が再開されました。兵庫県が５０００人以下の劇場などで開催を認めたためで、千秋楽まで何事もないことを祈るばかりです。",
-          "link": "https://mainichi.jp/articles/20210516/ddm/014/070/029000c",
-          "publishedOn": "2021-05-15T17:16:10.000Z",
-          "wordCount": 473,
-          "title": "銀橋のきらめき:タカラヅカ余話　華、瀬戸　静かなる門出　史上初、無観客サヨナラショー"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210516/ddm/018/200/025000c",
-          "author": null,
-          "description": "（新番組） 　２０１４年春、宮城県気仙沼市の離島・亀島で育った永浦百音（清原果耶）は、高校卒業を機に、内陸にある登米市の大山主・新田サヤカ（夏木マリ）の家に下宿して、森林組合の見習職員として働き始める。そんな時、東京から人気気象キャスターの朝岡（西島秀俊）がやってきた。石ノ森章太郎のファンで、原画",
-          "link": "https://mainichi.jp/articles/20210516/ddm/018/200/025000c",
-          "publishedOn": "2021-05-15T17:01:15.000Z",
-          "wordCount": 460,
-          "title": "今週のＮＨＫ連続テレビ小説:おかえりモネ"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210516/ddm/018/200/024000c",
-          "author": null,
-          "description": "◆超水上サバイバル　オチルナ！（フジ＝後８・０） 　水上に設置されたさまざまな仕掛けが待ち受ける「要塞（ようさい）」を攻略し、賞金獲得を目指すバラエティー。ルールはシンプルで、プレーヤーが水に落ちたら失格というもの。オードリーの若林正恭が司令官を、春日俊彰がプレーヤーリーダーを務める。",
-          "link": "https://mainichi.jp/articles/20210516/ddm/018/200/024000c",
-          "publishedOn": "2021-05-15T17:00:52.000Z",
-          "wordCount": 464,
-          "title": "視聴室:超水上サバイバル　オチルナ！"
         }
       ]
     },
@@ -1613,6 +1613,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60873d1fdd38b9088c2c0842",
+          "author": null,
+          "description": "System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will",
+          "link": "https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/",
+          "publishedOn": "2021-06-14T22:46:31.000Z",
+          "wordCount": 2704,
+          "title": "System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design"
+        },
+        {
+          "id": "60bce373acb62507dd1d9f19",
+          "author": null,
+          "description": "We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/",
+          "publishedOn": "2021-06-14T22:39:00.000Z",
+          "wordCount": 2563,
+          "title": "How to Build a Custom Pagination Component in React"
+        },
+        {
+          "id": "60c3b862d3126007592d689b",
+          "author": null,
+          "description": "Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation",
+          "link": "https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/",
+          "publishedOn": "2021-06-14T20:15:00.000Z",
+          "wordCount": 1297,
+          "title": "HTML Roving tabindex Attribute Explained with Examples"
+        },
+        {
+          "id": "60c794e64dc1a607ed7b25ba",
+          "author": null,
+          "description": "A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a",
+          "link": "https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/",
+          "publishedOn": "2021-06-14T19:19:42.000Z",
+          "wordCount": 2588,
+          "title": "How to Backup Squarespace-Managed Styles using AWS Cloud"
+        },
+        {
+          "id": "60c4b35ed3126007592d71bc",
+          "author": null,
+          "description": "Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language",
+          "link": "https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/",
+          "publishedOn": "2021-06-14T18:37:44.000Z",
+          "wordCount": 1599,
+          "title": "10 Best African Language Datasets for Data Science Projects"
+        },
         {
           "id": "60b72d5facb62507dd1d777b",
           "author": null,
