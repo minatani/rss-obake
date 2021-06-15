@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T10:21:02.697Z</updated>
+    <updated>2021-06-15T11:15:51.122Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2638,17 +2638,6 @@ The post Timekeepers Contest appeared first on Prusa Printers.]]></summary>
         <summary type="html"><![CDATA[言い知れない喪失感や痛みが社会を覆う。それでもまだ人間は捨てたものではないと、心に明かりをともす舞台だ。今敏監督による長編アニメーション映画の舞台化（土屋理敬上演台本）。演出の藤田俊太郎が奇跡の物語にアクチュアリティーを注ぐ。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s The Winners Of Our Gardening Competition]]></title>
-        <id>https://blog.prusaprinters.org/?p=49963</id>
-        <link href="https://blog.prusaprinters.org/heres-the-winners-of-our-gardening-competition_49963/"/>
-        <updated>2021-05-16T22:58:18.000Z</updated>
-        <summary type="html"><![CDATA[We are now fully in the beginning of the gardening season and thanks to all of you, it should be a good one. In our…
-The post Here’s The Winners Of Our Gardening Competition appeared first on Prusa Printers.]]></summary>
-        <author>
-            <name>MattStultz</name>
         </author>
     </entry>
 </feed>
