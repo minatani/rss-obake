@@ -2458,15 +2458,6 @@
           "publishedOn": "2021-05-17T20:45:00.000Z",
           "wordCount": 4218,
           "title": "The Complete Guide to Full Stack Ethereum Development"
-        },
-        {
-          "id": "60a16df162ab9107fe5ab01b",
-          "author": "",
-          "description": "When I started out as a web developer, people often threw around the term \"DOM\" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the",
-          "link": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/",
-          "publishedOn": "2021-05-17T17:45:50.000Z",
-          "wordCount": 1282,
-          "title": "The DOM Explained for Beginners – How the Document Object Model Works"
         }
       ]
     }
