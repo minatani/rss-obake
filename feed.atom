@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T14:17:32.991Z</updated>
+    <updated>2021-06-16T15:22:00.700Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 3D printer]]></title>
+        <id>https://blog.prusaprinters.org/?p=51436</id>
+        <link href="https://blog.prusaprinters.org/introducing-sl1s_fastest_desktop_sla_3d_printer_51436/"/>
+        <updated>2021-06-16T15:15:07.000Z</updated>
+        <summary type="html"><![CDATA[The Original Prusa SL1 was our first foray into the world of SLA printers. We wanted to build a solid, sturdy and robust 3D printer…
+The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 3D printer appeared first on Prusa Printers.]]></summary>
+        <author>
+            <name>josefprusa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[忘れられた画家、塩月桃甫　同郷の監督が映画化　終戦まで台湾美術界けん引]]></title>
         <id>https://mainichi.jp/articles/20210616/dde/007/040/024000c</id>
