@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T16:32:12.176Z</updated>
+    <updated>2021-06-16T17:34:27.398Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teach Yourself Data Analytics in 30 Days]]></title>
+        <id>60ca30af4dc1a607ed7b4197</id>
+        <link href="https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/"/>
+        <updated>2021-06-16T17:19:31.000Z</updated>
+        <summary type="html"><![CDATA[You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サイレントシアター　換気万全、無音の映画館]]></title>
+        <id>https://mainichi.jp/articles/20210617/ddm/012/040/093000c</id>
+        <link href="https://mainichi.jp/articles/20210617/ddm/012/040/093000c"/>
+        <updated>2021-06-16T17:01:58.000Z</updated>
+        <summary type="html"><![CDATA[無線通信機能付きヘッドホンを着けて鑑賞する映画館が東京都渋谷区に1日開業し、コロナ下で注目を集めている。運営会社「シアターギルド」が「サイレントシアター」として特許を取得した「シアターギルド代官山」。来場者が個別のヘッドホンを使用して同時に音声を聴くことで、隣の人の雑音を気にせず独特の没入感で映画]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:明石家さんま　マツコ・デラックス／3　二人の哲学を引き出す]]></title>
+        <id>https://mainichi.jp/articles/20210617/ddm/018/200/015000c</id>
+        <link href="https://mainichi.jp/articles/20210617/ddm/018/200/015000c"/>
+        <updated>2021-06-16T17:01:12.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系バラエティー「週刊さんまとマツコ」（日曜午後6時30分）プロデューサー、篠塚純＞ 　「お弁当作り対決」はお二人の素の部分を見せるというのが狙いでした。初めて作るメニューも冗談を飛ばしながらパパッと作る明石家さんまさんと、和食の定番を丁寧に料理するマツコ・デラックスさん。スーパーでの買い出]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:最高の最下位！]]></title>
+        <id>https://mainichi.jp/articles/20210617/ddm/018/200/018000c</id>
+        <link href="https://mainichi.jp/articles/20210617/ddm/018/200/018000c"/>
+        <updated>2021-06-16T17:01:08.000Z</updated>
+        <summary type="html"><![CDATA[◆最高の最下位！（日テレ＝後9・0） 　さまざまなランキングの上位を紹介する番組が多い中、「最下位にもいいところがあるはず」と発想を転換して、あえて「全国最下位」の良い部分を探る。読売テレビ（大阪）制作。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 3D printer]]></title>
         <id>https://blog.prusaprinters.org/?p=51436</id>

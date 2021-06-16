@@ -6,6 +6,33 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210617/ddm/012/040/093000c",
+          "author": null,
+          "description": "無線通信機能付きヘッドホンを着けて鑑賞する映画館が東京都渋谷区に1日開業し、コロナ下で注目を集めている。運営会社「シアターギルド」が「サイレントシアター」として特許を取得した「シアターギルド代官山」。来場者が個別のヘッドホンを使用して同時に音声を聴くことで、隣の人の雑音を気にせず独特の没入感で映画",
+          "link": "https://mainichi.jp/articles/20210617/ddm/012/040/093000c",
+          "publishedOn": "2021-06-16T17:01:58.000Z",
+          "wordCount": 451,
+          "title": "サイレントシアター　換気万全、無音の映画館"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210617/ddm/018/200/015000c",
+          "author": null,
+          "description": "＜TBS系バラエティー「週刊さんまとマツコ」（日曜午後6時30分）プロデューサー、篠塚純＞ 　「お弁当作り対決」はお二人の素の部分を見せるというのが狙いでした。初めて作るメニューも冗談を飛ばしながらパパッと作る明石家さんまさんと、和食の定番を丁寧に料理するマツコ・デラックスさん。スーパーでの買い出",
+          "link": "https://mainichi.jp/articles/20210617/ddm/018/200/015000c",
+          "publishedOn": "2021-06-16T17:01:12.000Z",
+          "wordCount": 465,
+          "title": "赤坂電視台:明石家さんま　マツコ・デラックス／3　二人の哲学を引き出す"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210617/ddm/018/200/018000c",
+          "author": null,
+          "description": "◆最高の最下位！（日テレ＝後9・0） 　さまざまなランキングの上位を紹介する番組が多い中、「最下位にもいいところがあるはず」と発想を転換して、あえて「全国最下位」の良い部分を探る。読売テレビ（大阪）制作。",
+          "link": "https://mainichi.jp/articles/20210617/ddm/018/200/018000c",
+          "publishedOn": "2021-06-16T17:01:08.000Z",
+          "wordCount": 460,
+          "title": "視聴室:最高の最下位！"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210616/dde/007/040/024000c",
           "author": null,
           "description": "100年前の1921年、日本統治時代の台湾に渡った宮崎県出身の画家、塩月桃甫（とうほ）（1886～1954年）の芸術家人生に迫ったドキュメンタリー映画「塩月桃甫」が公開されている。終戦まで台湾美術界をけん引したものの、戦後に宮崎に引き揚げた後は不遇で、日本では忘れ去られた。同じ宮崎出身のアーティス",
@@ -1645,6 +1672,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60ca30af4dc1a607ed7b4197",
+          "author": null,
+          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
+          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
+          "publishedOn": "2021-06-16T17:19:31.000Z",
+          "wordCount": 411,
+          "title": "Teach Yourself Data Analytics in 30 Days"
+        },
         {
           "id": "60c91b2b4dc1a607ed7b389a",
           "author": null,
