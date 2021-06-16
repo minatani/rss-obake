@@ -2440,24 +2440,6 @@
           "publishedOn": "2021-05-18T16:08:27.000Z",
           "wordCount": 4368,
           "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
-        },
-        {
-          "id": "60a2771762ab9107fe5ab383",
-          "author": "",
-          "description": "HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other",
-          "link": "https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/",
-          "publishedOn": "2021-05-17T21:11:58.000Z",
-          "wordCount": 1169,
-          "title": "HTML vs JSX – What&#x27;s the Difference?"
-        },
-        {
-          "id": "60a536e1906c5207e3a7e6b5",
-          "author": "",
-          "description": "In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving",
-          "link": "https://www.freecodecamp.org/news/full-stack-ethereum-development/",
-          "publishedOn": "2021-05-17T20:45:00.000Z",
-          "wordCount": 4218,
-          "title": "The Complete Guide to Full Stack Ethereum Development"
         }
       ]
     }
