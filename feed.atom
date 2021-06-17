@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T15:22:40.968Z</updated>
+    <updated>2021-06-17T16:32:44.417Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2657,16 +2657,6 @@ The post Timekeepers Contest appeared first on Prusa Printers.]]></summary>
         <link href="https://mainichi.jp/articles/20210520/ddm/018/200/017000c"/>
         <updated>2021-05-19T17:01:23.000Z</updated>
         <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ワールド極限ミステリー」（２６日午後８時）ＭＣ（司会）＞ 　２児の母になって一層、性格が大ざっぱになった気がします。日々、自分の思いだけではどうにもならないことばかり。最近は娘たちがけんかを始めても、どうやって終わるかなと見ています。だいぶ人間が辛抱強くなりました（笑い）。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォーカス:清原果耶　連続テレビ小説「おかえりモネ」永浦百音役　豊かな感性、素直に表現]]></title>
-        <id>https://mainichi.jp/articles/20210519/dde/018/200/012000c</id>
-        <link href="https://mainichi.jp/articles/20210519/dde/018/200/012000c"/>
-        <updated>2021-05-19T04:27:12.000Z</updated>
-        <summary type="html"><![CDATA[連続テレビ小説「おかえりモネ」永浦百音（ももね）役（ＮＨＫ＝月～土曜午前８時） 　１７日から始まった連続テレビ小説で、宮城県気仙沼市の島で生まれ育ったヒロイン（愛称モネ）を演じる。高校卒業と同時に内陸の登米（とめ）市で下宿し、林業の見習いをするが、東京から来た気象キャスター（西島秀俊）と出会い、未来]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
