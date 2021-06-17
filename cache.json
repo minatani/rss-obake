@@ -1673,6 +1673,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c88bbc4dc1a607ed7b2ffa",
+          "author": null,
+          "description": "Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,",
+          "link": "https://www.freecodecamp.org/news/what-are-bookmarklets/",
+          "publishedOn": "2021-06-17T00:53:04.000Z",
+          "wordCount": 1952,
+          "title": "What are Bookmarklets and How to Make Them"
+        },
+        {
           "id": "60c088e5d3126007592d56f1",
           "author": null,
           "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
