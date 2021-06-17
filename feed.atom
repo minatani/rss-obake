@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T08:21:00.676Z</updated>
+    <updated>2021-06-17T09:20:44.172Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2679,16 +2679,6 @@ The post Timekeepers Contest appeared first on Prusa Printers.]]></summary>
         <summary type="html"><![CDATA[この１カ月くらい、土曜日にＴＢＳラジオの「藤田ニコルのあしたはにちようび」を毎週聴いている。同番組は２０２０年１月４日に放送開始、愛称は「にこにち」。 　５月８日のオープニングトークの第一声は「私、ついに免許取りました」。藤田さんは自動車の教習所に通わず、一発試験で普通自動車免許を取得した（テレビ]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
-        <id>60a53182906c5207e3a7e588</id>
-        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
-        <updated>2021-05-18T21:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
 </feed>
