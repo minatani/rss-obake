@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T16:32:44.417Z</updated>
+    <updated>2021-06-17T17:34:32.394Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ＢＳ未来館:歴史に学ぶSDGs]]></title>
+        <id>https://mainichi.jp/articles/20210618/ddm/018/200/014000c</id>
+        <link href="https://mainichi.jp/articles/20210618/ddm/018/200/014000c"/>
+        <updated>2021-06-17T17:01:56.000Z</updated>
+        <summary type="html"><![CDATA[SDGs（持続可能な開発目標）について考える番組が増えてきた。BS―TBSの「Style2030　賢者が映す未来」（毎月第3日曜午前11時）もその一つ。20日は歴史学者の本郷和人氏が登場する。行き詰まった社会を変えるために歴史から何を学べるのか。聞き手はジャーナリストの龍崎孝氏とTBSの皆川玲奈ア]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VTR酷似フジテレビが謝罪]]></title>
+        <id>https://mainichi.jp/articles/20210618/ddm/012/200/054000c</id>
+        <link href="https://mainichi.jp/articles/20210618/ddm/012/200/054000c"/>
+        <updated>2021-06-17T17:01:41.000Z</updated>
+        <summary type="html"><![CDATA[フジテレビは17日、今年2月7日に放送したバラエティー番組「超絶！THE空中サバイバル」で使用したVTRの内容が、読売テレビの過去の番組と酷似していたとして、同局に謝罪したことを明らかにした。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:さんまのまんま初夏SP]]></title>
+        <id>https://mainichi.jp/articles/20210618/ddm/018/200/015000c</id>
+        <link href="https://mainichi.jp/articles/20210618/ddm/018/200/015000c"/>
+        <updated>2021-06-17T17:00:48.000Z</updated>
+        <summary type="html"><![CDATA[◆さんまのまんま初夏SP（フジ＝後8・0） 　明石家さんまとゲストのトーク番組のスペシャル。アニメ「鬼滅の刃」で知られる花澤香菜と「トロピカル～ジュ！プリキュア」で知られる日高里菜の声優2人は「あっぱれさんま大先生」などで共演して以来のさんまとの再会。7歳の花澤がブリッジをする映像にさんまも笑みを]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course]]></title>
         <id>60c2aa56d3126007592d6226</id>
