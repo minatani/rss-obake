@@ -6,6 +6,42 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210617/dde/018/200/014000c",
+          "author": null,
+          "description": "気の良い泥棒と、したたかなあんまの攻防を、おかしみを込めて描いた2人芝居「あんまと泥棒」（村上元三作・演出、石川耕士演出）に東京・歌舞伎座の「七月大歌舞伎」第1部で出演する。",
+          "link": "https://mainichi.jp/articles/20210617/dde/018/200/014000c",
+          "publishedOn": "2021-06-17T03:39:48.000Z",
+          "wordCount": 464,
+          "title": "Ｉｎｔｅｒｖｉｅｗ:市川中車　おもしろみを素直に　七月大歌舞伎の「あんまと泥棒」に出演"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210617/dde/018/200/012000c",
+          "author": null,
+          "description": "最初が「アウグストゥス―尊厳ある者―」（田渕大輔作・演出）。ローマの初代皇帝オクタヴィウス（柚香光）の青年期を描く。 　独裁者ユリウス・カエサル（夏美よう）が体制に危惧を抱くブルートゥス（永久輝せあ）らにより暗殺される。カエサルの遺言でオクタヴィウスが後継指名されたことに不満を持つアントニウス（瀬",
+          "link": "https://mainichi.jp/articles/20210617/dde/018/200/012000c",
+          "publishedOn": "2021-06-17T03:39:46.000Z",
+          "wordCount": 464,
+          "title": "劇評:ミュージカル　宝塚歌劇団花組公演　柚香、皇帝を繊細に＝評・小玉祥子"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210617/dde/018/200/011000c",
+          "author": null,
+          "description": "東京・銀座の一等地で、最新の音楽・文化体験を提供してきた銀座ソニーパーク（東京都中央区）で、ソニーの主力6事業を6組のミュージシャンとコラボレーションして紹介する「Sony　Park展」が26日から始まる。2024年完成予定の建て替え工事前最後の企画展。来場できない人向けに、スマートフォンやパソコ",
+          "link": "https://mainichi.jp/articles/20210617/dde/018/200/011000c",
+          "publishedOn": "2021-06-17T03:39:45.000Z",
+          "wordCount": 460,
+          "title": "デジタル配信・最前線:銀座ソニーパーク、音楽家とコラボ"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210617/dde/018/200/007000c",
+          "author": null,
+          "description": "求めるのは真実か、ストーリーか。1969～70年の英新聞業界における部数競争を軸に、メディアの倫理や、大衆の欲望といったアクチュアルな問題を投げかけるジェイムズ・グレアムの戯曲だ。エンターテインメントとして面白く見せつつ、核心をえぐる眞鍋卓嗣の演出に切れ味がある。小田島恒志訳。",
+          "link": "https://mainichi.jp/articles/20210617/dde/018/200/007000c",
+          "publishedOn": "2021-06-17T03:39:42.000Z",
+          "wordCount": 464,
+          "title": "劇評:演劇　俳優座「インク」　「メディアと大衆」問う＝評・濱田元子"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210617/ddm/012/040/093000c",
           "author": null,
           "description": "無線通信機能付きヘッドホンを着けて鑑賞する映画館が東京都渋谷区に1日開業し、コロナ下で注目を集めている。運営会社「シアターギルド」が「サイレントシアター」として特許を取得した「シアターギルド代官山」。来場者が個別のヘッドホンを使用して同時に音声を聴くことで、隣の人の雑音を気にせず独特の没入感で映画",
@@ -2481,24 +2517,6 @@
           "publishedOn": "2021-05-18T16:36:22.000Z",
           "wordCount": 1938,
           "title": "How to Convert a Keras SavedModel into a Browser-based Web App"
-        },
-        {
-          "id": "609fc4cc62ab9107fe5aac91",
-          "author": "",
-          "description": "Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry",
-          "link": "https://www.freecodecamp.org/news/redux-for-beginners/",
-          "publishedOn": "2021-05-18T16:18:18.000Z",
-          "wordCount": 2037,
-          "title": "Redux for Beginners – Learn Redux Basics with Code Examples"
-        },
-        {
-          "id": "60685767d5756f080ba93df4",
-          "author": "",
-          "description": "According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you",
-          "link": "https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/",
-          "publishedOn": "2021-05-18T16:08:27.000Z",
-          "wordCount": 4368,
-          "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
         }
       ]
     }

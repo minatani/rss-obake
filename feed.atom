@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T03:22:02.288Z</updated>
+    <updated>2021-06-17T04:24:03.156Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:市川中車　おもしろみを素直に　七月大歌舞伎の「あんまと泥棒」に出演]]></title>
+        <id>https://mainichi.jp/articles/20210617/dde/018/200/014000c</id>
+        <link href="https://mainichi.jp/articles/20210617/dde/018/200/014000c"/>
+        <updated>2021-06-17T03:39:48.000Z</updated>
+        <summary type="html"><![CDATA[気の良い泥棒と、したたかなあんまの攻防を、おかしみを込めて描いた2人芝居「あんまと泥棒」（村上元三作・演出、石川耕士演出）に東京・歌舞伎座の「七月大歌舞伎」第1部で出演する。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[劇評:ミュージカル　宝塚歌劇団花組公演　柚香、皇帝を繊細に＝評・小玉祥子]]></title>
+        <id>https://mainichi.jp/articles/20210617/dde/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210617/dde/018/200/012000c"/>
+        <updated>2021-06-17T03:39:46.000Z</updated>
+        <summary type="html"><![CDATA[最初が「アウグストゥス―尊厳ある者―」（田渕大輔作・演出）。ローマの初代皇帝オクタヴィウス（柚香光）の青年期を描く。 　独裁者ユリウス・カエサル（夏美よう）が体制に危惧を抱くブルートゥス（永久輝せあ）らにより暗殺される。カエサルの遺言でオクタヴィウスが後継指名されたことに不満を持つアントニウス（瀬]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタル配信・最前線:銀座ソニーパーク、音楽家とコラボ]]></title>
+        <id>https://mainichi.jp/articles/20210617/dde/018/200/011000c</id>
+        <link href="https://mainichi.jp/articles/20210617/dde/018/200/011000c"/>
+        <updated>2021-06-17T03:39:45.000Z</updated>
+        <summary type="html"><![CDATA[東京・銀座の一等地で、最新の音楽・文化体験を提供してきた銀座ソニーパーク（東京都中央区）で、ソニーの主力6事業を6組のミュージシャンとコラボレーションして紹介する「Sony　Park展」が26日から始まる。2024年完成予定の建て替え工事前最後の企画展。来場できない人向けに、スマートフォンやパソコ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[劇評:演劇　俳優座「インク」　「メディアと大衆」問う＝評・濱田元子]]></title>
+        <id>https://mainichi.jp/articles/20210617/dde/018/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210617/dde/018/200/007000c"/>
+        <updated>2021-06-17T03:39:42.000Z</updated>
+        <summary type="html"><![CDATA[求めるのは真実か、ストーリーか。1969～70年の英新聞業界における部数競争を軸に、メディアの倫理や、大衆の欲望といったアクチュアルな問題を投げかけるジェイムズ・グレアムの戯曲だ。エンターテインメントとして面白く見せつつ、核心をえぐる眞鍋卓嗣の演出に切れ味がある。小田島恒志訳。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are Bookmarklets and How to Make Them]]></title>
         <id>60c88bbc4dc1a607ed7b2ffa</id>
@@ -2727,26 +2767,6 @@ The post Timekeepers Contest appeared first on Prusa Printers.]]></summary>
         <link href="https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/"/>
         <updated>2021-05-18T16:36:22.000Z</updated>
         <summary type="html"><![CDATA[If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redux for Beginners – Learn Redux Basics with Code Examples]]></title>
-        <id>609fc4cc62ab9107fe5aac91</id>
-        <link href="https://www.freecodecamp.org/news/redux-for-beginners/"/>
-        <updated>2021-05-18T16:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design]]></title>
-        <id>60685767d5756f080ba93df4</id>
-        <link href="https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/"/>
-        <updated>2021-05-18T16:08:27.000Z</updated>
-        <summary type="html"><![CDATA[According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you]]></summary>
         <author>
             <name/>
         </author>
