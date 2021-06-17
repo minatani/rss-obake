@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T05:20:50.023Z</updated>
+    <updated>2021-06-17T06:24:17.743Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2689,16 +2689,6 @@ The post Timekeepers Contest appeared first on Prusa Printers.]]></summary>
         <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ　ミニシアターへ休業依頼　映画文化、守れない　閉館次々「公的支援を」]]></title>
-        <id>https://mainichi.jp/articles/20210519/ddm/041/040/045000c</id>
-        <link href="https://mainichi.jp/articles/20210519/ddm/041/040/045000c"/>
-        <updated>2021-05-18T18:12:39.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス対策の緊急事態宣言が３１日まで延長された東京都で、多様な映画を上映する小規模映画館（ミニシアター）が苦境に立たされている。都による休業の要請や協力依頼が続き、深刻な資金難に直面しているためだ。閉館を余儀なくされる映画館もあり、関係者は公的な支援を強く求めている。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
