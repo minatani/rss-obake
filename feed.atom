@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T04:23:51.172Z</updated>
+    <updated>2021-06-18T05:20:34.820Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2709,36 +2709,6 @@ The post Timekeepers Contest appeared first on Prusa Printers.]]></summary>
         <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:ナゼそこ？]]></title>
-        <id>https://mainichi.jp/articles/20210520/ddm/018/200/019000c</id>
-        <link href="https://mainichi.jp/articles/20210520/ddm/018/200/019000c"/>
-        <updated>2021-05-19T17:05:13.000Z</updated>
-        <summary type="html"><![CDATA[◆ナゼそこ？（東京＝後７・５８） 　日本の不思議に迫るバラエティー。今回は「未確認日本人“ＴＨＥ仙人”スペシャル」と称し、富山と屋久島で自給自足生活をする「仙人」のような人々に焦点を当てる。ＭＣはユースケ・サンタマリアと新井恵理那。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＪＡＳＲＡＣ賞金賞に「鬼滅」主題歌]]></title>
-        <id>https://mainichi.jp/articles/20210520/ddm/012/200/051000c</id>
-        <link href="https://mainichi.jp/articles/20210520/ddm/012/200/051000c"/>
-        <updated>2021-05-19T17:02:47.000Z</updated>
-        <summary type="html"><![CDATA[日本音楽著作権協会（ＪＡＳＲＡＣ）は１９日、２０２０年度に著作物使用料の分配額が多かった楽曲を表彰する「２０２１年ＪＡＳＲＡＣ賞」の金賞に、ＬｉＳＡさんの「紅蓮華（ぐれんげ）」（ＬｉＳＡ作詞、草野華余子作曲）が決まったと発表した。テレビアニメ「鬼滅（きめつ）の刃（やいば）」の主題歌として音楽配信サ]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:高島彩／３　家族で楽しめる番組]]></title>
-        <id>https://mainichi.jp/articles/20210520/ddm/018/200/017000c</id>
-        <link href="https://mainichi.jp/articles/20210520/ddm/018/200/017000c"/>
-        <updated>2021-05-19T17:01:23.000Z</updated>
-        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ワールド極限ミステリー」（２６日午後８時）ＭＣ（司会）＞ 　２児の母になって一層、性格が大ざっぱになった気がします。日々、自分の思いだけではどうにもならないことばかり。最近は娘たちがけんかを始めても、どうやって終わるかなと見ています。だいぶ人間が辛抱強くなりました（笑い）。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
