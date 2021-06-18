@@ -1597,15 +1597,6 @@
           "publishedOn": "2021-05-19T18:33:53.000Z",
           "wordCount": 450,
           "title": "新垣さんと星野さん、「逃げ恥」婚"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210520/ddm/041/200/037000c",
-          "author": null,
-          "description": "４月３日に７７歳で亡くなった俳優の田村正和さんは、テレビドラマを中心にニヒルな二枚目からコミカルな役まで幅広く演じ、お茶の間に親しまれた。近年は芸能活動から離れていたが、周囲には「十分やりきった」と俳優人生をまっとうした思いを話していたという。",
-          "link": "https://mainichi.jp/articles/20210520/ddm/041/200/037000c",
-          "publishedOn": "2021-05-19T18:10:48.000Z",
-          "wordCount": 454,
-          "title": "死去の田村正和さん　「十分やりきった」"
         }
       ]
     },
@@ -2454,15 +2445,6 @@
           "publishedOn": "2021-05-19T21:09:01.000Z",
           "wordCount": 2086,
           "title": "What is Web3? The Decentralized Internet of the Future Explained"
-        },
-        {
-          "id": "60a469ec906c5207e3a7e1b9",
-          "author": "",
-          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
-          "publishedOn": "2021-05-19T17:30:08.000Z",
-          "wordCount": 1981,
-          "title": "How to Optimize for Change in Software Development"
         }
       ]
     }
