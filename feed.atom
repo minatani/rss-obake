@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T06:23:38.012Z</updated>
+    <updated>2021-06-18T07:21:11.289Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2668,27 +2668,6 @@ The post Get your Original Prusa MINI+ organized with a custom printed base appe
         <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timekeepers Contest]]></title>
-        <id>https://blog.prusaprinters.org/?p=49378</id>
-        <link href="https://blog.prusaprinters.org/timekeepers-contest_49378/"/>
-        <updated>2021-05-19T18:59:45.000Z</updated>
-        <summary type="html"><![CDATA[It’s time for our next contest and this time it’s all about time. Seconds, minutes, hours, days, weeks, months, and years, we want to see…
-The post Timekeepers Contest appeared first on Prusa Printers.]]></summary>
-        <author>
-            <name>MattStultz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新垣さんと星野さん、「逃げ恥」婚]]></title>
-        <id>https://mainichi.jp/articles/20210520/ddm/012/200/069000c</id>
-        <link href="https://mainichi.jp/articles/20210520/ddm/012/200/069000c"/>
-        <updated>2021-05-19T18:33:53.000Z</updated>
-        <summary type="html"><![CDATA[女優の新垣結衣さん（３２）と俳優でミュージシャンの星野源さん（４０）は１９日、所属事務所を通じて結婚することを発表した。「これからも互いに支え合い豊かな時間を積み重ねていけたらと思っております」などとコメントした。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
