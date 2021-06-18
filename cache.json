@@ -1561,33 +1561,6 @@
           "publishedOn": "2021-05-20T17:01:55.000Z",
           "wordCount": 453,
           "title": "ＢＳ未来館:懐かしい車がまた走る"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210520/dde/018/200/006000c",
-          "author": null,
-          "description": "ベトナム人技能実習生の苦境をリアリズムで描く映画「海辺の彼女たち」が公開中だ。藤元明緒監督の第２作。悪条件の勤務先から逃げ出し、東北の漁村に住み込んだベトナム人技能実習生の妊娠が発覚する。藤元監督は「日本人に見えていなかった時間を体験、共有してほしい」と話す。",
-          "link": "https://mainichi.jp/articles/20210520/dde/018/200/006000c",
-          "publishedOn": "2021-05-20T04:21:16.000Z",
-          "wordCount": 464,
-          "title": "Ｉｎｔｅｒｖｉｅｗ:藤元明緒監督　技能実習生をリアルに　ベトナム人の苦境描く映画「海辺の彼女たち」"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210520/dde/018/200/011000c",
-          "author": null,
-          "description": "自身が座長をつとめ、構成・演出する喜劇「熱海五郎一座　Ｊａｚｚｙ（じゃじぃ）なさくらは裏切りのハ～モニ～―日米爆笑保障条約―」（吉高寿男作）が、３０日～６月２７日に東京・新橋演舞場で上演される。",
-          "link": "https://mainichi.jp/articles/20210520/dde/018/200/011000c",
-          "publishedOn": "2021-05-20T04:20:25.000Z",
-          "wordCount": 461,
-          "title": "Ｉｎｔｅｒｖｉｅｗ:三宅裕司　わかりやすい笑いを　喜劇のプロ集め「熱海五郎一座」"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210520/dde/018/200/004000c",
-          "author": null,
-          "description": "緊急事態宣言で１２日初日となった。第１部の最初は「三人吉三（さんにんきちさ）　大川端（おおかわばた）」。尾上右近のお嬢、隼人のお坊、巳之助の和尚の新鮮な顔合わせ。右近が町娘から盗賊への変化をうまく見せた。莟玉のおとせ。",
-          "link": "https://mainichi.jp/articles/20210520/dde/018/200/004000c",
-          "publishedOn": "2021-05-20T03:31:23.000Z",
-          "wordCount": 451,
-          "title": "歌舞伎　五月大歌舞伎　菊之助、勇壮に獅子の精＝評・小玉祥子"
         }
       ]
     },
@@ -1654,6 +1627,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b46dbd11ffb70827ef9dea",
+          "author": null,
+          "description": "What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we",
+          "link": "https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/",
+          "publishedOn": "2021-06-18T15:45:00.000Z",
+          "wordCount": 1613,
+          "title": "TCP vs UDP – Which Protocol is Faster?"
+        },
+        {
+          "id": "60cc5a904dc1a607ed7b4c54",
+          "author": null,
+          "description": "Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,",
+          "link": "https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/",
+          "publishedOn": "2021-06-18T15:43:56.000Z",
+          "wordCount": 906,
+          "title": "Machine Learning Specialisation Courses for Advanced ML Practitioners"
+        },
         {
           "id": "60cca3294dc1a607ed7b4c76",
           "author": null,
