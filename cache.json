@@ -1655,6 +1655,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60cca3294dc1a607ed7b4c76",
+          "author": null,
+          "description": "Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris",
+          "link": "https://www.freecodecamp.org/news/understanding-sorting-algorithms/",
+          "publishedOn": "2021-06-18T13:56:04.000Z",
+          "wordCount": 13842,
+          "title": "Understanding Sorting Algorithms"
+        },
+        {
           "id": "60c2aa56d3126007592d6226",
           "author": null,
           "description": "What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the",
