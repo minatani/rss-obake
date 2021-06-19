@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T06:23:47.070Z</updated>
+    <updated>2021-06-19T07:20:01.886Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2658,16 +2658,6 @@ The post Get your Original Prusa MINI+ organized with a custom printed base appe
         <summary type="html"><![CDATA[緊急事態宣言の延長により、東京都や大阪府では要請を受けた映画館の休業が続いている。これに伴い、新作の延期が相次いだことは以前に記した。ただ、そのまま新作が公開されている場合もある。ではいったい、延期と公開では配給会社にどのような事情の違いがあるのか。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
-        <id>60a6b3ab906c5207e3a7f5fa</id>
-        <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
-        <updated>2021-05-20T19:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
 </feed>
