@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T15:21:02.123Z</updated>
+    <updated>2021-06-19T16:29:24.359Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2646,16 +2646,6 @@ The post Get your Original Prusa MINI+ organized with a custom printed base appe
         <link href="https://mainichi.jp/articles/20210521/dde/018/070/015000c"/>
         <updated>2021-05-21T04:42:26.000Z</updated>
         <summary type="html"><![CDATA[ペトルーニャ（ゾリツァ・ヌシェヴァ）は３２歳で独身、無職。母親にせかされて赴いた採用面接で容姿を侮辱されて不採用と散々だ。その帰り道、川の中の群衆に成り行きで加わり、見事に十字架をつかみ取った。これはキリスト教の行事で、司祭が投げ込んだ十字架を手にした者に幸せが訪れるというものだ。実は女人禁制。ペ]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・チャートの裏側:より弱い立場に深手]]></title>
-        <id>https://mainichi.jp/articles/20210521/dde/018/070/003000c</id>
-        <link href="https://mainichi.jp/articles/20210521/dde/018/070/003000c"/>
-        <updated>2021-05-21T03:22:42.000Z</updated>
-        <summary type="html"><![CDATA[緊急事態宣言の延長により、東京都や大阪府では要請を受けた映画館の休業が続いている。これに伴い、新作の延期が相次いだことは以前に記した。ただ、そのまま新作が公開されている場合もある。ではいったい、延期と公開では配給会社にどのような事情の違いがあるのか。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
