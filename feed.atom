@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T04:24:02.301Z</updated>
+    <updated>2021-06-19T05:20:01.076Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2668,26 +2668,6 @@ The post Get your Original Prusa MINI+ organized with a custom printed base appe
         <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Modern C++ by Building an Audio Plugin]]></title>
-        <id>60a694ab906c5207e3a7f544</id>
-        <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
-        <updated>2021-05-20T17:12:29.000Z</updated>
-        <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＢＳ未来館:懐かしい車がまた走る]]></title>
-        <id>https://mainichi.jp/articles/20210521/ddm/018/200/013000c</id>
-        <link href="https://mainichi.jp/articles/20210521/ddm/018/200/013000c"/>
-        <updated>2021-05-20T17:01:55.000Z</updated>
-        <summary type="html"><![CDATA[車のモデルチェンジは目まぐるしく、見慣れた車がいつの間にか姿を消す。ＢＳ―ＴＢＳの「博物館の車、走らせます！想い出よ甦（よみがえ）れ！名車が紡ぐ感動物語」（２２日午後７時）は、そうした車を再び走らせる。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
