@@ -6,6 +6,33 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210622/ddm/018/200/009000c",
+          "author": null,
+          "description": "＜TBS系バラエティー「クイズ！倍買」（29日午後10時）MC（司会）＞ 　（設楽統）獲得できる賞金の最高金額は、なんと2560万円。こんなクイズ番組、ちょっとないんじゃないでしょうか。持ち金5万円からスタートして、正解すれば倍、倍に増えていく。しかも全て選択問題です。ただし間違えたらそこで終了。",
+          "link": "https://mainichi.jp/articles/20210622/ddm/018/200/009000c",
+          "publishedOn": "2021-06-21T17:02:25.000Z",
+          "wordCount": 462,
+          "title": "赤坂電視台:バナナマン／1　クイズの獲得金額が破格"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210622/ddm/012/040/093000c",
+          "author": null,
+          "description": "俳優のピエール瀧さん（54）が麻薬取締法違反で有罪判決を受けたことを理由に、出演した映画への助成金交付を取り消したのは違法として、映画製作会社「スターサンズ」（東京都）が、文化庁所管の独立行政法人「日本芸術文化振興会」（芸文振）に交付を求めた訴訟の判決で、東京地裁は21日、不交付決定を取り消した。",
+          "link": "https://mainichi.jp/articles/20210622/ddm/012/040/093000c",
+          "publishedOn": "2021-06-21T17:01:56.000Z",
+          "wordCount": 454,
+          "title": "助成金不交付、取り消し　ピエール瀧さん出演映画　東京地裁判決"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210622/ddm/018/200/012000c",
+          "author": null,
+          "description": "◆着飾る恋には理由があって（最終回）（TBS＝後10・0） 　真柴（川口春奈）はネット交流サービス（SNS）が炎上して以来、気持ちが途切れ、なかなか投稿できない日々が続いていた。そんな真柴を見かねた葉山（向井理）は救いの言葉を掛ける。一方、羽瀬（中村アン）は、陽人（丸山隆平）からの突然のプロポーズ",
+          "link": "https://mainichi.jp/articles/20210622/ddm/018/200/012000c",
+          "publishedOn": "2021-06-21T17:00:13.000Z",
+          "wordCount": 459,
+          "title": "視聴室:着飾る恋には理由があって（最終回）"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210621/dde/018/200/008000c",
           "author": null,
           "description": "「第5回みんなが選ぶTSUTAYAコミック大賞」の発表と授賞式が東京・渋谷であり、お笑いコンビ「おかずクラブ」のオカリナ、ゆいPら漫画好きの芸人が登壇した。オカリナは、お薦めの「去年私の人生を変えた」漫画として、テレビアニメも放送中の「僕のヒーローアカデミア」（集英社）を紹介。部分的に緑とオレンジ",
@@ -1636,6 +1663,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a55b37906c5207e3a7ea78",
+          "author": null,
+          "description": "But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!",
+          "link": "https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/",
+          "publishedOn": "2021-06-21T16:38:36.000Z",
+          "wordCount": 3575,
+          "title": "A Technical Guide to IPFS – the Decentralized Storage of Web3"
+        },
+        {
+          "id": "6063b9e19618b008528a9d9a",
+          "author": null,
+          "description": "Today we're gonna learn everything you need to know about the CSS position property along with examples. let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in",
+          "link": "https://www.freecodecamp.org/news/css-position-property-explained/",
+          "publishedOn": "2021-06-21T16:36:14.000Z",
+          "wordCount": 1153,
+          "title": "How the CSS Position Property Works – Explained with Code Examples"
+        },
         {
           "id": "60b46dbd11ffb70827ef9dea",
           "author": null,
