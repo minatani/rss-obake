@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T20:18:29.874Z</updated>
+    <updated>2021-06-21T21:17:43.467Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Redux by Making a Counter Application]]></title>
+        <id>60cccd6e4dc1a607ed7b4f81</id>
+        <link href="https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/"/>
+        <updated>2021-06-21T21:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Redux is a state management library for front end applications. It is often used with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Portfolio Website with React]]></title>
         <id>60d0d0ff6e1a1407b6b0a506</id>

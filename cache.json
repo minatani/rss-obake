@@ -1664,6 +1664,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60cccd6e4dc1a607ed7b4f81",
+          "author": null,
+          "description": "Redux is a state management library for front end applications. It is often used with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might",
+          "link": "https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/",
+          "publishedOn": "2021-06-21T21:01:42.000Z",
+          "wordCount": 1659,
+          "title": "Learn Redux by Making a Counter Application"
+        },
+        {
           "id": "60d0d0ff6e1a1407b6b0a506",
           "author": null,
           "description": "Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to",
