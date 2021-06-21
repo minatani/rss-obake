@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T17:31:06.696Z</updated>
+    <updated>2021-06-21T18:22:29.836Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Portfolio Website with React]]></title>
+        <id>60d0d0ff6e1a1407b6b0a506</id>
+        <link href="https://www.freecodecamp.org/news/build-portfolio-website-react/"/>
+        <updated>2021-06-21T18:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Figma? A Design Crash Course [2021 Tutorial]]]></title>
+        <id>60cda7104dc1a607ed7b5588</id>
+        <link href="https://www.freecodecamp.org/news/figma-crash-course/"/>
+        <updated>2021-06-21T17:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赤坂電視台:バナナマン／1　クイズの獲得金額が破格]]></title>
         <id>https://mainichi.jp/articles/20210622/ddm/018/200/009000c</id>
