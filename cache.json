@@ -1664,6 +1664,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c81f774dc1a607ed7b2f66",
+          "author": null,
+          "description": "I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.",
+          "link": "https://www.freecodecamp.org/news/how-to-exit-vim/",
+          "publishedOn": "2021-06-21T21:52:43.000Z",
+          "wordCount": 1785,
+          "title": "How to Exit Vim – Vim Save and Quit Command Tutorial"
+        },
+        {
+          "id": "60bce157acb62507dd1d9f11",
+          "author": null,
+          "description": "When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.",
+          "link": "https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/",
+          "publishedOn": "2021-06-21T21:25:11.000Z",
+          "wordCount": 1085,
+          "title": "Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples"
+        },
+        {
           "id": "60cccd6e4dc1a607ed7b4f81",
           "author": null,
           "description": "Redux is a state management library for front end applications. It is often used with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might",
