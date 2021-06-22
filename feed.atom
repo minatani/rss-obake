@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T18:22:02.411Z</updated>
+    <updated>2021-06-22T19:15:13.148Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2737,16 +2737,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[演劇　新ロイヤル大衆舎×ＫＡＡＴ　「王将」－三部作－　はまり役の福田が情味濃く＝評・濱田元子]]></title>
-        <id>https://mainichi.jp/articles/20210524/dde/018/200/009000c</id>
-        <link href="https://mainichi.jp/articles/20210524/dde/018/200/009000c"/>
-        <updated>2021-05-24T06:40:39.000Z</updated>
-        <summary type="html"><![CDATA[大阪の天才将棋指し、坂田三吉の激烈な生きざまを、周囲の人々とのかかわりの中で情濃く描いた北條秀司の代表作。長塚圭史の演出・構成台本による再びの３部作一挙上演が好舞台となっている。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
