@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T15:21:39.433Z</updated>
+    <updated>2021-06-22T16:30:36.589Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Async/Await to Write Better JavaScript Code]]></title>
+        <id>60cac8ff4dc1a607ed7b4592</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/"/>
+        <updated>2021-06-22T16:24:37.000Z</updated>
+        <summary type="html"><![CDATA[There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot]]></title>
+        <id>60c13e71d3126007592d5be2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/"/>
+        <updated>2021-06-22T16:20:36.000Z</updated>
+        <summary type="html"><![CDATA[The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python to Create a Visual Novel Game in 10 Minutes]]></title>
+        <id>60cfff5a4dc1a607ed7b5e58</id>
+        <link href="https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/"/>
+        <updated>2021-06-22T16:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:はたけやま裕　宮沢賢治を音楽に　新アルバム　癒やしや救いを]]></title>
         <id>https://mainichi.jp/articles/20210622/dde/012/200/005000c</id>
@@ -2715,16 +2745,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210524/dde/018/200/011000c"/>
         <updated>2021-05-24T05:02:45.000Z</updated>
         <summary type="html"><![CDATA[都会的なサウンドと心の機微に触れる歌で注目を集める3人組バンド「Awesome　City　Club(オーサム・シティー・クラブ)」が2月にリリースした楽曲「勿忘(わすれな)」が快進撃を続けている。YouTubeやApple　Musicなど、音楽・動画配信サービスでの再生回数に基づく「オリコン週間ス]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[役の履歴書:佐藤正清　「純情で誠心誠意」が人気＝小玉祥子]]></title>
-        <id>https://mainichi.jp/articles/20210524/dde/018/200/008000c</id>
-        <link href="https://mainichi.jp/articles/20210524/dde/018/200/008000c"/>
-        <updated>2021-05-24T03:46:35.000Z</updated>
-        <summary type="html"><![CDATA[加藤清正は豊臣秀吉に取り立てられ、大名にまで累進した武将で、「賤ケ岳の七本槍」での武勲や小牧・長久手の合戦などでの活躍は後世までの語り草となった。 　関ケ原の合戦では東軍に属し、戦後は肥後の領主となった。慶長１６（１６１１）年には豊臣秀頼を説得して、二条城での徳川家康との対面を成功させたが、まもな]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
