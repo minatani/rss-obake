@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T04:24:04.542Z</updated>
+    <updated>2021-06-22T05:19:43.740Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2725,26 +2725,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210524/dde/018/200/008000c"/>
         <updated>2021-05-24T03:46:35.000Z</updated>
         <summary type="html"><![CDATA[加藤清正は豊臣秀吉に取り立てられ、大名にまで累進した武将で、「賤ケ岳の七本槍」での武勲や小牧・長久手の合戦などでの活躍は後世までの語り草となった。 　関ケ原の合戦では東軍に属し、戦後は肥後の領主となった。慶長１６（１６１１）年には豊臣秀頼を説得して、二条城での徳川家康との対面を成功させたが、まもな]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:有吉ゼミ２時間ＳＰ]]></title>
-        <id>https://mainichi.jp/articles/20210524/ddm/018/200/028000c</id>
-        <link href="https://mainichi.jp/articles/20210524/ddm/018/200/028000c"/>
-        <updated>2021-05-23T17:02:42.000Z</updated>
-        <summary type="html"><![CDATA[◆有吉ゼミ２時間ＳＰ（日テレ＝後７・０） 　芸能人を教材に社会を学ぶバラエティー番組の２時間スペシャル。教授役は有吉弘行。ギャル曽根は渡辺正行や小倉久寛とうどんのデカ盛りに挑戦する。さらに、ゴルゴ松本、坂井真紀らは激辛冷麺を食する。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[続・リモコンの片隅から:ＢＳ１２トゥエルビ　人生の箸休めにいかがですか？]]></title>
-        <id>https://mainichi.jp/articles/20210524/ddm/018/200/047000c</id>
-        <link href="https://mainichi.jp/articles/20210524/ddm/018/200/047000c"/>
-        <updated>2021-05-23T17:01:20.000Z</updated>
-        <summary type="html"><![CDATA[仕事柄、常に頭の中は情報過多で脳内処理が追いつかず、結局何も得られないことがある。仕事ができない典型的なパターンだと言われそうだが、ここは「お疲れなんですね」と、ご返答いただいたと仮定して話を進めたい。日々の生活に脳と心が疲れたら、ぜひ“箸休め”の時間を。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
