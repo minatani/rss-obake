@@ -6,6 +6,15 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210624/ddm/018/200/012000c",
+          "author": null,
+          "description": "＜TBS系バラエティー「クイズ！倍買」（29日午後10時）MC（司会）＞ 　（設楽統）チャレンジャーの一人は山里亮太さん。オールラウンダーで知識も豊富だから、クイズ番組にほんと最適ですね。「東大王」のMCもされていますが、解答者側にいる山ちゃんはめったに見られないんじゃないでしょうか。もう一人は中",
+          "link": "https://mainichi.jp/articles/20210624/ddm/018/200/012000c",
+          "publishedOn": "2021-06-23T17:14:35.000Z",
+          "wordCount": 461,
+          "title": "赤坂電視台:バナナマン／3　クイズの問題は身近なことから"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210623/dde/018/200/010000c",
           "author": null,
           "description": "千葉ロッテマリーンズ、WBC日本代表で活躍した里崎智也さんは2014年に現役引退。翌年4月からベイエフエム（千葉市）の「The　BAY☆LINE」（午後4時～）の月曜パーソナリティーとして、DJのきゃんひとみさんと共演中。里崎さんは理論派の野球解説者でもあるが、同番組では陽気で軽快なトークでリスナ",
@@ -1636,6 +1645,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a406bd906c5207e3a7dfcb",
+          "author": null,
+          "description": "In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for our channel. PlanningChoose a",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-great-technical-course/",
+          "publishedOn": "2021-06-23T17:19:24.000Z",
+          "wordCount": 2296,
+          "title": "How to Create a Great Technical Course"
+        },
         {
           "id": "60d2323d6e1a1407b6b0ac4f",
           "author": null,
