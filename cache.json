@@ -1646,6 +1646,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6072ffd4d5756f080ba98b27",
+          "author": null,
+          "description": "Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built",
+          "link": "https://www.freecodecamp.org/news/microservices-architecture-for-humans/",
+          "publishedOn": "2021-06-23T21:52:08.000Z",
+          "wordCount": 2975,
+          "title": "Microservices Architecture – Explained in Plain English"
+        },
+        {
           "id": "60d36eb66e1a1407b6b0b16d",
           "author": null,
           "description": ".NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.",

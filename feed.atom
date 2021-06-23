@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T21:16:17.867Z</updated>
+    <updated>2021-06-23T22:16:45.417Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microservices Architecture – Explained in Plain English]]></title>
+        <id>6072ffd4d5756f080ba98b27</id>
+        <link href="https://www.freecodecamp.org/news/microservices-architecture-for-humans/"/>
+        <updated>2021-06-23T21:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create a REST API with .NET 5 and  C#]]></title>
         <id>60d36eb66e1a1407b6b0b16d</id>
