@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T03:19:02.698Z</updated>
+    <updated>2021-06-23T04:22:14.646Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[荻原魚雷のラジオ交差点:多彩な話題もしっかりキャッチ]]></title>
+        <id>https://mainichi.jp/articles/20210623/dde/018/200/010000c</id>
+        <link href="https://mainichi.jp/articles/20210623/dde/018/200/010000c"/>
+        <updated>2021-06-23T04:05:20.000Z</updated>
+        <summary type="html"><![CDATA[千葉ロッテマリーンズ、WBC日本代表で活躍した里崎智也さんは2014年に現役引退。翌年4月からベイエフエム（千葉市）の「The　BAY☆LINE」（午後4時～）の月曜パーソナリティーとして、DJのきゃんひとみさんと共演中。里崎さんは理論派の野球解説者でもあるが、同番組では陽気で軽快なトークでリスナ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テレビ応援団:電波行政、変革の時]]></title>
+        <id>https://mainichi.jp/articles/20210623/dde/018/070/011000c</id>
+        <link href="https://mainichi.jp/articles/20210623/dde/018/070/011000c"/>
+        <updated>2021-06-23T04:04:07.000Z</updated>
+        <summary type="html"><![CDATA[＜映像プロデューサー・吉川圭三のテレビ応援団＞ 　「テレビ応援団」と題するコラムを書いているが、このまま能天気に“応援”などと言っていてよいのだろうか？と思うこともある。先日の友人のテレビ界の大御所の言葉。「地方局は田中角栄が高度経済成長期に、あまねく電波を届かせるために地元の有力者といっぱい作っ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォーカス:岡崎紗絵　ドラマ「ナイト・ドクター」高岡幸保役　心で感じ命と向き合う]]></title>
+        <id>https://mainichi.jp/articles/20210623/dde/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210623/dde/018/200/013000c"/>
+        <updated>2021-06-23T04:02:44.000Z</updated>
+        <summary type="html"><![CDATA[ドラマ「ナイト・ドクター」高岡幸保役（フジテレビ系＝月曜午後9時） 　働き方改革で、医師の昼夜完全交代制を導入した病院が舞台のドラマで、夜間救急専門の「ナイト・ドクター」として働く女性を演じる。人手不足やコンビニ受診など、現代の救急医療を巡る問題に直面しながら、朝倉美月（波瑠）ら同僚の医師とともに命]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools]]></title>
         <id>60d2323d6e1a1407b6b0ac4f</id>
