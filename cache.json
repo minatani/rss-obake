@@ -1646,6 +1646,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d36eb66e1a1407b6b0b16d",
+          "author": null,
+          "description": ".NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.",
+          "link": "https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/",
+          "publishedOn": "2021-06-23T18:08:14.000Z",
+          "wordCount": 666,
+          "title": "Create a REST API with .NET 5 and  C#"
+        },
+        {
           "id": "60a406bd906c5207e3a7dfcb",
           "author": null,
           "description": "In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for our channel. PlanningChoose a",
