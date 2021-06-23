@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T04:22:14.646Z</updated>
+    <updated>2021-06-23T05:14:55.089Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2755,16 +2755,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210525/ddm/018/200/012000c"/>
         <updated>2021-05-24T17:40:36.000Z</updated>
         <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ウッチャン式」（２８日午後８時）ＭＣ（司会）＞ 　過去２回の放送を経て、「ウッチャン式」第３弾をゴールデンタイムに２時間スペシャルでお届けすることになりました！]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「鬼滅」の興行収入４００億円突破]]></title>
-        <id>https://mainichi.jp/articles/20210525/ddm/012/040/037000c</id>
-        <link href="https://mainichi.jp/articles/20210525/ddm/012/040/037000c"/>
-        <updated>2021-05-24T17:01:48.000Z</updated>
-        <summary type="html"><![CDATA[２０２０年１０月に公開し、爆発的なヒットとなったアニメ映画「劇場版『鬼滅（きめつ）の刃（やいば）』無限列車編」の興行収入が２３日までに４００億１６９４万円に達したと、配給元の東宝とアニプレックスが２４日、発表した。観客動員数は２８９７万人。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
