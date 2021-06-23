@@ -2490,15 +2490,6 @@
           "publishedOn": "2021-05-24T20:36:07.000Z",
           "wordCount": 319,
           "title": "How to Use CSS Media Queries to Create Responsive Websites"
-        },
-        {
-          "id": "60aa161211ffb70827ef5f2c",
-          "author": null,
-          "description": "Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking",
-          "link": "https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/",
-          "publishedOn": "2021-05-24T19:40:36.000Z",
-          "wordCount": 2263,
-          "title": "How to Generate a Code Coverage Report with CodeCov and GitHub Actions"
         }
       ]
     }
