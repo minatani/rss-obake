@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T15:20:12.924Z</updated>
+    <updated>2021-06-23T16:23:49.934Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2657,46 +2657,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特薦盤:歌謡曲・ポップス　富澤一誠・選]]></title>
-        <id>https://mainichi.jp/articles/20210525/dde/012/070/007000c</id>
-        <link href="https://mainichi.jp/articles/20210525/dde/012/070/007000c"/>
-        <updated>2021-05-25T04:01:07.000Z</updated>
-        <summary type="html"><![CDATA[■坂本つとむ／ＬＯＳＴプロポーズ（テイチク） 　過ぎ去った思い出は時がたつにつれ、けばけばしさがとれセピア色になっていく。特に男の別れた女に対する思い出は、時がたつと一枚のセピア色の写真となって心の片隅にしまわれる。どんな男にも、そんな写真の一枚か二枚は必ずあるものだ。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特薦盤:歌謡曲・ポップス　川崎浩・選]]></title>
-        <id>https://mainichi.jp/articles/20210525/dde/012/070/009000c</id>
-        <link href="https://mainichi.jp/articles/20210525/dde/012/070/009000c"/>
-        <updated>2021-05-25T04:00:31.000Z</updated>
-        <summary type="html"><![CDATA[■思い出のラジオ・テーマ集～カム・カム・エヴリバディ～（コロムビア） 　今さらラジオのテーマソング集でもあるまいと一瞬驚いたが、１０年前の東日本大震災の折、ラジオが被災地で重要なメディアとなったことを思い出せば、簡単に切り捨てられるものではあるまい。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私の記念碑:歌舞伎俳優　尾上菊五郎／３　襲名後、段々に立ち役増え]]></title>
-        <id>https://mainichi.jp/articles/20210525/dde/012/200/012000c</id>
-        <link href="https://mainichi.jp/articles/20210525/dde/012/200/012000c"/>
-        <updated>2021-05-25T03:58:49.000Z</updated>
-        <summary type="html"><![CDATA[尾上菊之助襲名の翌年、１９６６年にはＮＨＫの大河ドラマ「源義経」に主演した。ヒロインの静御前は映画スターの藤純子（富司純子）。この共演をきっかけに藤と７２年に結婚した。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トレンドに迫る:配信サービス好調　独自の実写作品で差別化]]></title>
-        <id>https://mainichi.jp/articles/20210525/dde/012/200/016000c</id>
-        <link href="https://mainichi.jp/articles/20210525/dde/012/200/016000c"/>
-        <updated>2021-05-25T03:33:07.000Z</updated>
-        <summary type="html"><![CDATA[コロナ禍の巣ごもり需要でいっそう存在感を増した、配信サービス。すっかり定着し、なお勢いは続く。調査会社ＧＥＭパートナーズの分析では、２０２０年の定額動画配信市場は３２３８億円と、前年から３割増の急成長。利用者の平均契約サービス数は１・７と複数利用者も増え、各サービスともいかに独自性を打ち出すかが利]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
