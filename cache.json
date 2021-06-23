@@ -2454,15 +2454,6 @@
           "publishedOn": "2021-05-25T16:51:37.000Z",
           "wordCount": 1940,
           "title": "Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work"
-        },
-        {
-          "id": "60abc6d011ffb70827ef630f",
-          "author": null,
-          "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
-          "link": "https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/",
-          "publishedOn": "2021-05-25T00:48:45.000Z",
-          "wordCount": 710,
-          "title": "How to Use Node Environment Variables with a DotEnv File for Node.js and npm"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T12:22:44.504Z</updated>
+    <updated>2021-06-23T13:19:47.289Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2697,16 +2697,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[コロナ禍の巣ごもり需要でいっそう存在感を増した、配信サービス。すっかり定着し、なお勢いは続く。調査会社ＧＥＭパートナーズの分析では、２０２０年の定額動画配信市場は３２３８億円と、前年から３割増の急成長。利用者の平均契約サービス数は１・７と複数利用者も増え、各サービスともいかに独自性を打ち出すかが利]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Node Environment Variables with a DotEnv File for Node.js and npm]]></title>
-        <id>60abc6d011ffb70827ef630f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/"/>
-        <updated>2021-05-25T00:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
