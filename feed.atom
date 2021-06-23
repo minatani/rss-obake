@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T11:15:50.777Z</updated>
+    <updated>2021-06-23T12:22:44.504Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2705,16 +2705,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/"/>
         <updated>2021-05-25T00:48:45.000Z</updated>
         <summary type="html"><![CDATA[Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
-        <id>60626dc29618b008528a9589</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/"/>
-        <updated>2021-05-25T00:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
