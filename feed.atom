@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T05:14:55.089Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-23T06:22:14.257Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
     <entry>
@@ -2747,16 +2747,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:内村光良／１　オリジナルの計算式を導き出す]]></title>
-        <id>https://mainichi.jp/articles/20210525/ddm/018/200/012000c</id>
-        <link href="https://mainichi.jp/articles/20210525/ddm/018/200/012000c"/>
-        <updated>2021-05-24T17:40:36.000Z</updated>
-        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ウッチャン式」（２８日午後８時）ＭＣ（司会）＞ 　過去２回の放送を経て、「ウッチャン式」第３弾をゴールデンタイムに２時間スペシャルでお届けすることになりました！]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
