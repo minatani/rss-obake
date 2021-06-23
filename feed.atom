@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T09:17:54.707Z</updated>
+    <updated>2021-06-23T10:20:58.910Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2715,16 +2715,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/"/>
         <updated>2021-05-25T00:20:22.000Z</updated>
         <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
-        <id>60aaba5911ffb70827ef5ffc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
-        <updated>2021-05-24T21:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
