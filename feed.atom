@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T16:29:56.659Z</updated>
+    <updated>2021-06-24T17:23:51.608Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ＢＳ未来館:リモートでパリ観光を]]></title>
+        <id>https://mainichi.jp/articles/20210625/ddm/018/200/014000c</id>
+        <link href="https://mainichi.jp/articles/20210625/ddm/018/200/014000c"/>
+        <updated>2021-06-24T17:02:34.000Z</updated>
+        <summary type="html"><![CDATA[自由に海外旅行ができるのは、いつになるのだろう。それまでは……。BS日テレ26日の「DAIGOの！世界きまぐれリモートツアー　パリ」（午後10時）でしばしのパリ観光ができる。スタジオにDAIGOとタレントの望月理恵、朝日奈央。パリには現地に住むガイド役がいて、名所めぐりからグルメ、買い物と案内して]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
+        <id>60d3ee396e1a1407b6b0b6ef</id>
+        <link href="https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/"/>
+        <updated>2021-06-24T17:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:コレって何の日本地図!?]]></title>
+        <id>https://mainichi.jp/articles/20210625/ddm/018/200/015000c</id>
+        <link href="https://mainichi.jp/articles/20210625/ddm/018/200/015000c"/>
+        <updated>2021-06-24T17:01:26.000Z</updated>
+        <summary type="html"><![CDATA[◆コレって何の日本地図!?（朝日＝後11・15） 　番組の調査で作ったさまざまな日本地図から意外な事実が明らかになるバラエティー番組。司会はバナナマン。ゲストに兵庫県出身の山之内すず、愛知県出身の遼河はるひなど。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenTelemetry to Understand Software Performance]]></title>
+        <id>60d4b5e96e1a1407b6b0bac4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opentelemetry/"/>
+        <updated>2021-06-24T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特集ワイド:亜星さんの銀座を歩く　人の世に生まれ、人を避けろという。悔しい　コロナ後、見ぬまま…]]></title>
         <id>https://mainichi.jp/articles/20210624/dde/012/200/015000c</id>

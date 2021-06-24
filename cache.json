@@ -6,6 +6,24 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210625/ddm/018/200/014000c",
+          "author": null,
+          "description": "自由に海外旅行ができるのは、いつになるのだろう。それまでは……。BS日テレ26日の「DAIGOの！世界きまぐれリモートツアー　パリ」（午後10時）でしばしのパリ観光ができる。スタジオにDAIGOとタレントの望月理恵、朝日奈央。パリには現地に住むガイド役がいて、名所めぐりからグルメ、買い物と案内して",
+          "link": "https://mainichi.jp/articles/20210625/ddm/018/200/014000c",
+          "publishedOn": "2021-06-24T17:02:34.000Z",
+          "wordCount": 462,
+          "title": "ＢＳ未来館:リモートでパリ観光を"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210625/ddm/018/200/015000c",
+          "author": null,
+          "description": "◆コレって何の日本地図!?（朝日＝後11・15） 　番組の調査で作ったさまざまな日本地図から意外な事実が明らかになるバラエティー番組。司会はバナナマン。ゲストに兵庫県出身の山之内すず、愛知県出身の遼河はるひなど。",
+          "link": "https://mainichi.jp/articles/20210625/ddm/018/200/015000c",
+          "publishedOn": "2021-06-24T17:01:26.000Z",
+          "wordCount": 462,
+          "title": "視聴室:コレって何の日本地図!?"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210624/dde/012/200/015000c",
           "author": null,
           "description": "小林亜星さん（享年88）と偶然、東京・銀座のバーでご一緒したことがある。もの静かにグラスを傾けるその姿に寺内貫太郎のイメージはなかった。訃報を知った当時のママからメールが届いた。＜人の世に生まれ、人を避けろという。悔しいからコロナ後の世界を見るまで死なないとおっしゃっていたのに……＞。亜星さんをし",
@@ -1654,6 +1672,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d3ee396e1a1407b6b0b6ef",
+          "author": null,
+          "description": "Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix",
+          "link": "https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/",
+          "publishedOn": "2021-06-24T17:01:44.000Z",
+          "wordCount": 1511,
+          "title": "4 Common React Mistakes You Might Be Making – And How to Fix Them"
+        },
+        {
+          "id": "60d4b5e96e1a1407b6b0bac4",
+          "author": null,
+          "description": "If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opentelemetry/",
+          "publishedOn": "2021-06-24T16:50:36.000Z",
+          "wordCount": 373,
+          "title": "How to Use OpenTelemetry to Understand Software Performance"
+        },
         {
           "id": "605abca5687d62084bf6b7cd",
           "author": null,
