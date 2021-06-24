@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T19:15:17.566Z</updated>
+    <updated>2021-06-24T20:15:40.187Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2717,16 +2717,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォーカス:高橋ひかる　ドラマ「春の呪い」立花夏美役　人に向き合う思い強く]]></title>
-        <id>https://mainichi.jp/articles/20210526/dde/018/200/012000c</id>
-        <link href="https://mainichi.jp/articles/20210526/dde/018/200/012000c"/>
-        <updated>2021-05-26T07:34:37.000Z</updated>
-        <summary type="html"><![CDATA[ドラマ「春の呪い」立花夏美役（テレビ東京系＝土曜午後１１時２５分） 　同名漫画が原作の連続ドラマで、主人公の立花夏美役に抜てきされた。ドラマ出演のほか、バラエティー番組では明るい笑顔を振りまく１９歳だが、今作は「どのシーンも、悩みながら演じました」と感慨を口にする。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
