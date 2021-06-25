@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T03:21:18.414Z</updated>
+    <updated>2021-06-25T04:24:09.319Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・この１本:いとみち　津軽の響き、迷って躍動]]></title>
+        <id>https://mainichi.jp/articles/20210625/dde/018/070/012000c</id>
+        <link href="https://mainichi.jp/articles/20210625/dde/018/070/012000c"/>
+        <updated>2021-06-25T04:10:14.000Z</updated>
+        <summary type="html"><![CDATA[女子高生、津軽三味線、メイドカフェと三題噺（ばなし）のような青春映画。青森の女子高生いと（駒井蓮）はなまりが強く、引っ込み思案。祖母仕込みの津軽三味線は一流なのに、弾く姿がかっこ悪いと敬遠気味だ。やりたいことが見つからず、弾みで応募したメイドカフェのバイトに採用され、新しい世界への扉を開く。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・特選掘り出し！:へんしんっ！　模索しながら独創を体現]]></title>
+        <id>https://mainichi.jp/articles/20210625/dde/018/070/009000c</id>
+        <link href="https://mainichi.jp/articles/20210625/dde/018/070/009000c"/>
+        <updated>2021-06-25T04:10:13.000Z</updated>
+        <summary type="html"><![CDATA[立教大大学院で学ぶ石田智哉監督は「しょうがい者の表現活動の可能性」を題材にドキュメンタリーを撮ろうと、演劇や舞踊に取り組む障害がある表現者を訪ねる。電動車椅子で生活し、映画という手段を模索する自らも被写体だ。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・トピックス:1秒先の彼女]]></title>
+        <id>https://mainichi.jp/articles/20210625/dde/018/070/007000c</id>
+        <link href="https://mainichi.jp/articles/20210625/dde/018/070/007000c"/>
+        <updated>2021-06-25T04:10:12.000Z</updated>
+        <summary type="html"><![CDATA[仕事も恋もいまいち冴（さ）えない郵便局員のシャオチー（リー・ペイユー）は、ダンス講師（ダンカン・チョウ）にバレンタインのデートに誘われるが、目覚めるとなぜか翌日に。毎日郵便局にやって来るバス運転手のグアタイ（リウ・グァンティン）が、消えたバレンタインの秘密を握っていた。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・トピックス:Arc　アーク]]></title>
+        <id>https://mainichi.jp/articles/20210625/dde/018/070/005000c</id>
+        <link href="https://mainichi.jp/articles/20210625/dde/018/070/005000c"/>
+        <updated>2021-06-25T04:10:10.000Z</updated>
+        <summary type="html"><![CDATA[初産の赤ん坊を捨て、流浪の人生を送る少女リナ（芳根京子）が、エマ（寺島しのぶ）という女性と出会い、遺体を生前の姿のまま保存する技術を学び始める。一方、エマの弟の天音（岡田将生）は、不老不死の研究に没頭。やがて天音と引かれ合うリナは、人類初の“永遠の命”を得た存在となるが……。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・データで読解:劇場で魅力体感　連鎖を]]></title>
+        <id>https://mainichi.jp/articles/20210625/dde/018/070/002000c</id>
+        <link href="https://mainichi.jp/articles/20210625/dde/018/070/002000c"/>
+        <updated>2021-06-25T04:10:02.000Z</updated>
+        <summary type="html"><![CDATA[2021年も上半期が終わりつつある。映画興行は昨年来の「劇場版『鬼滅の刃』無限列車編」の大ヒットで盛り返しかけたが、コロナ禍は続き、上昇には転じられなかった。興行収入は19年以前と比較して、おおむね6割のペースで推移している。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ＢＳ未来館:リモートでパリ観光を]]></title>
         <id>https://mainichi.jp/articles/20210625/ddm/018/200/014000c</id>
