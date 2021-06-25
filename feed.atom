@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T04:24:09.319Z</updated>
+    <updated>2021-06-25T05:16:10.124Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2725,36 +2725,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
         <updated>2021-05-26T18:00:52.000Z</updated>
         <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:内村光良／３　予測不能を楽しんで！]]></title>
-        <id>https://mainichi.jp/articles/20210527/ddm/018/200/008000c</id>
-        <link href="https://mainichi.jp/articles/20210527/ddm/018/200/008000c"/>
-        <updated>2021-05-26T17:04:39.000Z</updated>
-        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ウッチャン式」（２８日午後８時）ＭＣ（司会）＞ 　「恐怖×○○＝怖くなくなる」の企画は興味深い内容です。怖がりの芸能人を集めてジェットコースターやお化け屋敷に挑戦してもらいますが、直前に激辛料理を食べてもらったり、催眠術師が自己暗示をかけたり。結果、最強の「ウッチャン式」を]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:新番組・レオナルド]]></title>
-        <id>https://mainichi.jp/articles/20210527/ddm/018/200/016000c</id>
-        <link href="https://mainichi.jp/articles/20210527/ddm/018/200/016000c"/>
-        <updated>2021-05-26T17:04:16.000Z</updated>
-        <summary type="html"><![CDATA[◆新番組・レオナルド（ＷＯＷＯＷプライム＝後１１・０） 　レオナルド・ダビンチの謎の半生を描いたミステリー歴史ドラマ。第１話のみ無料放送。イタリア、英国、米国など５カ国合作。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
-        <id>60abc59d11ffb70827ef6304</id>
-        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
-        <updated>2021-05-26T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
