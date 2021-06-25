@@ -2463,15 +2463,6 @@
           "publishedOn": "2021-05-26T16:34:32.000Z",
           "wordCount": 3054,
           "title": "How to Build a GraphQL API Using Laravel"
-        },
-        {
-          "id": "60aced0011ffb70827ef6d96",
-          "author": null,
-          "description": "In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.",
-          "link": "https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/",
-          "publishedOn": "2021-05-26T14:12:27.000Z",
-          "wordCount": 1273,
-          "title": "How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js"
         }
       ]
     }
