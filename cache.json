@@ -2445,15 +2445,6 @@
           "publishedOn": "2021-05-27T15:16:34.000Z",
           "wordCount": 1399,
           "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
-        },
-        {
-          "id": "60a44b9f906c5207e3a7e098",
-          "author": null,
-          "description": "In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video",
-          "link": "https://www.freecodecamp.org/news/giphy-api-tutorial/",
-          "publishedOn": "2021-05-26T21:44:01.000Z",
-          "wordCount": 2014,
-          "title": "Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS"
         }
       ]
     }
