@@ -1624,15 +1624,6 @@
           "publishedOn": "2021-05-27T03:36:50.000Z",
           "wordCount": 453,
           "title": "歌舞伎　コクーン歌舞伎「夏祭浪花鑑」　テンポのいい展開＝評・小玉祥子"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210527/ddm/012/200/096000c",
-          "author": null,
-          "description": "女優の深田恭子さん（３８）が適応障害のため活動休止することが２６日、発表された。所属事務所によると、昨年春ごろから体調を崩しがちとなり、今月に医師から適応障害と診断された。当面は治療を優先する。７月から主演する予定だったフジテレビの連続ドラマは降板するという。所属事務所は「関係者の皆様には大変なご",
-          "link": "https://mainichi.jp/articles/20210527/ddm/012/200/096000c",
-          "publishedOn": "2021-05-26T18:05:30.000Z",
-          "wordCount": 446,
-          "title": "深田恭子さん活動休止"
         }
       ]
     },
@@ -2463,24 +2454,6 @@
           "publishedOn": "2021-05-26T21:44:01.000Z",
           "wordCount": 2014,
           "title": "Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS"
-        },
-        {
-          "id": "60abe7fb11ffb70827ef63a6",
-          "author": null,
-          "description": "If you're a developer, you've probably come across the term \"open source.\" If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made",
-          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/",
-          "publishedOn": "2021-05-26T18:01:00.000Z",
-          "wordCount": 2370,
-          "title": "How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide"
-        },
-        {
-          "id": "606f4f5fd5756f080ba96b65",
-          "author": null,
-          "description": "In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without",
-          "link": "https://www.freecodecamp.org/news/terraform-syntax-for-beginners/",
-          "publishedOn": "2021-05-26T18:00:52.000Z",
-          "wordCount": 3782,
-          "title": "Learn Basic Terraform Syntax in 20 minutes"
         }
       ]
     }
