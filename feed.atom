@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T04:24:07.022Z</updated>
+    <updated>2021-06-26T05:15:42.492Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2687,16 +2687,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:新番組・大富豪同心２]]></title>
-        <id>https://mainichi.jp/articles/20210528/ddm/018/200/012000c</id>
-        <link href="https://mainichi.jp/articles/20210528/ddm/018/200/012000c"/>
-        <updated>2021-05-27T17:02:00.000Z</updated>
-        <summary type="html"><![CDATA[◆新番組・大富豪同心２（ＮＨＫＢＳプレミアム＝後８・０） 　江戸一番の豪商「三国屋」の孫・卯之吉（中村隼人）が、ひょんなことから奉行所の同心となって事件を解決する時代劇ドラマ続編の第１話。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
