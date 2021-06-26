@@ -1624,15 +1624,6 @@
           "publishedOn": "2021-05-28T04:35:28.000Z",
           "wordCount": 467,
           "title": "シネマの週末・時代の目:のさりの島　虚実のあわい、心地よく"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210528/ddm/018/200/013000c",
-          "author": null,
-          "description": "興味はあるが取り組むには至らない。筆者にとってのそんな分野の一つが「韓国ドラマ」だ。ＢＳフジで３０日放送の「ＭＵＳＩＣ　ＬＩＳＴ―ＯＳＴって何？　２時間ＳＰ　冬ソナから愛の不時着まで」（午後１０時）で入門気分になった。",
-          "link": "https://mainichi.jp/articles/20210528/ddm/018/200/013000c",
-          "publishedOn": "2021-05-27T17:59:46.000Z",
-          "wordCount": 457,
-          "title": "ＢＳ未来館:韓国ドラマと音楽の貴重なガイド"
         }
       ]
     },
@@ -2436,15 +2427,6 @@
           "publishedOn": "2021-05-28T12:26:38.000Z",
           "wordCount": 368,
           "title": "Advanced Computer Vision with Python"
-        },
-        {
-          "id": "60af931811ffb70827ef85d3",
-          "author": null,
-          "description": "When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating",
-          "link": "https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/",
-          "publishedOn": "2021-05-27T17:55:23.000Z",
-          "wordCount": 1828,
-          "title": "How to Improve Machine Learning Model Performance by Combining Categorical Features"
         }
       ]
     }

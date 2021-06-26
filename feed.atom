@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T05:15:42.492Z</updated>
+    <updated>2021-06-26T06:23:39.727Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2667,26 +2667,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[熊本・天草の寂れた商店街にやって来た、オレオレ詐欺の男（藤原季節）。楽器店主の艶子（原知佐子）から金をだまし取ろうとする。艶子はなぜか、男を孫の将太と呼んで迎え入れ、奇妙な同居生活が始まった。コロナ禍の疲れた心にじわりとしみる佳作である。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＢＳ未来館:韓国ドラマと音楽の貴重なガイド]]></title>
-        <id>https://mainichi.jp/articles/20210528/ddm/018/200/013000c</id>
-        <link href="https://mainichi.jp/articles/20210528/ddm/018/200/013000c"/>
-        <updated>2021-05-27T17:59:46.000Z</updated>
-        <summary type="html"><![CDATA[興味はあるが取り組むには至らない。筆者にとってのそんな分野の一つが「韓国ドラマ」だ。ＢＳフジで３０日放送の「ＭＵＳＩＣ　ＬＩＳＴ―ＯＳＴって何？　２時間ＳＰ　冬ソナから愛の不時着まで」（午後１０時）で入門気分になった。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
-        <id>60af931811ffb70827ef85d3</id>
-        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
-        <updated>2021-05-27T17:55:23.000Z</updated>
-        <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
