@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T14:16:13.055Z</updated>
+    <updated>2021-06-27T15:21:32.591Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2595,16 +2595,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210529/dde/018/200/003000c"/>
         <updated>2021-05-29T04:07:59.000Z</updated>
         <summary type="html"><![CDATA[プリンスアイスワールド２０２１　ＢＳテレ東＝３０日午後２時 　近年のフィギュアスケート人気で視聴者の目も肥え、それに応えて放送も“進化”している。例えば、競技ではウェブで補完しつつリアルタイム放送を試みたり、最新技術を駆使して選手の技術を紹介したりするようになった。実況・解説も、かつてのような印象論]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊テレビ評:「歴史探偵」　視聴者引き込む佐藤所長＝ペリー荻野]]></title>
-        <id>https://mainichi.jp/articles/20210529/dde/018/070/006000c</id>
-        <link href="https://mainichi.jp/articles/20210529/dde/018/070/006000c"/>
-        <updated>2021-05-29T03:10:50.000Z</updated>
-        <summary type="html"><![CDATA[ＮＨＫの歴史番組といえば、松平定知アナの名調子が懐かしい「その時歴史が動いた」（２０００～０９年）や渡辺あゆみアナや井上あさひアナが艶やかな和装で進行した「歴史秘話ヒストリア」（０９～２１年）など、偉人の足跡や大事件などを史料や記録、証言などを基に分析して、ベテラン研究者の解説をじっくり聞くイメー]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
