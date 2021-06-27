@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T04:23:57.631Z</updated>
+    <updated>2021-06-27T05:15:53.714Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2617,26 +2617,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:春の呪い]]></title>
-        <id>https://mainichi.jp/articles/20210529/ddm/018/200/025000c</id>
-        <link href="https://mainichi.jp/articles/20210529/ddm/018/200/025000c"/>
-        <updated>2021-05-28T17:04:06.000Z</updated>
-        <summary type="html"><![CDATA[◆春の呪い（東京＝後１１・２５） 　テレビ東京が土曜夜に設けた連続ドラマ枠「サタドラ」第２弾の作品。今回が第２話。主人公の立花夏美（高橋ひかる）は、恋の相手に接するかのように溺愛していた妹の春（桜田ひより）を病気で失った。春の婚約者だった柊冬吾（工藤阿須加）は、ある驚くべき理由で姉の夏美に交際を申]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴率:１７～２３日]]></title>
-        <id>https://mainichi.jp/articles/20210529/ddm/018/200/017000c</id>
-        <link href="https://mainichi.jp/articles/20210529/ddm/018/200/017000c"/>
-        <updated>2021-05-28T17:01:44.000Z</updated>
-        <summary type="html"><![CDATA[■教育・教養・実用 （１）新・情報７ｄａｙｓニュースキャスター　ＴＢＳ　１５．１　土 （１）サンデーモーニング　　　　　　　　　　　同　　１５．１　日 （３）ダーウィンが来た！　　　　　　　　　　ＮＨＫ　１４．８　日]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
