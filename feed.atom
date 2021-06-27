@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T23:18:25.546Z</updated>
+    <updated>2021-06-27T01:05:12.046Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2645,16 +2645,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://www.freecodecamp.org/news/how-to-secure-your-android-app/"/>
         <updated>2021-05-28T16:01:05.000Z</updated>
         <summary type="html"><![CDATA[If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Computer Vision with Python]]></title>
-        <id>60b0de2211ffb70827ef8d7c</id>
-        <link href="https://www.freecodecamp.org/news/advanced-computer-vision-with-python/"/>
-        <updated>2021-05-28T12:26:38.000Z</updated>
-        <summary type="html"><![CDATA[More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
