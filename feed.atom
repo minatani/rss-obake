@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T16:28:13.179Z</updated>
+    <updated>2021-06-27T17:22:21.682Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:クイズ！ドレミファドンSP]]></title>
+        <id>https://mainichi.jp/articles/20210628/ddm/018/200/045000c</id>
+        <link href="https://mainichi.jp/articles/20210628/ddm/018/200/045000c"/>
+        <updated>2021-06-27T17:14:30.000Z</updated>
+        <summary type="html"><![CDATA[◆クイズ！ドレミファドンSP（フジ＝後7・0） 　40年以上の歴史がある音楽クイズ番組。今回は夏の新ドラマに出演する俳優陣らがチームとなってイントロクイズなどに挑戦する。司会は中山秀征。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“耳寄り”な話・ＴＢＳラジオ:謙虚、臨機応変に35年]]></title>
+        <id>https://mainichi.jp/articles/20210628/ddm/018/200/043000c</id>
+        <link href="https://mainichi.jp/articles/20210628/ddm/018/200/043000c"/>
+        <updated>2021-06-27T17:12:07.000Z</updated>
+        <summary type="html"><![CDATA[月曜から金曜まで30年間にわたり放送してきた「大沢悠里のゆうゆうワイド」は5年前、土曜午後3時からの放送に移り、「ゆうゆうワイド土曜日版」として新たに歩み始めました。番組が誕生したのは1986年。インターネットはおろか、携帯電話もほとんど普及していなかった頃です。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わざおぎ登場:早変わりと「けれん」の妙　河連法眼館（義経千本桜）で佐藤忠信と源九郎狐役　中村又五郎さん]]></title>
         <id>https://mainichi.jp/articles/20210627/ddm/014/200/021000c</id>
