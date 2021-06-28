@@ -1646,6 +1646,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d07b4578f45307fee80aef",
+          "author": null,
+          "description": "Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most",
+          "link": "https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/",
+          "publishedOn": "2021-06-28T20:04:28.000Z",
+          "wordCount": 2258,
+          "title": "What is an IDE in Programming? An IDE Definition for Developers"
+        },
+        {
           "id": "60d675ac6e1a1407b6b0bea1",
           "author": null,
           "description": "In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to",
