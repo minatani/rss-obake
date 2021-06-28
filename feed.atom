@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T03:21:46.652Z</updated>
+    <updated>2021-06-28T04:24:23.928Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:岡田将生　生々しい姿を見せる　三浦大輔作・演出の舞台に主演]]></title>
+        <id>https://mainichi.jp/articles/20210628/dde/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210628/dde/018/200/013000c"/>
+        <updated>2021-06-28T03:48:35.000Z</updated>
+        <summary type="html"><![CDATA[人間の深奥を容赦なく暴き出す劇作家、三浦大輔の作・演出による舞台「物語なき、この世界。」で売れない俳優を演じる。ロックバンド銀杏BOYSのボーカル＆ギターの峯田和伸とのダブル主演だ。7月11日～8月3日がシアターコクーン、8月7～11日が京都市・京都劇場。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:映画「Arc　アーク」　石川慶監督　現代の不老不死を問う]]></title>
+        <id>https://mainichi.jp/articles/20210628/dde/018/200/011000c</id>
+        <link href="https://mainichi.jp/articles/20210628/dde/018/200/011000c"/>
+        <updated>2021-06-28T03:48:33.000Z</updated>
+        <summary type="html"><![CDATA[映画「Arc　アーク」は石川慶監督の3作目。中国系米国人ケン・リュウの短編小説を原作にしたSF作品だ。舞台は近未来の日本。死体を生前の姿のまま保存するプラスティネーションの技術が実用化し、やがて細胞の老化を食い止めて永遠の若さを保つことが可能になる。その施術を受けたリナ（芳根京子）の、130年に及]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秋元順子、円熟の歌　新曲「いちばん素敵な港町」発表]]></title>
+        <id>https://mainichi.jp/articles/20210628/dde/018/200/008000c</id>
+        <link href="https://mainichi.jp/articles/20210628/dde/018/200/008000c"/>
+        <updated>2021-06-28T03:48:30.000Z</updated>
+        <summary type="html"><![CDATA[ベテラン歌手の秋元順子が、1年ぶりの新曲「いちばん素敵な港町」とアルバム「昭和ロマネスク」（ともにキング）を発表。30日に東京都江東区のティアラこうとうで恒例のバースデーコンサートを開催する。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:クイズ！ドレミファドンSP]]></title>
         <id>https://mainichi.jp/articles/20210628/ddm/018/200/045000c</id>
