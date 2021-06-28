@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T02:04:46.516Z</updated>
+    <updated>2021-06-28T03:21:46.652Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2575,16 +2575,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210530/ddm/018/200/018000c"/>
         <updated>2021-05-29T17:00:51.000Z</updated>
         <summary type="html"><![CDATA[山で豪雨に見舞われたことをきっかけに、気象予報士の資格に興味を持った百音（清原果耶）は勉強を始めるが、専門用語に悪戦苦闘する。夏になり、百音は祖母雅代（竹下景子）の初盆に合わせて亀島の実家へ帰省する。港で父の耕治（内野聖陽）や妹の未知（蒔田彩珠）に迎えられ、百音はうれしく思う。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＳＤＧｓ、きっかけを　各局、レギュラー番組やキャンペーン　２０３０年への課題、自分の問題として]]></title>
-        <id>https://mainichi.jp/articles/20210529/dde/018/200/010000c</id>
-        <link href="https://mainichi.jp/articles/20210529/dde/018/200/010000c"/>
-        <updated>2021-05-29T14:56:57.000Z</updated>
-        <summary type="html"><![CDATA[２０３０年までに達成すべき１７の目標「ＳＤＧｓ（持続可能な開発目標）」をテーマにしたテレビ番組が各局に広がっている。ＳＤＧｓを知り、どう暮らしを変えていけばいいのか考えるきっかけを作ろうと、春からレギュラー番組を始めたり、キャンペーン期間を設けてＳＤＧｓ番組を集中的に放送したりするなど工夫を凝らす]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
