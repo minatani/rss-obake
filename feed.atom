@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T14:16:46.466Z</updated>
+    <updated>2021-06-28T15:22:05.220Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2595,16 +2595,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210531/ddm/018/200/027000c"/>
         <updated>2021-05-30T17:00:58.000Z</updated>
         <summary type="html"><![CDATA[木曜夜９時３０分になるとあふれ出す「＃かじさじ」。“Ｓｐооｎ”では読み切れないほどのコメントが流れます。とにかくリスナー熱の高い番組がスタートしました。ゲストも超豪華！　あー木曜日が待ち遠しい！]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ともに・共生社会めざして:ＳＤＧｓ、まずは知ることから　お笑いコンビ「ＥＸＩＴ」　りんたろー。さん、兼近大樹さん]]></title>
-        <id>https://mainichi.jp/articles/20210530/ddm/010/040/021000c</id>
-        <link href="https://mainichi.jp/articles/20210530/ddm/010/040/021000c"/>
-        <updated>2021-05-30T02:18:38.000Z</updated>
-        <summary type="html"><![CDATA[「ＳＤＧｓ（持続可能な開発目標）」という言葉に触れる機会が増えてきました。より良い地球の未来を築くために、国連が定めた１７項目の目標（ゴール）です。最近、ＳＤＧｓをテレビ番組やＳＮＳなど、さまざまな場で積極的にＰＲしているのが、若者を中心に絶大な人気を誇るお笑いコンビ「ＥＸＩＴ」の二人。りんたろー]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
