@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T16:29:14.167Z</updated>
+    <updated>2021-06-29T17:24:41.297Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:鈴木亮平／2　制服が持つ安心感を演技にも]]></title>
+        <id>https://mainichi.jp/articles/20210630/ddm/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210630/ddm/018/200/013000c"/>
+        <updated>2021-06-29T17:01:58.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系日曜劇場「TOKYO　MER～走る緊急救命室～」（7月4日スタート、日曜午後9時）喜多見幸太役＞ 　僕が思う理想のヒーロー像は、自分のリスクを顧みずに尽くすことのできる人。演じる喜多見がまさにそうですし、新型コロナと闘っている医療現場の方々には本当に感謝したいですね。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:くりぃむしちゅーの掘れば掘るほどスゴイ人]]></title>
+        <id>https://mainichi.jp/articles/20210630/ddm/018/200/014000c</id>
+        <link href="https://mainichi.jp/articles/20210630/ddm/018/200/014000c"/>
+        <updated>2021-06-29T17:00:55.000Z</updated>
+        <summary type="html"><![CDATA[◆くりぃむしちゅーの掘れば掘るほどスゴイ人（日テレ＝後9・0） 　日本の著名なスポーツ人をドラマ仕立てで掘り下げる番組の第4弾。3月に53歳で死去したバルセロナ五輪柔道金メダルの古賀稔彦らの秘話を描く。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Security, Compliance, and Identity Fundamental (SC-900) – Pass the Exam With This Free 4 Hour Course]]></title>
         <id>60d76f6f6e1a1407b6b0c521</id>
@@ -2665,26 +2685,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210601/ddm/018/200/010000c"/>
         <updated>2021-05-31T17:00:17.000Z</updated>
         <summary type="html"><![CDATA[◆いいいじゅー‼（ＮＨＫＢＳプレミアム＝後７・３０） 　移住を通して新たなライフスタイルを模索する人々を追ったドキュメンタリー。今回は東京から電車で１時間ほどの埼玉県小川町を取り上げる。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:歌舞伎「人情噺文七元結」　扇雀・松緑夫婦、心温まる作品]]></title>
-        <id>https://mainichi.jp/articles/20210531/dde/018/200/002000c</id>
-        <link href="https://mainichi.jp/articles/20210531/dde/018/200/002000c"/>
-        <updated>2021-05-31T04:57:29.000Z</updated>
-        <summary type="html"><![CDATA[初代三遊亭円朝口演による落語を原作にした歌舞伎「人情噺文七元結（にんじょうばなしぶんしちもっとい）」（竹柴金作脚色、尾上菊五郎監修）が、中村扇雀と尾上松緑の顔合わせにより、６月２～２３日に東京・国立劇場大劇場の「歌舞伎鑑賞教室」で上演される。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:ブルハン・クルバニ監督　破壊から再生の道へ　映画「ベルリン・アレクサンダープラッツ」]]></title>
-        <id>https://mainichi.jp/articles/20210531/dde/018/200/007000c</id>
-        <link href="https://mainichi.jp/articles/20210531/dde/018/200/007000c"/>
-        <updated>2021-05-31T04:54:49.000Z</updated>
-        <summary type="html"><![CDATA[デーブリーンの小説「ベルリン・アレクサンダー広場」は、第一次世界大戦後の大都市における人間模様を描いた大著として、ドイツ文学史に名を刻む。特に、ファスビンダー監督が手がけた同名の長編テレビ映画（１９８０年公開）により高い知名度を得た。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
