@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T15:19:49.287Z</updated>
+    <updated>2021-06-29T16:29:14.167Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2685,16 +2685,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210531/dde/018/200/007000c"/>
         <updated>2021-05-31T04:54:49.000Z</updated>
         <summary type="html"><![CDATA[デーブリーンの小説「ベルリン・アレクサンダー広場」は、第一次世界大戦後の大都市における人間模様を描いた大著として、ドイツ文学史に名を刻む。特に、ファスビンダー監督が手がけた同名の長編テレビ映画（１９８０年公開）により高い知名度を得た。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[演劇　ＮＯＤＡ・ＭＡＰ「フェイクスピア」　生死のあわいで「本物」問う＝評・濱田元子]]></title>
-        <id>https://mainichi.jp/articles/20210531/dde/018/200/005000c</id>
-        <link href="https://mainichi.jp/articles/20210531/dde/018/200/005000c"/>
-        <updated>2021-05-31T03:43:30.000Z</updated>
-        <summary type="html"><![CDATA[野田秀樹がコロナ禍に揺れる社会に放つ１年半ぶりの新作だ。タイトルにある「フェイク」、すなわち偽物がはびこる社会に焦点を当て、本物とは何か、生と死のあわいで問いかける。想像を突き抜ける世界に、言葉を操る作家の覚悟も浮かぶ。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
