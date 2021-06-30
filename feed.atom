@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T03:21:31.670Z</updated>
+    <updated>2021-06-30T04:24:25.210Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フォーカス:永野芽郁　ドラマ「ハコヅメ～たたかう！交番女子～」川合麻依役　先輩の背中追い、守る日常]]></title>
+        <id>https://mainichi.jp/articles/20210630/dde/018/200/015000c</id>
+        <link href="https://mainichi.jp/articles/20210630/dde/018/200/015000c"/>
+        <updated>2021-06-30T03:37:40.000Z</updated>
+        <summary type="html"><![CDATA[ドラマ「ハコヅメ～たたかう！交番女子～」川合麻依役（日テレ＝水曜午後10時、7月7日スタート） 　安定収入を求めて警察官になった新人“交番女子”を演じる。ハードな交番勤務にやりがいを感じられず、辞表を出そうとした矢先、元エース刑事の藤聖子（戸田恵梨香）とペアを組むことになる。「経験豊富な藤先輩と出会]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[放送作家たむらようこの窓辺から:性教育番組で時代に挑む]]></title>
+        <id>https://mainichi.jp/articles/20210630/dde/018/070/013000c</id>
+        <link href="https://mainichi.jp/articles/20210630/dde/018/070/013000c"/>
+        <updated>2021-06-30T03:37:36.000Z</updated>
+        <summary type="html"><![CDATA[テレビは社会の窓である。今回は性教育番組のお話――。 　先週のこと。福岡のテレビ局RKB毎日放送で「今夜は、おしものハナシさせてください～私たちが伝えたいこと」というバラエティー番組が放送されました。私が知ったのは公式オンラインページから。全編無料で1カ月間公開されているのでタイトルにひかれてクリ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荻原魚雷のラジオ交差点:FM移行でまさかの影響]]></title>
+        <id>https://mainichi.jp/articles/20210630/dde/018/200/011000c</id>
+        <link href="https://mainichi.jp/articles/20210630/dde/018/200/011000c"/>
+        <updated>2021-06-30T03:37:34.000Z</updated>
+        <summary type="html"><![CDATA[日ごろからラジオを聴いている人には今さらの話題かもしれないが、2028年ごろを目標に民放AMラジオ44局のFM局への移行が進んでいて、現在はその過渡期にある。 　広範囲に届くAM（中波）から放送域の狭いFM（超短波）に移行すると、設備が小規模で済み、維持費などのコストも削減できるなどのメリットがあ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
         <id>60db519527f80207bcdbb6fa</id>
