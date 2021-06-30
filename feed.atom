@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T04:24:25.210Z</updated>
+    <updated>2021-06-30T05:16:10.802Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2725,26 +2725,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210601/dde/018/070/012000c"/>
         <updated>2021-06-01T03:42:30.000Z</updated>
         <summary type="html"><![CDATA[＜いきものがかり水野良樹のそして歌を書きながら＞ 　飽きもせず、いつもコーヒーを飲んでいる。 　喫茶店やカフェと呼ばれる場所が好きだ。感染予防のために最近は行きづらくなってしまったが、以前は他人に驚かれるほど行っていた。どれほどの頻度か。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:山本里菜アナウンサー／１　一体感のある番組作り]]></title>
-        <id>https://mainichi.jp/articles/20210601/ddm/018/200/009000c</id>
-        <link href="https://mainichi.jp/articles/20210601/ddm/018/200/009000c"/>
-        <updated>2021-05-31T17:00:33.000Z</updated>
-        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ジョブチューン」（５日午後７時）進行＞ 　この４月から「ジョブチューン」の進行を担当しています。ＴＢＳに入社する前からファンで毎回見ていましたし、前任者の田中みな実アナウンサーはいろいろお世話になった大好きな先輩。その番組の一員になれると聞いた時は、すごくうれしかったです。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:いいいじゅー‼]]></title>
-        <id>https://mainichi.jp/articles/20210601/ddm/018/200/010000c</id>
-        <link href="https://mainichi.jp/articles/20210601/ddm/018/200/010000c"/>
-        <updated>2021-05-31T17:00:17.000Z</updated>
-        <summary type="html"><![CDATA[◆いいいじゅー‼（ＮＨＫＢＳプレミアム＝後７・３０） 　移住を通して新たなライフスタイルを模索する人々を追ったドキュメンタリー。今回は東京から電車で１時間ほどの埼玉県小川町を取り上げる。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
