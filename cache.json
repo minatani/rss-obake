@@ -1673,6 +1673,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d5ea736e1a1407b6b0bc8d",
+          "author": null,
+          "description": "React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on",
+          "link": "https://www.freecodecamp.org/news/learn-react-router/",
+          "publishedOn": "2021-06-30T14:01:01.000Z",
+          "wordCount": 5542,
+          "title": "Learn React Router"
+        },
+        {
           "id": "60db519527f80207bcdbb6fa",
           "author": null,
           "description": "Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!",
