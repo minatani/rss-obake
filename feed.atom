@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T15:21:56.541Z</updated>
+    <updated>2021-06-30T16:29:55.000Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2657,96 +2657,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三遊亭王楽が２０周年独演会]]></title>
-        <id>https://mainichi.jp/articles/20210601/dde/012/200/003000c</id>
-        <link href="https://mainichi.jp/articles/20210601/dde/012/200/003000c"/>
-        <updated>2021-06-01T04:20:07.000Z</updated>
-        <summary type="html"><![CDATA[芸歴２０周年を迎える三遊亭王楽が７～１３日、東京・池袋の東京芸術劇場シアターウエストで記念独演会を開く。７日間８公演、連日ゲストを迎え、自身はそれぞれのゲストの十八番にネタ出しで挑む。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logical Fallacies – Definition and Fallacy Examples]]></title>
-        <id>607f5fafdd38b9088c2bd0c9</id>
-        <link href="https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/"/>
-        <updated>2021-06-01T04:19:48.000Z</updated>
-        <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特薦盤:ロック・ブラック・ジャズ　中川ヨウ・選]]></title>
-        <id>https://mainichi.jp/articles/20210601/dde/012/070/004000c</id>
-        <link href="https://mainichi.jp/articles/20210601/dde/012/070/004000c"/>
-        <updated>2021-06-01T04:19:46.000Z</updated>
-        <summary type="html"><![CDATA[■藤井郷子東京トリオ／ムーン・オン・ザ・レイク（リブラ・レコーズ） 　今年３月、ニューヨーク・タイムズが１面をさいて藤井郷子の音楽を称賛する記事を掲載したことは記憶に新しい。その藤井の新作は、ほれ込んだ東京在住のミュージシャンと組んだトリオによる、新宿ピットインでのライブ・レコーディング（２０２０]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特薦盤:ロック・ブラック・ジャズ　中川五郎・選]]></title>
-        <id>https://mainichi.jp/articles/20210601/dde/012/070/006000c</id>
-        <link href="https://mainichi.jp/articles/20210601/dde/012/070/006000c"/>
-        <updated>2021-06-01T04:19:10.000Z</updated>
-        <summary type="html"><![CDATA[■セイント・ヴィンセント／ＤＡＤＤＹ′Ｓ　ＨＯＭＥ（Ｖｉｒｇｉｎ　Ｍｕｓｉｃ） 　オクラホマ生まれ、テキサス育ちで、ポリフォニック・スプリーやスフィアン・スティーヴンス・バンドのメンバーとして活動した後、２００７年にソロ・デビューしたセイント・ヴィンセント。本名はアニー・クラークで、芸名は敬愛する]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:西川信廣（演出家）、富沢亜古（俳優）　死を前に、どう生きるか　文学座「ウィット」で問いかけ]]></title>
-        <id>https://mainichi.jp/articles/20210601/dde/012/200/007000c</id>
-        <link href="https://mainichi.jp/articles/20210601/dde/012/200/007000c"/>
-        <updated>2021-06-01T04:18:49.000Z</updated>
-        <summary type="html"><![CDATA[文学座は５～１３日、東京・新宿の紀伊国屋サザンシアターでマーガレット・エドソンの戯曲「ウィット」（鈴木小百合訳）を上演する。末期がんの宣告を受けた女性学者が、軽快な機知を発揮しながらも、残りわずかな命と向き合う物語。演出の西川信廣が「死を目の前にした時、人はいかに生きるかを問うてくる作品です」と話]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私の記念碑:歌舞伎俳優　尾上菊五郎／４止　劇団を代表、年中目配り]]></title>
-        <id>https://mainichi.jp/articles/20210601/dde/012/200/008000c</id>
-        <link href="https://mainichi.jp/articles/20210601/dde/012/200/008000c"/>
-        <updated>2021-06-01T04:18:36.000Z</updated>
-        <summary type="html"><![CDATA[１９８０年代になると、立ち役への傾斜がさらに強まった。「め組の喧嘩（けんか）」の辰五郎、「魚屋宗五郎」の宗五郎、「髪結新三（かみゆいしんざ）」の新三。世話物の大役を次々とつとめた。「女形で幕を閉める（最後まで主演する）役は少ない。私は自分で幕を閉めたいと思いました。そうした立ち役の相手役の女形をつ]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:山川豊　デビュー４０周年ベストアルバム　歌手人生を映す４５曲]]></title>
-        <id>https://mainichi.jp/articles/20210601/dde/012/200/009000c</id>
-        <link href="https://mainichi.jp/articles/20210601/dde/012/200/009000c"/>
-        <updated>2021-06-01T04:18:22.000Z</updated>
-        <summary type="html"><![CDATA[演歌歌手の山川豊が今年、デビュー４０周年を迎え、ベストアルバム「デビュー４０周年記念コンプリートベスト」を発売した。デビュー曲の「函館本線」や大ヒットした「アメリカ橋」、昨年発売の「拳」「男の昭和挽歌」まで、収録された全４５曲には、山あり谷ありの歌手人生が映し出されている。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特集ワイド:コロナ禍に胃がんから復帰、俳優・東ちづるさん　多様性巡り分断感じ　まぜこぜに寛容であれ]]></title>
-        <id>https://mainichi.jp/articles/20210601/dde/012/200/035000c</id>
-        <link href="https://mainichi.jp/articles/20210601/dde/012/200/035000c"/>
-        <updated>2021-06-01T04:17:24.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大で、東京オリンピック・パラリンピック開催は、開会式（７月２３日）まで２カ月を切った今も賛否が分かれる。そのオリパラ公式文化プログラムの一つで総指揮を務めるのが、俳優の東ちづるさん（６０）だ。実は東さん、早期の胃がんから最近復帰したばかりなのだが、ご自身のがんよりも日本社]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[そして歌を書きながら:カフェに行けるぜいたく　店をはしご、気持ちリセット]]></title>
-        <id>https://mainichi.jp/articles/20210601/dde/018/070/012000c</id>
-        <link href="https://mainichi.jp/articles/20210601/dde/018/070/012000c"/>
-        <updated>2021-06-01T03:42:30.000Z</updated>
-        <summary type="html"><![CDATA[＜いきものがかり水野良樹のそして歌を書きながら＞ 　飽きもせず、いつもコーヒーを飲んでいる。 　喫茶店やカフェと呼ばれる場所が好きだ。感染予防のために最近は行きづらくなってしまったが、以前は他人に驚かれるほど行っていた。どれほどの頻度か。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
