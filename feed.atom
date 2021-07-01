@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T04:24:15.170Z</updated>
+    <updated>2021-07-01T05:16:21.719Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2685,46 +2685,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://www.freecodecamp.org/news/learn-next-js/"/>
         <updated>2021-06-01T17:43:56.000Z</updated>
         <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:山本里菜アナウンサー／２　毎日が違うことが新鮮]]></title>
-        <id>https://mainichi.jp/articles/20210602/ddm/018/200/022000c</id>
-        <link href="https://mainichi.jp/articles/20210602/ddm/018/200/022000c"/>
-        <updated>2021-06-01T17:01:25.000Z</updated>
-        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ジョブチューン」（５日午後７時）進行＞ 　アナウンサーを目指したのは、大学時代のミスコンテスト出場がきっかけです。イベントを進行する姿を間近で見ながら、すてきな職業だなと興味を持ちました。その前はＣＡ（客室乗務員）にずっと憧れていたので、いまだに飛行機に乗ると必ず全員を観察]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:新番組・にぶんのいち夫婦]]></title>
-        <id>https://mainichi.jp/articles/20210602/ddm/018/200/024000c</id>
-        <link href="https://mainichi.jp/articles/20210602/ddm/018/200/024000c"/>
-        <updated>2021-06-01T17:00:53.000Z</updated>
-        <summary type="html"><![CDATA[◆新番組・にぶんのいち夫婦（東京＝深夜０・４０） 　夏川ゆきのの小説と、それを元にした黒沢明世の漫画を原作とした連続ドラマ。 　結婚２年目の中山文（比嘉愛未）は、料理もできて世話好きな夫和真（竹財輝之助）と平穏な日々を送っていた。ある日、和真の携帯電話に女性からハートマーク付きのメッセージが着信す]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/"/>
-        <updated>2021-06-01T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Cybersecurity Job in 2021]]></title>
-        <id>60aff2d711ffb70827ef8829</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
-        <updated>2021-06-01T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
