@@ -2418,15 +2418,6 @@
           "publishedOn": "2021-06-02T14:45:18.000Z",
           "wordCount": 3302,
           "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
-        },
-        {
-          "id": "60b5025111ffb70827ef9ebe",
-          "author": null,
-          "description": "Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.",
-          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
-          "publishedOn": "2021-06-01T23:47:33.000Z",
-          "wordCount": 1861,
-          "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
         }
       ]
     }
