@@ -2427,15 +2427,6 @@
           "publishedOn": "2021-06-01T23:47:33.000Z",
           "wordCount": 1861,
           "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
-        },
-        {
-          "id": "60b1eed311ffb70827ef9504",
-          "author": null,
-          "description": "A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the",
-          "link": "https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/",
-          "publishedOn": "2021-06-01T20:47:43.000Z",
-          "wordCount": 1416,
-          "title": "Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe"
         }
       ]
     }
