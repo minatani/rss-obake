@@ -1637,6 +1637,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60dc78e927f80207bcdbbddc",
+          "author": null,
+          "description": "Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled",
+          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey/",
+          "publishedOn": "2021-07-01T04:36:31.000Z",
+          "wordCount": 942,
+          "title": "The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It"
+        },
+        {
           "id": "6063b8d69618b008528a9d79",
           "author": null,
           "description": "Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make",

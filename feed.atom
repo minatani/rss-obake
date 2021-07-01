@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T13:22:48.897Z</updated>
+    <updated>2021-07-01T14:16:30.184Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It]]></title>
+        <id>60dc78e927f80207bcdbbddc</id>
+        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey/"/>
+        <updated>2021-07-01T04:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寄稿:追悼　小林亜星さん　「ダサくない音楽」追求＝田家秀樹（音楽評論家）]]></title>
         <id>https://mainichi.jp/articles/20210701/dde/018/200/022000c</id>
