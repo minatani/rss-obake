@@ -6,6 +6,24 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210702/ddm/018/200/011000c",
+          "author": null,
+          "description": "◆ヒミツの昼顔（TBS＝後7・0） 　普段は見られない夫や妻の働く姿「昼顔」を観察するバラエティー。5組の夫婦がパートナーの知られざる一面をのぞき見る。MCは南海キャンディーズの山里亮太。",
+          "link": "https://mainichi.jp/articles/20210702/ddm/018/200/011000c",
+          "publishedOn": "2021-07-01T17:02:48.000Z",
+          "wordCount": 465,
+          "title": "視聴室:ヒミツの昼顔"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210702/ddm/018/200/010000c",
+          "author": null,
+          "description": "女優の二階堂ふみと有村架純は大の仲良しだ。でもお互い人気者だからなかなか会えない。そんな2人がようやくスケジュールをやり繰りして1泊2日の里山籠もりをする。BSフジで4日午後7時の「おふみとかすみの休日」はその記録。ゆったりしたテンポの中に、2人の素顔がうかがえる。",
+          "link": "https://mainichi.jp/articles/20210702/ddm/018/200/010000c",
+          "publishedOn": "2021-07-01T17:02:47.000Z",
+          "wordCount": 464,
+          "title": "ＢＳ未来館:里山で見せる女優の素顔"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210701/dde/018/200/022000c",
           "author": null,
           "description": "CMソングだけで約4000曲は書いたという作詞家の伊藤アキラさんが5月に亡くなった時、「亜星さんは大丈夫かな」と思った。すでに50年近く歌われている「この木なんの木」や「パッ！とさいでりあ」など、2人の手による曲は数多い。しかも、年は亜星さんの方が8歳上だ。彼が旅立ったのは2週間後だった。",
@@ -1618,6 +1636,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d5e7ae6e1a1407b6b0bc5a",
+          "author": null,
+          "description": "The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just released a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for",
+          "link": "https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/",
+          "publishedOn": "2021-07-01T16:51:30.000Z",
+          "wordCount": 79275,
+          "title": "Backend Web Development with Python - Full Course"
+        },
         {
           "id": "60dc78e927f80207bcdbbddc",
           "author": null,
