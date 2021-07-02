@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T02:04:10.462Z</updated>
+    <updated>2021-07-02T03:21:12.975Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2677,16 +2677,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[優れた放送番組などに贈られる第５８回ギャラクシー賞の贈賞式（放送批評懇談会主催）が２日、東京都内で行われた。テレビ部門の大賞には、フジテレビのドラマ「世界は３で出来ている」が選ばれた。他の部門の大賞は次の通り。ラジオ＝文化放送「戦後７５年スペシャル『封印された真実～軍属ラジオ』」▽報道活動＝ＴＢＳ]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
-        <id>60b51f6e11ffb70827ef9f7c</id>
-        <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
-        <updated>2021-06-02T14:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

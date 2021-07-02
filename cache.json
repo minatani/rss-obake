@@ -2436,15 +2436,6 @@
           "publishedOn": "2021-06-02T19:14:53.000Z",
           "wordCount": 2649,
           "title": "How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project"
-        },
-        {
-          "id": "60b51f6e11ffb70827ef9f7c",
-          "author": null,
-          "description": "Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in",
-          "link": "https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/",
-          "publishedOn": "2021-06-02T14:45:18.000Z",
-          "wordCount": 3302,
-          "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
         }
       ]
     }
