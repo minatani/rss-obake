@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T04:24:04.706Z</updated>
+    <updated>2021-07-02T05:16:03.280Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
+        <id>60de3cf127f80207bcdbc9af</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/"/>
+        <updated>2021-07-02T04:55:18.000Z</updated>
+        <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シネマの週末・この１本:アジアの天使　愛とビールがある旅路]]></title>
         <id>https://mainichi.jp/articles/20210702/dde/018/070/019000c</id>
@@ -2715,16 +2725,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210603/ddm/018/200/013000c"/>
         <updated>2021-06-02T17:53:11.000Z</updated>
         <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ジョブチューン」（５日午後７時）進行＞ 　ＭＣ（司会）がネプチューンさんで、パネラーはバナナマンさんと土田晃之さん。皆さん番組を積極的に盛り上げてくださって、食リポも本当にお上手。進行の私はいつも助けられています。ギャグのむちゃぶりもありますが、嫌いではない私も思い切って返]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギャラクシー賞　大賞にフジドラマ]]></title>
-        <id>https://mainichi.jp/articles/20210603/ddm/012/200/052000c</id>
-        <link href="https://mainichi.jp/articles/20210603/ddm/012/200/052000c"/>
-        <updated>2021-06-02T17:05:12.000Z</updated>
-        <summary type="html"><![CDATA[優れた放送番組などに贈られる第５８回ギャラクシー賞の贈賞式（放送批評懇談会主催）が２日、東京都内で行われた。テレビ部門の大賞には、フジテレビのドラマ「世界は３で出来ている」が選ばれた。他の部門の大賞は次の通り。ラジオ＝文化放送「戦後７５年スペシャル『封印された真実～軍属ラジオ』」▽報道活動＝ＴＢＳ]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
