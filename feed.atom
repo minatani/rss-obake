@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T15:22:18.704Z</updated>
+    <updated>2021-07-02T16:31:15.510Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2637,26 +2637,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:映画「のさりの島」　山本起也監督　天草が協力、人生投影]]></title>
-        <id>https://mainichi.jp/articles/20210603/dde/018/200/011000c</id>
-        <link href="https://mainichi.jp/articles/20210603/dde/018/200/011000c"/>
-        <updated>2021-06-03T04:24:43.000Z</updated>
-        <summary type="html"><![CDATA[「北白川派」は、京都芸術大教員の映画監督や学生による劇場公開映画の製作プロジェクト。公開中の「のさりの島」が７作目となる。山本起也監督が、熊本・天草で全編をロケした。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:松本幸四郎が演出「夢追う子」　４６人の舞踊家と踊る]]></title>
-        <id>https://mainichi.jp/articles/20210603/dde/018/200/015000c</id>
-        <link href="https://mainichi.jp/articles/20210603/dde/018/200/015000c"/>
-        <updated>2021-06-03T04:22:54.000Z</updated>
-        <summary type="html"><![CDATA[歌舞伎俳優、松本幸四郎が構成・演出し、４６人の舞踊家とともに踊る日本舞踊協会主催公演「夢追う子」（鈴木英一脚本）が、４～６日、東京・国立劇場小劇場で催される。「日本舞踊の伝統をつなぎながら、未来へ光を放つ」ことを目標に、２０１７年に始められた「日本舞踊　未来座＝祭（ＳＡＩ）＝」の第４回公演。昨年の]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
