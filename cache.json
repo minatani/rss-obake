@@ -2454,15 +2454,6 @@
           "publishedOn": "2021-06-02T20:44:22.000Z",
           "wordCount": 3441,
           "title": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More"
-        },
-        {
-          "id": "60b0f11411ffb70827ef8dbc",
-          "author": null,
-          "description": "Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,",
-          "link": "https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/",
-          "publishedOn": "2021-06-02T19:39:05.000Z",
-          "wordCount": 1155,
-          "title": "Fetch API – How to Make a GET Request and POST Request in JavaScript"
         }
       ]
     }
