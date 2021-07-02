@@ -2436,24 +2436,6 @@
           "publishedOn": "2021-06-02T22:54:18.000Z",
           "wordCount": 1415,
           "title": "How to Use Environment Variables in VanillaJS"
-        },
-        {
-          "id": "60b3ccee11ffb70827ef9bc0",
-          "author": null,
-          "description": "One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.",
-          "link": "https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/",
-          "publishedOn": "2021-06-02T21:18:15.000Z",
-          "wordCount": 2365,
-          "title": "How to Design Your Own Learning Plan for Any Tech Stack"
-        },
-        {
-          "id": "60a699b0906c5207e3a7f5ab",
-          "author": null,
-          "description": "Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following",
-          "link": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/",
-          "publishedOn": "2021-06-02T20:44:22.000Z",
-          "wordCount": 3441,
-          "title": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More"
         }
       ]
     }
