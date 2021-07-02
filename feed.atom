@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T05:16:03.280Z</updated>
+    <updated>2021-07-02T06:19:49.855Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2717,16 +2717,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:山本里菜アナウンサー／３　次回は自衛隊のヒミツ]]></title>
-        <id>https://mainichi.jp/articles/20210603/ddm/018/200/013000c</id>
-        <link href="https://mainichi.jp/articles/20210603/ddm/018/200/013000c"/>
-        <updated>2021-06-02T17:53:11.000Z</updated>
-        <summary type="html"><![CDATA[＜ＴＢＳ系バラエティー「ジョブチューン」（５日午後７時）進行＞ 　ＭＣ（司会）がネプチューンさんで、パネラーはバナナマンさんと土田晃之さん。皆さん番組を積極的に盛り上げてくださって、食リポも本当にお上手。進行の私はいつも助けられています。ギャグのむちゃぶりもありますが、嫌いではない私も思い切って返]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
