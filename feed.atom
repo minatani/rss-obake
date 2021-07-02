@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T10:20:23.309Z</updated>
+    <updated>2021-07-02T11:15:15.534Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2657,26 +2657,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[歌舞伎俳優、松本幸四郎が構成・演出し、４６人の舞踊家とともに踊る日本舞踊協会主催公演「夢追う子」（鈴木英一脚本）が、４～６日、東京・国立劇場小劇場で催される。「日本舞踊の伝統をつなぎながら、未来へ光を放つ」ことを目標に、２０１７年に始められた「日本舞踊　未来座＝祭（ＳＡＩ）＝」の第４回公演。昨年の]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
-        <id>60afce3011ffb70827ef869c</id>
-        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
-        <updated>2021-06-02T23:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
-        <id>60b3a25211ffb70827ef9b39</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
-        <updated>2021-06-02T22:54:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
