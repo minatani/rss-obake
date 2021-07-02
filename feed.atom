@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T16:31:15.510Z</updated>
+    <updated>2021-07-02T17:24:44.199Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:超速パラヒーロー　ガンディーン]]></title>
+        <id>https://mainichi.jp/articles/20210703/ddm/018/200/019000c</id>
+        <link href="https://mainichi.jp/articles/20210703/ddm/018/200/019000c"/>
+        <updated>2021-07-02T17:02:22.000Z</updated>
+        <summary type="html"><![CDATA[◆超速パラヒーロー　ガンディーン（NHK＝後6・05） 　車いす陸上に青春をかける男子高校生が、スーパーヒーロー“ガンディーン”に変身し地球を守る特撮ドラマの第2話。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アタック25、今秋終了]]></title>
+        <id>https://mainichi.jp/articles/20210703/ddm/041/200/079000c</id>
+        <link href="https://mainichi.jp/articles/20210703/ddm/041/200/079000c"/>
+        <updated>2021-07-02T17:02:20.000Z</updated>
+        <summary type="html"><![CDATA[朝日放送テレビ（ABCテレビ、大阪市）は2日、クイズ番組「パネルクイズ　アタック25」（日曜午後1時25分）の放送を今秋で終了すると発表した。1975年4月に開始し、初代司会者の児玉清さん（2011年5月に死去）らによる「アタックチャンス」というかけ声が名物だった。視聴者参加型の番組として人気を集]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴率:6月21～27日]]></title>
+        <id>https://mainichi.jp/articles/20210703/ddm/018/200/024000c</id>
+        <link href="https://mainichi.jp/articles/20210703/ddm/018/200/024000c"/>
+        <updated>2021-07-02T17:00:44.000Z</updated>
+        <summary type="html"><![CDATA[■教育・教養・実用 （1）サンデーモーニング　　　　　　　　　　TBS　14．4　日 （1）真相報道バンキシャ！　　　　　　　　　日テレ　14．4　日 （3）新・情報7daysニュースキャスター　TBS　13．7　土]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s print and dive! Cool diving gadgets for everyone]]></title>
+        <id>https://blog.prusaprinters.org/?p=52267</id>
+        <link href="https://blog.prusaprinters.org/lets-print-and-dive-cool-diving-gadgets-for-everyone_52267/"/>
+        <updated>2021-07-02T16:50:20.000Z</updated>
+        <summary type="html"><![CDATA[Are there any divers among us? We saw several cool models on PrusaPrinters that show that the diving community is using 3D printing to improve…
+The post Let’s print and dive! Cool diving gadgets for everyone appeared first on Prusa Printers.]]></summary>
+        <author>
+            <name>Jakub Kočí</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
         <id>60de3cf127f80207bcdbc9af</id>

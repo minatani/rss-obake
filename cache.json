@@ -6,6 +6,33 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210703/ddm/018/200/019000c",
+          "author": null,
+          "description": "◆超速パラヒーロー　ガンディーン（NHK＝後6・05） 　車いす陸上に青春をかける男子高校生が、スーパーヒーロー“ガンディーン”に変身し地球を守る特撮ドラマの第2話。",
+          "link": "https://mainichi.jp/articles/20210703/ddm/018/200/019000c",
+          "publishedOn": "2021-07-02T17:02:22.000Z",
+          "wordCount": 467,
+          "title": "視聴室:超速パラヒーロー　ガンディーン"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210703/ddm/041/200/079000c",
+          "author": null,
+          "description": "朝日放送テレビ（ABCテレビ、大阪市）は2日、クイズ番組「パネルクイズ　アタック25」（日曜午後1時25分）の放送を今秋で終了すると発表した。1975年4月に開始し、初代司会者の児玉清さん（2011年5月に死去）らによる「アタックチャンス」というかけ声が名物だった。視聴者参加型の番組として人気を集",
+          "link": "https://mainichi.jp/articles/20210703/ddm/041/200/079000c",
+          "publishedOn": "2021-07-02T17:02:20.000Z",
+          "wordCount": 450,
+          "title": "アタック25、今秋終了"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210703/ddm/018/200/024000c",
+          "author": null,
+          "description": "■教育・教養・実用 （1）サンデーモーニング　　　　　　　　　　TBS　14．4　日 （1）真相報道バンキシャ！　　　　　　　　　日テレ　14．4　日 （3）新・情報7daysニュースキャスター　TBS　13．7　土",
+          "link": "https://mainichi.jp/articles/20210703/ddm/018/200/024000c",
+          "publishedOn": "2021-07-02T17:00:44.000Z",
+          "wordCount": 476,
+          "title": "視聴率:6月21～27日"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210702/dde/018/070/019000c",
           "author": null,
           "description": "商業映画で挑戦を続ける石井裕也監督、公開中の「茜（あかね）色に焼かれる」に続く新作だ。韓国が舞台のロードムービーで、文化と言葉の壁を越える。 　売れない小説家の剛（池松壮亮）は幼い息子を連れて、ソウルに兄透（オダギリジョー）を訪ねた。透が一緒に商売をやろうと誘ったのだ。ところが現地の共同経営者が財",
@@ -1587,6 +1614,20 @@
       "feedUrl": "https://blog.prusaprinters.org/feed/",
       "siteUrl": "https://blog.prusaprinters.org",
       "articles": [
+        {
+          "id": "https://blog.prusaprinters.org/?p=52267",
+          "author": "Jakub Kočí",
+          "description": "Are there any divers among us? We saw several cool models on PrusaPrinters that show that the diving community is using 3D printing to improve…\nThe post Let’s print and dive! Cool diving gadgets for everyone appeared first on Prusa Printers.",
+          "link": "https://blog.prusaprinters.org/lets-print-and-dive-cool-diving-gadgets-for-everyone_52267/",
+          "publishedOn": "2021-07-02T16:50:20.000Z",
+          "wordCount": 1859,
+          "title": "Let’s print and dive! Cool diving gadgets for everyone",
+          "enclosure": {
+            "url": "https://blog.prusaprinters.org/wp-content/uploads/2021/07/thumb-698x325.jpg",
+            "length": "44952",
+            "type": "image/jpeg"
+          }
+        },
         {
           "id": "https://blog.prusaprinters.org/?p=51436",
           "author": "josefprusa",
