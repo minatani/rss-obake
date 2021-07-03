@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T04:23:41.089Z</updated>
+    <updated>2021-07-03T05:15:42.561Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2666,46 +2666,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
         <updated>2021-06-03T18:07:17.000Z</updated>
         <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浜口監督新作カンヌのコンペ入り]]></title>
-        <id>https://mainichi.jp/articles/20210604/ddm/012/200/026000c</id>
-        <link href="https://mainichi.jp/articles/20210604/ddm/012/200/026000c"/>
-        <updated>2021-06-03T17:06:11.000Z</updated>
-        <summary type="html"><![CDATA[フランスで７月６～１７日に開催される世界最高峰の映画祭、第７４回カンヌ国際映画祭で最高賞「パルムドール」などを競うコンペティション部門に、浜口竜介監督（４２）の新作「ドライブ・マイ・カー」が選出された。映画祭事務局が３日発表した。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＢＳ未来館:クールではないＪａｐａｎ]]></title>
-        <id>https://mainichi.jp/articles/20210604/ddm/018/200/006000c</id>
-        <link href="https://mainichi.jp/articles/20210604/ddm/018/200/006000c"/>
-        <updated>2021-06-03T17:02:49.000Z</updated>
-        <summary type="html"><![CDATA[ＮＨＫＢＳ１の「ＣＯＯＬ　ＪＡＰＡＮ～発掘！かっこいいニッポン～」（日曜午後６時）は、外国人から見た日本のｃｏｏｌ（かっこいい）なものを聞く番組だ。だが６日の放送は司会の鴻上尚史が「今日は針のムシロ」と身をすくめる。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:ウワサのお客さま]]></title>
-        <id>https://mainichi.jp/articles/20210604/ddm/018/200/012000c</id>
-        <link href="https://mainichi.jp/articles/20210604/ddm/018/200/012000c"/>
-        <updated>2021-06-03T17:01:09.000Z</updated>
-        <summary type="html"><![CDATA[◆ウワサのお客さま（フジ＝後８・０） 　日本中のさまざまな店でうわさになっている客を潜入取材するバラエティー番組。今回は３人の女性を中心に取り上げる。ＭＣはサンドウィッチマンと川島明（麒麟）。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
-        <id>60aa708711ffb70827ef5f4b</id>
-        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
-        <updated>2021-06-03T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
