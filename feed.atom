@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T15:20:49.092Z</updated>
+    <updated>2021-07-03T16:28:09.268Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2596,26 +2596,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://mainichi.jp/articles/20210604/dde/018/070/018000c"/>
         <updated>2021-06-04T04:32:07.000Z</updated>
         <summary type="html"><![CDATA[邦画も洋画も、女性の現在地を問う作品が次々と公開されている。そのものズバリのタイトルを掲げたこの映画、「おだやかな日常」「ふゆの獣」などの異才、内田伸輝監督が、コロナ禍に「女たち」を描く。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「香港に自由を」スター歌手の苦闘　デニス・ホーさんを追った米映画公開]]></title>
-        <id>https://mainichi.jp/articles/20210604/dde/007/030/023000c</id>
-        <link href="https://mainichi.jp/articles/20210604/dde/007/030/023000c"/>
-        <updated>2021-06-04T04:06:53.000Z</updated>
-        <summary type="html"><![CDATA[アジアを代表する、香港のスター歌手のデニス・ホー（何韻詩）さんは、２０１４年に香港の民主化要求デモ「雨傘運動」に参加したため中国市場から締め出され、香港でも苦境の中にある。「香港に自由を」と訴え続けながら、新たな音楽活動の道を模索する姿を追った米ドキュメンタリー映画「デニス・ホー　ビカミング・ザ・]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・チャートの裏側:ディズニーの模索、観客は]]></title>
-        <id>https://mainichi.jp/articles/20210604/dde/018/070/006000c</id>
-        <link href="https://mainichi.jp/articles/20210604/dde/018/070/006000c"/>
-        <updated>2021-06-04T03:51:14.000Z</updated>
-        <summary type="html"><![CDATA[先週末、新作３本のうち、「ＨＯＫＵＳＡＩ」「アオラレ」は東京２３区内の上映館がなかった。「クルエラ」は１館のみ。前者は、東京都による映画館の休業要請による。後者は、劇場公開と配信が、ほぼ同時期展開の影響だ。休業要請がなくても、大手シネコンは上映を控える。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
