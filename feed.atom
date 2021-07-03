@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T14:15:49.302Z</updated>
+    <updated>2021-07-03T15:20:49.092Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2618,16 +2618,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <summary type="html"><![CDATA[先週末、新作３本のうち、「ＨＯＫＵＳＡＩ」「アオラレ」は東京２３区内の上映館がなかった。「クルエラ」は１館のみ。前者は、東京都による映画館の休業要請による。後者は、劇場公開と配信が、ほぼ同時期展開の影響だ。休業要請がなくても、大手シネコンは上映を控える。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
-        <id>60b98ebfacb62507dd1d8ec4</id>
-        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
-        <updated>2021-06-04T02:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
