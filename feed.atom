@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T05:15:42.561Z</updated>
+    <updated>2021-07-03T06:23:21.975Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2656,16 +2656,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
         <updated>2021-06-03T18:42:20.000Z</updated>
         <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
-        <id>60affbe411ffb70827ef8951</id>
-        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
-        <updated>2021-06-03T18:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

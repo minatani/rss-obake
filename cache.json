@@ -2423,15 +2423,6 @@
           "publishedOn": "2021-06-03T18:42:20.000Z",
           "wordCount": 1748,
           "title": "Lists in Python – A Comprehensive Guide"
-        },
-        {
-          "id": "60affbe411ffb70827ef8951",
-          "author": null,
-          "description": "A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a",
-          "link": "https://www.freecodecamp.org/news/build-a-hackintosh/",
-          "publishedOn": "2021-06-03T18:07:17.000Z",
-          "wordCount": 2708,
-          "title": "How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore"
         }
       ]
     }
