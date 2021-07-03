@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T06:23:21.975Z</updated>
+    <updated>2021-07-03T07:16:31.967Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2636,26 +2636,6 @@ The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared f
         <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
         <updated>2021-06-03T21:44:03.000Z</updated>
         <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
-        <id>60afd68611ffb70827ef86d8</id>
-        <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
-        <updated>2021-06-03T18:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called "Schofield's Laws of Computing". Jack didn't create these]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
-        <id>60b7c02cacb62507dd1d7b80</id>
-        <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
-        <updated>2021-06-03T18:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

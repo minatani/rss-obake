@@ -2405,24 +2405,6 @@
           "publishedOn": "2021-06-03T21:44:03.000Z",
           "wordCount": 3978,
           "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
-        },
-        {
-          "id": "60afd68611ffb70827ef86d8",
-          "author": null,
-          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called \"Schofield's Laws of Computing\". Jack didn't create these",
-          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
-          "publishedOn": "2021-06-03T18:46:12.000Z",
-          "wordCount": 1588,
-          "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
-        },
-        {
-          "id": "60b7c02cacb62507dd1d7b80",
-          "author": null,
-          "description": "Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to",
-          "link": "https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/",
-          "publishedOn": "2021-06-03T18:42:20.000Z",
-          "wordCount": 1748,
-          "title": "Lists in Python – A Comprehensive Guide"
         }
       ]
     }
