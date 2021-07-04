@@ -1628,20 +1628,6 @@
             "length": "29016",
             "type": "image/jpeg"
           }
-        },
-        {
-          "id": "https://blog.prusaprinters.org/?p=51082",
-          "author": "David Řehoř",
-          "description": "We have recently released a new 3.10 firmware version for all members of our Original Prusa i3 MK3 flagship 3D printer family. There is a…\nThe post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared first on Prusa Printers.",
-          "link": "https://blog.prusaprinters.org/prusa-dev-diaries-4-getting-the-most-out-of-8-bit-firmware_51082/",
-          "publishedOn": "2021-06-04T15:14:55.000Z",
-          "wordCount": 1871,
-          "title": "Prusa Dev Diaries #4: Getting the most out of 8-bit firmware",
-          "enclosure": {
-            "url": "https://blog.prusaprinters.org/wp-content/uploads/2021/12/devdiary_fw-698x325.jpg",
-            "length": "33288",
-            "type": "image/jpeg"
-          }
         }
       ]
     },

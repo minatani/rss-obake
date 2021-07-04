@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T02:01:38.334Z</updated>
+    <updated>2021-07-04T03:20:51.469Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2567,17 +2567,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <summary type="html"><![CDATA[◆新番組・＃コールドゲーム（フジ＝深夜０・１０） 　２０ＸＸ年、隕石（いんせき）落下の影響で氷点下４５度の氷河期に突入した地球を舞台にしたサバイバルドラマの第１話。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prusa Dev Diaries #4: Getting the most out of 8-bit firmware]]></title>
-        <id>https://blog.prusaprinters.org/?p=51082</id>
-        <link href="https://blog.prusaprinters.org/prusa-dev-diaries-4-getting-the-most-out-of-8-bit-firmware_51082/"/>
-        <updated>2021-06-04T15:14:55.000Z</updated>
-        <summary type="html"><![CDATA[We have recently released a new 3.10 firmware version for all members of our Original Prusa i3 MK3 flagship 3D printer family. There is a…
-The post Prusa Dev Diaries #4: Getting the most out of 8-bit firmware appeared first on Prusa Printers.]]></summary>
-        <author>
-            <name>David Řehoř</name>
         </author>
     </entry>
 </feed>
