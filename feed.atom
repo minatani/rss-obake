@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T05:15:39.827Z</updated>
+    <updated>2021-07-04T06:23:13.494Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2535,16 +2535,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
         <updated>2021-06-04T20:41:29.000Z</updated>
         <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
-        <id>60b2a4c611ffb70827ef9842</id>
-        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
-        <updated>2021-06-04T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
