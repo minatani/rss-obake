@@ -2283,15 +2283,6 @@
           "publishedOn": "2021-06-07T15:01:26.000Z",
           "wordCount": 1547,
           "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
-        },
-        {
-          "id": "60b3480c11ffb70827ef9a88",
-          "author": null,
-          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
-          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
-          "publishedOn": "2021-06-04T21:34:33.000Z",
-          "wordCount": 2174,
-          "title": "How to Search and Filter Components in React"
         }
       ]
     }

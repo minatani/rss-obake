@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T09:19:24.012Z</updated>
+    <updated>2021-07-04T10:20:05.337Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2507,16 +2507,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <summary type="html"><![CDATA[「世界一受けたい授業」では「奇跡の頭ほぐし」でたるみを改善するテクニックと「育ちがいい人」のマナーがテーマ。紹介された本の著者の先生、お二人の成功者オーラも印象的です。指や関節を使い、頭皮のコリをほぐすたるみ防止テクニックや、食事の仕方や靴の脱ぎ方など日常の仕草で育ちのよさを醸し出す方法など。教養]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
-        <id>60b3480c11ffb70827ef9a88</id>
-        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
-        <updated>2021-06-04T21:34:33.000Z</updated>
-        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
