@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T16:29:12.402Z</updated>
+    <updated>2021-07-05T17:22:52.555Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:重岡大毅（ジャニーズWEST）／1　演じてみたかった父親役]]></title>
+        <id>https://mainichi.jp/articles/20210706/ddm/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210706/ddm/018/200/013000c"/>
+        <updated>2021-07-05T17:01:15.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系金曜ドラマ「＃家族募集します」（9日スタート、金曜午後10時）赤城俊平役＞ 　シングルファーザーやシングルマザーが一つ屋根の下で子育てをし、家族のようになっていく、少し変わったホームドラマです。SNS（ネット交流サービス）への投稿をきっかけに始まる話で、タイトルも「＃家族募集します」。今]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:新番組・彼女はキレイだった]]></title>
+        <id>https://mainichi.jp/articles/20210706/ddm/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210706/ddm/018/200/012000c"/>
+        <updated>2021-07-05T17:00:24.000Z</updated>
+        <summary type="html"><![CDATA[◆新番組・彼女はキレイだった（フジ＝後9・0） 　小学校以来の再会を果たしたものの、互いの外見がすっかり変わったことで巻き起こるラブコメディー。関西テレビ制作。 　優等生の美少女だった佐藤愛（小芝風花）は容姿を気に留めず、28歳の誕生日にアルバイトをクビになる。落ち込んでいると、17年前に転校した]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中村種之助が自主公演　「鏡獅子」披露]]></title>
         <id>https://mainichi.jp/articles/20210705/dde/018/200/013000c</id>
