@@ -1664,6 +1664,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b22e9611ffb70827ef9547",
+          "author": null,
+          "description": "In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good",
+          "link": "https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/",
+          "publishedOn": "2021-07-06T16:02:13.000Z",
+          "wordCount": 2286,
+          "title": "How to Authenticate Users and Implement CORS in Node.js Apps"
+        },
+        {
           "id": "60df35f027f80207bcdbccea",
           "author": null,
           "description": "Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of",
