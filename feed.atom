@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T16:28:59.622Z</updated>
+    <updated>2021-07-06T17:22:56.094Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生きる:小児がん征圧キャンペーン　闘病の子たちを激励　谷村新司さんら、コンサート]]></title>
+        <id>https://mainichi.jp/articles/20210707/ddm/012/040/099000c</id>
+        <link href="https://mainichi.jp/articles/20210707/ddm/012/040/099000c"/>
+        <updated>2021-07-06T17:01:31.000Z</updated>
+        <summary type="html"><![CDATA[チャリティーを目的とした「谷村新司プレミアムコンサート　生きる2021　～小児がんなど病気と闘う子どもたちとともに～」（毎日新聞社主催）が6日、東京都渋谷区のBunkamuraオーチャードホールで開かれた。谷村さんは、ゲスト出演した歌手の夏川りみさんとデュエットで「いい日旅立ち」を披露するなどし、]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:重岡大毅（ジャニーズWEST）／2　将来は背中で見せる父親に]]></title>
+        <id>https://mainichi.jp/articles/20210707/ddm/018/200/027000c</id>
+        <link href="https://mainichi.jp/articles/20210707/ddm/018/200/027000c"/>
+        <updated>2021-07-06T17:01:29.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系金曜ドラマ「＃家族募集します」（9日スタート、金曜午後10時）赤城俊平役＞ 　主人公の俊平は、子育てに苦戦しながらも、努めて明るく生きるシングルファーザー。一人で頑張り過ぎて、周りが見えなくなってしまっているところがあります。その感じ、僕もよく分かります。僕もあまり要領がいいタイプではな]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:新番組・ハコヅメ～たたかう！交番女子～]]></title>
+        <id>https://mainichi.jp/articles/20210707/ddm/018/200/023000c</id>
+        <link href="https://mainichi.jp/articles/20210707/ddm/018/200/023000c"/>
+        <updated>2021-07-06T17:00:54.000Z</updated>
+        <summary type="html"><![CDATA[◆新番組・ハコヅメ～たたかう！交番女子～（日テレ＝後10・0） 　交番を舞台に、女性警察官の日常を描く連続ドラマの第1話。県警に勤務経験のある泰三子の漫画が原作。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Authenticate Users and Implement CORS in Node.js Apps]]></title>
         <id>60b22e9611ffb70827ef9547</id>
@@ -2557,36 +2587,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <summary type="html"><![CDATA[ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:市川猿之助が演出・主演「日蓮」　心にしみる作品に]]></title>
-        <id>https://mainichi.jp/articles/20210607/dde/018/200/009000c</id>
-        <link href="https://mainichi.jp/articles/20210607/dde/018/200/009000c"/>
-        <updated>2021-06-07T04:53:02.000Z</updated>
-        <summary type="html"><![CDATA[市川猿之助が演出・主演する「日蓮」（横内謙介構成・脚本・演出）が、東京・歌舞伎座「六月大歌舞伎」第3部で28日まで上演されている。 　日蓮が生まれたのが、貞応元（1222）年であることから、『降誕八百年記念』として企画された。比叡山の修行僧蓮長が、法華経の教えを広めることを心に決め、名を日蓮と改め]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画のミカタ:命の平等とは＝勝田友巳]]></title>
-        <id>https://mainichi.jp/articles/20210607/dde/018/200/011000c</id>
-        <link href="https://mainichi.jp/articles/20210607/dde/018/200/011000c"/>
-        <updated>2021-06-07T04:52:00.000Z</updated>
-        <summary type="html"><![CDATA[「ブラックバード　家族が家族であるうちに」（11日公開）ではスーザン・サランドン演じる主人公が、サム・ニールの医者の夫と2人で住む家に、娘たちとそのパートナー、親友の大学教授を集める。彼女は進行性の病で安楽死を決め、最後の週末を過ごそうというのだ。2人の娘のうち姉は母親の希望に納得しているが、妹は]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:アルバム「ウィズ・スインギンドラゴンタイガーブギ」発売　人気ジャズ漫画の世界表現]]></title>
-        <id>https://mainichi.jp/articles/20210607/dde/018/200/014000c</id>
-        <link href="https://mainichi.jp/articles/20210607/dde/018/200/014000c"/>
-        <updated>2021-06-07T04:48:16.000Z</updated>
-        <summary type="html"><![CDATA[週刊漫画雑誌「モーニング」（講談社）で連載中の人気ジャズ漫画「スインギンドラゴンタイガーブギ」に登場する曲を集めたコンピレーションアルバム「ウィズ・スインギンドラゴンタイガーブギ」（ユニバーサル）が発売された。漫画は3月に文化庁メディア芸術祭マンガ部門で新人賞に選ばれた注目作で、実際の音楽を聴くこ]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
