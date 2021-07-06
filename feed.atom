@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T14:16:33.981Z</updated>
+    <updated>2021-07-06T15:21:36.678Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 JavaScript Tips to Improve Your React Code]]></title>
+        <id>60df35f027f80207bcdbccea</id>
+        <link href="https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/"/>
+        <updated>2021-07-06T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Schedule a Job in Node Using node-cron]]></title>
+        <id>60aa196411ffb70827ef5f43</id>
+        <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
+        <updated>2021-07-06T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[芸人・大川総裁、なぜ首相会見に？　コロナ対策に「現場の声ぶつける」]]></title>
         <id>https://mainichi.jp/articles/20210706/dde/007/010/027000c</id>

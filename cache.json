@@ -1664,6 +1664,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60df35f027f80207bcdbccea",
+          "author": null,
+          "description": "Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of",
+          "link": "https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/",
+          "publishedOn": "2021-07-06T15:12:00.000Z",
+          "wordCount": 1570,
+          "title": "5 JavaScript Tips to Improve Your React Code"
+        },
+        {
+          "id": "60aa196411ffb70827ef5f43",
+          "author": null,
+          "description": "In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and",
+          "link": "https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/",
+          "publishedOn": "2021-07-06T14:27:26.000Z",
+          "wordCount": 2989,
+          "title": "How to Schedule a Job in Node Using node-cron"
+        },
+        {
           "id": "60de3cf127f80207bcdbc9af",
           "author": null,
           "description": "We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can",
