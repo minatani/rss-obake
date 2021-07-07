@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T04:24:19.253Z</updated>
+    <updated>2021-07-07T05:16:03.622Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2597,36 +2597,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <summary type="html"><![CDATA[Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:博多大吉／1　番組がペット代わりに]]></title>
-        <id>https://mainichi.jp/articles/20210608/ddm/018/200/011000c</id>
-        <link href="https://mainichi.jp/articles/20210608/ddm/018/200/011000c"/>
-        <updated>2021-06-07T17:01:41.000Z</updated>
-        <summary type="html"><![CDATA[＜TBS系バラエティー「笑える！泣ける！動物スクープ100連発」（10日午後8時）MC（司会）＞ 　一昨年スタートした単発番組ですが、放送が大変なハイペースで、早くも第16弾を迎えます。動物のスクープ映像100連発なので、かれこれ1600発。いったいスタッフはどれだけ面白映像を隠し持っているんでし]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[放送文化基金賞決まる]]></title>
-        <id>https://mainichi.jp/articles/20210608/ddm/012/200/107000c</id>
-        <link href="https://mainichi.jp/articles/20210608/ddm/012/200/107000c"/>
-        <updated>2021-06-07T17:01:27.000Z</updated>
-        <summary type="html"><![CDATA[放送分野で優れた番組や個人・グループを表彰する第47回放送文化基金賞（主催・公益財団法人放送文化基金）が7日、発表された。テレビドラマ部門の最優秀賞はNHK仙台拠点放送局の「宮城発地域ドラマ　ペペロンチーノ」が選ばれた。他の部門の最優秀賞は、テレビドキュメンタリー部門で「メ～テレドキュメント　面会]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:初出しトーク笑いダネ]]></title>
-        <id>https://mainichi.jp/articles/20210608/ddm/018/200/012000c</id>
-        <link href="https://mainichi.jp/articles/20210608/ddm/018/200/012000c"/>
-        <updated>2021-06-07T17:00:56.000Z</updated>
-        <summary type="html"><![CDATA[◆初出しトーク笑いダネ（日テレ＝後9・0） 　さまざまな芸能人が、自身や周りの芸能人に関する公表したことがないエピソードを披露する。MCは内村光良とさまぁ～ず。 　庄司智春は、妻の藤本美貴とのなれそめが田村淳とナンパに明け暮れていたことと明かし、当時のやり取りをリアルに再現する。いとうあさこは、大]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
