@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T16:36:13.356Z</updated>
+    <updated>2021-07-07T17:31:27.820Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way]]></title>
+        <id>60ccd1794dc1a607ed7b4feb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/"/>
+        <updated>2021-07-07T17:28:00.000Z</updated>
+        <summary type="html"><![CDATA[A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Comprehension in Python Explained for Beginners]]></title>
+        <id>60e25e17134ad707be00d947</id>
+        <link href="https://www.freecodecamp.org/news/list-comprehension-in-python/"/>
+        <updated>2021-07-07T17:25:39.000Z</updated>
+        <summary type="html"><![CDATA[List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:重岡大毅（ジャニーズWEST）／3　チーム一丸でドラマ作り]]></title>
+        <id>https://mainichi.jp/articles/20210708/ddm/018/200/027000c</id>
+        <link href="https://mainichi.jp/articles/20210708/ddm/018/200/027000c"/>
+        <updated>2021-07-07T17:12:58.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系金曜ドラマ「＃家族募集します」（9日スタート、金曜午後10時）赤城俊平役＞ 　子供が発するパワーって理屈じゃないですね。こちらも引っ張られて自然に笑顔になるし、息子役の佐藤遥灯君が頑張っている姿に、底力が湧いてくるようです。仲野太賀君演じる幼なじみとワイワイふざける場面や、それを木村文乃]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:イタイケに恋して]]></title>
+        <id>https://mainichi.jp/articles/20210708/ddm/018/200/024000c</id>
+        <link href="https://mainichi.jp/articles/20210708/ddm/018/200/024000c"/>
+        <updated>2021-07-07T17:11:39.000Z</updated>
+        <summary type="html"><![CDATA[◆イタイケに恋して（日テレ＝後11・59） 　不器用な男3人が、恋のキューピッドとなるべく奮闘するラブコメディーの第2話。脚本は「おっさんずラブ」「私の家政夫ナギサさん」の徳尾浩司。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts]]></title>
         <id>60c38e76d3126007592d66cd</id>
@@ -2577,26 +2617,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:眞鍋卓嗣　見えぬ大衆がポイント　英新聞業界巡る舞台「インク」演出]]></title>
-        <id>https://mainichi.jp/articles/20210608/dde/012/200/007000c</id>
-        <link href="https://mainichi.jp/articles/20210608/dde/012/200/007000c"/>
-        <updated>2021-06-08T05:04:02.000Z</updated>
-        <summary type="html"><![CDATA[劇団俳優座は11～27日、東京・六本木の俳優座稽古（けいこ）場で戯曲「インク」を上演する。メディア王、ルパート・マードックと英国の大衆紙を巡る話題作。演出の眞鍋卓嗣は「新たな新聞を作るという一つの目的へ、みんながワチャワチャと向かう姿を、演劇ならではのアナログな表現で見せます。今だからこそ、新鮮で]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私の記念碑:女性デュオ　花＊花／1　思い合ったハーモニー]]></title>
-        <id>https://mainichi.jp/articles/20210608/dde/012/200/008000c</id>
-        <link href="https://mainichi.jp/articles/20210608/dde/012/200/008000c"/>
-        <updated>2021-06-08T04:54:26.000Z</updated>
-        <summary type="html"><![CDATA[タイトルを見たり聞いたりしただけで歌声やメロディーが自然と浮かぶ曲がある。2000年に大ヒットした「あ～よかった」もそんな曲の一つだろう。 　恋する気持ちや何気ない日常を飾らない詞に乗せて歌う女性デュオ「花＊花」。こじまいづみ、おのまきこの2人がそれぞれ作詞作曲、ボーカル、ピアノの全てをこなすユニ]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
