@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T03:20:50.803Z</updated>
+    <updated>2021-07-07T04:24:19.253Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フォーカス:仲村トオル　ドラマ「八月は夜のバッティングセンターで。」伊藤智弘役　野球から学ぶ人生論]]></title>
+        <id>https://mainichi.jp/articles/20210707/dde/018/200/015000c</id>
+        <link href="https://mainichi.jp/articles/20210707/dde/018/200/015000c"/>
+        <updated>2021-07-07T04:07:48.000Z</updated>
+        <summary type="html"><![CDATA[ドラマ「八月は夜のバッティングセンターで。」伊藤智弘役（テレビ東京系＝水曜深夜1時10分、7日スタート） 　「僕は1965年生まれ。野球は国民的スポーツ、国民的な娯楽でした」]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特集ワイド:「言葉の力」映画で取り戻したい　コロナ禍に相次ぎ新作公開　石井裕也監督]]></title>
+        <id>https://mainichi.jp/articles/20210707/dde/012/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210707/dde/012/200/013000c"/>
+        <updated>2021-07-07T03:52:53.000Z</updated>
+        <summary type="html"><![CDATA[日本の映画界をけん引する若手の石井裕也監督（38）が春先からコロナ禍にあらがうように映画館で新作の公開を続けている。都市部の映画館では新型コロナウイルスの感染状況をにらんでの上映が続いており、興行を取り巻く環境はかなり厳しい。コロナ禍に何を見ているのだろうか。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私の体はテレビでできている:日常を彩る雑談の効用]]></title>
+        <id>https://mainichi.jp/articles/20210707/dde/018/070/014000c</id>
+        <link href="https://mainichi.jp/articles/20210707/dde/018/070/014000c"/>
+        <updated>2021-07-07T03:47:00.000Z</updated>
+        <summary type="html"><![CDATA[＜教授・岡室美奈子の私の体はテレビでできている＞ 　新型コロナウイルス禍で雑談の効用について改めて考えている。私自身は移動の時間も労力も節約できるオンライン会議を重宝しているのだが、最大の欠点は雑談がしにくいことではないかと思う。オンライン会議だけではない。会食や飲み会をしなくなって、人と一緒に飲]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荻原魚雷のラジオ交差点:学生にエール　オチケン受賞]]></title>
+        <id>https://mainichi.jp/articles/20210707/dde/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210707/dde/018/200/012000c"/>
+        <updated>2021-07-07T03:46:58.000Z</updated>
+        <summary type="html"><![CDATA[雑誌「GALAC」（放送批評懇談会）の7月号の特集は「決定！　第58回ギャラクシー賞」。ギャラクシー賞はテレビやラジオなどの優れた番組や個人・団体に贈られる賞。ラジオ部門では文化放送の「戦後75年スペシャル　封印された真実～軍属ラジオ」がギャラクシー大賞に選ばれた。そしてギャラクシーDJパーソナリ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automatically Upload an Android App Bundle to the Play Store]]></title>
         <id>60e16e1b134ad707be00d6bc</id>
