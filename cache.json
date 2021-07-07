@@ -1673,6 +1673,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60d5ec446e1a1407b6b0bcae",
+          "author": null,
+          "description": "Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but",
+          "link": "https://www.freecodecamp.org/news/what-is-binary-search/",
+          "publishedOn": "2021-07-07T13:57:56.000Z",
+          "wordCount": 13488,
+          "title": "What is Binary Search?"
+        },
+        {
           "id": "60e16e1b134ad707be00d6bc",
           "author": null,
           "description": "In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use",
@@ -1707,6 +1716,15 @@
           "publishedOn": "2021-07-06T14:27:26.000Z",
           "wordCount": 2989,
           "title": "How to Schedule a Job in Node Using node-cron"
+        },
+        {
+          "id": "60df6dd827f80207bcdbcf06",
+          "author": null,
+          "description": "Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/",
+          "publishedOn": "2021-07-06T13:55:00.000Z",
+          "wordCount": 109640,
+          "title": "Get Ready to Pass CISSP Exam"
         },
         {
           "id": "60de3cf127f80207bcdbc9af",

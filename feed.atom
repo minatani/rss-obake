@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T13:24:18.601Z</updated>
+    <updated>2021-07-07T14:19:03.935Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Binary Search?]]></title>
+        <id>60d5ec446e1a1407b6b0bcae</id>
+        <link href="https://www.freecodecamp.org/news/what-is-binary-search/"/>
+        <updated>2021-07-07T13:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォーカス:仲村トオル　ドラマ「八月は夜のバッティングセンターで。」伊藤智弘役　野球から学ぶ人生論]]></title>
         <id>https://mainichi.jp/articles/20210707/dde/018/200/015000c</id>
@@ -112,6 +122,16 @@
         <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
         <updated>2021-07-06T14:27:26.000Z</updated>
         <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready to Pass CISSP Exam]]></title>
+        <id>60df6dd827f80207bcdbcf06</id>
+        <link href="https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/"/>
+        <updated>2021-07-06T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
