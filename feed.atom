@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T15:26:27.084Z</updated>
+    <updated>2021-07-07T16:36:13.356Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts]]></title>
+        <id>60c38e76d3126007592d66cd</id>
+        <link href="https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/"/>
+        <updated>2021-07-07T15:43:17.000Z</updated>
+        <summary type="html"><![CDATA[I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Binary Search?]]></title>
         <id>60d5ec446e1a1407b6b0bcae</id>
@@ -314,6 +324,16 @@
         <summary type="html"><![CDATA[◆TOKYO　MER～走る救急救命室～（TBS＝後9・0） 　患者の命を救うため、事故や災害などの現場に駆けつける救命救急チーム「TOKYO　MER」の活躍を描く医療ドラマの第1話。脚本は黒岩勉。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Format Dates in JavaScript with One Line of Code]]></title>
+        <id>60df127a27f80207bcdbcac9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/"/>
+        <updated>2021-07-03T06:24:00.000Z</updated>
+        <summary type="html"><![CDATA[For a long time, I've used libraries like Date-fns whenever I need to format dates in JavaScript. But it gets really weird whenever I do this in small projects that require simple date formats which JavaScript offers by default. I discovered that most developers do this a lot. And I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -2575,16 +2595,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <link href="https://mainichi.jp/articles/20210608/dde/012/200/008000c"/>
         <updated>2021-06-08T04:54:26.000Z</updated>
         <summary type="html"><![CDATA[タイトルを見たり聞いたりしただけで歌声やメロディーが自然と浮かぶ曲がある。2000年に大ヒットした「あ～よかった」もそんな曲の一つだろう。 　恋する気持ちや何気ない日常を飾らない詞に乗せて歌う女性デュオ「花＊花」。こじまいづみ、おのまきこの2人がそれぞれ作詞作曲、ボーカル、ピアノの全てをこなすユニ]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勅使河原宏監督の没後20年特集上映]]></title>
-        <id>https://mainichi.jp/articles/20210608/dde/012/200/003000c</id>
-        <link href="https://mainichi.jp/articles/20210608/dde/012/200/003000c"/>
-        <updated>2021-06-08T03:53:34.000Z</updated>
-        <summary type="html"><![CDATA[華道草月流の第三代家元で、実験的な映像作品を数多く手掛けた勅使河原宏監督の没後20年を記念し、「アートを越境する　勅使河原宏という天才」と題した特集上映が、東京・渋谷の映画館「シネマヴェーラ渋谷」で5日から始まった。18日まで。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>

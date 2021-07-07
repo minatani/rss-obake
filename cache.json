@@ -1606,15 +1606,6 @@
           "publishedOn": "2021-06-08T04:54:26.000Z",
           "wordCount": 472,
           "title": "私の記念碑:女性デュオ　花＊花／1　思い合ったハーモニー"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210608/dde/012/200/003000c",
-          "author": null,
-          "description": "華道草月流の第三代家元で、実験的な映像作品を数多く手掛けた勅使河原宏監督の没後20年を記念し、「アートを越境する　勅使河原宏という天才」と題した特集上映が、東京・渋谷の映画館「シネマヴェーラ渋谷」で5日から始まった。18日まで。",
-          "link": "https://mainichi.jp/articles/20210608/dde/012/200/003000c",
-          "publishedOn": "2021-06-08T03:53:34.000Z",
-          "wordCount": 449,
-          "title": "勅使河原宏監督の没後20年特集上映"
         }
       ]
     },
@@ -1673,6 +1664,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c38e76d3126007592d66cd",
+          "author": null,
+          "description": "I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the",
+          "link": "https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/",
+          "publishedOn": "2021-07-07T15:43:17.000Z",
+          "wordCount": 4364,
+          "title": "JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts"
+        },
+        {
           "id": "60d5ec446e1a1407b6b0bcae",
           "author": null,
           "description": "Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but",
@@ -1725,6 +1725,15 @@
           "publishedOn": "2021-07-06T13:55:00.000Z",
           "wordCount": 109640,
           "title": "Get Ready to Pass CISSP Exam"
+        },
+        {
+          "id": "60df127a27f80207bcdbcac9",
+          "author": null,
+          "description": "For a long time, I've used libraries like Date-fns whenever I need to format dates in JavaScript. But it gets really weird whenever I do this in small projects that require simple date formats which JavaScript offers by default. I discovered that most developers do this a lot. And I",
+          "link": "https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/",
+          "publishedOn": "2021-07-03T06:24:00.000Z",
+          "wordCount": 1067,
+          "title": "How to Format Dates in JavaScript with One Line of Code"
         },
         {
           "id": "60de3cf127f80207bcdbc9af",
