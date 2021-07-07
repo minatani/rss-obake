@@ -1664,6 +1664,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e521aa134ad707be00e41d",
+          "author": null,
+          "description": "Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now",
+          "link": "https://www.freecodecamp.org/news/what-is-a-javascript-object/",
+          "publishedOn": "2021-07-07T22:04:00.000Z",
+          "wordCount": 761,
+          "title": "What is a JavaScript Object? Key Value Pairs and Dot Notation Explained"
+        },
+        {
           "id": "60ccd1794dc1a607ed7b4feb",
           "author": null,
           "description": "A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to",
