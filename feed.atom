@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T08:20:54.585Z</updated>
+    <updated>2021-07-07T09:20:37.609Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2575,16 +2575,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <link href="https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/"/>
         <updated>2021-06-07T23:33:30.000Z</updated>
         <summary type="html"><![CDATA[Learn how to build full stack serverless apps with Supabase and Next.js.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use OpenCV and Python for Computer Vision and AI]]></title>
-        <id>60be863cd3126007592d4c36</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/"/>
-        <updated>2021-06-07T20:54:41.000Z</updated>
-        <summary type="html"><![CDATA[OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
