@@ -2355,15 +2355,6 @@
           "publishedOn": "2021-06-07T20:54:41.000Z",
           "wordCount": 439,
           "title": "How to Use OpenCV and Python for Computer Vision and AI"
-        },
-        {
-          "id": "5ff625967af2371468bb8645",
-          "author": null,
-          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
-          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
-          "publishedOn": "2021-06-07T18:18:01.000Z",
-          "wordCount": 1597,
-          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
         }
       ]
     }
