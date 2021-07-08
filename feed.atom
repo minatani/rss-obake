@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T11:15:09.274Z</updated>
+    <updated>2021-07-08T12:30:25.797Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2587,16 +2587,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <summary type="html"><![CDATA[5月29日土曜日の夕方、散歩から帰ってTBSラジオをつける。「聞き慣れない声だけど、話うまいなあ」と聴き入っていたら、「トッキーとヒトトキ」という番組だった。 　ジェーン・スーさん原作のテレビ東京で放送中の金曜深夜のドラマ「生きるとか死ぬとか父親とか」の主人公の“トッキー”ことコラムニストの蒲原ト]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud]]></title>
-        <id>60bfa4d4d3126007592d5160</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/"/>
-        <updated>2021-06-08T23:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

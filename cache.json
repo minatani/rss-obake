@@ -2355,15 +2355,6 @@
           "publishedOn": "2021-06-09T18:43:07.000Z",
           "wordCount": 336,
           "title": "Learn Bootstrap 5 and SASS by Building a Portfolio Website"
-        },
-        {
-          "id": "60bfa4d4d3126007592d5160",
-          "author": null,
-          "description": "Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/",
-          "publishedOn": "2021-06-08T23:47:43.000Z",
-          "wordCount": 9491,
-          "title": "How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud"
         }
       ]
     }
