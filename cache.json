@@ -6,6 +6,42 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210708/dde/018/200/012000c",
+          "author": null,
+          "description": "17世紀のフランスで爆発的な人気を博し、社会現象にもなったハッピーエンドの悲劇「ル・シッド」（ピエール・コルネイユ作、笹部博司上演台本・演出）が、全員女性の配役で21～25日、東京・池袋のあうるすぽっとで上演される。国を救った英雄としてル・シッドの称号を与えられるドン・ロドリグを元宝塚歌劇団星組男",
+          "link": "https://mainichi.jp/articles/20210708/dde/018/200/012000c",
+          "publishedOn": "2021-07-08T04:14:21.000Z",
+          "wordCount": 472,
+          "title": "Ｔｏｐｉｃｓ:ハッピーエンドの悲劇「ル・シッド」　十碧れいや、久々に男役"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210708/dde/018/200/016000c",
+          "author": null,
+          "description": "新型コロナ禍に苦しむ映画界を活気づけようと、ソニーが取り組む映画製作企画「DIVOC―12」の完成が近づいている。12人の監督に撮影機会を提供し、12本の短編映画を1本にまとめて公開、収益を寄付しようという試みだ。5月下旬、東京・成城の東宝スタジオで、上田慎一郎監督の「ユメミの半生」の撮影を取材し",
+          "link": "https://mainichi.jp/articles/20210708/dde/018/200/016000c",
+          "publishedOn": "2021-07-08T04:13:44.000Z",
+          "wordCount": 471,
+          "title": "ルポ:コロナに負けぬ！ソニーが映画製作企画　モニターで背景映し出す　短編12本を1本に、収益は寄付"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210708/dde/018/200/013000c",
+          "author": null,
+          "description": "関ジャニ∞の安田章大が舞台「リボルバー　～誰が【ゴッホ】を撃ち抜いたんだ？～」に主演する。ふんするのは19世紀の画家、フィンセント・ファン・ゴッホ。安田は「今でこそゴッホは神格化されていますが、生前は絵も売れず、まだ原石のままのひとりの人間でした。そんな彼が、観客の皆さんと同じように悩み、苦しむ姿",
+          "link": "https://mainichi.jp/articles/20210708/dde/018/200/013000c",
+          "publishedOn": "2021-07-08T03:46:41.000Z",
+          "wordCount": 468,
+          "title": "Ｉｎｔｅｒｖｉｅｗ:安田章大（関ジャニ∞）　ゴッホと向き合い舞台に"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210708/dde/018/200/008000c",
+          "author": null,
+          "description": "ロック界で独自の存在感を放つ志磨遼平のソロプロジェクト「ドレスコーズ」が、新アルバム「バイエル」を発売した。曲の制作過程を、ネット配信で公開したことでも話題になった作品。志磨は「音楽を完成させていく過程を聴けるのはすてきな体験。音楽家の特権だったものを皆さんにも届けたかった」と話す。",
+          "link": "https://mainichi.jp/articles/20210708/dde/018/200/008000c",
+          "publishedOn": "2021-07-08T03:46:34.000Z",
+          "wordCount": 452,
+          "title": "ドレスコーズが新アルバム発売"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210708/ddm/018/200/027000c",
           "author": null,
           "description": "＜TBS系金曜ドラマ「＃家族募集します」（9日スタート、金曜午後10時）赤城俊平役＞ 　子供が発するパワーって理屈じゃないですね。こちらも引っ張られて自然に笑顔になるし、息子役の佐藤遥灯君が頑張っている姿に、底力が湧いてくるようです。仲野太賀君演じる幼なじみとワイワイふざける場面や、それを木村文乃",
@@ -2373,24 +2409,6 @@
           "publishedOn": "2021-06-08T21:05:13.000Z",
           "wordCount": 639,
           "title": "Create Your Own Electronics With Arduino - Full Course"
-        },
-        {
-          "id": "60b23b8911ffb70827ef954e",
-          "author": null,
-          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
-          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
-          "publishedOn": "2021-06-08T16:17:32.000Z",
-          "wordCount": 1205,
-          "title": "How to Pass Data and Events Between Components in React"
-        },
-        {
-          "id": "60be6a3cd3126007592d4a03",
-          "author": null,
-          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
-          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
-          "publishedOn": "2021-06-08T16:02:45.000Z",
-          "wordCount": 2548,
-          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
         }
       ]
     }
