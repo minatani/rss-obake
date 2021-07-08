@@ -1588,24 +1588,6 @@
           "publishedOn": "2021-06-09T06:36:41.000Z",
           "wordCount": 466,
           "title": "フォーカス:伊藤沙莉　ドラマ「いいね！光源氏くん　し～ずん2」藤原沙織役　自信のなさ、役に重ねて"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210609/dde/018/070/014000c",
-          "author": null,
-          "description": "＜教授・岡室美奈子の私の体はテレビでできている＞ 　俳優の田村正和さんが亡くなった。主演作品は星の数ほどあれど、田村さんが唯一無二の存在であることを強く印象づけたのが「古畑任三郎」シリーズだった。冒頭で犯人がわかる倒叙ミステリー、つまり「刑事コロンボ」方式のドラマだ。派手なアクションの代わりに古畑",
-          "link": "https://mainichi.jp/articles/20210609/dde/018/070/014000c",
-          "publishedOn": "2021-06-09T03:37:46.000Z",
-          "wordCount": 456,
-          "title": "私の体はテレビでできている:「古畑」を息づかせたすごさ"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210609/dde/018/200/012000c",
-          "author": null,
-          "description": "5月29日土曜日の夕方、散歩から帰ってTBSラジオをつける。「聞き慣れない声だけど、話うまいなあ」と聴き入っていたら、「トッキーとヒトトキ」という番組だった。 　ジェーン・スーさん原作のテレビ東京で放送中の金曜深夜のドラマ「生きるとか死ぬとか父親とか」の主人公の“トッキー”ことコラムニストの蒲原ト",
-          "link": "https://mainichi.jp/articles/20210609/dde/018/200/012000c",
-          "publishedOn": "2021-06-09T03:37:44.000Z",
-          "wordCount": 456,
-          "title": "荻原魚雷のラジオ交差点:虚実入り交じる夢のヒトトキ"
         }
       ]
     },
@@ -1663,6 +1645,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e3ae66134ad707be00dbdb",
+          "author": null,
+          "description": "Developing web pages used to involve writing HTML, CSS, and a little scripting code like JavaScript for functionality.  But over time, we've developed new and more advanced technologies and frameworks to create webpages. We now use things like reusable components, routing, and rendering to the document object model (DOM).  These",
+          "link": "https://www.freecodecamp.org/news/build-accessible-vue-applications/",
+          "publishedOn": "2021-07-08T16:23:19.000Z",
+          "wordCount": 1935,
+          "title": "How to Build Accessible Vue Applications"
+        },
+        {
+          "id": "60df723627f80207bcdbcf36",
+          "author": null,
+          "description": "According to Google trends, React is the most popular JavaScript frontend framework. Unless you're in the U.S. state of Nebraska, that is. 😀 Google Trends (React vs Angular)React is a declarative, efficient, and flexible JavaScript library for building user interfaces. We just released a full React course on the",
+          "link": "https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/",
+          "publishedOn": "2021-07-08T15:44:30.000Z",
+          "wordCount": 68138,
+          "title": "Learn React JS in This Free 7-Hour Course"
+        },
         {
           "id": "60e521aa134ad707be00e41d",
           "author": null,

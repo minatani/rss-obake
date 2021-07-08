@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T15:25:44.380Z</updated>
+    <updated>2021-07-08T16:35:12.683Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Accessible Vue Applications]]></title>
+        <id>60e3ae66134ad707be00dbdb</id>
+        <link href="https://www.freecodecamp.org/news/build-accessible-vue-applications/"/>
+        <updated>2021-07-08T16:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Developing web pages used to involve writing HTML, CSS, and a little scripting code like JavaScript for functionality.  But over time, we've developed new and more advanced technologies and frameworks to create webpages. We now use things like reusable components, routing, and rendering to the document object model (DOM).  These]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React JS in This Free 7-Hour Course]]></title>
+        <id>60df723627f80207bcdbcf36</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/"/>
+        <updated>2021-07-08T15:44:30.000Z</updated>
+        <summary type="html"><![CDATA[According to Google trends, React is the most popular JavaScript frontend framework. Unless you're in the U.S. state of Nebraska, that is. 😀 Google Trends (React vs Angular)React is a declarative, efficient, and flexible JavaScript library for building user interfaces. We just released a full React course on the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ｔｏｐｉｃｓ:ハッピーエンドの悲劇「ル・シッド」　十碧れいや、久々に男役]]></title>
         <id>https://mainichi.jp/articles/20210708/dde/018/200/012000c</id>
@@ -2565,26 +2585,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <link href="https://mainichi.jp/articles/20210609/dde/018/200/018000c"/>
         <updated>2021-06-09T06:36:41.000Z</updated>
         <summary type="html"><![CDATA[ドラマ「いいね！光源氏くん　し～ずん2」藤原沙織役（NHK＝月曜午後10時45分） 　現代に次元ジャンプした平安貴族の光源氏（千葉雄大）との同居生活を描いたラブコメディーの続編で、演じる沙織は地味で自分に自信のない女性会社員。今作では、源氏物語で光の妻である紫の上（紺野彩夏）も現代に来ている疑惑が持]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私の体はテレビでできている:「古畑」を息づかせたすごさ]]></title>
-        <id>https://mainichi.jp/articles/20210609/dde/018/070/014000c</id>
-        <link href="https://mainichi.jp/articles/20210609/dde/018/070/014000c"/>
-        <updated>2021-06-09T03:37:46.000Z</updated>
-        <summary type="html"><![CDATA[＜教授・岡室美奈子の私の体はテレビでできている＞ 　俳優の田村正和さんが亡くなった。主演作品は星の数ほどあれど、田村さんが唯一無二の存在であることを強く印象づけたのが「古畑任三郎」シリーズだった。冒頭で犯人がわかる倒叙ミステリー、つまり「刑事コロンボ」方式のドラマだ。派手なアクションの代わりに古畑]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荻原魚雷のラジオ交差点:虚実入り交じる夢のヒトトキ]]></title>
-        <id>https://mainichi.jp/articles/20210609/dde/018/200/012000c</id>
-        <link href="https://mainichi.jp/articles/20210609/dde/018/200/012000c"/>
-        <updated>2021-06-09T03:37:44.000Z</updated>
-        <summary type="html"><![CDATA[5月29日土曜日の夕方、散歩から帰ってTBSラジオをつける。「聞き慣れない声だけど、話うまいなあ」と聴き入っていたら、「トッキーとヒトトキ」という番組だった。 　ジェーン・スーさん原作のテレビ東京で放送中の金曜深夜のドラマ「生きるとか死ぬとか父親とか」の主人公の“トッキー”ことコラムニストの蒲原ト]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
