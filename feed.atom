@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T05:16:10.152Z</updated>
+    <updated>2021-07-08T06:23:20.767Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2607,16 +2607,6 @@ The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excell
         <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生きる:小児がん征圧キャンペーン　谷村新司プレミアムコンサート　生きる2021　東京・渋谷で7月6日開催]]></title>
-        <id>https://mainichi.jp/articles/20210609/ddm/010/040/017000c</id>
-        <link href="https://mainichi.jp/articles/20210609/ddm/010/040/017000c"/>
-        <updated>2021-06-08T17:27:46.000Z</updated>
-        <summary type="html"><![CDATA[今こそ届けたい　太陽の歌声　ゲストに夏川さん 　小児がんなど難病と闘う子どもや家族を励ます「谷村新司プレミアムコンサート　生きる」は、昨年、新型コロナウイルス感染拡大状況を鑑みて中止された。今年も、ウイルスの災厄はいまだに世界を覆っている。しかし、コンサートの進行役・谷村新司さんは、再び開催を決定し]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
