@@ -6,6 +6,24 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210709/ddm/018/200/014000c",
+          "author": null,
+          "description": "◆新番組・＃家族募集します（TBS＝後10・0） 　男女4人と子ども3人が同居しながら「家族」になっていくホームドラマ第1話。脚本は俳優でもあるマギー。 　ある事情で3カ月前にシングルファーザーになった赤城俊平（重岡大毅）。5歳の息子の育児と仕事に追われる中、幼なじみの小山内蒼介（仲野太賀）と再会",
+          "link": "https://mainichi.jp/articles/20210709/ddm/018/200/014000c",
+          "publishedOn": "2021-07-08T17:06:50.000Z",
+          "wordCount": 466,
+          "title": "視聴室:新番組・＃家族募集します"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210709/ddm/018/200/012000c",
+          "author": null,
+          "description": "もやっとした気分の時は頭の中で旅をする。NHKBSプレミアムで12日午後8時放送の「ワイルドライフ　御嶽山　渓流の王者イワナが躍動する」で清流のほとり気分。御嶽山は「日本百名山」で著者・深田久弥が「悠然と孤立している」と書いた山だ。",
+          "link": "https://mainichi.jp/articles/20210709/ddm/018/200/012000c",
+          "publishedOn": "2021-07-08T17:06:39.000Z",
+          "wordCount": 467,
+          "title": "ＢＳ未来館:もの悲しいイワナの一生"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210708/dde/018/200/012000c",
           "author": null,
           "description": "17世紀のフランスで爆発的な人気を博し、社会現象にもなったハッピーエンドの悲劇「ル・シッド」（ピエール・コルネイユ作、笹部博司上演台本・演出）が、全員女性の配役で21～25日、東京・池袋のあうるすぽっとで上演される。国を救った英雄としてル・シッドの称号を与えられるドン・ロドリグを元宝塚歌劇団星組男",
@@ -1645,6 +1663,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e59724134ad707be00e5d1",
+          "author": null,
+          "description": "This post will show you how to build the Feature Toggle mechanism in your Next.JS application.  We are going to use Next.JS, React, and TypeScript. We will deploy our application to Vercel to demonstrate the real-life example. You can find the code and video in the summary at",
+          "link": "https://www.freecodecamp.org/news/how-to-use-feature-toggles-in-next-js-and-react/",
+          "publishedOn": "2021-07-08T17:13:58.000Z",
+          "wordCount": 2850,
+          "title": "Build Your Own Feature Toggle with Next.js and React in Under 30 Minutes"
+        },
         {
           "id": "60e3ae66134ad707be00dbdb",
           "author": null,
