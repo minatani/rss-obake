@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T15:23:21.040Z</updated>
+    <updated>2021-07-09T16:29:46.891Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2584,16 +2584,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <link href="https://mainichi.jp/articles/20210610/dde/018/040/015000c"/>
         <updated>2021-06-10T05:04:48.000Z</updated>
         <summary type="html"><![CDATA[禁煙や受動喫煙防止の普及啓発を目的とした「世界禁煙デー記念イベント2021」（厚生労働省主催）が東京都内で開かれ、アンバサダーに就任した俳優の波瑠が登場した。 　波瑠は、たばこのイラストが描かれたパネルにローラーで赤い斜線を引いて、巨大な禁煙マークを完成させ「自身の健康はもちろん、周りの健康のため]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[演劇　イキウメ「外の道」　意識に潜り存在問う＝評・濱田元子]]></title>
-        <id>https://mainichi.jp/articles/20210610/dde/018/200/020000c</id>
-        <link href="https://mainichi.jp/articles/20210610/dde/018/200/020000c"/>
-        <updated>2021-06-10T03:44:23.000Z</updated>
-        <summary type="html"><![CDATA[世界は、ふとした何かがきっかけで簡単に壊れていく。覚めない悪夢の先に希望はあるのか。意識の奥底にゆっくりと潜りこむ前川知大の新作は、人間の存在という哲学的な問いもはらみ、刺激的だ。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
