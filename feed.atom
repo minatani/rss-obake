@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T17:24:12.501Z</updated>
+    <updated>2021-07-09T18:25:21.355Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3D printing with kids – building and having fun together!]]></title>
+        <id>https://blog.prusaprinters.org/?p=52597</id>
+        <link href="https://blog.prusaprinters.org/3d-printing-with-kids-building-and-having-fun-together_52597/"/>
+        <updated>2021-07-09T18:09:38.000Z</updated>
+        <summary type="html"><![CDATA[A lightsaber or a pirate's sword is a certain success - no child can resist that. But why not go further? Get your child involved…
+The post 3D printing with kids – building and having fun together! appeared first on Prusa Printers.]]></summary>
+        <author>
+            <name>Štěpán Feik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:新番組・ボイスⅡ　110緊急指令室]]></title>
         <id>https://mainichi.jp/articles/20210710/ddm/018/200/025000c</id>
