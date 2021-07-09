@@ -1664,6 +1664,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e81c50134ad707be00f79f",
+          "author": null,
+          "description": "Hey everyone! In this article, I'm going to show you what's new in the latest of version of React – React 18 – in under 8 minutes.  First, you might be wondering whether the latest set of changes will break anything with your current setup, or whether you will have to learn",
+          "link": "https://www.freecodecamp.org/news/whats-new-in-react-18/",
+          "publishedOn": "2021-07-09T18:42:26.000Z",
+          "wordCount": 1930,
+          "title": "What&#x27;s New in React 18? Concurrency, Batching, the Transition API and More"
+        },
+        {
+          "id": "60dcb93727f80207bcdbc17e",
+          "author": null,
+          "description": "When you use code snippets in Visual Studio, it can make your coding process a lot easier and faster. But what are code snippets? And how can you use them? In this article, we'll look at how you can create code snippets in C#. Just keep in mind that snippets",
+          "link": "https://www.freecodecamp.org/news/how-to-automatically-generate-code-snippets-visual-studio/",
+          "publishedOn": "2021-07-09T18:28:18.000Z",
+          "wordCount": 3957,
+          "title": "How to Automatically Generate C# Code Snippets in Visual Studio"
+        },
+        {
           "id": "60ae6b0d11ffb70827ef7fe6",
           "author": null,
           "description": "If you look at any website or application today, somewhere under the hood there is a database. After all, we live in the world of Big Data. And the volume of data is growing exponentially.  With so much data at hand, we need ever more sophisticated ways to store it",

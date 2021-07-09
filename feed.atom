@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T18:25:21.355Z</updated>
+    <updated>2021-07-09T19:14:12.860Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What&#x27;s New in React 18? Concurrency, Batching, the Transition API and More]]></title>
+        <id>60e81c50134ad707be00f79f</id>
+        <link href="https://www.freecodecamp.org/news/whats-new-in-react-18/"/>
+        <updated>2021-07-09T18:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! In this article, I'm going to show you what's new in the latest of version of React – React 18 – in under 8 minutes.  First, you might be wondering whether the latest set of changes will break anything with your current setup, or whether you will have to learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automatically Generate C# Code Snippets in Visual Studio]]></title>
+        <id>60dcb93727f80207bcdbc17e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automatically-generate-code-snippets-visual-studio/"/>
+        <updated>2021-07-09T18:28:18.000Z</updated>
+        <summary type="html"><![CDATA[When you use code snippets in Visual Studio, it can make your coding process a lot easier and faster. But what are code snippets? And how can you use them? In this article, we'll look at how you can create code snippets in C#. Just keep in mind that snippets]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D printing with kids – building and having fun together!]]></title>
         <id>https://blog.prusaprinters.org/?p=52597</id>
