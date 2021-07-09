@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T19:14:12.860Z</updated>
+    <updated>2021-07-09T20:18:28.518Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 React Libraries Every Project Should Use in 2021]]></title>
+        <id>60e8864de8ee9b08300ecc3f</id>
+        <link href="https://www.freecodecamp.org/news/5-react-libraries-every-project-needs/"/>
+        <updated>2021-07-09T20:06:31.000Z</updated>
+        <summary type="html"><![CDATA[There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What&#x27;s New in React 18? Concurrency, Batching, the Transition API and More]]></title>
         <id>60e81c50134ad707be00f79f</id>
@@ -35,6 +45,16 @@
 The post 3D printing with kids – building and having fun together! appeared first on Prusa Printers.]]></summary>
         <author>
             <name>Štěpán Feik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[760+ Free Online Programming &amp; Computer Science Courses You Can Start This July]]></title>
+        <id>5f9c986d740569d1a4ca1a04</id>
+        <link href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/"/>
+        <updated>2021-07-09T18:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 760+ such free online courses that you can start this month.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

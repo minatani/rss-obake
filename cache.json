@@ -1664,6 +1664,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e8864de8ee9b08300ecc3f",
+          "author": null,
+          "description": "There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus",
+          "link": "https://www.freecodecamp.org/news/5-react-libraries-every-project-needs/",
+          "publishedOn": "2021-07-09T20:06:31.000Z",
+          "wordCount": 1729,
+          "title": "5 React Libraries Every Project Should Use in 2021"
+        },
+        {
           "id": "60e81c50134ad707be00f79f",
           "author": null,
           "description": "Hey everyone! In this article, I'm going to show you what's new in the latest of version of React – React 18 – in under 8 minutes.  First, you might be wondering whether the latest set of changes will break anything with your current setup, or whether you will have to learn",
@@ -1680,6 +1689,15 @@
           "publishedOn": "2021-07-09T18:28:18.000Z",
           "wordCount": 3957,
           "title": "How to Automatically Generate C# Code Snippets in Visual Studio"
+        },
+        {
+          "id": "5f9c986d740569d1a4ca1a04",
+          "author": null,
+          "description": "Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 760+ such free online courses that you can start this month.",
+          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "publishedOn": "2021-07-09T18:04:00.000Z",
+          "wordCount": 6787,
+          "title": "760+ Free Online Programming &amp; Computer Science Courses You Can Start This July"
         },
         {
           "id": "60ae6b0d11ffb70827ef7fe6",
