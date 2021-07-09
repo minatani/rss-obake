@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T14:17:35.314Z</updated>
+    <updated>2021-07-09T15:23:21.040Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a NoSQL Database with RavenDB]]></title>
+        <id>60ae6b0d11ffb70827ef7fe6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/"/>
+        <updated>2021-07-09T15:06:24.000Z</updated>
+        <summary type="html"><![CDATA[If you look at any website or application today, somewhere under the hood there is a database. After all, we live in the world of Big Data. And the volume of data is growing exponentially.  With so much data at hand, we need ever more sophisticated ways to store it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シネマの週末・この１本:走れロム　力強く闇を生き抜く]]></title>
         <id>https://mainichi.jp/articles/20210709/dde/018/070/020000c</id>

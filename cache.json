@@ -1659,6 +1659,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ae6b0d11ffb70827ef7fe6",
+          "author": null,
+          "description": "If you look at any website or application today, somewhere under the hood there is a database. After all, we live in the world of Big Data. And the volume of data is growing exponentially.  With so much data at hand, we need ever more sophisticated ways to store it",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/",
+          "publishedOn": "2021-07-09T15:06:24.000Z",
+          "wordCount": 1374,
+          "title": "How to Create a NoSQL Database with RavenDB"
+        },
+        {
           "id": "60e59724134ad707be00e5d1",
           "author": null,
           "description": "This post will show you how to build the Feature Toggle mechanism in your Next.JS application.  We are going to use Next.JS, React, and TypeScript. We will deploy our application to Vercel to demonstrate the real-life example. You can find the code and video in the summary at",
