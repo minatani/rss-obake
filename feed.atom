@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T03:21:01.464Z</updated>
+    <updated>2021-07-09T04:25:32.457Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・この１本:走れロム　力強く闇を生き抜く]]></title>
+        <id>https://mainichi.jp/articles/20210709/dde/018/070/020000c</id>
+        <link href="https://mainichi.jp/articles/20210709/dde/018/070/020000c"/>
+        <updated>2021-07-09T03:44:03.000Z</updated>
+        <summary type="html"><![CDATA[日本に滞在する外国人のうち、一番多いのは中国人。ではその次は？　そう、急増するベトナム人である。しかしかの地の現実を知る人は、日本には多くないのではないか。久々に公開されるベトナム映画、これが実にイキがいい。見かけは軽快、しかし重い現実も沈んでいる。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・特選掘り出し！:ライトハウス　希望のともしびなき悪夢]]></title>
+        <id>https://mainichi.jp/articles/20210709/dde/018/070/018000c</id>
+        <link href="https://mainichi.jp/articles/20210709/dde/018/070/018000c"/>
+        <updated>2021-07-09T03:44:01.000Z</updated>
+        <summary type="html"><![CDATA[映画で描かれる“灯台”という場所は、人間の孤独や地の果てといったイメージを喚起する。魔女もののホラー映画「ウィッチ」で注目された米インディーズの新鋭監督ロバート・エガースの長編第2作は、19世紀末の米ニューイングランド沖に浮かぶ孤島を舞台にした異常心理スリラー。孤独を超えた狂気、地の果ての先の地獄]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・トピックス:83歳のやさしいスパイ]]></title>
+        <id>https://mainichi.jp/articles/20210709/dde/018/070/016000c</id>
+        <link href="https://mainichi.jp/articles/20210709/dde/018/070/016000c"/>
+        <updated>2021-07-09T03:44:00.000Z</updated>
+        <summary type="html"><![CDATA[「80～90歳の電子機器を扱える男性求む」。探偵事務所の奇妙な求人広告で採用された83歳のセルヒオの仕事は、老人ホームのある入居者が虐待されていないか調査することだった。スマホに小型カメラ、使い慣れない道具を携え、彼は入居者として潜入する。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・トピックス:サムジンカンパニー1995]]></title>
+        <id>https://mainichi.jp/articles/20210709/dde/018/070/014000c</id>
+        <link href="https://mainichi.jp/articles/20210709/dde/018/070/014000c"/>
+        <updated>2021-07-09T03:43:57.000Z</updated>
+        <summary type="html"><![CDATA[1995年、ソウル。サムジン電子に勤める生産管理部のジャヨン（コ・アソン）、マーケティング部のユナ（イ・ソム）、会計部のボラム（パク・ヘス）は優秀な社員だが、高卒ゆえに男性社員のサポート業務に甘んじていた。TOEIC600点以上を獲得すれば昇進できるチャンスが訪れて英語学習に励む中、偶然目にしてし]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマの週末・チャートの裏側:洋画復活　のろしの高さは]]></title>
+        <id>https://mainichi.jp/articles/20210709/dde/018/070/007000c</id>
+        <link href="https://mainichi.jp/articles/20210709/dde/018/070/007000c"/>
+        <updated>2021-07-09T03:43:53.000Z</updated>
+        <summary type="html"><![CDATA[果たして、洋画復活ののろしになるか。期待の「ゴジラvsコング」が、スタート3日間で興行収入6億2000万円だった。昨年1月以降に公開された洋画では最高の出足だ。そこだけを見れば健闘と言えるが、日本人になじみ深いコングが登場したゴジラ映画としてはどうだろうか。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build Your Own Feature Toggle with Next.js and React in Under 30 Minutes]]></title>
         <id>60e59724134ad707be00e5d1</id>
@@ -2596,17 +2646,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <summary type="html"><![CDATA[＜TBS系バラエティー「笑える！泣ける！動物スクープ100連発」（10日午後8時）MC（司会）＞ 　今夜、第16弾の放送です。犬と猫を中心に、今回は他の動物の映像も盛りだくさんで、なかなか見応えのある2時間です。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prusament PC Blend Carbon Fiber – Our brand new Prusament with excellent mechanical and heat resistance]]></title>
-        <id>https://blog.prusaprinters.org/?p=51028</id>
-        <link href="https://blog.prusaprinters.org/prusament_pc_blend_carbon_fiber_mechanical_resistance_pccf_51028/"/>
-        <updated>2021-06-09T15:35:46.000Z</updated>
-        <summary type="html"><![CDATA[It’s been a year since we released Prusament PC Blend so we thought it was a great time to introduce a new member to the…
-The post Prusament PC Blend Carbon Fiber – Our brand new Prusament with excellent mechanical and heat resistance appeared first on Prusa Printers.]]></summary>
-        <author>
-            <name>Jakub Kočí</name>
         </author>
     </entry>
 </feed>
