@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T05:15:57.192Z</updated>
+    <updated>2021-07-09T06:23:44.000Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2616,16 +2616,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ヒノマルソウル」公開前イベント]]></title>
-        <id>https://mainichi.jp/articles/20210610/ddm/012/200/058000c</id>
-        <link href="https://mainichi.jp/articles/20210610/ddm/012/200/058000c"/>
-        <updated>2021-06-09T18:05:12.000Z</updated>
-        <summary type="html"><![CDATA[1998年長野冬季五輪での実話を基にした映画「ヒノマルソウル～舞台裏の英雄たち～」（毎日新聞社など製作委員会）の公開直前イベントが9日、東京都港区で行われた。 　映画は、テストジャンパーとして日本代表のスキージャンプ団体金メダルに貢献した西方仁也選手が主人公。リレハンメル五輪で銀メダルを獲得しなが]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
