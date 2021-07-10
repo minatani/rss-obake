@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T03:20:59.830Z</updated>
+    <updated>2021-07-10T04:24:22.333Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ワイド視聴室:サイエンスZERO　脳科学に探る子育てのヒント]]></title>
+        <id>https://mainichi.jp/articles/20210710/dde/018/200/009000c</id>
+        <link href="https://mainichi.jp/articles/20210710/dde/018/200/009000c"/>
+        <updated>2021-07-10T03:54:20.000Z</updated>
+        <summary type="html"><![CDATA[サイエンスZERO　NHKEテレ＝日曜午後11時半 　最先端の科学の視点で、社会の出来事に切り込んでいく番組。11日は「“子どもの脳”を守れ　脳科学が子育てを変える」をテーマに放送する。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏の連ドラ記者座談会:夏の連ドラ記者座談会／上　温かな救命医の活躍　医療現場の課題と葛藤／恋する殺し屋コメディー]]></title>
+        <id>https://mainichi.jp/articles/20210710/dde/018/200/016000c</id>
+        <link href="https://mainichi.jp/articles/20210710/dde/018/200/016000c"/>
+        <updated>2021-07-10T03:52:56.000Z</updated>
+        <summary type="html"><![CDATA[夏の連続ドラマは、東京オリンピック開催を見越して各局がスタートを例年より軒並み繰り上げた。初回を見た担当記者による座談会の様子を、2回に分けて紹介する。前半4作では「TOKYO　MER～走る緊急救命室～」が最も評価が高かった。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週刊テレビ評:好対照　2局の救命ドラマ　圧巻ヒーロー／悩める医師たち＝碓井広義]]></title>
+        <id>https://mainichi.jp/articles/20210710/dde/018/070/012000c</id>
+        <link href="https://mainichi.jp/articles/20210710/dde/018/070/012000c"/>
+        <updated>2021-07-10T03:23:52.000Z</updated>
+        <summary type="html"><![CDATA[日曜劇場「TOKYO　MER～走る緊急救命室～」（TBS系）。そして月9「ナイト・ドクター」（フジテレビ系）。両局の代表的ドラマ枠が同時に「医療ドラマ」をスタートさせた。しかも通常の医療ではなく、「救命」という共通点を持つことが興味深い。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辛酸なめ子のＴＶセラピー:全国の一流シェフが対決…]]></title>
+        <id>https://mainichi.jp/articles/20210710/dde/018/070/011000c</id>
+        <link href="https://mainichi.jp/articles/20210710/dde/018/070/011000c"/>
+        <updated>2021-07-10T03:23:51.000Z</updated>
+        <summary type="html"><![CDATA[全国の一流シェフが対決。決勝に進んだ北海道の下國シェフと福岡の山下シェフはヒゲと髪形と精悍（せいかん）な顔立ちがよく似ていて混同しそうに（一流料理人の人相なのでしょうか）。山下シェフが短髪にイメチェンしてくれたおかげで見分けがつきました。船上ではオーブンの不具合を乗り越え、コース料理を完成させた両]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 React Libraries Every Project Should Use in 2021]]></title>
         <id>60e8864de8ee9b08300ecc3f</id>
