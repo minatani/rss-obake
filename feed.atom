@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T16:27:56.897Z</updated>
+    <updated>2021-07-10T17:21:31.379Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[語る:お笑いに通じる「観察と発見」　「俳句修行」刊行　フルーツポンチ・村上健志さん]]></title>
+        <id>https://mainichi.jp/articles/20210711/ddm/014/040/014000c</id>
+        <link href="https://mainichi.jp/articles/20210711/ddm/014/040/014000c"/>
+        <updated>2021-07-10T17:15:48.000Z</updated>
+        <summary type="html"><![CDATA[＜文化の森　Bunka　no　mori＞ 　＜テーブルに君の丸みのマスクかな＞＜鞄（かばん）からグミの小袋新社員＞＜パスタ巻き付けたフォークできのこ刺す＞――。独創的で感性豊かな俳句を生み出している吉本興業所属のお笑い芸人、村上健志さん（40）が初の著書『フルーツポンチ村上健志の俳句修行』（春陽堂]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今週のＮＨＫ連続テレビ小説:おかえりモネ]]></title>
+        <id>https://mainichi.jp/articles/20210711/ddm/018/200/027000c</id>
+        <link href="https://mainichi.jp/articles/20210711/ddm/018/200/027000c"/>
+        <updated>2021-07-10T17:13:19.000Z</updated>
+        <summary type="html"><![CDATA[百音（清原果耶）は3度目の気象予報士試験を受ける。以前より手応えを感じたが、気象情報会社に興味を持っていることをサヤカ（夏木マリ）には話していなかった。合格の知らせに、百音は喜び勇んでサヤカに報告しようとするが、いざ目の前にすると合格を告げられない。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“耳寄り”な話・ＴＢＳラジオ:「今」と「笑い」求めて300回]]></title>
+        <id>https://mainichi.jp/articles/20210711/ddm/018/200/025000c</id>
+        <link href="https://mainichi.jp/articles/20210711/ddm/018/200/025000c"/>
+        <updated>2021-07-10T17:08:40.000Z</updated>
+        <summary type="html"><![CDATA[2015年10月にスタート、先日（6月26日）放送300回を迎えた「土曜ワイドラジオTOKYOナイツのちゃきちゃき大放送」（土曜午前9時）。「東京漫才の象徴」のナイツが、毎週、「今」を肴（さかな）にしたよもやま話をお送りしています。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワイド視聴室:サイエンスZERO　脳科学に探る子育てのヒント]]></title>
         <id>https://mainichi.jp/articles/20210710/dde/018/200/009000c</id>
