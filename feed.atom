@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T15:21:00.980Z</updated>
+    <updated>2021-07-10T16:27:56.897Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2597,56 +2597,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・トピックス:ベル・エポックでもう一度]]></title>
-        <id>https://mainichi.jp/articles/20210611/dde/018/070/015000c</id>
-        <link href="https://mainichi.jp/articles/20210611/dde/018/070/015000c"/>
-        <updated>2021-06-11T04:10:56.000Z</updated>
-        <summary type="html"><![CDATA[イラストレーターとしての仕事を失い、妻（ファニー・アルダン）にも相手にされなくなってしまったヴィクトル（ダニエル・オートゥイユ）。そんな父を励まそうとした息子（ギョーム・カネ）からの贈り物は、戻りたい過去を映画のように再現する体験型のエンターテインメントサービスだった。1970年代に戻ったヴィクト]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・トピックス:ブラックバード　家族が家族であるうちに]]></title>
-        <id>https://mainichi.jp/articles/20210611/dde/018/070/018000c</id>
-        <link href="https://mainichi.jp/articles/20210611/dde/018/070/018000c"/>
-        <updated>2021-06-11T04:10:23.000Z</updated>
-        <summary type="html"><![CDATA[ある週末、医師のポール（サム・ニール）と妻リリー（スーザン・サランドン）が住む邸宅に、長女ジェニファー（ケイト・ウィンスレット）とその家族、次女アナ（ミア・ワシコウスカ）、リリーの親友リズら親しい人が集まる。リリーは病が進行して安楽死を決意、家族らと最後の時を過ごそうとしていた。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・特選掘り出し！:クローブヒッチ・キラー　揺らぐ日常、少年の不安]]></title>
-        <id>https://mainichi.jp/articles/20210611/dde/018/070/027000c</id>
-        <link href="https://mainichi.jp/articles/20210611/dde/018/070/027000c"/>
-        <updated>2021-06-11T04:09:56.000Z</updated>
-        <summary type="html"><![CDATA[連続殺人事件を題材にしているが、直接的な猟奇描写は一切ない。「自分の父親はシリアルキラーかもしれない」という疑念を抱いた16歳の少年の不安をあぶり出す一級の心理サスペンスだ。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・この１本:逃げた女　ふわっと魔術で謎かけ]]></title>
-        <id>https://mainichi.jp/articles/20210611/dde/018/070/031000c</id>
-        <link href="https://mainichi.jp/articles/20210611/dde/018/070/031000c"/>
-        <updated>2021-06-11T04:09:05.000Z</updated>
-        <summary type="html"><![CDATA[思わせぶりの韓国の巨匠、ホン・サンス。どの作品でも事件は起こらず、登場人物のおしゃべりばかり。会話の中身も登場人物も煮え切らず、唐突なカメラワークで戸惑わせる。全てが意味ありげで、見ている方が勝手に深読みするように仕向けている。頭をひねる観客を、ホン・サンスがニヤニヤしながら眺めている風情である。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・チャートの裏側:時代と格闘、有終の美]]></title>
-        <id>https://mainichi.jp/articles/20210611/dde/018/070/011000c</id>
-        <link href="https://mainichi.jp/articles/20210611/dde/018/070/011000c"/>
-        <updated>2021-06-11T03:46:23.000Z</updated>
-        <summary type="html"><![CDATA[「るろうに剣心」2部作が1、2位のそろい踏みだ。2位の前作は緊急事態宣言に伴い、公開3日目の4月25日から東京都、大阪府の上映館が休業になった。1位の新作は、2都府での休業要請緩和後の6月4日から公開された。2作品は緊急事態宣言に翻弄（ほんろう）されたと言える。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
