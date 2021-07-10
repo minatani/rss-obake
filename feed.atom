@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T17:21:31.379Z</updated>
+    <updated>2021-07-10T18:22:25.933Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:ボクの殺意が恋をした]]></title>
+        <id>https://mainichi.jp/articles/20210711/ddm/018/200/030000c</id>
+        <link href="https://mainichi.jp/articles/20210711/ddm/018/200/030000c"/>
+        <updated>2021-07-10T17:22:58.000Z</updated>
+        <summary type="html"><![CDATA[◆ボクの殺意が恋をした（日テレ＝後10・30） 　間の悪い殺し屋・男虎柊（中川大志）が、ターゲットの漫画家・鳴宮美月（新木優子）を殺せないうちに恋に落ちてしまうラブコメディーの第2話。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[語る:お笑いに通じる「観察と発見」　「俳句修行」刊行　フルーツポンチ・村上健志さん]]></title>
         <id>https://mainichi.jp/articles/20210711/ddm/014/040/014000c</id>
