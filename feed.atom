@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T23:18:14.715Z</updated>
+    <updated>2021-07-10T00:57:50.828Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2627,16 +2627,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <summary type="html"><![CDATA[◆沸騰ワード10　初夏のSP（日テレ＝後7・0） 　一般には知られていないが、特定の業界内で話題になっているワードを調査するバラエティー番組。司会はバナナマンの設楽統。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
-        <id>60b93afaacb62507dd1d8915</id>
-        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
-        <updated>2021-06-10T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
