@@ -2391,15 +2391,6 @@
           "publishedOn": "2021-06-11T17:39:28.000Z",
           "wordCount": 2143,
           "title": "How to Ask Good Technical Questions – the Ultimate Guide"
-        },
-        {
-          "id": "60c24cf8d3126007592d61d5",
-          "author": null,
-          "description": "Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go",
-          "link": "https://www.freecodecamp.org/news/learn-react-conditionals/",
-          "publishedOn": "2021-06-11T16:04:46.000Z",
-          "wordCount": 1323,
-          "title": "How to Level Up Your React Conditionals"
         }
       ]
     }

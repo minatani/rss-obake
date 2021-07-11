@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T03:21:01.063Z</updated>
+    <updated>2021-07-11T04:23:47.300Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2627,16 +2627,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <summary type="html"><![CDATA[■教育・教養・実用 （1）新・情報7daysニュースキャスター　TBS　15．1　土 （2）サンデーモーニング　　　　　　　　　　　同　　14．0　日 （3）ファミリーヒストリー　　　　　　　　　NHK　13．4　月]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
-        <id>60c24cf8d3126007592d61d5</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-conditionals/"/>
-        <updated>2021-06-11T16:04:46.000Z</updated>
-        <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
