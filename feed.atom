@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T04:23:47.300Z</updated>
+    <updated>2021-07-11T05:15:43.520Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2617,16 +2617,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <summary type="html"><![CDATA[Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴率:5月31日～6月6日]]></title>
-        <id>https://mainichi.jp/articles/20210612/ddm/018/200/027000c</id>
-        <link href="https://mainichi.jp/articles/20210612/ddm/018/200/027000c"/>
-        <updated>2021-06-11T17:02:07.000Z</updated>
-        <summary type="html"><![CDATA[■教育・教養・実用 （1）新・情報7daysニュースキャスター　TBS　15．1　土 （2）サンデーモーニング　　　　　　　　　　　同　　14．0　日 （3）ファミリーヒストリー　　　　　　　　　NHK　13．4　月]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
