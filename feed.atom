@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T08:19:46.790Z</updated>
+    <updated>2021-07-11T09:19:35.749Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2585,16 +2585,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <link href="https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/"/>
         <updated>2021-06-11T22:56:56.000Z</updated>
         <summary type="html"><![CDATA[If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Center Anything in CSS Using Flexbox and Grid ✨]]></title>
-        <id>6063b9189618b008528a9d81</id>
-        <link href="https://www.freecodecamp.org/news/how-to-center-objects-using-css/"/>
-        <updated>2021-06-11T20:40:17.000Z</updated>
-        <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
