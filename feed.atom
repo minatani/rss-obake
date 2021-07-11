@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T05:15:43.520Z</updated>
+    <updated>2021-07-11T06:23:30.736Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2605,16 +2605,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <link href="https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/"/>
         <updated>2021-06-11T19:10:00.000Z</updated>
         <summary type="html"><![CDATA[How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
-        <id>60bc0444acb62507dd1d9a31</id>
-        <link href="https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/"/>
-        <updated>2021-06-11T17:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
