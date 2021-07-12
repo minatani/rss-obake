@@ -1610,6 +1610,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e753aa134ad707be00f2c1",
+          "author": null,
+          "description": "SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use",
+          "link": "https://www.freecodecamp.org/news/spss-full-course/",
+          "publishedOn": "2021-07-12T13:34:03.000Z",
+          "wordCount": 22122,
+          "title": "Learn How to Use SPSS to Explore and Analyze Data"
+        },
+        {
           "id": "60e981aae8ee9b08300ed1ae",
           "author": null,
           "description": "Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you",

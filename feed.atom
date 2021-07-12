@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T13:24:23.016Z</updated>
+    <updated>2021-07-12T14:16:39.265Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use SPSS to Explore and Analyze Data]]></title>
+        <id>60e753aa134ad707be00f2c1</id>
+        <link href="https://www.freecodecamp.org/news/spss-full-course/"/>
+        <updated>2021-07-12T13:34:03.000Z</updated>
+        <summary type="html"><![CDATA[SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?]]></title>
         <id>60e981aae8ee9b08300ed1ae</id>
