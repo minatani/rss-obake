@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T11:15:11.137Z</updated>
+    <updated>2021-07-12T12:29:46.050Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?]]></title>
+        <id>60e981aae8ee9b08300ed1ae</id>
+        <link href="https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/"/>
+        <updated>2021-07-12T11:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets]]></title>
+        <id>60e76d88134ad707be00f347</id>
+        <link href="https://www.freecodecamp.org/news/google-bigquery-beginners-guide/"/>
+        <updated>2021-07-12T11:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歌舞伎　歌舞伎座「七月大歌舞伎」　菊之助の若衆ぶり＝評・小玉祥子]]></title>
         <id>https://mainichi.jp/articles/20210712/dde/018/200/009000c</id>

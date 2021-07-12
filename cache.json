@@ -1610,6 +1610,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e981aae8ee9b08300ed1ae",
+          "author": null,
+          "description": "Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you",
+          "link": "https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/",
+          "publishedOn": "2021-07-12T11:46:56.000Z",
+          "wordCount": 899,
+          "title": "AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?"
+        },
+        {
+          "id": "60e76d88134ad707be00f347",
+          "author": null,
+          "description": "Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to",
+          "link": "https://www.freecodecamp.org/news/google-bigquery-beginners-guide/",
+          "publishedOn": "2021-07-12T11:26:39.000Z",
+          "wordCount": 1208,
+          "title": "Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets"
+        },
+        {
           "id": "60e8864de8ee9b08300ecc3f",
           "author": null,
           "description": "There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus",
