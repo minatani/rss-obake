@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T16:29:21.181Z</updated>
+    <updated>2021-07-12T17:25:28.613Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:新番組　プロミス・シンデレラ]]></title>
+        <id>https://mainichi.jp/articles/20210713/ddm/018/200/054000c</id>
+        <link href="https://mainichi.jp/articles/20210713/ddm/018/200/054000c"/>
+        <updated>2021-07-12T17:21:53.000Z</updated>
+        <summary type="html"><![CDATA[◆新番組　プロミス・シンデレラ（TBS＝後10・0） 　無一文のバツイチアラサー女子が、性格の悪い金持ち男子高校生に拾われ“リアル人生ゲーム”をする羽目になるラブコメディーの第1話。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:二階堂ふみ／1　今夜、ドラマがスタート]]></title>
+        <id>https://mainichi.jp/articles/20210713/ddm/018/200/057000c</id>
+        <link href="https://mainichi.jp/articles/20210713/ddm/018/200/057000c"/>
+        <updated>2021-07-12T17:19:24.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系火曜ドラマ「プロミス・シンデレラ」（13日スタート、火曜午後10時）桂木早梅役＞ 　ドラマの原作漫画「プロミス・シンデレラ」を大好きで読んでいました。アプリで連載が始まってすぐに読み始め、更新されるのが毎回楽しみに。ある時、仕事先の楽屋に漫画が置いてあったので「私の好きな漫画だ」と言った]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カンヌ映画祭、浜口作品上映]]></title>
+        <id>https://mainichi.jp/articles/20210713/ddm/012/200/133000c</id>
+        <link href="https://mainichi.jp/articles/20210713/ddm/012/200/133000c"/>
+        <updated>2021-07-12T17:12:02.000Z</updated>
+        <summary type="html"><![CDATA[世界3大映画祭の一つ、第74回カンヌ国際映画祭で11日、最高賞「パルムドール」を競うコンペティション部門に選出された浜口竜介監督の新作「ドライブ・マイ・カー」が公式上映され、満場の喝采を浴びた。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn How to Use SPSS to Explore and Analyze Data]]></title>
         <id>60e753aa134ad707be00f2c1</id>
