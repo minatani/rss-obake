@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T07:16:57.959Z</updated>
+    <updated>2021-07-13T08:20:32.497Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman]]></title>
+        <id>609692d82cd0545b5e9441ab</id>
+        <link href="https://www.freecodecamp.org/news/build-graphql-server-with-laravel/"/>
+        <updated>2021-07-13T07:54:34.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Axios With React: The Definitive Guide (2021)]]></title>
+        <id>60e9c888e8ee9b08300ed212</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-axios-with-react/"/>
+        <updated>2021-07-13T07:36:28.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[花が望む優しい世界、必ず　中傷に終止符　＃EndTheHate　母・木村響子さんインタビュー]]></title>
         <id>https://mainichi.jp/articles/20210713/dde/001/200/041000c</id>

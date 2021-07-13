@@ -1664,6 +1664,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "609692d82cd0545b5e9441ab",
+          "author": null,
+          "description": "GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then",
+          "link": "https://www.freecodecamp.org/news/build-graphql-server-with-laravel/",
+          "publishedOn": "2021-07-13T07:54:34.000Z",
+          "wordCount": 2258,
+          "title": "How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman"
+        },
+        {
+          "id": "60e9c888e8ee9b08300ed212",
+          "author": null,
+          "description": "In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-axios-with-react/",
+          "publishedOn": "2021-07-13T07:36:28.000Z",
+          "wordCount": 2519,
+          "title": "How To Use Axios With React: The Definitive Guide (2021)"
+        },
+        {
           "id": "60e5b284134ad707be00e5e0",
           "author": null,
           "description": "Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining",
