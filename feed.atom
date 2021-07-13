@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T03:21:22.035Z</updated>
+    <updated>2021-07-13T04:23:59.796Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[花が望む優しい世界、必ず　中傷に終止符　＃EndTheHate　母・木村響子さんインタビュー]]></title>
+        <id>https://mainichi.jp/articles/20210713/dde/001/200/041000c</id>
+        <link href="https://mainichi.jp/articles/20210713/dde/001/200/041000c"/>
+        <updated>2021-07-13T04:15:04.000Z</updated>
+        <summary type="html"><![CDATA[＃EndTheHate（中傷を終わらせよう）――。2020年5月に22歳で亡くなったプロレスラー、木村花さんの母響子さんは、ネット交流サービス（SNS）上での中傷をなくすため、NPO法人「Remember　HANA（リメンバーハナ）」の設立準備を進めている。「花が望んだ優しい世界にしたい」。自身も]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私の記念碑:歌手　坂本冬美／2　突っ走り心身疲労も限界]]></title>
+        <id>https://mainichi.jp/articles/20210713/dde/012/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210713/dde/012/200/007000c"/>
+        <updated>2021-07-13T04:08:18.000Z</updated>
+        <summary type="html"><![CDATA[「幸せなことにデビュー後はトントン拍子。5年くらいの間に、夢だったことは全部やらせていただいた」。坂本冬美はデビュー後の数年をそう振り返る。 　和歌山県生まれ。小学生の時、石川さゆりに憧れ演歌歌手を志した。高校卒業後、地元の梅干しメーカーに就職したが、18歳の時、アマチュアが歌の技量を競うNHK番]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:松原忠之　「歌が歌を教える」胸に　沖縄・宮古の心込めデビューアルバム]]></title>
+        <id>https://mainichi.jp/articles/20210713/dde/012/200/001000c</id>
+        <link href="https://mainichi.jp/articles/20210713/dde/012/200/001000c"/>
+        <updated>2021-07-13T04:08:10.000Z</updated>
+        <summary type="html"><![CDATA[沖縄・宮古諸島に伝わる宮古民謡を全国に広めた故国吉源次（1930～2021年）に幼少から弟子入りし、育てられた若き後継者。デビューアルバム「清（ちゅ）ら海、美（ちゅ）ら島～あやぐ、宮古のうた～」（リスペクトレコード）で、伸びやかな歌声と情感あふれる三線（さんしん）を披露し、宮古の歴史・文化、師から]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?]]></title>
         <id>60e5b284134ad707be00e5e0</id>
