@@ -1637,6 +1637,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e5b284134ad707be00e5e0",
+          "author": null,
+          "description": "Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining",
+          "link": "https://www.freecodecamp.org/news/ui-ux-design-guide/",
+          "publishedOn": "2021-07-13T02:14:52.000Z",
+          "wordCount": 2261,
+          "title": "UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?"
+        },
+        {
           "id": "60e753aa134ad707be00f2c1",
           "author": null,
           "description": "SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use",
