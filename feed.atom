@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T04:24:14.135Z</updated>
+    <updated>2021-07-14T05:16:04.940Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2667,26 +2667,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <summary type="html"><![CDATA[Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:マツコ・デラックス／1　週刊さんまとマツコ]]></title>
-        <id>https://mainichi.jp/articles/20210615/ddm/018/200/028000c</id>
-        <link href="https://mainichi.jp/articles/20210615/ddm/018/200/028000c"/>
-        <updated>2021-06-14T17:14:40.000Z</updated>
-        <summary type="html"><![CDATA[＜TBS系バラエティー「週刊さんまとマツコ」（日曜午後6時30分）プロデューサー、篠塚純＞ 　この春、「週刊さんまとマツコ」がスタートしました。明石家さんまさんとマツコ・デラックスさんの冠番組なんて、企画しても簡単に実現できるものではありません。それが幸運にもご縁に恵まれ、私たち制作側としては非常]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:新番組・REAL⇔FAKE　2nd　Stage]]></title>
-        <id>https://mainichi.jp/articles/20210615/ddm/018/200/033000c</id>
-        <link href="https://mainichi.jp/articles/20210615/ddm/018/200/033000c"/>
-        <updated>2021-06-14T17:07:36.000Z</updated>
-        <summary type="html"><![CDATA[◆新番組・REAL⇔FAKE　2nd　Stage（TBS＝深夜1時28分） 　男性ユニットの、カメラの前での真実とうそをミステリータッチで描く連続ドラマ続編の第1話。男性ユニット「Stellar　CROWNS（ステラクラウンズ）」は、新社長に就任した朱音（蒼井翔太）の下で活動を再開する。その直後、]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
