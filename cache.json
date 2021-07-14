@@ -1597,6 +1597,20 @@
       "siteUrl": "https://blog.prusaprinters.org",
       "articles": [
         {
+          "id": "https://blog.prusaprinters.org/?p=52573",
+          "author": "MattStultz",
+          "description": "Our latest contest, Time Keepers, has wrapped and it's time to announce our winners. I love clocks, I think they are not only a great…\nThe post Time Keepers Contest Winners appeared first on Prusa Printers.",
+          "link": "https://blog.prusaprinters.org/time-keepers-contest-winners_52573/",
+          "publishedOn": "2021-07-14T18:59:51.000Z",
+          "wordCount": 1169,
+          "title": "Time Keepers Contest Winners",
+          "enclosure": {
+            "url": "https://blog.prusaprinters.org/wp-content/uploads/2021/07/TimeKeepersWinners-698x325.jpg",
+            "length": "50145",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://blog.prusaprinters.org/?p=52597",
           "author": "Štěpán Feik",
           "description": "A lightsaber or a pirate's sword is a certain success - no child can resist that. But why not go further? Get your child involved…\nThe post 3D printing with kids – building and having fun together! appeared first on Prusa Printers.",
