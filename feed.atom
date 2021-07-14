@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T17:23:49.376Z</updated>
+    <updated>2021-07-14T18:23:14.219Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
+        <id>60d4e7596e1a1407b6b0bb56</id>
+        <link href="https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/"/>
+        <updated>2021-07-14T17:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:二階堂ふみ／3　元気をお届けできる作品に]]></title>
+        <id>https://mainichi.jp/articles/20210715/ddm/018/200/018000c</id>
+        <link href="https://mainichi.jp/articles/20210715/ddm/018/200/018000c"/>
+        <updated>2021-07-14T17:30:07.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系火曜ドラマ「プロミス・シンデレラ」（火曜午後10時）桂木早梅役＞ 　「プロミス・シンデレラ」の見どころや、名シーンだと思うところはたくさんあります。特に早梅と高校生の壱成がけんかするシーン。毎回かなりハードでカッコいいけれど、冷静に考えると「そんなに、むきにならなくても」と笑えます。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:新番組・推しの王子様]]></title>
         <id>https://mainichi.jp/articles/20210715/ddm/018/200/016000c</id>

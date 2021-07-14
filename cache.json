@@ -6,6 +6,15 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210715/ddm/018/200/018000c",
+          "author": null,
+          "description": "＜TBS系火曜ドラマ「プロミス・シンデレラ」（火曜午後10時）桂木早梅役＞ 　「プロミス・シンデレラ」の見どころや、名シーンだと思うところはたくさんあります。特に早梅と高校生の壱成がけんかするシーン。毎回かなりハードでカッコいいけれど、冷静に考えると「そんなに、むきにならなくても」と笑えます。",
+          "link": "https://mainichi.jp/articles/20210715/ddm/018/200/018000c",
+          "publishedOn": "2021-07-14T17:30:07.000Z",
+          "wordCount": 466,
+          "title": "赤坂電視台:二階堂ふみ／3　元気をお届けできる作品に"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210715/ddm/018/200/016000c",
           "author": null,
           "description": "◆新番組・推しの王子様（フジ＝後10・0） 　ベンチャー企業経営者の女性が、街で出会った好みのルックスの男性を、内面まで理想通りに育てるラブコメディー。阿相クミコと伊達さん（大人のカフェ）によるオリジナル脚本。",
@@ -1636,6 +1645,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d4e7596e1a1407b6b0bb56",
+          "author": null,
+          "description": "Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 \"tracking pixel\" that you don't even see.They send you an email",
+          "link": "https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/",
+          "publishedOn": "2021-07-14T17:51:43.000Z",
+          "wordCount": 577,
+          "title": "How to Stop Email Tracking in Gmail – Disable Images by Default"
+        },
         {
           "id": "60ebb55be8ee9b08300ed731",
           "author": null,
