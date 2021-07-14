@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T06:23:37.005Z</updated>
+    <updated>2021-07-14T07:16:54.407Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2665,16 +2665,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <link href="https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/"/>
         <updated>2021-06-14T19:19:42.000Z</updated>
         <summary type="html"><![CDATA[A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best African Language Datasets for Data Science Projects]]></title>
-        <id>60c4b35ed3126007592d71bc</id>
-        <link href="https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/"/>
-        <updated>2021-06-14T18:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
