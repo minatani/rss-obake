@@ -2400,24 +2400,6 @@
           "publishedOn": "2021-06-15T15:35:39.000Z",
           "wordCount": 2706,
           "title": "What is Full Stack? How to Become a Full Stack Developer"
-        },
-        {
-          "id": "60873d1fdd38b9088c2c0842",
-          "author": null,
-          "description": "System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will",
-          "link": "https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/",
-          "publishedOn": "2021-06-14T22:46:31.000Z",
-          "wordCount": 2704,
-          "title": "System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design"
-        },
-        {
-          "id": "60bce373acb62507dd1d9f19",
-          "author": null,
-          "description": "We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who",
-          "link": "https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/",
-          "publishedOn": "2021-06-14T22:39:00.000Z",
-          "wordCount": 2563,
-          "title": "How to Build a Custom Pagination Component in React"
         }
       ]
     }

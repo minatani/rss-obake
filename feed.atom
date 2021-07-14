@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T10:20:47.097Z</updated>
+    <updated>2021-07-14T11:15:08.714Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2637,26 +2637,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <summary type="html"><![CDATA[ともに兵庫県高砂市出身のおのまきこ（44）とこじまいづみ（45）。2人とも幼い頃からピアノを習い、地元の同じ児童合唱団に所属していた。しかし、面識があったわけではなく、おのは中学で吹奏楽、高校ではジャズバンドに打ち込み、こじまは中学生の時に出合ったゴスペルに熱中して歌唱力を磨いていた。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
-        <id>60873d1fdd38b9088c2c0842</id>
-        <link href="https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/"/>
-        <updated>2021-06-14T22:46:31.000Z</updated>
-        <summary type="html"><![CDATA[System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Custom Pagination Component in React]]></title>
-        <id>60bce373acb62507dd1d9f19</id>
-        <link href="https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/"/>
-        <updated>2021-06-14T22:39:00.000Z</updated>
-        <summary type="html"><![CDATA[We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
