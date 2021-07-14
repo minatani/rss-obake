@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T19:14:19.003Z</updated>
+    <updated>2021-07-14T20:18:23.953Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tabletop Games and Puzzles Contest]]></title>
+        <id>https://blog.prusaprinters.org/?p=52177</id>
+        <link href="https://blog.prusaprinters.org/tabletop-games-and-puzzles-contest_52177/"/>
+        <updated>2021-07-14T19:00:56.000Z</updated>
+        <summary type="html"><![CDATA[It's summer here in the northern hemisphere and for many of you that means the kids are out of school and you are spending more…
+The post Tabletop Games and Puzzles Contest appeared first on Prusa Printers.]]></summary>
+        <author>
+            <name>MattStultz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Time Keepers Contest Winners]]></title>
         <id>https://blog.prusaprinters.org/?p=52573</id>
