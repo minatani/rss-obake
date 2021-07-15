@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T12:29:54.901Z</updated>
+    <updated>2021-07-15T13:23:05.905Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Apache Cassandra Beginner Tutorial]]></title>
+        <id>60ead07ee8ee9b08300ed387</id>
+        <link href="https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/"/>
+        <updated>2021-07-15T13:13:02.000Z</updated>
+        <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:佐々木蔵之介　君子の覚悟と孤独に光　清の第5代皇帝役で舞台に]]></title>
         <id>https://mainichi.jp/articles/20210715/dde/018/200/011000c</id>

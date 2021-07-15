@@ -1710,6 +1710,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ead07ee8ee9b08300ed387",
+          "author": null,
+          "description": "There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors",
+          "link": "https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/",
+          "publishedOn": "2021-07-15T13:13:02.000Z",
+          "wordCount": 7103,
+          "title": "The Apache Cassandra Beginner Tutorial"
+        },
+        {
           "id": "60d4e7596e1a1407b6b0bb56",
           "author": null,
           "description": "Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 \"tracking pixel\" that you don't even see.They send you an email",
