@@ -1719,6 +1719,15 @@
           "title": "How to Stop Email Tracking in Gmail – Disable Images by Default"
         },
         {
+          "id": "5ff5461e7af2371468bb7ece",
+          "author": null,
+          "description": "We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts and that data scientists use in",
+          "link": "https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/",
+          "publishedOn": "2021-07-14T16:27:00.000Z",
+          "wordCount": 1575,
+          "title": "We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning"
+        },
+        {
           "id": "60ebb55be8ee9b08300ed731",
           "author": null,
           "description": "Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since",
@@ -2392,24 +2401,6 @@
           "publishedOn": "2021-06-15T21:10:54.000Z",
           "wordCount": 2031,
           "title": "What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest"
-        },
-        {
-          "id": "60c3dcb3d3126007592d6c6d",
-          "author": null,
-          "description": "Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following",
-          "link": "https://www.freecodecamp.org/news/python-decorators-explained-with-examples/",
-          "publishedOn": "2021-06-15T17:57:54.000Z",
-          "wordCount": 1409,
-          "title": "Python Decorators – How to Create and Use Decorators in Python With Examples"
-        },
-        {
-          "id": "602aaaf60a2838549dcc5c7f",
-          "author": null,
-          "description": "Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a",
-          "link": "https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/",
-          "publishedOn": "2021-06-15T17:43:43.000Z",
-          "wordCount": 1292,
-          "title": "What is the Strangler Fig Pattern and How it Helps Manage Legacy Code"
         }
       ]
     }

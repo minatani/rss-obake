@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T05:16:19.699Z</updated>
+    <updated>2021-07-15T06:23:58.888Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -116,6 +116,16 @@ The post Time Keepers Contest Winners appeared first on Prusa Printers.]]></summ
         <summary type="html"><![CDATA[◆新番組・推しの王子様（フジ＝後10・0） 　ベンチャー企業経営者の女性が、街で出会った好みのルックスの男性を、内面まで理想通りに育てるラブコメディー。阿相クミコと伊達さん（大人のカフェ）によるオリジナル脚本。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning]]></title>
+        <id>5ff5461e7af2371468bb7ece</id>
+        <link href="https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/"/>
+        <updated>2021-07-14T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts and that data scientists use in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -2617,26 +2627,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <link href="https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/"/>
         <updated>2021-06-15T21:10:54.000Z</updated>
         <summary type="html"><![CDATA[As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder "Am I setting my price too high?" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Decorators – How to Create and Use Decorators in Python With Examples]]></title>
-        <id>60c3dcb3d3126007592d6c6d</id>
-        <link href="https://www.freecodecamp.org/news/python-decorators-explained-with-examples/"/>
-        <updated>2021-06-15T17:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Strangler Fig Pattern and How it Helps Manage Legacy Code]]></title>
-        <id>602aaaf60a2838549dcc5c7f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/"/>
-        <updated>2021-06-15T17:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
