@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T16:29:20.800Z</updated>
+    <updated>2021-07-15T17:23:55.622Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:孤独のグルメ9]]></title>
+        <id>https://mainichi.jp/articles/20210716/ddm/018/200/014000c</id>
+        <link href="https://mainichi.jp/articles/20210716/ddm/018/200/014000c"/>
+        <updated>2021-07-15T17:05:20.000Z</updated>
+        <summary type="html"><![CDATA[◆孤独のグルメ9（東京＝深夜0・12） 　井之頭五郎（松重豊）が外出先で飲食店に立ち寄り、食べたいものを思うままに食べるグルメドキュメンタリードラマの第9シーズン。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ＢＳ未来館:トゥーンベリさんの強さの秘密]]></title>
+        <id>https://mainichi.jp/articles/20210716/ddm/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210716/ddm/018/200/013000c"/>
+        <updated>2021-07-15T17:01:45.000Z</updated>
+        <summary type="html"><![CDATA[環境破壊に警鐘を鳴らすスウェーデンの活動家グレタ・トゥーンベリさん（18）。BS朝日の「SDGsスペシャル　グレタ・トゥーンベリ　気候変動の最前線をゆく」（18日午後9時）は、世界各地を訪れた彼女の1年間を追った英国BBC制作のドキュメンタリー。時に迷いつつ、ぶれない秘密が明かされる。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn the FARM Stack! (FastAPI, React, MongoDB)]]></title>
         <id>60e74160134ad707be00f23f</id>
