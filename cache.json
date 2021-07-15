@@ -6,6 +6,60 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210715/dde/018/200/011000c",
+          "author": null,
+          "description": "清の第5代皇帝、雍正帝（ようせいてい）（1678～1735年）の苛烈にしてユニークな生き様を描いた舞台「君子無朋（くんしにともなし）」に佐々木蔵之介が主演する。「雍正帝は『暴君』とも呼ばれたが、民の生活と国の未来をすべて自ら背負おうとしたリーダー。その覚悟と孤独に光を当てたい」と話す。",
+          "link": "https://mainichi.jp/articles/20210715/dde/018/200/011000c",
+          "publishedOn": "2021-07-15T03:57:57.000Z",
+          "wordCount": 473,
+          "title": "Ｉｎｔｅｒｖｉｅｗ:佐々木蔵之介　君子の覚悟と孤独に光　清の第5代皇帝役で舞台に"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210715/dde/018/200/007000c",
+          "author": null,
+          "description": "宮崎駿監督の大ヒットアニメ映画が原作で、2022年2～3月に東京・帝国劇場公演を皮切りに全国上演される舞台「千と千尋の神隠し」（ジョン・ケアード翻案・演出）のメインキャストが製作の東宝から発表された。",
+          "link": "https://mainichi.jp/articles/20210715/dde/018/200/007000c",
+          "publishedOn": "2021-07-15T03:57:56.000Z",
+          "wordCount": 467,
+          "title": "Ｔｏｐｉｃｓ:舞台「千と千尋の神隠し」キャスト発表"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210715/dde/018/200/009000c",
+          "author": null,
+          "description": "アイデンティティーの探求が、分断と対立の世界史と絡み合う。ワジディ・ムワワドの数奇で深遠な叙事詩だ。演出の上村聡史や力ある俳優陣が、いまに切実に響く物語として織り上げ、圧倒する。藤井慎太郎訳。",
+          "link": "https://mainichi.jp/articles/20210715/dde/018/200/009000c",
+          "publishedOn": "2021-07-15T03:57:55.000Z",
+          "wordCount": 459,
+          "title": "演劇　世田谷パブリックシアター「森フォレ」　数奇で深遠なルーツ探し"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210715/dde/018/200/005000c",
+          "author": null,
+          "description": "ウクライナ国立キエフ・バレエの近作「雪の女王」全2幕が、オンラインで無料配信されている。アンデルセンの童話に基づいて2016年に初演された作品で、本邦初公開。毎冬恒例の来日が昨年末はコロナ禍でかなわなかったため、招聘（しょうへい）元の光藍社が「ファンへのあいさつに代えて」動画制作を企画した。1月末",
+          "link": "https://mainichi.jp/articles/20210715/dde/018/200/005000c",
+          "publishedOn": "2021-07-15T03:57:52.000Z",
+          "wordCount": 465,
+          "title": "デジタル配信・最前線:キエフ・バレエ、「雪の女王」無料で"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210715/dde/018/200/003000c",
+          "author": null,
+          "description": "指原莉乃プロデュースの12人組アイドルグループ「≠ME（ノットイコールミー）」のファーストシングル「君はこの夏、恋をする」が14日、発売された。センターの冨田菜々風（ななか）は「夏を感じられて、恋のドキドキ感を思いきり楽しめる。夏にたくさん聴いてほしい」と呼びかけている。",
+          "link": "https://mainichi.jp/articles/20210715/dde/018/200/003000c",
+          "publishedOn": "2021-07-15T03:57:51.000Z",
+          "wordCount": 456,
+          "title": "指原プロデュース　アイドル新曲発売"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210715/dde/007/050/026000c",
+          "author": null,
+          "description": "米大リーグ・エンゼルスの大谷翔平選手が史上初めて投打同時先発出場したオールスター戦を14日に生中継したテレビ朝日の「羽鳥慎一モーニングショー」（午前8時から115分）の関東地区平均世帯視聴率が11・9％だったことが、ビデオリサーチの調査で分かった。他の地区は、札幌地区12・2％▽名古屋地区8・4％",
+          "link": "https://mainichi.jp/articles/20210715/dde/007/050/026000c",
+          "publishedOn": "2021-07-15T03:57:07.000Z",
+          "wordCount": 461,
+          "title": "米大リーグ　エンゼルス・大谷の二刀流球宴　視聴率11．9％　関東"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210715/ddm/018/200/018000c",
           "author": null,
           "description": "＜TBS系火曜ドラマ「プロミス・シンデレラ」（火曜午後10時）桂木早梅役＞ 　「プロミス・シンデレラ」の見どころや、名シーンだと思うところはたくさんあります。特に早梅と高校生の壱成がけんかするシーン。毎回かなりハードでカッコいいけれど、冷静に考えると「そんなに、むきにならなくても」と笑えます。",
@@ -2374,33 +2428,6 @@
           "publishedOn": "2021-06-15T17:43:43.000Z",
           "wordCount": 1292,
           "title": "What is the Strangler Fig Pattern and How it Helps Manage Legacy Code"
-        },
-        {
-          "id": "60b7cb6aacb62507dd1d7c1a",
-          "author": null,
-          "description": "You can now open anything (that you have access to) on GitHub directly from VS Code.",
-          "link": "https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/",
-          "publishedOn": "2021-06-15T16:06:54.000Z",
-          "wordCount": 1714,
-          "title": "How to Open Any Repo in VS Code Without Cloning It"
-        },
-        {
-          "id": "60c6aec3d3126007592d7bd5",
-          "author": null,
-          "description": "What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database",
-          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/",
-          "publishedOn": "2021-06-15T15:48:09.000Z",
-          "wordCount": 888,
-          "title": "SQL Aggregate Functions – With Example Data Queries for Beginners"
-        },
-        {
-          "id": "60bbdd8dacb62507dd1d9a2d",
-          "author": null,
-          "description": "You've probably seen the term \"full stack developer\" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article",
-          "link": "https://www.freecodecamp.org/news/what-is-a-fullstack-developer/",
-          "publishedOn": "2021-06-15T15:35:39.000Z",
-          "wordCount": 2706,
-          "title": "What is Full Stack? How to Become a Full Stack Developer"
         }
       ]
     }
