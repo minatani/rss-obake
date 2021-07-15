@@ -1710,6 +1710,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e74160134ad707be00f23f",
+          "author": null,
+          "description": "The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where",
+          "link": "https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/",
+          "publishedOn": "2021-07-15T13:43:01.000Z",
+          "wordCount": 8503,
+          "title": "Learn the FARM Stack! (FastAPI, React, MongoDB)"
+        },
+        {
           "id": "60ead07ee8ee9b08300ed387",
           "author": null,
           "description": "There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors",
