@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T09:20:05.609Z</updated>
+    <updated>2021-07-15T10:21:11.728Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2599,16 +2599,6 @@ The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 
         <summary type="html"><![CDATA[押し入れの掃除をしていたら2016年3月刊行の雑誌「カルチャー・ブロス」が出てきた。特集は「今、語りたいラジオの話」。「独断と偏見で選ぶ21世紀の“お笑い”ラジオ」では、大のラジオファンで知られるやきそばかおるさんがABCラジオの「近藤夏子と北村真平のよなよな…水曜日（通称・よな水）」（14年4月]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineering Course for Beginners]]></title>
-        <id>60c91b2b4dc1a607ed7b389a</id>
-        <link href="https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"/>
-        <updated>2021-06-15T21:33:17.000Z</updated>
-        <summary type="html"><![CDATA[DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
