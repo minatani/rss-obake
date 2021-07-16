@@ -1588,42 +1588,6 @@
           "publishedOn": "2021-06-17T17:00:48.000Z",
           "wordCount": 457,
           "title": "視聴室:さんまのまんま初夏SP"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210617/dde/018/200/014000c",
-          "author": null,
-          "description": "気の良い泥棒と、したたかなあんまの攻防を、おかしみを込めて描いた2人芝居「あんまと泥棒」（村上元三作・演出、石川耕士演出）に東京・歌舞伎座の「七月大歌舞伎」第1部で出演する。",
-          "link": "https://mainichi.jp/articles/20210617/dde/018/200/014000c",
-          "publishedOn": "2021-06-17T03:39:48.000Z",
-          "wordCount": 464,
-          "title": "Ｉｎｔｅｒｖｉｅｗ:市川中車　おもしろみを素直に　七月大歌舞伎の「あんまと泥棒」に出演"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210617/dde/018/200/012000c",
-          "author": null,
-          "description": "最初が「アウグストゥス―尊厳ある者―」（田渕大輔作・演出）。ローマの初代皇帝オクタヴィウス（柚香光）の青年期を描く。 　独裁者ユリウス・カエサル（夏美よう）が体制に危惧を抱くブルートゥス（永久輝せあ）らにより暗殺される。カエサルの遺言でオクタヴィウスが後継指名されたことに不満を持つアントニウス（瀬",
-          "link": "https://mainichi.jp/articles/20210617/dde/018/200/012000c",
-          "publishedOn": "2021-06-17T03:39:46.000Z",
-          "wordCount": 464,
-          "title": "劇評:ミュージカル　宝塚歌劇団花組公演　柚香、皇帝を繊細に＝評・小玉祥子"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210617/dde/018/200/011000c",
-          "author": null,
-          "description": "東京・銀座の一等地で、最新の音楽・文化体験を提供してきた銀座ソニーパーク（東京都中央区）で、ソニーの主力6事業を6組のミュージシャンとコラボレーションして紹介する「Sony　Park展」が26日から始まる。2024年完成予定の建て替え工事前最後の企画展。来場できない人向けに、スマートフォンやパソコ",
-          "link": "https://mainichi.jp/articles/20210617/dde/018/200/011000c",
-          "publishedOn": "2021-06-17T03:39:45.000Z",
-          "wordCount": 460,
-          "title": "デジタル配信・最前線:銀座ソニーパーク、音楽家とコラボ"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210617/dde/018/200/007000c",
-          "author": null,
-          "description": "求めるのは真実か、ストーリーか。1969～70年の英新聞業界における部数競争を軸に、メディアの倫理や、大衆の欲望といったアクチュアルな問題を投げかけるジェイムズ・グレアムの戯曲だ。エンターテインメントとして面白く見せつつ、核心をえぐる眞鍋卓嗣の演出に切れ味がある。小田島恒志訳。",
-          "link": "https://mainichi.jp/articles/20210617/dde/018/200/007000c",
-          "publishedOn": "2021-06-17T03:39:42.000Z",
-          "wordCount": 464,
-          "title": "劇評:演劇　俳優座「インク」　「メディアと大衆」問う＝評・濱田元子"
         }
       ]
     },
@@ -1632,6 +1596,20 @@
       "feedUrl": "https://blog.prusaprinters.org/feed/",
       "siteUrl": "https://blog.prusaprinters.org",
       "articles": [
+        {
+          "id": "https://blog.prusaprinters.org/?p=52867",
+          "author": "Jakub Kmošek",
+          "description": "Driftworks is a custom car part shop based in Birmingham, Great Britain. As the name hints, their main focus is drifting: that crazy style of…\nThe post Driftworks: 3D printing in custom car part design appeared first on Prusa Printers.",
+          "link": "https://blog.prusaprinters.org/driftworks-3d-printing-in-custom-car-part-design_52867/",
+          "publishedOn": "2021-07-16T07:50:58.000Z",
+          "wordCount": 758,
+          "title": "Driftworks: 3D printing in custom car part design",
+          "enclosure": {
+            "url": "https://blog.prusaprinters.org/wp-content/uploads/2021/07/Driftworks_uvod-698x325.jpg",
+            "length": "79371",
+            "type": "image/jpeg"
+          }
+        },
         {
           "id": "https://blog.prusaprinters.org/?p=52177",
           "author": "MattStultz",
