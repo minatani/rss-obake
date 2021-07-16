@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T16:29:27.293Z</updated>
+    <updated>2021-07-16T17:25:00.152Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:NHKスペシャル]]></title>
+        <id>https://mainichi.jp/articles/20210717/ddm/018/200/031000c</id>
+        <link href="https://mainichi.jp/articles/20210717/ddm/018/200/031000c"/>
+        <updated>2021-07-16T17:04:37.000Z</updated>
+        <summary type="html"><![CDATA[◆NHKスペシャル（NHK＝後9・0） 　東京五輪で金メダルを目指す卓球の伊藤美誠に長期取材。コロナ禍で五輪が1年延期、国際大会も中止になって目標を見失った伊藤だが、自分を取り戻すため、大きな決断をして昨秋に中国遠征へ向かった。同行した母親にカメラを託し、38日間の旅で見せた素顔に迫る。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴率:5～11日]]></title>
+        <id>https://mainichi.jp/articles/20210717/ddm/018/200/034000c</id>
+        <link href="https://mainichi.jp/articles/20210717/ddm/018/200/034000c"/>
+        <updated>2021-07-16T17:04:25.000Z</updated>
+        <summary type="html"><![CDATA[■教育・教養・実用 （1）新・情報7daysニュースキャスター　TBS　15．4　土 （2）サンデーモーニング　　　　　　　　　　　同　　15．1　日 （3）ガッテン！　　　　　　　　　　　　　　NHK　14．5　水]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Driftworks: 3D printing in custom car part design]]></title>
         <id>https://blog.prusaprinters.org/?p=52867</id>
