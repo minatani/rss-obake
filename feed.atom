@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T18:23:17.442Z</updated>
+    <updated>2021-07-16T19:14:26.483Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Style Your React App – 5 Ways to Write CSS in 2021]]></title>
+        <id>60eef23666c61b07d458d43c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/"/>
+        <updated>2021-07-16T18:41:57.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:NHKスペシャル]]></title>
         <id>https://mainichi.jp/articles/20210717/ddm/018/200/031000c</id>

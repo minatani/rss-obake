@@ -1692,6 +1692,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60eef23666c61b07d458d43c",
+          "author": null,
+          "description": "When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in",
+          "link": "https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/",
+          "publishedOn": "2021-07-16T18:41:57.000Z",
+          "wordCount": 2999,
+          "title": "How to Style Your React App – 5 Ways to Write CSS in 2021"
+        },
+        {
           "id": "60e74160134ad707be00f23f",
           "author": null,
           "description": "The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where",
