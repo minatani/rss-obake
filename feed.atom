@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T02:06:26.818Z</updated>
+    <updated>2021-07-16T03:21:05.714Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2578,17 +2578,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[◆最高の最下位！（日テレ＝後9・0） 　さまざまなランキングの上位を紹介する番組が多い中、「最下位にもいいところがあるはず」と発想を転換して、あえて「全国最下位」の良い部分を探る。読売テレビ（大阪）制作。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 3D printer]]></title>
-        <id>https://blog.prusaprinters.org/?p=51436</id>
-        <link href="https://blog.prusaprinters.org/introducing-sl1s_fastest_desktop_sla_3d_printer_51436/"/>
-        <updated>2021-06-16T15:15:07.000Z</updated>
-        <summary type="html"><![CDATA[The Original Prusa SL1 was our first foray into the world of SLA printers. We wanted to build a solid, sturdy and robust 3D printer…
-The post Original Prusa SL1S SPEED is here: Introducing the fastest desktop SLA 3D printer appeared first on Prusa Printers.]]></summary>
-        <author>
-            <name>josefprusa</name>
         </author>
     </entry>
 </feed>
