@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T08:22:08.064Z</updated>
+    <updated>2021-07-16T09:19:43.783Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2566,36 +2566,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://www.freecodecamp.org/news/what-are-bookmarklets/"/>
         <updated>2021-06-17T00:53:04.000Z</updated>
         <summary type="html"><![CDATA[Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
-        <id>60c088e5d3126007592d56f1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/"/>
-        <updated>2021-06-16T21:19:08.000Z</updated>
-        <summary type="html"><![CDATA[In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, "Yes, You Can DO It!". In JavaScript, we can create a string in a couple of ways: Using the string literal as a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained]]></title>
-        <id>60b8cb0aacb62507dd1d82ea</id>
-        <link href="https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/"/>
-        <updated>2021-06-16T20:56:49.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Better React Apps with These Simple Tricks]]></title>
-        <id>60ca25704dc1a607ed7b408c</id>
-        <link href="https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/"/>
-        <updated>2021-06-16T20:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
