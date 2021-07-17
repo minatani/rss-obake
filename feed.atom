@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T23:18:01.260Z</updated>
+    <updated>2021-07-17T00:57:54.524Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2549,16 +2549,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[◆さんまのまんま初夏SP（フジ＝後8・0） 　明石家さんまとゲストのトーク番組のスペシャル。アニメ「鬼滅の刃」で知られる花澤香菜と「トロピカル～ジュ！プリキュア」で知られる日高里菜の声優2人は「あっぱれさんま大先生」などで共演して以来のさんまとの再会。7歳の花澤がブリッジをする映像にさんまも笑みを]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course]]></title>
-        <id>60c2aa56d3126007592d6226</id>
-        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/"/>
-        <updated>2021-06-17T12:02:47.000Z</updated>
-        <summary type="html"><![CDATA[What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
