@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T04:24:04.105Z</updated>
+    <updated>2021-07-18T05:15:53.465Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2487,26 +2487,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://mainichi.jp/articles/20210619/dde/018/200/005000c"/>
         <updated>2021-06-19T03:39:35.000Z</updated>
         <summary type="html"><![CDATA[美空ひばり三十三回忌特番　歌姫が抱く夢のすべて　BS―TBS＝26日午後7時 　日本歌謡界のスター、美空ひばりは1989年6月24日、多くの人に惜しまれながらこの世を旅立った。番組では、三十三回忌に合わせ「ひばりの夢」をキーワードに、ひばりの人生をひもといていく。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴率:7～13日]]></title>
-        <id>https://mainichi.jp/articles/20210619/ddm/018/200/029000c</id>
-        <link href="https://mainichi.jp/articles/20210619/ddm/018/200/029000c"/>
-        <updated>2021-06-18T17:02:09.000Z</updated>
-        <summary type="html"><![CDATA[■教育・教養・実用 （1）真相報道バンキシャ！　　　　　　　　　日テレ　13．6　日 （2）新・情報7daysニュースキャスター　TBS　13．4　土 （2）サンデーモーニング　　　　　　　　　　　同　　13．4　日]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:芸能人　個展開きました]]></title>
-        <id>https://mainichi.jp/articles/20210619/ddm/018/200/025000c</id>
-        <link href="https://mainichi.jp/articles/20210619/ddm/018/200/025000c"/>
-        <updated>2021-06-18T17:00:18.000Z</updated>
-        <summary type="html"><![CDATA[◆芸能人　個展開きました（BSフジ＝後7・0） 　芸術の才能を持つ芸能人が個展を開催するバラエティー番組。出展するのは南海キャンディーズのしずちゃん、オアシズの光浦靖子、プロレスラーの藤原喜明の3人だ。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
