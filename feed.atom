@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T03:21:02.898Z</updated>
+    <updated>2021-07-18T04:24:04.105Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2509,26 +2509,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[◆芸能人　個展開きました（BSフジ＝後7・0） 　芸術の才能を持つ芸能人が個展を開催するバラエティー番組。出展するのは南海キャンディーズのしずちゃん、オアシズの光浦靖子、プロレスラーの藤原喜明の3人だ。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCP vs UDP – Which Protocol is Faster?]]></title>
-        <id>60b46dbd11ffb70827ef9dea</id>
-        <link href="https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/"/>
-        <updated>2021-06-18T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Specialisation Courses for Advanced ML Practitioners]]></title>
-        <id>60cc5a904dc1a607ed7b4c54</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/"/>
-        <updated>2021-06-18T15:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

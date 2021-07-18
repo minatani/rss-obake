@@ -2293,24 +2293,6 @@
           "publishedOn": "2021-06-21T16:36:14.000Z",
           "wordCount": 1153,
           "title": "How the CSS Position Property Works – Explained with Code Examples"
-        },
-        {
-          "id": "60b46dbd11ffb70827ef9dea",
-          "author": null,
-          "description": "What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we",
-          "link": "https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/",
-          "publishedOn": "2021-06-18T15:45:00.000Z",
-          "wordCount": 1613,
-          "title": "TCP vs UDP – Which Protocol is Faster?"
-        },
-        {
-          "id": "60cc5a904dc1a607ed7b4c54",
-          "author": null,
-          "description": "Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,",
-          "link": "https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/",
-          "publishedOn": "2021-06-18T15:43:56.000Z",
-          "wordCount": 906,
-          "title": "Machine Learning Specialisation Courses for Advanced ML Practitioners"
         }
       ]
     }
