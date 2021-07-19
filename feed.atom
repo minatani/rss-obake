@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T03:21:21.178Z</updated>
+    <updated>2021-07-19T04:25:18.725Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[役の履歴書:岩藤　亡霊でよみがえる悪人＝小玉祥子]]></title>
+        <id>https://mainichi.jp/articles/20210719/dde/018/200/010000c</id>
+        <link href="https://mainichi.jp/articles/20210719/dde/018/200/010000c"/>
+        <updated>2021-07-19T03:50:22.000Z</updated>
+        <summary type="html"><![CDATA[「鏡（加賀見）山旧錦絵（こきょうのにしきえ）」の後日談が「加賀見山再岩藤（ごにちのいわふじ）」。タイトルロールの岩藤は悪人一味。「旧錦絵」で殺害され、「再岩藤」で亡霊としてよみがえる。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[演劇　新国立劇場「反応工程」　国家と個の論理見つめ＝評・濱田元子]]></title>
+        <id>https://mainichi.jp/articles/20210719/dde/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210719/dde/018/200/012000c"/>
+        <updated>2021-07-19T03:46:50.000Z</updated>
+        <summary type="html"><![CDATA[国家と個の論理がせめぎ合う。その最たる状況である戦争の本質を、軍需工場を舞台に検証する宮本研の群像劇だ。演出の千葉哲也が、真摯（しんし）な手つきで言葉一つ一つを今に突き刺していく。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:映画「スーパーノヴァ」　ハリー・マックイーン監督　愛する人の大切さ]]></title>
+        <id>https://mainichi.jp/articles/20210719/dde/018/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210719/dde/018/200/007000c"/>
+        <updated>2021-07-19T03:46:47.000Z</updated>
+        <summary type="html"><![CDATA[映画「スーパーノヴァ」は、英国のハリー・マックイーン監督の第2作。若年性認知症の小説家タスカーと同性の恋人でピアニストのサムが、英国の湖水地方を巡る旅を描く。 　自身が出会った認知症患者や終末医療への関心から脚本を執筆。認知症とロードムービーの結びつきがユニークだ。「終末医療を扱った作品は他にあっ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カンヌ国際映画祭　脚本賞　濱口監督「ドライブ・マイ・カー」]]></title>
         <id>https://mainichi.jp/articles/20210719/ddm/041/200/150000c</id>
