@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T14:16:55.226Z</updated>
+    <updated>2021-07-19T15:21:52.918Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Does Kerberos Work? The Authentication Protocol Explained]]></title>
+        <id>60dbcc7c27f80207bcdbbcff</id>
+        <link href="https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/"/>
+        <updated>2021-07-19T14:34:59.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Recursion in Programming]]></title>
         <id>60f18a9666c61b07d458e2b0</id>

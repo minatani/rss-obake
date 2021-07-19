@@ -1647,6 +1647,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60dbcc7c27f80207bcdbbcff",
+          "author": null,
+          "description": "In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email",
+          "link": "https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/",
+          "publishedOn": "2021-07-19T14:34:59.000Z",
+          "wordCount": 2641,
+          "title": "How Does Kerberos Work? The Authentication Protocol Explained"
+        },
+        {
           "id": "60f18a9666c61b07d458e2b0",
           "author": null,
           "description": "In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released",
