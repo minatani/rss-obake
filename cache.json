@@ -1656,6 +1656,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f53af066c61b07d458ed0a",
+          "author": null,
+          "description": "Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and",
+          "link": "https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/",
+          "publishedOn": "2021-07-19T19:00:35.000Z",
+          "wordCount": 1566,
+          "title": "RGB Color – HTML and CSS Guide"
+        },
+        {
           "id": "60f2829d66c61b07d458e58f",
           "author": null,
           "description": "Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is",
