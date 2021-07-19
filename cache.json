@@ -1656,6 +1656,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f3e5ca66c61b07d458eb2d",
+          "author": null,
+          "description": "Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.",
+          "link": "https://www.freecodecamp.org/news/install-xcode-command-line-tools/",
+          "publishedOn": "2021-07-19T22:25:44.000Z",
+          "wordCount": 1246,
+          "title": "How to Install Xcode Command Line Tools on a Mac"
+        },
+        {
           "id": "60f53af066c61b07d458ed0a",
           "author": null,
           "description": "Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and",

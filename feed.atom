@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T22:18:22.215Z</updated>
+    <updated>2021-07-19T23:18:05.780Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
+        <id>60f3e5ca66c61b07d458eb2d</id>
+        <link href="https://www.freecodecamp.org/news/install-xcode-command-line-tools/"/>
+        <updated>2021-07-19T22:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RGB Color – HTML and CSS Guide]]></title>
         <id>60f53af066c61b07d458ed0a</id>
