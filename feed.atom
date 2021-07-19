@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T16:29:33.435Z</updated>
+    <updated>2021-07-19T17:24:03.408Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:山形純菜アナウンサー／1　選手たちの思いを大切に]]></title>
+        <id>https://mainichi.jp/articles/20210720/ddm/018/200/010000c</id>
+        <link href="https://mainichi.jp/articles/20210720/ddm/018/200/010000c"/>
+        <updated>2021-07-19T17:01:14.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系「東京オリンピック2020」（21日～8月8日）リポーター＞ 　東京オリンピック開催は私がTBSに入社する前から決まっていたので、アナウンサーとして関わりたいなという思いがありました。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scrape Websites with Node.js and Cheerio]]></title>
+        <id>60ec528ce8ee9b08300edb9e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/"/>
+        <updated>2021-07-19T16:50:30.000Z</updated>
+        <summary type="html"><![CDATA[There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage]]></title>
         <id>60e7d016134ad707be00f47c</id>

@@ -6,6 +6,15 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210720/ddm/018/200/010000c",
+          "author": null,
+          "description": "＜TBS系「東京オリンピック2020」（21日～8月8日）リポーター＞ 　東京オリンピック開催は私がTBSに入社する前から決まっていたので、アナウンサーとして関わりたいなという思いがありました。",
+          "link": "https://mainichi.jp/articles/20210720/ddm/018/200/010000c",
+          "publishedOn": "2021-07-19T17:01:14.000Z",
+          "wordCount": 465,
+          "title": "赤坂電視台:山形純菜アナウンサー／1　選手たちの思いを大切に"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210719/dde/018/200/010000c",
           "author": null,
           "description": "「鏡（加賀見）山旧錦絵（こきょうのにしきえ）」の後日談が「加賀見山再岩藤（ごにちのいわふじ）」。タイトルロールの岩藤は悪人一味。「旧錦絵」で殺害され、「再岩藤」で亡霊としてよみがえる。",
@@ -1646,6 +1655,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60ec528ce8ee9b08300edb9e",
+          "author": null,
+          "description": "There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/",
+          "publishedOn": "2021-07-19T16:50:30.000Z",
+          "wordCount": 2311,
+          "title": "How to Scrape Websites with Node.js and Cheerio"
+        },
         {
           "id": "60e7d016134ad707be00f47c",
           "author": null,
