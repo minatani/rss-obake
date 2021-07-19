@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T13:24:17.622Z</updated>
+    <updated>2021-07-19T14:16:55.226Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Recursion in Programming]]></title>
+        <id>60f18a9666c61b07d458e2b0</id>
+        <link href="https://www.freecodecamp.org/news/understanding-recursion-in-programming/"/>
+        <updated>2021-07-19T13:56:48.000Z</updated>
+        <summary type="html"><![CDATA[In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[役の履歴書:岩藤　亡霊でよみがえる悪人＝小玉祥子]]></title>
         <id>https://mainichi.jp/articles/20210719/dde/018/200/010000c</id>

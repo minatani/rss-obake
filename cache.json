@@ -1647,6 +1647,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f18a9666c61b07d458e2b0",
+          "author": null,
+          "description": "In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released",
+          "link": "https://www.freecodecamp.org/news/understanding-recursion-in-programming/",
+          "publishedOn": "2021-07-19T13:56:48.000Z",
+          "wordCount": 18791,
+          "title": "Understanding Recursion in Programming"
+        },
+        {
           "id": "60eef23666c61b07d458d43c",
           "author": null,
           "description": "When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in",
