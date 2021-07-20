@@ -1647,6 +1647,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f2dbac66c61b07d458e5c9",
+          "author": null,
+          "description": "In my very early days as a budding web developer, I made a fairly common mistake. On Facebook, I sent a friend request to a senior software engineer (I wasn't aware of his position at the time) and started a chat with him thereafter. Done with greetings and pleasantries, I",
+          "link": "https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/",
+          "publishedOn": "2021-07-20T20:04:12.000Z",
+          "wordCount": 1350,
+          "title": "Programming VS Coding VS Development – What&#x27;s the Difference?"
+        },
+        {
+          "id": "60ed44c866c61b07d458d023",
+          "author": null,
+          "description": "Have you ever gotten into trouble trying to handle a single process that's really huge or heavy? If so, I can help you figure out how to better manage it. In this article I will be sharing how I'm currently managing a single message that is too big to be",
+          "link": "https://www.freecodecamp.org/news/scale-system-split-processes/",
+          "publishedOn": "2021-07-20T19:26:45.000Z",
+          "wordCount": 1209,
+          "title": "How to Scale a System With Process Splitting and Redis"
+        },
+        {
           "id": "60e009e527f80207bcdbd00a",
           "author": null,
           "description": "If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media",
