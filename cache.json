@@ -6,6 +6,24 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210721/ddm/018/200/012000c",
+          "author": null,
+          "description": "◆八月は夜のバッティングセンターで。（東京＝深夜1・20） 　バッティングセンターで働く女子高校生の夏葉舞（関水渚）と元プロ野球選手の伊藤智弘（仲村トオル）が、人生に悩む女性客と向き合う模様を描く連続ドラマ。今回が第3話。和食店で働くが下積みの仕事は嫌だと不満を抱く女性（武田玲奈）に、伊藤は野球に",
+          "link": "https://mainichi.jp/articles/20210721/ddm/018/200/012000c",
+          "publishedOn": "2021-07-20T17:02:07.000Z",
+          "wordCount": 461,
+          "title": "視聴室:八月は夜のバッティングセンターで。"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210721/ddm/018/200/008000c",
+          "author": null,
+          "description": "＜TBS系「東京オリンピック2020」（21日～8月8日）リポーター＞ 　東京オリンピック開会式に先行して、今夜、サッカー女子が開幕。注目の初戦をTBSが放送します。",
+          "link": "https://mainichi.jp/articles/20210721/ddm/018/200/008000c",
+          "publishedOn": "2021-07-20T17:01:29.000Z",
+          "wordCount": 465,
+          "title": "赤坂電視台:山形純菜アナウンサー／2　今夜、なでしこ戦キックオフ"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210720/dde/012/200/009000c",
           "author": null,
           "description": "“トップ・オブ・トップ”が今秋、宝塚歌劇団を静かに去る。特別顧問で専科の轟悠。入団以来36年、王道の二枚目から狂気の犯罪者、リアリズムを追求した歴史上の人物と自在に演じ、新しい男役像を切り開いてきた。7月に始まった退団公演「婆娑羅（ばさら）の玄孫（やしゃご）」には「感傷にひたるより、下級生に学んで",
@@ -1628,6 +1646,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e009e527f80207bcdbd00a",
+          "author": null,
+          "description": "If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media",
+          "link": "https://www.freecodecamp.org/news/css-properties-examples/",
+          "publishedOn": "2021-07-20T17:09:20.000Z",
+          "wordCount": 835,
+          "title": "CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples"
+        },
         {
           "id": "60f1d20a66c61b07d458e4a3",
           "author": null,

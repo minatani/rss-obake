@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T16:29:24.398Z</updated>
+    <updated>2021-07-20T17:23:40.043Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples]]></title>
+        <id>60e009e527f80207bcdbd00a</id>
+        <link href="https://www.freecodecamp.org/news/css-properties-examples/"/>
+        <updated>2021-07-20T17:09:20.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:八月は夜のバッティングセンターで。]]></title>
+        <id>https://mainichi.jp/articles/20210721/ddm/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210721/ddm/018/200/012000c"/>
+        <updated>2021-07-20T17:02:07.000Z</updated>
+        <summary type="html"><![CDATA[◆八月は夜のバッティングセンターで。（東京＝深夜1・20） 　バッティングセンターで働く女子高校生の夏葉舞（関水渚）と元プロ野球選手の伊藤智弘（仲村トオル）が、人生に悩む女性客と向き合う模様を描く連続ドラマ。今回が第3話。和食店で働くが下積みの仕事は嫌だと不満を抱く女性（武田玲奈）に、伊藤は野球に]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:山形純菜アナウンサー／2　今夜、なでしこ戦キックオフ]]></title>
+        <id>https://mainichi.jp/articles/20210721/ddm/018/200/008000c</id>
+        <link href="https://mainichi.jp/articles/20210721/ddm/018/200/008000c"/>
+        <updated>2021-07-20T17:01:29.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系「東京オリンピック2020」（21日～8月8日）リポーター＞ 　東京オリンピック開会式に先行して、今夜、サッカー女子が開幕。注目の初戦をTBSが放送します。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn to Use the MySQL Database]]></title>
         <id>60f1d20a66c61b07d458e4a3</id>
