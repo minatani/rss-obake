@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T03:21:12.942Z</updated>
+    <updated>2021-07-20T04:24:40.702Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:轟悠が宝塚退団公演　入団から36年…様式美完成　ストイックに男役追求]]></title>
+        <id>https://mainichi.jp/articles/20210720/dde/012/200/009000c</id>
+        <link href="https://mainichi.jp/articles/20210720/dde/012/200/009000c"/>
+        <updated>2021-07-20T03:43:05.000Z</updated>
+        <summary type="html"><![CDATA[“トップ・オブ・トップ”が今秋、宝塚歌劇団を静かに去る。特別顧問で専科の轟悠。入団以来36年、王道の二枚目から狂気の犯罪者、リアリズムを追求した歴史上の人物と自在に演じ、新しい男役像を切り開いてきた。7月に始まった退団公演「婆娑羅（ばさら）の玄孫（やしゃご）」には「感傷にひたるより、下級生に学んで]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私の記念碑:歌手　坂本冬美／3　二葉百合子に導かれ]]></title>
+        <id>https://mainichi.jp/articles/20210720/dde/012/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210720/dde/012/200/007000c"/>
+        <updated>2021-07-20T03:43:04.000Z</updated>
+        <summary type="html"><![CDATA[「導かれたんだ、と思っています」。デビューから15年を経て出会った二葉百合子との縁を、坂本冬美はそう表現する。 　その日のことは、はっきり覚えている。人気歌手として走り続ける日々に疲れ果て、2002年に休業を宣言。歌に自信もなくし「このまま引退してもいい」という気持ちで、和歌山県の実家で過ごしてい]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特薦盤:歌謡曲・ポップス　川崎浩・選]]></title>
+        <id>https://mainichi.jp/articles/20210720/dde/012/070/006000c</id>
+        <link href="https://mainichi.jp/articles/20210720/dde/012/070/006000c"/>
+        <updated>2021-07-20T03:43:03.000Z</updated>
+        <summary type="html"><![CDATA[■「イッツ・アバウト・タイム／惣領智子」（ステップス・レコーズ） 　昨秋、インドネシアの歌手が、1979年に発売された松原みきの「真夜中のドア」を歌って大ヒットし、騒ぎになった。その2年前にも竹内まりやの「プラスティック・ラヴ」（84年）がウェブ界で話題になっていたので、業界内では「シティーポップ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特薦盤:歌謡曲・ポップス　富澤一誠・選]]></title>
+        <id>https://mainichi.jp/articles/20210720/dde/012/070/005000c</id>
+        <link href="https://mainichi.jp/articles/20210720/dde/012/070/005000c"/>
+        <updated>2021-07-20T03:43:01.000Z</updated>
+        <summary type="html"><![CDATA[■沢田聖子／Singer　Song　Writer～　APRICOT　～（SAINT） 　沢田聖子のデビューはまったくの“偶然”から始まった。高校2年の秋だった。突然自宅の電話が鳴った。「イルカの妹になりませんか」。その頃イルカのプロダクションは新人第1号を“イルカの妹”として売り出すため、オーディ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:寄席支援に寄付1億円　落語は愛されている　噺家が垣根を越えて募る]]></title>
+        <id>https://mainichi.jp/articles/20210720/dde/012/200/001000c</id>
+        <link href="https://mainichi.jp/articles/20210720/dde/012/200/001000c"/>
+        <updated>2021-07-20T03:42:57.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍で影響を受けた寄席を支えようと、落語協会と落語芸術協会がクラウドファンディングを募った。集まった支援金は、当初の目標額5000万円の2倍にあたる総額約1億円。落語協会会長の柳亭市馬が「噺（はなし）家が抱いている『寄席がなくなる』という危機感をお客様にも共有していただいた」と喜べば、落語芸術]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
         <id>60f3e5ca66c61b07d458eb2d</id>
