@@ -1647,6 +1647,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "605301d528094f59be257c67",
+          "author": null,
+          "description": "In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5",
+          "link": "https://www.freecodecamp.org/news/html-underline-text-how-to-use-the-u-tag-with-example-code/",
+          "publishedOn": "2021-07-20T22:48:13.000Z",
+          "wordCount": 667,
+          "title": "HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code"
+        },
+        {
           "id": "60f2dbac66c61b07d458e5c9",
           "author": null,
           "description": "In my very early days as a budding web developer, I made a fairly common mistake. On Facebook, I sent a friend request to a senior software engineer (I wasn't aware of his position at the time) and started a chat with him thereafter. Done with greetings and pleasantries, I",

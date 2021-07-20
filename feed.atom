@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T22:18:37.379Z</updated>
+    <updated>2021-07-20T23:18:18.855Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code]]></title>
+        <id>605301d528094f59be257c67</id>
+        <link href="https://www.freecodecamp.org/news/html-underline-text-how-to-use-the-u-tag-with-example-code/"/>
+        <updated>2021-07-20T22:48:13.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Programming VS Coding VS Development – What&#x27;s the Difference?]]></title>
         <id>60f2dbac66c61b07d458e5c9</id>
