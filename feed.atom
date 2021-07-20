@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T04:24:40.702Z</updated>
+    <updated>2021-07-20T05:16:11.412Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2577,26 +2577,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://mainichi.jp/articles/20210621/dde/018/200/006000c"/>
         <updated>2021-06-21T03:42:34.000Z</updated>
         <summary type="html"><![CDATA[トラッシュマスターズを率いる中津留章仁の代表作「黄色い叫び」が、東日本大震災から10年となる節目に、東京や仙台で上演される。 　震災直後の2011年4月に初演された。舞台はある地方の公民館。地域社会や災害対策、命の格差など、さまざまな問題をはらむ作品だ。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:新番組　ナイト・ドクター]]></title>
-        <id>https://mainichi.jp/articles/20210621/ddm/018/200/033000c</id>
-        <link href="https://mainichi.jp/articles/20210621/ddm/018/200/033000c"/>
-        <updated>2021-06-20T17:01:36.000Z</updated>
-        <summary type="html"><![CDATA[◆新番組　ナイト・ドクター（フジ＝後9・0） 　夜間専門の救急医チーム「ナイト・ドクター」を描くドラマの第1話。救急医・朝倉美月を演じる波瑠は「月9」初主演。 　舞台の病院では医師の働き方改革のため当直を廃止し、ナイト・ドクターを新設。集まった美月や成瀬（田中圭）、深沢（岸優太）、桜庭（北村匠海）]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[続・リモコンの片隅から:BS12トゥエルビ　放送席の職人技にも注目!?]]></title>
-        <id>https://mainichi.jp/articles/20210621/ddm/018/200/041000c</id>
-        <link href="https://mainichi.jp/articles/20210621/ddm/018/200/041000c"/>
-        <updated>2021-06-20T17:01:06.000Z</updated>
-        <summary type="html"><![CDATA[セ・パ交流戦はバファローズの優勝で幕を閉じ、再開したパ・リーグのペナントレースは混戦模様。首位のイーグルスから5位のライオンズまでゲーム差4（17日時点）と見逃せない展開が続いています。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
