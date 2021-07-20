@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T12:29:50.561Z</updated>
+    <updated>2021-07-20T13:23:03.583Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn to Use the MySQL Database]]></title>
+        <id>60f1d20a66c61b07d458e4a3</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/"/>
+        <updated>2021-07-20T13:18:33.000Z</updated>
+        <summary type="html"><![CDATA[MySql is one of the most popular databases. We just released a MySQL Database course on the freeCodeCamp.org YouTube channel. Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher. This course starts with SQL basics. Then it also goes]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ｔｏｐｉｃｓ:轟悠が宝塚退団公演　入団から36年…様式美完成　ストイックに男役追求]]></title>
         <id>https://mainichi.jp/articles/20210720/dde/012/200/009000c</id>
