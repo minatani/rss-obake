@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T09:19:52.970Z</updated>
+    <updated>2021-07-21T10:20:45.095Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2519,26 +2519,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[運営危機の資料館に収益寄付 　新型コロナウイルスの感染拡大による入館者数の減少で運営の危機にある沖縄県糸満市の「ひめゆり平和祈念資料館」を支援しようと、沖縄出身の人気バンド「MONGOL800（モンパチ）」のボーカル、キヨサクさんがチャリティーライブを配信する。太平洋戦争末期の沖縄戦の犠牲者を追悼す]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Exit Vim – Vim Save and Quit Command Tutorial]]></title>
-        <id>60c81f774dc1a607ed7b2f66</id>
-        <link href="https://www.freecodecamp.org/news/how-to-exit-vim/"/>
-        <updated>2021-06-21T21:52:43.000Z</updated>
-        <summary type="html"><![CDATA[I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples]]></title>
-        <id>60bce157acb62507dd1d9f11</id>
-        <link href="https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/"/>
-        <updated>2021-06-21T21:25:11.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
