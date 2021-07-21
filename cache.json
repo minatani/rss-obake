@@ -1647,6 +1647,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f66b6f66c61b07d458f93c",
+          "author": null,
+          "description": "What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing",
+          "link": "https://www.freecodecamp.org/news/css-background-image-with-html-example-code/",
+          "publishedOn": "2021-07-21T15:20:18.000Z",
+          "wordCount": 1624,
+          "title": "CSS Background Image – With HTML Example Code"
+        },
+        {
           "id": "605301d528094f59be257c67",
           "author": null,
           "description": "In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5",

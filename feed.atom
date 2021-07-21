@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T14:16:45.227Z</updated>
+    <updated>2021-07-21T15:21:47.351Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Background Image – With HTML Example Code]]></title>
+        <id>60f66b6f66c61b07d458f93c</id>
+        <link href="https://www.freecodecamp.org/news/css-background-image-with-html-example-code/"/>
+        <updated>2021-07-21T15:20:18.000Z</updated>
+        <summary type="html"><![CDATA[What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォーカス:蒔田彩珠　ドラマ「おかえりモネ」永浦未知役　思いの強さ隠さずに]]></title>
         <id>https://mainichi.jp/articles/20210721/dde/018/200/007000c</id>
