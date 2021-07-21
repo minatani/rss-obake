@@ -1638,6 +1638,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f5ecb966c61b07d458f479",
+          "author": null,
+          "description": "You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement",
+          "link": "https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/",
+          "publishedOn": "2021-07-21T21:28:55.000Z",
+          "wordCount": 1654,
+          "title": "Why You Should Use EditorConfig to Standardize Code Styles"
+        },
+        {
           "id": "60f81c021d2b080797b80d44",
           "author": null,
           "description": "You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when",
