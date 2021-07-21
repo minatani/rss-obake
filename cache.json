@@ -1638,6 +1638,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f55f3e66c61b07d458ee8c",
+          "author": null,
+          "description": "The cascading nature of CSS sometimes makes it tough to understand and use. Developers at all levels often struggle while trying to figure out how to use certain features, and you'll often find yourself googling or asking a colleague for help.  So when you're having issues dealing with CSS, don’",
+          "link": "https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/",
+          "publishedOn": "2021-07-21T22:39:42.000Z",
+          "wordCount": 1311,
+          "title": "10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)"
+        },
+        {
           "id": "60f5ecb966c61b07d458f479",
           "author": null,
           "description": "You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement",
