@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T03:21:46.520Z</updated>
+    <updated>2021-07-21T04:24:35.311Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フォーカス:蒔田彩珠　ドラマ「おかえりモネ」永浦未知役　思いの強さ隠さずに]]></title>
+        <id>https://mainichi.jp/articles/20210721/dde/018/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210721/dde/018/200/007000c"/>
+        <updated>2021-07-21T04:04:22.000Z</updated>
+        <summary type="html"><![CDATA[ドラマ「おかえりモネ」永浦未知役（NHK＝月～土曜午前8時） 　ヒロイン永浦百音（ももね）（清原果耶）の2歳下の妹で、宮城県気仙沼市で家業の養殖を担おうと、水産高校で学ぶ芯の強い女性を演じる。「意地っ張りで負けず嫌いなところが自分によく似ている。今まで内に何かを秘める役が多かったが、みーちゃん（未知]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テレビ応援団:イノベーションを阻む“常識”]]></title>
+        <id>https://mainichi.jp/articles/20210721/dde/018/070/006000c</id>
+        <link href="https://mainichi.jp/articles/20210721/dde/018/070/006000c"/>
+        <updated>2021-07-21T04:04:17.000Z</updated>
+        <summary type="html"><![CDATA[＜映像プロデューサー・吉川圭三のテレビ応援団＞ 　日本テレビのTプロデューサーこと「電波少年」の土屋敏男氏が、noteというブログサイトに興味深い事を書いていた。その名も「報連相（ほうれんそう）は会社を滅ぼす」。「報連相」は言うまでもなく“報告・連絡・相談”のことである。会社員は報連相すべきだと言]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荻原魚雷のラジオ交差点:自然さ支える星野源の観察眼]]></title>
+        <id>https://mainichi.jp/articles/20210721/dde/018/200/005000c</id>
+        <link href="https://mainichi.jp/articles/20210721/dde/018/200/005000c"/>
+        <updated>2021-07-21T04:04:16.000Z</updated>
+        <summary type="html"><![CDATA[「星野源のオールナイトニッポン（ANN）」（ニッポン放送）を聴いていると、星野さんはつくづく褒め上手だと感心させられる。ラジオだけでなく、エッセーでもわかりやすい外見や能力ではなく、何気ない立ち振る舞いや言葉遣いからその人の美質をとらえるのが巧みだ。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code]]></title>
         <id>605301d528094f59be257c67</id>
