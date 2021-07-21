@@ -1525,42 +1525,6 @@
           "publishedOn": "2021-06-22T17:00:50.000Z",
           "wordCount": 463,
           "title": "視聴室:そうだ脳トレの旅に出掛けよう"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210622/dde/012/200/005000c",
-          "author": null,
-          "description": "多様な分野で活躍するパーカッショニストのはたけやま裕が、宮沢賢治らの文学作品に着想を得て作曲した作品集アルバム「You′s　Literary　Notes　宙～sola～」を発売した。加藤登紀子や佐藤竹善など、楽曲ごとの世界観に合った豪華ミュージシャンを起用しながら、メッセージ性の高い1枚に仕上げた",
-          "link": "https://mainichi.jp/articles/20210622/dde/012/200/005000c",
-          "publishedOn": "2021-06-22T04:10:32.000Z",
-          "wordCount": 474,
-          "title": "Ｉｎｔｅｒｖｉｅｗ:はたけやま裕　宮沢賢治を音楽に　新アルバム　癒やしや救いを"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210622/dde/012/200/007000c",
-          "author": null,
-          "description": "2003年に活動を休止し、過密スケジュールから解き放たれた「花＊花」の2人。当初、進んだ道は、正反対のものだった。 　「時間もある。今や！」と思い立ったこじまいづみは、多忙で実現できなかったことを一つずつ達成していく。まず車の運転免許を取得。次に女友達と海外を貧乏旅行。「仕事では乗る新幹線もタクシ",
-          "link": "https://mainichi.jp/articles/20210622/dde/012/200/007000c",
-          "publishedOn": "2021-06-22T04:09:29.000Z",
-          "wordCount": 466,
-          "title": "私の記念碑:女性デュオ　花＊花／3　休止中、音楽に向き合う"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210622/dde/012/200/012000c",
-          "author": null,
-          "description": "「全てが受け手次第。自分がどう思うかで、人生そのものが変わる」。そんな達観した人生観を、田中圭はさらりと口にする。10代でデビューして芸歴を重ね、「おっさんずラブ」で大ブレーク。今やテレビ、映画で顔を見ない日はないくらい。切れ目なく作品が続くが、出演の決め手は「面白そうだな、がダントツ1位。あとは",
-          "link": "https://mainichi.jp/articles/20210622/dde/012/200/012000c",
-          "publishedOn": "2021-06-22T04:08:22.000Z",
-          "wordCount": 467,
-          "title": "Ｉｎｔｅｒｖｉｅｗ:田中圭　映画「ヒノマルソウル」主演　実在モデルに心を寄せ"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210622/dde/041/040/028000c",
-          "author": null,
-          "description": "運営危機の資料館に収益寄付 　新型コロナウイルスの感染拡大による入館者数の減少で運営の危機にある沖縄県糸満市の「ひめゆり平和祈念資料館」を支援しようと、沖縄出身の人気バンド「MONGOL800（モンパチ）」のボーカル、キヨサクさんがチャリティーライブを配信する。太平洋戦争末期の沖縄戦の犠牲者を追悼す",
-          "link": "https://mainichi.jp/articles/20210622/dde/041/040/028000c",
-          "publishedOn": "2021-06-22T03:59:14.000Z",
-          "wordCount": 454,
-          "title": "「ひめゆり」歌で支援　MONGOL800・キヨサクさんら　あすからライブ配信"
         }
       ]
     },
@@ -1646,6 +1610,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f83b421d2b080797b80f10",
+          "author": null,
+          "description": "Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.",
+          "link": "https://www.freecodecamp.org/news/low-code-tutorial/",
+          "publishedOn": "2021-07-21T15:40:35.000Z",
+          "wordCount": 441,
+          "title": "Low-Code Tutorial – Build 3 Financial Apps"
+        },
+        {
+          "id": "60f7eeda1d2b080797b80b31",
+          "author": null,
+          "description": "React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never",
+          "link": "https://www.freecodecamp.org/news/react-context-for-beginners/",
+          "publishedOn": "2021-07-21T15:39:28.000Z",
+          "wordCount": 1684,
+          "title": "React Context for Beginners – The Complete Guide (2021)"
+        },
+        {
+          "id": "60f5c9b866c61b07d458f2af",
+          "author": null,
+          "description": "Article by @study_web_dev",
+          "link": "https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/",
+          "publishedOn": "2021-07-21T15:24:57.000Z",
+          "wordCount": 2572,
+          "title": "13 Freelance Developer Portfolios to Inspire You"
+        },
         {
           "id": "60f66b6f66c61b07d458f93c",
           "author": null,

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T15:21:47.351Z</updated>
+    <updated>2021-07-21T16:29:55.432Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Low-Code Tutorial – Build 3 Financial Apps]]></title>
+        <id>60f83b421d2b080797b80f10</id>
+        <link href="https://www.freecodecamp.org/news/low-code-tutorial/"/>
+        <updated>2021-07-21T15:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Context for Beginners – The Complete Guide (2021)]]></title>
+        <id>60f7eeda1d2b080797b80b31</id>
+        <link href="https://www.freecodecamp.org/news/react-context-for-beginners/"/>
+        <updated>2021-07-21T15:39:28.000Z</updated>
+        <summary type="html"><![CDATA[React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 Freelance Developer Portfolios to Inspire You]]></title>
+        <id>60f5c9b866c61b07d458f2af</id>
+        <link href="https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/"/>
+        <updated>2021-07-21T15:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Article by @study_web_dev]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Background Image – With HTML Example Code]]></title>
         <id>60f66b6f66c61b07d458f93c</id>
@@ -2489,46 +2519,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:はたけやま裕　宮沢賢治を音楽に　新アルバム　癒やしや救いを]]></title>
-        <id>https://mainichi.jp/articles/20210622/dde/012/200/005000c</id>
-        <link href="https://mainichi.jp/articles/20210622/dde/012/200/005000c"/>
-        <updated>2021-06-22T04:10:32.000Z</updated>
-        <summary type="html"><![CDATA[多様な分野で活躍するパーカッショニストのはたけやま裕が、宮沢賢治らの文学作品に着想を得て作曲した作品集アルバム「You′s　Literary　Notes　宙～sola～」を発売した。加藤登紀子や佐藤竹善など、楽曲ごとの世界観に合った豪華ミュージシャンを起用しながら、メッセージ性の高い1枚に仕上げた]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私の記念碑:女性デュオ　花＊花／3　休止中、音楽に向き合う]]></title>
-        <id>https://mainichi.jp/articles/20210622/dde/012/200/007000c</id>
-        <link href="https://mainichi.jp/articles/20210622/dde/012/200/007000c"/>
-        <updated>2021-06-22T04:09:29.000Z</updated>
-        <summary type="html"><![CDATA[2003年に活動を休止し、過密スケジュールから解き放たれた「花＊花」の2人。当初、進んだ道は、正反対のものだった。 　「時間もある。今や！」と思い立ったこじまいづみは、多忙で実現できなかったことを一つずつ達成していく。まず車の運転免許を取得。次に女友達と海外を貧乏旅行。「仕事では乗る新幹線もタクシ]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:田中圭　映画「ヒノマルソウル」主演　実在モデルに心を寄せ]]></title>
-        <id>https://mainichi.jp/articles/20210622/dde/012/200/012000c</id>
-        <link href="https://mainichi.jp/articles/20210622/dde/012/200/012000c"/>
-        <updated>2021-06-22T04:08:22.000Z</updated>
-        <summary type="html"><![CDATA[「全てが受け手次第。自分がどう思うかで、人生そのものが変わる」。そんな達観した人生観を、田中圭はさらりと口にする。10代でデビューして芸歴を重ね、「おっさんずラブ」で大ブレーク。今やテレビ、映画で顔を見ない日はないくらい。切れ目なく作品が続くが、出演の決め手は「面白そうだな、がダントツ1位。あとは]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ひめゆり」歌で支援　MONGOL800・キヨサクさんら　あすからライブ配信]]></title>
-        <id>https://mainichi.jp/articles/20210622/dde/041/040/028000c</id>
-        <link href="https://mainichi.jp/articles/20210622/dde/041/040/028000c"/>
-        <updated>2021-06-22T03:59:14.000Z</updated>
-        <summary type="html"><![CDATA[運営危機の資料館に収益寄付 　新型コロナウイルスの感染拡大による入館者数の減少で運営の危機にある沖縄県糸満市の「ひめゆり平和祈念資料館」を支援しようと、沖縄出身の人気バンド「MONGOL800（モンパチ）」のボーカル、キヨサクさんがチャリティーライブを配信する。太平洋戦争末期の沖縄戦の犠牲者を追悼す]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
