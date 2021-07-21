@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T08:21:28.356Z</updated>
+    <updated>2021-07-21T09:19:52.970Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2537,16 +2537,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/"/>
         <updated>2021-06-21T21:25:11.000Z</updated>
         <summary type="html"><![CDATA[When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Redux by Making a Counter Application]]></title>
-        <id>60cccd6e4dc1a607ed7b4f81</id>
-        <link href="https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/"/>
-        <updated>2021-06-21T21:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Redux is a state management library for front end applications. It is often used with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

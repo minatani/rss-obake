@@ -2320,15 +2320,6 @@
           "publishedOn": "2021-06-21T21:25:11.000Z",
           "wordCount": 1085,
           "title": "Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples"
-        },
-        {
-          "id": "60cccd6e4dc1a607ed7b4f81",
-          "author": null,
-          "description": "Redux is a state management library for front end applications. It is often used with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might",
-          "link": "https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/",
-          "publishedOn": "2021-06-21T21:01:42.000Z",
-          "wordCount": 1659,
-          "title": "Learn Redux by Making a Counter Application"
         }
       ]
     }
