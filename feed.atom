@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T16:29:55.432Z</updated>
+    <updated>2021-07-21T17:25:13.503Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:山形純菜アナウンサー／3　注目の競技が目白押し]]></title>
+        <id>https://mainichi.jp/articles/20210722/ddm/018/200/023000c</id>
+        <link href="https://mainichi.jp/articles/20210722/ddm/018/200/023000c"/>
+        <updated>2021-07-21T17:08:42.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系「東京オリンピック2020」（21日～8月8日）リポーター＞ 　オリンピックのリポートは今回が初めてです。開催直前の決定事項が多い中で、どんな状況も柔軟に対応ができるよう、まずは万全な体調管理に気をつけています。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:緊急取調室]]></title>
+        <id>https://mainichi.jp/articles/20210722/ddm/018/200/024000c</id>
+        <link href="https://mainichi.jp/articles/20210722/ddm/018/200/024000c"/>
+        <updated>2021-07-21T17:08:29.000Z</updated>
+        <summary type="html"><![CDATA[◆緊急取調室（朝日＝後9・0） 　可視化設備の整った特別な部屋で取り調べを行う専門チーム「緊急事案対応取調班（通称・キントリ）」。警視庁捜査1課の刑事・真壁有希子（天海祐希）らキントリのメンバーが事件解決を目指すドラマが第4シーズンに突入した。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大河ドラマ「青天を衝け」年内終了]]></title>
+        <id>https://mainichi.jp/articles/20210722/ddm/012/200/096000c</id>
+        <link href="https://mainichi.jp/articles/20210722/ddm/012/200/096000c"/>
+        <updated>2021-07-21T17:04:57.000Z</updated>
+        <summary type="html"><![CDATA[NHKは21日、放送中の大河ドラマ「青天を衝（つ）け」の最終回を12月26日とすると発表した。「青天―」がスタートしたのは2月14日で全41回。前作「麒麟（きりん）がくる」に続き、例年より少ない回数で終了する。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Low-Code Tutorial – Build 3 Financial Apps]]></title>
         <id>60f83b421d2b080797b80f10</id>
