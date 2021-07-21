@@ -1638,6 +1638,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f81c021d2b080797b80d44",
+          "author": null,
+          "description": "You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when",
+          "link": "https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/",
+          "publishedOn": "2021-07-21T21:02:54.000Z",
+          "wordCount": 1132,
+          "title": "What is about:blank? Chrome Blank Homepage Guide"
+        },
+        {
           "id": "60f83b421d2b080797b80f10",
           "author": null,
           "description": "Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T20:20:05.951Z</updated>
+    <updated>2021-07-21T21:18:43.351Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is about:blank? Chrome Blank Homepage Guide]]></title>
+        <id>60f81c021d2b080797b80d44</id>
+        <link href="https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/"/>
+        <updated>2021-07-21T21:02:54.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赤坂電視台:山形純菜アナウンサー／3　注目の競技が目白押し]]></title>
         <id>https://mainichi.jp/articles/20210722/ddm/018/200/023000c</id>
