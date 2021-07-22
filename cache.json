@@ -2302,15 +2302,6 @@
           "publishedOn": "2021-06-23T17:19:24.000Z",
           "wordCount": 2296,
           "title": "How to Create a Great Technical Course"
-        },
-        {
-          "id": "60d2323d6e1a1407b6b0ac4f",
-          "author": null,
-          "description": "Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we",
-          "link": "https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/",
-          "publishedOn": "2021-06-22T21:11:53.000Z",
-          "wordCount": 2770,
-          "title": "Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools"
         }
       ]
     }
