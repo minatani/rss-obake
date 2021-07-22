@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T04:24:38.287Z</updated>
+    <updated>2021-07-22T05:14:16.669Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2527,36 +2527,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/"/>
         <updated>2021-06-22T21:11:53.000Z</updated>
         <summary type="html"><![CDATA[Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:バナナマン／2　1対1の心理戦が面白い]]></title>
-        <id>https://mainichi.jp/articles/20210623/ddm/018/200/016000c</id>
-        <link href="https://mainichi.jp/articles/20210623/ddm/018/200/016000c"/>
-        <updated>2021-06-22T17:00:56.000Z</updated>
-        <summary type="html"><![CDATA[＜TBS系バラエティー「クイズ！倍買」（29日午後10時）MC（司会）＞ 　（日村勇紀）団体戦のクイズではなく、出題者の設楽さんと解答者のチャレンジャーが1対1というスタイルが、新鮮で面白いですね。普段とは違う2人の表情や心理戦が素晴らしい。僕はそれを別ルームのモニターで見て、ドキドキしながら楽し]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:そうだ脳トレの旅に出掛けよう]]></title>
-        <id>https://mainichi.jp/articles/20210623/ddm/018/200/019000c</id>
-        <link href="https://mainichi.jp/articles/20210623/ddm/018/200/019000c"/>
-        <updated>2021-06-22T17:00:50.000Z</updated>
-        <summary type="html"><![CDATA[◆そうだ脳トレの旅に出掛けよう（BS11イレブン＝後7・03） 　新型コロナウイルス禍が続いて旅行もままならない中、旅の映像を楽しみながら、認知症予防の専門家が考えたという頭のトレーニングに取り組む“一石二鳥”を狙った特別番組。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Async/Await to Write Better JavaScript Code]]></title>
-        <id>60cac8ff4dc1a607ed7b4592</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/"/>
-        <updated>2021-06-22T16:24:37.000Z</updated>
-        <summary type="html"><![CDATA[There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
