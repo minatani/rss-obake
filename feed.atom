@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T22:18:16.984Z</updated>
+    <updated>2021-07-22T23:18:13.778Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.freecodecamp.org/news/how-to-screenshot-on-mac-take-a-screen-capture-with-a-keyboard-shortcut/"/>
         <updated>2021-07-22T22:05:03.000Z</updated>
         <summary type="html"><![CDATA[Using just a few keystrokes, it's easy to capture part or all of your screen on a Mac.  Screenshots are useful in many cases, like when you're writing a blog post and you want to use images that will drive home the points you are making.  This guide will show]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Box Model Properties – Explained With Examples ✨]]></title>
+        <id>6063b98a9618b008528a9d92</id>
+        <link href="https://www.freecodecamp.org/news/css-box-model-explained-with-examples/"/>
+        <updated>2021-07-22T17:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn how to use the CSS box model with examples. This will help you make pixel perfect websites and will teach you to use the box-sizing, margin, padding, and border properties more accurately.  We're also going to see some practical use cases for these properties. Let's get]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
