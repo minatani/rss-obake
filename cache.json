@@ -6,6 +6,24 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210723/ddm/018/200/031000c",
+          "author": null,
+          "description": "◆新番組・漂着者（朝日＝後11・15） 　斎藤工主演、秋元康が企画・原作・脚本を担当した連続ドラマの第1話。地方の海岸に漂着しているイケメン男性（斎藤）を、通りかかった女子高生が発見する。男性は「勝者には何もやるな」とつぶやくが、記憶障害で自分が何者か分からない。そんな正体不明の男性の動画を女子高",
+          "link": "https://mainichi.jp/articles/20210723/ddm/018/200/031000c",
+          "publishedOn": "2021-07-22T17:00:32.000Z",
+          "wordCount": 462,
+          "title": "視聴室:新番組・漂着者"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210723/ddm/018/200/026000c",
+          "author": null,
+          "description": "リモートワークなど、きっかけはコロナだが新しい生活様式として今後も定着しそうなものがある。車中泊キャンプもその一つだろう。24日午後7時のBS―TBS「走る別荘！車中泊の旅～日本海をめざす！夏の磐越横断300キロ」も、そんな流れである。",
+          "link": "https://mainichi.jp/articles/20210723/ddm/018/200/026000c",
+          "publishedOn": "2021-07-22T17:00:22.000Z",
+          "wordCount": 462,
+          "title": "ＢＳ未来館:地元の味を求めて車中泊"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210722/ddm/018/200/023000c",
           "author": null,
           "description": "＜TBS系「東京オリンピック2020」（21日～8月8日）リポーター＞ 　オリンピックのリポートは今回が初めてです。開催直前の決定事項が多い中で、どんな状況も柔軟に対応ができるよう、まずは万全な体調管理に気をつけています。",
@@ -1592,6 +1610,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f716ab1d2b080797b80532",
+          "author": null,
+          "description": "In music terminology, an onset refers to the beginning of a musical note or other sound. In this post, we will look at how to detect music onsets with Python's audio signal processing libraries, Aubio and librosa. This tutorial is relevant even if your application doesn't use Python - for",
+          "link": "https://www.freecodecamp.org/news/use-python-to-detect-music-onsets/",
+          "publishedOn": "2021-07-22T16:56:17.000Z",
+          "wordCount": 1306,
+          "title": "How to Use Python to Detect Music Onsets"
+        },
+        {
+          "id": "60af854611ffb70827ef8526",
+          "author": null,
+          "description": "Webmention is a simple protocol developed by the IndieWeb Community that you can use to request notifications when your URLs are mentioned on the web. When you post on your own site and syndicate elsewhere (POSSE), Webmention lets you enable rich interactions on your syndicated posts. This article will walk",
+          "link": "https://www.freecodecamp.org/news/how-to-use-webmentions-with-gatsby-beginners-guide/",
+          "publishedOn": "2021-07-22T16:33:55.000Z",
+          "wordCount": 1861,
+          "title": "How to Use Webmentions with Gatsby.js – A Beginner&#x27;s Guide"
+        },
         {
           "id": "60f245ca66c61b07d458e512",
           "author": null,
