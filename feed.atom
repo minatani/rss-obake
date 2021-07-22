@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T03:21:15.322Z</updated>
+    <updated>2021-07-22T04:24:38.287Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2557,26 +2557,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/"/>
         <updated>2021-06-22T16:24:37.000Z</updated>
         <summary type="html"><![CDATA[There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot]]></title>
-        <id>60c13e71d3126007592d5be2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/"/>
-        <updated>2021-06-22T16:20:36.000Z</updated>
-        <summary type="html"><![CDATA[The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Python to Create a Visual Novel Game in 10 Minutes]]></title>
-        <id>60cfff5a4dc1a607ed7b5e58</id>
-        <link href="https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/"/>
-        <updated>2021-06-22T16:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

@@ -2338,24 +2338,6 @@
           "publishedOn": "2021-06-22T16:24:37.000Z",
           "wordCount": 1432,
           "title": "How to Use Async/Await to Write Better JavaScript Code"
-        },
-        {
-          "id": "60c13e71d3126007592d5be2",
-          "author": null,
-          "description": "The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/",
-          "publishedOn": "2021-06-22T16:20:36.000Z",
-          "wordCount": 7385,
-          "title": "How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot"
-        },
-        {
-          "id": "60cfff5a4dc1a607ed7b5e58",
-          "author": null,
-          "description": "Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with",
-          "link": "https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/",
-          "publishedOn": "2021-06-22T16:18:29.000Z",
-          "wordCount": 1611,
-          "title": "How to Use Python to Create a Visual Novel Game in 10 Minutes"
         }
       ]
     }
