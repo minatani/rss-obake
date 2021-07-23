@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T16:29:26.607Z</updated>
+    <updated>2021-07-23T17:24:11.220Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:新番組・黒鳥の湖]]></title>
+        <id>https://mainichi.jp/articles/20210724/ddm/018/200/027000c</id>
+        <link href="https://mainichi.jp/articles/20210724/ddm/018/200/027000c"/>
+        <updated>2021-07-23T17:01:39.000Z</updated>
+        <summary type="html"><![CDATA[◆新番組・黒鳥の湖（WOWOW＝後10・0） 　過去のある事件とその「報い」を巡るミステリードラマの第1話。原作は推理作家・宇佐美まことの同名小説。全5話。初回のみ無料放送。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does a 3D printed guitar pick suck? (spoiler, it’s actually awesome)]]></title>
         <id>https://blog.prusaprinters.org/?p=53320</id>
