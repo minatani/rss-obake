@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T14:16:42.074Z</updated>
+    <updated>2021-07-23T15:21:25.904Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Does a 3D printed guitar pick suck? (spoiler, it’s actually awesome)]]></title>
+        <id>https://blog.prusaprinters.org/?p=53320</id>
+        <link href="https://blog.prusaprinters.org/does-a-3d-printed-guitar-pick-suck-spoiler-its-actually-awesome_53320/"/>
+        <updated>2021-07-23T08:52:58.000Z</updated>
+        <summary type="html"><![CDATA[I swear I must have at least a few dozen guitar picks at home. However, after each session, they seem to just disappear, one by…
+The post Does a 3D printed guitar pick suck? (spoiler, it’s actually awesome) appeared first on Prusa Printers.]]></summary>
+        <author>
+            <name>Mikolas Zuza</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Screenshot on Mac – Take a Screen Capture with a Keyboard Shortcut]]></title>
         <id>60f969ee1d2b080797b8160a</id>

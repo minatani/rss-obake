@@ -1525,6 +1525,20 @@
       "siteUrl": "https://blog.prusaprinters.org",
       "articles": [
         {
+          "id": "https://blog.prusaprinters.org/?p=53320",
+          "author": "Mikolas Zuza",
+          "description": "I swear I must have at least a few dozen guitar picks at home. However, after each session, they seem to just disappear, one by…\nThe post Does a 3D printed guitar pick suck? (spoiler, it’s actually awesome) appeared first on Prusa Printers.",
+          "link": "https://blog.prusaprinters.org/does-a-3d-printed-guitar-pick-suck-spoiler-its-actually-awesome_53320/",
+          "publishedOn": "2021-07-23T08:52:58.000Z",
+          "wordCount": 2169,
+          "title": "Does a 3D printed guitar pick suck? (spoiler, it’s actually awesome)",
+          "enclosure": {
+            "url": "https://blog.prusaprinters.org/wp-content/uploads/2021/07/unnamed-4-698x325.jpg",
+            "length": "44096",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://blog.prusaprinters.org/?p=52867",
           "author": "Jakub Kmošek",
           "description": "Driftworks is a custom car part shop based in Birmingham, Great Britain. As the name hints, their main focus is drifting: that crazy style of…\nThe post Driftworks: 3D printing in custom car part design appeared first on Prusa Printers.",
