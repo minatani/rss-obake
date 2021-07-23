@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T15:21:25.904Z</updated>
+    <updated>2021-07-23T16:29:26.607Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2460,66 +2460,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特集ワイド:亜星さんの銀座を歩く　人の世に生まれ、人を避けろという。悔しい　コロナ後、見ぬまま…]]></title>
-        <id>https://mainichi.jp/articles/20210624/dde/012/200/015000c</id>
-        <link href="https://mainichi.jp/articles/20210624/dde/012/200/015000c"/>
-        <updated>2021-06-24T04:09:18.000Z</updated>
-        <summary type="html"><![CDATA[小林亜星さん（享年88）と偶然、東京・銀座のバーでご一緒したことがある。もの静かにグラスを傾けるその姿に寺内貫太郎のイメージはなかった。訃報を知った当時のママからメールが届いた。＜人の世に生まれ、人を避けろという。悔しいからコロナ後の世界を見るまで死なないとおっしゃっていたのに……＞。亜星さんをし]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:中村雅俊　心にしみる歌を届け　交響楽団をバックにツアー]]></title>
-        <id>https://mainichi.jp/articles/20210624/dde/018/200/014000c</id>
-        <link href="https://mainichi.jp/articles/20210624/dde/018/200/014000c"/>
-        <updated>2021-06-24T03:36:58.000Z</updated>
-        <summary type="html"><![CDATA[歌手で俳優の中村雅俊が交響楽団の演奏で歌うツアー「中村雅俊　Symphonic　Live　2021　～Before　DAWN～」が、8月から全国4都市で開催される。「久しぶりに歌う機会に恵まれ、しかもフルオーケストラをバックに歌えるのが、この上ない幸福。来てくれる人の心に歌がしみて、少し感動もあっ]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:舞台「おあきと春団治」主演、藤山直美　さみしく楽しい大阪芸人]]></title>
-        <id>https://mainichi.jp/articles/20210624/dde/018/200/013000c</id>
-        <link href="https://mainichi.jp/articles/20210624/dde/018/200/013000c"/>
-        <updated>2021-06-24T03:36:57.000Z</updated>
-        <summary type="html"><![CDATA[大正から戦前まで、関西を中心に圧倒的な人気を博した落語家、桂春団治と姉おあきの姉弟愛に焦点をあてた「おあきと春団治～お姉ちゃんにまかしとき～」（寺田夢酔脚本、筒井庸助演出）が7月3～26日、藤山直美主演により東京・新橋演舞場で上演される。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:アニメ映画「トゥルーノース」清水ハン栄治監督　北朝鮮の強制収容所、惨状をリアルに描く]]></title>
-        <id>https://mainichi.jp/articles/20210624/dde/018/200/010000c</id>
-        <link href="https://mainichi.jp/articles/20210624/dde/018/200/010000c"/>
-        <updated>2021-06-24T03:36:55.000Z</updated>
-        <summary type="html"><![CDATA[公開中のアニメ映画「トゥルーノース」は、北朝鮮の政治犯強制収容所の惨状を描いた。清水ハン栄治監督が、人権じゅうりんを世界に伝えたいと10年かけて完成させた。 　主人公の少年ヨハンはある日、突然母、妹と強制収容所に送られる。恐怖が支配し人間性を奪われる収容所の生活を取材に基づいて再現した。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日々是・感劇:大衆紙と英国式庭園]]></title>
-        <id>https://mainichi.jp/articles/20210624/dde/018/200/009000c</id>
-        <link href="https://mainichi.jp/articles/20210624/dde/018/200/009000c"/>
-        <updated>2021-06-24T03:36:54.000Z</updated>
-        <summary type="html"><![CDATA[欧州連合（EU）を離脱した英国で主要7カ国首脳会議（G7サミット）が開催され、民主主義や多国間協調の行方が注目された。ほぼ同じころ、日本では英国発の刺激的な舞台が相次いだ。どんな社会を選んできて、どこへ向かうのか。サミット同様、劇場も世界に思いを巡らす場となった。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新劇の女優7人、On7が「七祭」]]></title>
-        <id>https://mainichi.jp/articles/20210624/dde/018/200/008000c</id>
-        <link href="https://mainichi.jp/articles/20210624/dde/018/200/008000c"/>
-        <updated>2021-06-24T03:36:52.000Z</updated>
-        <summary type="html"><![CDATA[老舗の新劇5劇団の女優7人で作る演劇ユニットOn7（オンナナ）が第5回公演「七祭（ナナフェス）」を7月2～11日、東京・下北沢のシアター711で上演する。短編映画「うまれる」（田中聡脚本・監督）に、「座れ！オオガミ」（土田英生作・演出）、「夜会」（早船聡作・演出）の演劇2作品の3本立て。さらにつな]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
