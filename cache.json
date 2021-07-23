@@ -1571,6 +1571,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f5aca466c61b07d458f119",
+          "author": null,
+          "description": "Have you ever needed to loop through multiple iterables in parallel when coding in Python? In this tutorial, we'll use Python's zip() function to efficiently perform parallel iteration over multiple iterables. Here's what we'll cover in this post:  How to Use the 'in' Operator in Python to Traverse Iterables Why",
+          "link": "https://www.freecodecamp.org/news/the-zip-function-in-python-explained-with-examples/",
+          "publishedOn": "2021-07-23T17:25:34.000Z",
+          "wordCount": 1545,
+          "title": "Python zip() Function – Explained with Code Examples"
+        },
+        {
           "id": "60f969ee1d2b080797b8160a",
           "author": null,
           "description": "Using just a few keystrokes, it's easy to capture part or all of your screen on a Mac.  Screenshots are useful in many cases, like when you're writing a blog post and you want to use images that will drive home the points you are making.  This guide will show",
