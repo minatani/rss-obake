@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T04:25:07.362Z</updated>
+    <updated>2021-07-23T05:16:06.872Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2549,16 +2549,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for our channel. PlanningChoose a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:バナナマン／3　クイズの問題は身近なことから]]></title>
-        <id>https://mainichi.jp/articles/20210624/ddm/018/200/012000c</id>
-        <link href="https://mainichi.jp/articles/20210624/ddm/018/200/012000c"/>
-        <updated>2021-06-23T17:14:35.000Z</updated>
-        <summary type="html"><![CDATA[＜TBS系バラエティー「クイズ！倍買」（29日午後10時）MC（司会）＞ 　（設楽統）チャレンジャーの一人は山里亮太さん。オールラウンダーで知識も豊富だから、クイズ番組にほんと最適ですね。「東大王」のMCもされていますが、解答者側にいる山ちゃんはめったに見られないんじゃないでしょうか。もう一人は中]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
