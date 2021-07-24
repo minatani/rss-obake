@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T16:28:27.600Z</updated>
+    <updated>2021-07-24T17:21:55.345Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:行列のできる法律相談所]]></title>
+        <id>https://mainichi.jp/articles/20210725/ddm/018/200/036000c</id>
+        <link href="https://mainichi.jp/articles/20210725/ddm/018/200/036000c"/>
+        <updated>2021-07-24T17:04:35.000Z</updated>
+        <summary type="html"><![CDATA[◆行列のできる法律相談所（日テレ＝後9・0） 　グループ結成10年となるKis―My―Ft2の藤ケ谷太輔と玉森裕太、上白石萌歌ら芸能人が過去から消し去りたい「やらかし」を一挙紹介する。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今週のＮＨＫ連続テレビ小説:おかえりモネ]]></title>
+        <id>https://mainichi.jp/articles/20210725/ddm/018/200/033000c</id>
+        <link href="https://mainichi.jp/articles/20210725/ddm/018/200/033000c"/>
+        <updated>2021-07-24T17:04:08.000Z</updated>
+        <summary type="html"><![CDATA[百音（清原果耶）は気象予報会社ウェザーエキスパーツに採用され、気象予報士として働き始める。朝岡（西島秀俊）や莉子（今田美桜）と共に朝の情報番組を担当することになり、意気込む百音。下宿先の銭湯には、上京してきた幼なじみの明日美（恒松祐里）も住むことになった。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[わざおぎ登場:死に際に「滅びゆく美」　源平布引滝　義賢最期で木曽先生義賢役　松本幸四郎さん]]></title>
+        <id>https://mainichi.jp/articles/20210725/ddm/014/200/024000c</id>
+        <link href="https://mainichi.jp/articles/20210725/ddm/014/200/024000c"/>
+        <updated>2021-07-24T17:01:12.000Z</updated>
+        <summary type="html"><![CDATA[今回取り上げるのは8月の東京・歌舞伎座「八月花形歌舞伎」第3部で上演される「源平布引滝（げんぺいぬのびきのたき）　義賢最期（よしかたさいご）」。主役で壮絶な最期を遂げる木曽先生義賢を松本幸四郎さんが初役でつとめる。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊テレビ評:無謀としかいえぬ東京五輪強行　開催の意味を問い続けねば＝金平茂紀]]></title>
         <id>https://mainichi.jp/articles/20210724/dde/018/070/005000c</id>
