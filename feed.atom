@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T04:24:11.106Z</updated>
+    <updated>2021-07-25T05:15:46.438Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2438,26 +2438,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://mainichi.jp/articles/20210626/dde/018/070/004000c"/>
         <updated>2021-06-26T03:35:36.000Z</updated>
         <summary type="html"><![CDATA[コロナ禍でエッセンシャルワーカーの方々への感謝と共に、その仕事の大変さの一端を知ることになった。収束のめどはまだ見えない中で、医師や看護師の労働環境は容易に改善されないし、医療の切迫に対峙（たいじ）する緊張感は想像を超えるものがあると思う。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴率:14～20日]]></title>
-        <id>https://mainichi.jp/articles/20210626/ddm/018/200/029000c</id>
-        <link href="https://mainichi.jp/articles/20210626/ddm/018/200/029000c"/>
-        <updated>2021-06-25T17:03:01.000Z</updated>
-        <summary type="html"><![CDATA[■教育・教養・実用 （1）新・情報7daysニュースキャスター　TBS　15．2　土 （2）真相報道バンキシャ！　　　　　　　　　日テレ　14．0　日 （3）サンデーモーニング　　　　　　　　　　TBS　13．9　日]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:ひきこもり先生]]></title>
-        <id>https://mainichi.jp/articles/20210626/ddm/018/200/031000c</id>
-        <link href="https://mainichi.jp/articles/20210626/ddm/018/200/031000c"/>
-        <updated>2021-06-25T17:03:00.000Z</updated>
-        <summary type="html"><![CDATA[ひきこもり先生（NHK＝後9・0） 　引きこもりを11年間経験した上嶋陽平（佐藤二朗）が中学校の非常勤講師を頼まれ、不登校生徒のために奮闘する姿を描いた学園ドラマの第3話。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
         </author>
