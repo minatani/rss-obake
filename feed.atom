@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T16:28:15.222Z</updated>
+    <updated>2021-07-25T17:21:57.469Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:病院の治しかた～スペシャル～]]></title>
+        <id>https://mainichi.jp/articles/20210726/ddm/018/200/132000c</id>
+        <link href="https://mainichi.jp/articles/20210726/ddm/018/200/132000c"/>
+        <updated>2021-07-25T17:11:52.000Z</updated>
+        <summary type="html"><![CDATA[◆病院の治しかた～スペシャル～（東京＝後8・0） 　2020年1月期に放送された医療ドラマの特別編。有原修平（小泉孝太郎）が院長を務める有原病院は、コロナ禍での受診控えによる経営危機に見舞われていた。経営難を救ったのは3年前に始めた小さな病院だった。何とかコロナ禍を乗り切ったが、「病院の再編統合」]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“耳寄り”な話・ＴＢＳラジオ:次代ラジオスターの話術]]></title>
+        <id>https://mainichi.jp/articles/20210726/ddm/018/200/136000c</id>
+        <link href="https://mainichi.jp/articles/20210726/ddm/018/200/136000c"/>
+        <updated>2021-07-25T17:02:53.000Z</updated>
+        <summary type="html"><![CDATA[「アルコ＆ピースD．C．GARAGE」（火曜深夜0時）はお笑いコンビ、アルコ＆ピースのトークバラエティー番組。彼らのトークの特徴は、さまざまな話題をありがちな映画のワンシーンや漫画の一コマといったあるあるを引用し、話題にはめ込むこと。すると、状況がリスナーの頭に映像として映る。その引き出しが豊富で]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:行列のできる法律相談所]]></title>
         <id>https://mainichi.jp/articles/20210725/ddm/018/200/036000c</id>
