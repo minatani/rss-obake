@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T21:17:49.066Z</updated>
+    <updated>2021-07-26T22:18:58.452Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Find Remote Jobs – 25 Websites To Help You Work from Home Online]]></title>
+        <id>60f746ee1d2b080797b807f6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-remote-jobs/"/>
+        <updated>2021-07-26T21:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Working from home can have its challenges but there are also many benefits. A lot of employees enjoy the flexible schedule, and you can save money from not having to eat out or drive to work.  I have curated a list of 25 sites for remote work. Whether you are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform CRUD Operations using React, React Hooks, and Axios]]></title>
+        <id>60fa671e1d2b080797b81cd4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/"/>
+        <updated>2021-07-26T21:41:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're working with React, it can be quite difficult to understand and implement API Requests. So in this article, we'll learn how it all works by implementing CRUD Operations using React, React Hooks, React Router, and Axios. Let's dive in. How to Install Node and npmFirst of all, let's]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Pseudocode? How to Use Pseudocode to Solve Coding Problems]]></title>
         <id>60fe9a5222b0e2078fcd154f</id>
