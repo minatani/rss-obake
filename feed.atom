@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T22:18:58.452Z</updated>
+    <updated>2021-07-26T23:18:23.537Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Doodle Games – Baseball, PacMan, and More]]></title>
+        <id>60fc070722b0e2078fcd0ae1</id>
+        <link href="https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/"/>
+        <updated>2021-07-26T23:01:30.000Z</updated>
+        <summary type="html"><![CDATA[The homepage for the Google Search engine is the most viewed webpage in the world. People conduct billions of searches every day.  When you land on the page, right above the search box, you'll see Google's logo. On many occassions the logo will be different and accompanied by what's called]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Find Remote Jobs – 25 Websites To Help You Work from Home Online]]></title>
         <id>60f746ee1d2b080797b807f6</id>
