@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T03:20:30.166Z</updated>
+    <updated>2021-07-26T04:24:51.833Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[演劇　劇団四季「アナと雪の女王」　姉妹の心情、より深め＝評・濱田元子]]></title>
+        <id>https://mainichi.jp/articles/20210726/dde/018/200/009000c</id>
+        <link href="https://mainichi.jp/articles/20210726/dde/018/200/009000c"/>
+        <updated>2021-07-26T04:15:16.000Z</updated>
+        <summary type="html"><![CDATA[魔法の力を持って生まれたために心を閉ざしてしまったエルサと、姉の心をとかそうとするアナ。真実の愛を探す姉妹の物語が、「ありのままで」など極上の楽曲と共に紡がれる。大ヒットしたディズニーの長編アニメーションの舞台化だ。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:病院の治しかた～スペシャル～]]></title>
         <id>https://mainichi.jp/articles/20210726/ddm/018/200/132000c</id>
