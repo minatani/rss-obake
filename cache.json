@@ -1517,6 +1517,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60fe9a5222b0e2078fcd154f",
+          "author": null,
+          "description": "You might be wondering what pseudocode is and why it's so useful for writing computer programs. But before we jump into pseudocode, let's refresh our memories about what programming and coding are, in the simplest sense. Programming is the manifestation of logic. A program is a set of instructions that",
+          "link": "https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/",
+          "publishedOn": "2021-07-26T19:23:37.000Z",
+          "wordCount": 1468,
+          "title": "What is Pseudocode? How to Use Pseudocode to Solve Coding Problems"
+        },
+        {
           "id": "60faae4d1d2b080797b82046",
           "author": null,
           "description": "Your browsing history can come in very handy when you want to look up  something that you have already viewed on the internet.  Maybe you read an interesting article online and want to reference it again, but forgot to bookmark it. Well, you can have a look at your Chrome",
