@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T03:21:48.171Z</updated>
+    <updated>2021-07-27T04:22:24.954Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[寄稿:カンヌ国際映画祭　新進監督のホラーが最高賞＝立田敦子（映画ジャーナリスト）]]></title>
+        <id>https://mainichi.jp/articles/20210727/dde/012/200/008000c</id>
+        <link href="https://mainichi.jp/articles/20210727/dde/012/200/008000c"/>
+        <updated>2021-07-27T04:16:40.000Z</updated>
+        <summary type="html"><![CDATA[6～17日、南仏カンヌにて第74回カンヌ国際映画祭が開催された。世界3大映画祭のひとつで最も権威のあるアート映画の殿堂といわれるこの映画祭は、毎年5月に開催されるが、昨年はコロナ禍の影響で開催を断念、今年は2カ月延期し、2年ぶりの開催にこぎつけた。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私の記念碑:歌手　坂本冬美／4止　詞を大事に「一曲入魂」]]></title>
+        <id>https://mainichi.jp/articles/20210727/dde/012/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210727/dde/012/200/007000c"/>
+        <updated>2021-07-27T04:16:38.000Z</updated>
+        <summary type="html"><![CDATA[「正直、自信なんて今もありません。演歌の歌手には声量があるとか、こぶしがすごく回るとか、本当に歌のうまい方が多いでしょう？　でも私には両方ともないですから」 　歌の基礎を学んでいないことがコンプレックスだった坂本冬美。一時は引退を考えるほど自信をなくしたが、大ベテランの二葉百合子の下で発声から鍛え]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:イ・ジョンピル監督　韓国映画「サムジンカンパニー　1995」　底辺の人々、連帯し勝利]]></title>
+        <id>https://mainichi.jp/articles/20210727/dde/012/200/006000c</id>
+        <link href="https://mainichi.jp/articles/20210727/dde/012/200/006000c"/>
+        <updated>2021-07-27T04:16:36.000Z</updated>
+        <summary type="html"><![CDATA[公開中の韓国映画「サムジンカンパニー　1995」は、1995年のソウルを舞台に、大企業の高卒女性社員が活躍する社会派コメディー。イ・ジョンピル監督は「映画を見て前向きになって」と話す。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「BOYS　AND　MEN」新シングル　名古屋の町おこしお兄さん]]></title>
+        <id>https://mainichi.jp/articles/20210727/dde/012/200/004000c</id>
+        <link href="https://mainichi.jp/articles/20210727/dde/012/200/004000c"/>
+        <updated>2021-07-27T04:16:33.000Z</updated>
+        <summary type="html"><![CDATA[ボーイズユニット「BOYS　AND　MEN（ボイメン）」が28日、新シングル「ニューチャレンジャー」を発売する。人気テレビアニメ「新幹線変形ロボ　シンカリオンZ」の主題歌。アップテンポの曲調で、挑戦する人の背中を押すアニソンになっている。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画プロフェッショナル大賞決まる]]></title>
+        <id>https://mainichi.jp/articles/20210727/dde/012/200/003000c</id>
+        <link href="https://mainichi.jp/articles/20210727/dde/012/200/003000c"/>
+        <updated>2021-07-27T04:16:29.000Z</updated>
+        <summary type="html"><![CDATA[第30回日本映画プロフェッショナル大賞が発表された。2020年の作品賞（ベストテン1位）は「本気のしるし　劇場版」だった。同大賞は、監督やプロデューサー、評論家らが選ぶ。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Doodle Games – Baseball, PacMan, and More]]></title>
         <id>60fc070722b0e2078fcd0ae1</id>
