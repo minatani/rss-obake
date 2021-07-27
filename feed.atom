@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T22:18:23.253Z</updated>
+    <updated>2021-07-27T23:18:46.071Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python For Loop – Example and Tutorial]]></title>
+        <id>60ffec493306a507d1bf98f4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/"/>
+        <updated>2021-07-27T22:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Flatten a Dictionary in Python in 4 Different Ways]]></title>
         <id>60ff23533306a507d1bf9345</id>

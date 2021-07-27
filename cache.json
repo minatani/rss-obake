@@ -1544,6 +1544,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ffec493306a507d1bf98f4",
+          "author": null,
+          "description": "Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions",
+          "link": "https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/",
+          "publishedOn": "2021-07-27T22:36:10.000Z",
+          "wordCount": 1528,
+          "title": "Python For Loop – Example and Tutorial"
+        },
+        {
           "id": "60ff23533306a507d1bf9345",
           "author": null,
           "description": "In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How",
