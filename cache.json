@@ -1544,6 +1544,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ff23533306a507d1bf9345",
+          "author": null,
+          "description": "In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How",
+          "link": "https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/",
+          "publishedOn": "2021-07-27T19:59:00.000Z",
+          "wordCount": 1729,
+          "title": "How to Flatten a Dictionary in Python in 4 Different Ways"
+        },
+        {
           "id": "60dabcb327f80207bcdbb316",
           "author": null,
           "description": "CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to",

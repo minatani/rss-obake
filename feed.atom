@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T19:14:47.437Z</updated>
+    <updated>2021-07-27T20:17:02.842Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Flatten a Dictionary in Python in 4 Different Ways]]></title>
+        <id>60ff23533306a507d1bf9345</id>
+        <link href="https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/"/>
+        <updated>2021-07-27T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Headless CMS Explained – What it is and When You Should Use it]]></title>
         <id>60dabcb327f80207bcdbb316</id>
