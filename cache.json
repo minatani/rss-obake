@@ -1417,33 +1417,6 @@
           "publishedOn": "2021-06-28T17:00:55.000Z",
           "wordCount": 457,
           "title": "視聴室:オトラクション"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210628/dde/018/200/013000c",
-          "author": null,
-          "description": "人間の深奥を容赦なく暴き出す劇作家、三浦大輔の作・演出による舞台「物語なき、この世界。」で売れない俳優を演じる。ロックバンド銀杏BOYSのボーカル＆ギターの峯田和伸とのダブル主演だ。7月11日～8月3日がシアターコクーン、8月7～11日が京都市・京都劇場。",
-          "link": "https://mainichi.jp/articles/20210628/dde/018/200/013000c",
-          "publishedOn": "2021-06-28T03:48:35.000Z",
-          "wordCount": 470,
-          "title": "Ｉｎｔｅｒｖｉｅｗ:岡田将生　生々しい姿を見せる　三浦大輔作・演出の舞台に主演"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210628/dde/018/200/011000c",
-          "author": null,
-          "description": "映画「Arc　アーク」は石川慶監督の3作目。中国系米国人ケン・リュウの短編小説を原作にしたSF作品だ。舞台は近未来の日本。死体を生前の姿のまま保存するプラスティネーションの技術が実用化し、やがて細胞の老化を食い止めて永遠の若さを保つことが可能になる。その施術を受けたリナ（芳根京子）の、130年に及",
-          "link": "https://mainichi.jp/articles/20210628/dde/018/200/011000c",
-          "publishedOn": "2021-06-28T03:48:33.000Z",
-          "wordCount": 470,
-          "title": "Ｉｎｔｅｒｖｉｅｗ:映画「Arc　アーク」　石川慶監督　現代の不老不死を問う"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210628/dde/018/200/008000c",
-          "author": null,
-          "description": "ベテラン歌手の秋元順子が、1年ぶりの新曲「いちばん素敵な港町」とアルバム「昭和ロマネスク」（ともにキング）を発表。30日に東京都江東区のティアラこうとうで恒例のバースデーコンサートを開催する。",
-          "link": "https://mainichi.jp/articles/20210628/dde/018/200/008000c",
-          "publishedOn": "2021-06-28T03:48:30.000Z",
-          "wordCount": 448,
-          "title": "秋元順子、円熟の歌　新曲「いちばん素敵な港町」発表"
         }
       ]
     },
@@ -1543,6 +1516,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60fa5ec41d2b080797b81bf8",
+          "author": null,
+          "description": "In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a",
+          "link": "https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/",
+          "publishedOn": "2021-07-27T15:49:00.000Z",
+          "wordCount": 1704,
+          "title": "JavaScript Immutability – Frozen Objects in JS Explained with Examples"
+        },
+        {
+          "id": "60fbe07822b0e2078fcd09bc",
+          "author": null,
+          "description": "In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is \"we meet on Friday at 08:00 am\". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as",
+          "link": "https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/",
+          "publishedOn": "2021-07-27T15:24:00.000Z",
+          "wordCount": 974,
+          "title": "Python Substring – How to Slice a String"
+        },
         {
           "id": "60fc070722b0e2078fcd0ae1",
           "author": null,
