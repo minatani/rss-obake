@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T17:23:50.298Z</updated>
+    <updated>2021-07-27T18:23:11.651Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Headless CMS Explained – What it is and When You Should Use it]]></title>
+        <id>60dabcb327f80207bcdbb316</id>
+        <link href="https://www.freecodecamp.org/news/what-is-headless-cms-explained/"/>
+        <updated>2021-07-27T17:53:47.000Z</updated>
+        <summary type="html"><![CDATA[CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生きる:小児がん征圧キャンペーン　生きる2021　谷村新司プレミアムコンサート　歌の力を、今こそ]]></title>
         <id>https://mainichi.jp/articles/20210728/ddm/010/040/012000c</id>

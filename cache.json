@@ -1544,6 +1544,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60dabcb327f80207bcdbb316",
+          "author": null,
+          "description": "CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to",
+          "link": "https://www.freecodecamp.org/news/what-is-headless-cms-explained/",
+          "publishedOn": "2021-07-27T17:53:47.000Z",
+          "wordCount": 1363,
+          "title": "Headless CMS Explained – What it is and When You Should Use it"
+        },
+        {
           "id": "60fa5ec41d2b080797b81bf8",
           "author": null,
           "description": "In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a",
