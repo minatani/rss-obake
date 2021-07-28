@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T07:16:50.316Z</updated>
+    <updated>2021-07-28T08:20:29.674Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2508,16 +2508,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/"/>
         <updated>2021-06-28T20:35:12.000Z</updated>
         <summary type="html"><![CDATA[If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an IDE in Programming? An IDE Definition for Developers]]></title>
-        <id>60d07b4578f45307fee80aef</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/"/>
-        <updated>2021-06-28T20:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
