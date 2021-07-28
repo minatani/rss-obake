@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T14:16:31.668Z</updated>
+    <updated>2021-07-28T15:21:59.326Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use PySpark for Data Processing and Machine Learning]]></title>
+        <id>60e74b9c134ad707be00f284</id>
+        <link href="https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/"/>
+        <updated>2021-07-28T14:18:37.000Z</updated>
+        <summary type="html"><![CDATA[PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[台湾戒厳令下、自由なき社会　「白色テロ」映画、30日公開]]></title>
         <id>https://mainichi.jp/articles/20210728/dde/007/030/027000c</id>

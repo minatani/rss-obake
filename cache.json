@@ -1562,6 +1562,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e74b9c134ad707be00f284",
+          "author": null,
+          "description": "PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube",
+          "link": "https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/",
+          "publishedOn": "2021-07-28T14:18:37.000Z",
+          "wordCount": 19795,
+          "title": "How to Use PySpark for Data Processing and Machine Learning"
+        },
+        {
           "id": "60ffec493306a507d1bf98f4",
           "author": null,
           "description": "Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions",
