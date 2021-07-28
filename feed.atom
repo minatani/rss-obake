@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T03:21:21.888Z</updated>
+    <updated>2021-07-28T04:24:29.789Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾戒厳令下、自由なき社会　「白色テロ」映画、30日公開]]></title>
+        <id>https://mainichi.jp/articles/20210728/dde/007/030/027000c</id>
+        <link href="https://mainichi.jp/articles/20210728/dde/007/030/027000c"/>
+        <updated>2021-07-28T04:10:17.000Z</updated>
+        <summary type="html"><![CDATA[台湾では1987年まで戒厳令が続き、40年もの長きにわたり、人々の自由は奪われた。国民党政権による反体制派の無差別逮捕や言論弾圧などは「白色テロ」と呼ばれた。その恐怖の時代をテーマに描いた台湾映画「返校　言葉が消えた日」が30日から公開される。台湾では2019年に公開され、若者を中心に反響を呼び、]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォーカス:内田理央　ドラマ「来世ではちゃんとします2」大森桃江役　切なさとラブ強め、全力で]]></title>
+        <id>https://mainichi.jp/articles/20210728/dde/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210728/dde/018/200/013000c"/>
+        <updated>2021-07-28T04:07:39.000Z</updated>
+        <summary type="html"><![CDATA[ドラマ「来世ではちゃんとします2」大森桃江役（テレビ東京系＝水曜深夜0時40分、8月11日スタート） 　性に奔放ながら、本命男性の彼女にはなれない切なさを抱えるアラサー女性を演じる。昨年1～3月に放送されたシーズン1は、20～30代の女性の大きな共感を集めて話題となった。「桃ちゃん（桃江）は一見過激]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[放送作家たむらようこの窓辺から:新たなテレビのあり方を体験]]></title>
+        <id>https://mainichi.jp/articles/20210728/dde/018/070/011000c</id>
+        <link href="https://mainichi.jp/articles/20210728/dde/018/070/011000c"/>
+        <updated>2021-07-28T04:07:36.000Z</updated>
+        <summary type="html"><![CDATA[テレビは社会の窓である。今回はオリンピックとNHKのお話――。 　「NHKは“公共メディア”。テレビ局じゃなくて“公共メディア”なんです」。NHKへ仕事に行くと、NHKの人からそう聞かされることが何度かありました。数年前からでしょうか。たしかに「NHK　for　School」のように、教育番組をま]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荻原魚雷のラジオ交差点:トリローの魅力満載　記念特番]]></title>
+        <id>https://mainichi.jp/articles/20210728/dde/018/200/010000c</id>
+        <link href="https://mainichi.jp/articles/20210728/dde/018/200/010000c"/>
+        <updated>2021-07-28T04:07:34.000Z</updated>
+        <summary type="html"><![CDATA[20日、ニッポン放送開局67周年“冗談工房”結成65周年記念特別番組「三木鶏郎（とりろう）とニッポン放送」という番組を聴いた。パーソナリティーは高田文夫さん、箱崎みどりさん。ゲストはコラムニストの泉麻人さんとムーンライダーズの鈴木慶一さんが出演――。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python For Loop – Example and Tutorial]]></title>
         <id>60ffec493306a507d1bf98f4</id>
