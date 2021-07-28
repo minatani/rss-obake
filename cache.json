@@ -2298,24 +2298,6 @@
           "publishedOn": "2021-06-28T18:45:21.000Z",
           "wordCount": 740,
           "title": "JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS"
-        },
-        {
-          "id": "60d4d3d86e1a1407b6b0bb25",
-          "author": null,
-          "description": "A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/",
-          "publishedOn": "2021-06-28T13:50:35.000Z",
-          "wordCount": 67249,
-          "title": "Learn How to Create a Design System in Figma"
-        },
-        {
-          "id": "60d4ea756e1a1407b6b0bb71",
-          "author": null,
-          "description": "Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of",
-          "link": "https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/",
-          "publishedOn": "2021-06-28T13:44:39.000Z",
-          "wordCount": 806,
-          "title": "Why You Should Learn Data Analytics"
         }
       ]
     }

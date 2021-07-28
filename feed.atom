@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T01:02:07.021Z</updated>
+    <updated>2021-07-28T02:30:30.663Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2510,26 +2510,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[◆オトラクション（TBS＝後7・0） 　音をテーマにしたさまざまなゲームに出演者が挑戦する。今春スタートした番組で、今回は7月期の新連続ドラマ出演者が競う2時間スペシャル。「TOKYO　MER～走る緊急救命室～」の鈴木亮平、賀来賢人、中条あやみ、小手伸也▽「プロミス・シンデレラ」の二階堂ふみ、真栄]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Create a Design System in Figma]]></title>
-        <id>60d4d3d86e1a1407b6b0bb25</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/"/>
-        <updated>2021-06-28T13:50:35.000Z</updated>
-        <summary type="html"><![CDATA[A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Learn Data Analytics]]></title>
-        <id>60d4ea756e1a1407b6b0bb71</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/"/>
-        <updated>2021-06-28T13:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
