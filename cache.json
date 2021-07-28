@@ -6,6 +6,15 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210729/ddm/018/200/009000c",
+          "author": null,
+          "description": "＜TBS系「東京オリンピック2020」（21日～8月8日）リポーター＞ 　30日から2日間、TBSでは朝から晩までたっぷりと東京五輪の模様をお届けします。31日には、私が“ラストサムライ”と敬愛する柔道の大野将平選手が登場。リオ五輪で金メダルを取ったあと「自分はまだまだ弱い」と語った大野選手は26",
+          "link": "https://mainichi.jp/articles/20210729/ddm/018/200/009000c",
+          "publishedOn": "2021-07-28T17:02:17.000Z",
+          "wordCount": 470,
+          "title": "赤坂電視台:石井大裕アナウンサー／3　金メダルラッシュの予感！"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210728/dde/007/030/027000c",
           "author": null,
           "description": "台湾では1987年まで戒厳令が続き、40年もの長きにわたり、人々の自由は奪われた。国民党政権による反体制派の無差別逮捕や言論弾圧などは「白色テロ」と呼ばれた。その恐怖の時代をテーマに描いた台湾映画「返校　言葉が消えた日」が30日から公開される。台湾では2019年に公開され、若者を中心に反響を呼び、",
@@ -1516,6 +1525,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f993f51d2b080797b818a7",
+          "author": null,
+          "description": "In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in",
+          "link": "https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/",
+          "publishedOn": "2021-07-28T17:24:21.000Z",
+          "wordCount": 1608,
+          "title": "Functions in Python – Explained with Code Examples"
+        },
         {
           "id": "60fec60822b0e2078fcd16f0",
           "author": null,

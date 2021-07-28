@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T16:30:42.018Z</updated>
+    <updated>2021-07-28T17:25:05.502Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Functions in Python – Explained with Code Examples]]></title>
+        <id>60f993f51d2b080797b818a7</id>
+        <link href="https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/"/>
+        <updated>2021-07-28T17:24:21.000Z</updated>
+        <summary type="html"><![CDATA[In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:石井大裕アナウンサー／3　金メダルラッシュの予感！]]></title>
+        <id>https://mainichi.jp/articles/20210729/ddm/018/200/009000c</id>
+        <link href="https://mainichi.jp/articles/20210729/ddm/018/200/009000c"/>
+        <updated>2021-07-28T17:02:17.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系「東京オリンピック2020」（21日～8月8日）リポーター＞ 　30日から2日間、TBSでは朝から晩までたっぷりと東京五輪の模様をお届けします。31日には、私が“ラストサムライ”と敬愛する柔道の大野将平選手が登場。リオ五輪で金メダルを取ったあと「自分はまだまだ弱い」と語った大野選手は26]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Modules – Explained with Examples]]></title>
         <id>60fec60822b0e2078fcd16f0</id>
