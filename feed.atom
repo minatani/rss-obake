@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T06:24:35.004Z</updated>
+    <updated>2021-07-28T07:16:50.316Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2518,16 +2518,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/"/>
         <updated>2021-06-28T20:04:28.000Z</updated>
         <summary type="html"><![CDATA[Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS]]></title>
-        <id>60d675ac6e1a1407b6b0bea1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-closure-lexical-scope/"/>
-        <updated>2021-06-28T18:45:21.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
