@@ -1562,6 +1562,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f534ec66c61b07d458ecfe",
+          "author": null,
+          "description": "The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a",
+          "link": "https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/",
+          "publishedOn": "2021-07-29T18:27:33.000Z",
+          "wordCount": 781,
+          "title": "Not Equal Sign – How to Type the Does Not Equal Symbol"
+        },
+        {
           "id": "6102ccd03306a507d1bfb150",
           "author": null,
           "description": "Dockerizing and app makes it simpler to deploy. We've released a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on their",
