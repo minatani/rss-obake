@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T03:21:43.065Z</updated>
+    <updated>2021-07-29T04:24:46.174Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:紅ゆずる　スター性と豪快さ意識　ミュージカル「エニシング・ゴーズ」出演]]></title>
+        <id>https://mainichi.jp/articles/20210729/dde/018/200/021000c</id>
+        <link href="https://mainichi.jp/articles/20210729/dde/018/200/021000c"/>
+        <updated>2021-07-29T04:09:55.000Z</updated>
+        <summary type="html"><![CDATA[ニューヨークからロンドンに向けて出航した豪華客船が舞台のコール・ポーター作詞・作曲によるブロードウェーのヒットミュージカル「エニシング・ゴーズ」（原田諒演出・潤色）に、紅ゆずるがリノ・スウィーニー役で主演する。東京・明治座で8月11～29日に上演される。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミュージカル　宝塚歌劇団月組公演　さよなら、珠城と美園＝評・小玉祥子]]></title>
+        <id>https://mainichi.jp/articles/20210729/dde/018/200/020000c</id>
+        <link href="https://mainichi.jp/articles/20210729/dde/018/200/020000c"/>
+        <updated>2021-07-29T04:08:05.000Z</updated>
+        <summary type="html"><![CDATA[男役トップスター、珠城りょうと娘役トップスター、美園さくらのサヨナラ公演。最初が「桜嵐記」（上田久美子作・演出）。都と吉野の両方に朝廷が存在した南北朝の動乱期に亡父、楠木正成の遺志を継ぎ、南朝のために尽くす武将、楠木正行（珠城）の戦いに明け暮れた半生を描く。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日々是・感劇:五輪もいいけど]]></title>
+        <id>https://mainichi.jp/articles/20210729/dde/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210729/dde/018/200/013000c"/>
+        <updated>2021-07-29T04:08:02.000Z</updated>
+        <summary type="html"><![CDATA[いろんな意味で記憶に刻まれそうな五輪。個人的には、開会式パフォーマンスでの森山未來の死者を追悼する舞にザワザワさせられた。というのも、つい最近、五輪と原発政策のひずみをあぶり出した「未練の幽霊と怪物」（岡田利規作・演出）の「挫波（ザハ）」で、新国立競技場のデザインが白紙撤回された建築家、ザハ・ハデ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊丹十三賞に清水ミチコ]]></title>
+        <id>https://mainichi.jp/articles/20210729/dde/018/200/011000c</id>
+        <link href="https://mainichi.jp/articles/20210729/dde/018/200/011000c"/>
+        <updated>2021-07-29T04:07:57.000Z</updated>
+        <summary type="html"><![CDATA[伊丹十三記念館（松山市）は28日、優れた表現活動をたたえる第13回伊丹十三賞（ITM伊丹記念財団主催）をタレントの清水ミチコ（61）に贈ると発表した。賞金は100万円。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カンピオン監督作品などを選出　ベネチア映画祭コンペ]]></title>
+        <id>https://mainichi.jp/articles/20210729/dde/018/200/010000c</id>
+        <link href="https://mainichi.jp/articles/20210729/dde/018/200/010000c"/>
+        <updated>2021-07-29T04:07:56.000Z</updated>
+        <summary type="html"><![CDATA[9月1日にイタリアで開幕する第78回ベネチア国際映画祭で、最高賞の金獅子賞などを競うコンペティション部門にジェーン・カンピオン監督やペドロ・アルモドバル監督らの新作が選出された。映画祭事務局が26日発表した。コンペ部門に日本作品は選ばれなかった。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Functions in Python – Explained with Code Examples]]></title>
         <id>60f993f51d2b080797b818a7</id>
