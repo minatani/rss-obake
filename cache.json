@@ -2280,15 +2280,6 @@
           "publishedOn": "2021-06-29T19:47:13.000Z",
           "wordCount": 1079,
           "title": "Linux List Processes – How to Check Running Processes"
-        },
-        {
-          "id": "60daf29027f80207bcdbb3fe",
-          "author": null,
-          "description": "Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need",
-          "link": "https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/",
-          "publishedOn": "2021-06-29T18:25:52.000Z",
-          "wordCount": 926,
-          "title": "How to Use timedelta Objects in Python to Work with Dates"
         }
       ]
     }
