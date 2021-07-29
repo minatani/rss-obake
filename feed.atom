@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T16:30:23.225Z</updated>
+    <updated>2021-07-29T17:24:14.815Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[林遣都さん大島優子さん結婚へ]]></title>
+        <id>https://mainichi.jp/articles/20210730/ddm/012/200/111000c</id>
+        <link href="https://mainichi.jp/articles/20210730/ddm/012/200/111000c"/>
+        <updated>2021-07-29T17:03:46.000Z</updated>
+        <summary type="html"><![CDATA[俳優の林遣都さん（30）と大島優子さん（32）が29日、結婚することを双方の公式サイトで発表した。2人は2019～20年放送のNHK連続テレビ小説「スカーレット」で共演していた。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京五輪　竹中直人さん、開会式直前に辞退]]></title>
+        <id>https://mainichi.jp/articles/20210730/ddm/012/050/109000c</id>
+        <link href="https://mainichi.jp/articles/20210730/ddm/012/050/109000c"/>
+        <updated>2021-07-29T17:03:42.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック・パラリンピック組織委員会は29日、23日の開会式に出演予定だった俳優の竹中直人さん（65）が、直前に辞退したことを明らかにした。広報担当者は「竹中さんの件については、開会式の直前にご自身が演出に関わったことを熟慮されて辞退したい申し出があった。最終的にご出演しないことになった」と]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:斎藤工×板谷由夏　映画工房]]></title>
+        <id>https://mainichi.jp/articles/20210730/ddm/018/200/010000c</id>
+        <link href="https://mainichi.jp/articles/20210730/ddm/018/200/010000c"/>
+        <updated>2021-07-29T17:00:56.000Z</updated>
+        <summary type="html"><![CDATA[◆斎藤工×板谷由夏　映画工房（WOWOWプライム＝後9・30） 　映画監督の顔も持つ斎藤工と、映画ファンの板谷由夏が毎週、話題の映画を紹介したり映画への思いを語ったりしてきた番組が放送500回を迎えた。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ＢＳ未来館:巨大魚との知恵比べ]]></title>
+        <id>https://mainichi.jp/articles/20210730/ddm/018/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210730/ddm/018/200/007000c"/>
+        <updated>2021-07-29T17:00:47.000Z</updated>
+        <summary type="html"><![CDATA[海や湖にすむ巨大な魚を、昔は神の使いとあがめ、悪魔の化身と恐れた。BSフジで8月1日午後7時放送の「巨大魚・春の陣2021」では、巨大魚がスポーツの対象となる。舞台は山梨県の河口湖と鹿児島県の種子島。巨大魚や怪魚ものと言うと南米アマゾン川など“秘境”での番組をよく見るが、国内での巨大魚の存在がかえ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn how to deploy 12 apps to AWS, Azure, &amp; Google Cloud]]></title>
         <id>6102ccd03306a507d1bfb150</id>
@@ -204,6 +244,16 @@
         <summary type="html"><![CDATA[チャリティーを目的とした「谷村新司プレミアムコンサート　生きる2021　～小児がんなど病気と闘う子どもたちとともに～」（毎日新聞社主催、スポーツニッポン新聞社後援）が6日、東京都渋谷区のBunkamuraオーチャードホールで開かれた。毎日新聞社が1996年から続ける小児がん征圧キャンペーンの一環。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Solve Coding Interview Backtracking Problems]]></title>
+        <id>6102cf723306a507d1bfb197</id>
+        <link href="https://www.freecodecamp.org/news/solve-coding-interview-backtracking-problem/"/>
+        <updated>2021-07-27T17:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Backtracking is an algorithmic technique that is often used to solve complicated coding problems. It considers searching in every possible combination for solving a computational problem. Coding interview problems can sometimes be solved with backtracking. We released a full course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
