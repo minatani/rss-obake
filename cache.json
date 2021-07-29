@@ -1562,6 +1562,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f0501b66c61b07d458df00",
+          "author": null,
+          "description": "We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your",
+          "link": "https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/",
+          "publishedOn": "2021-07-29T22:36:44.000Z",
+          "wordCount": 2472,
+          "title": "Android Camera2 – How to Use the Camera2 API to Take Photos and Videos"
+        },
+        {
           "id": "60f534ec66c61b07d458ecfe",
           "author": null,
           "description": "The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a",

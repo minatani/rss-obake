@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T22:19:49.971Z</updated>
+    <updated>2021-07-29T23:18:14.956Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
+        <id>60f0501b66c61b07d458df00</id>
+        <link href="https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/"/>
+        <updated>2021-07-29T22:36:44.000Z</updated>
+        <summary type="html"><![CDATA[We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Not Equal Sign – How to Type the Does Not Equal Symbol]]></title>
         <id>60f534ec66c61b07d458ecfe</id>
