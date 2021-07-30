@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T13:23:44.100Z</updated>
+    <updated>2021-07-30T14:16:36.610Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -64,6 +64,17 @@
         <summary type="html"><![CDATA[We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watertight 3D printing part 2: Airtight closable models]]></title>
+        <id>https://blog.prusaprinters.org/?p=53638</id>
+        <link href="https://blog.prusaprinters.org/watertight-3d-printing-part-2_53638/"/>
+        <updated>2021-07-29T19:48:32.000Z</updated>
+        <summary type="html"><![CDATA[In the first part of the watertightness series, we’ve shown you how to print waterproof vases, bowls, flowerpots, cups, etc. Today, we will go one…
+The post Watertight 3D printing part 2: Airtight closable models appeared first on Prusa Printers.]]></summary>
+        <author>
+            <name>Jakub Kočí</name>
         </author>
     </entry>
     <entry>

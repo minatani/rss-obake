@@ -1498,6 +1498,20 @@
       "siteUrl": "https://blog.prusaprinters.org",
       "articles": [
         {
+          "id": "https://blog.prusaprinters.org/?p=53638",
+          "author": "Jakub Kočí",
+          "description": "In the first part of the watertightness series, we’ve shown you how to print waterproof vases, bowls, flowerpots, cups, etc. Today, we will go one…\nThe post Watertight 3D printing part 2: Airtight closable models appeared first on Prusa Printers.",
+          "link": "https://blog.prusaprinters.org/watertight-3d-printing-part-2_53638/",
+          "publishedOn": "2021-07-29T19:48:32.000Z",
+          "wordCount": 4505,
+          "title": "Watertight 3D printing part 2: Airtight closable models",
+          "enclosure": {
+            "url": "https://blog.prusaprinters.org/wp-content/uploads/2021/07/thumbnail3-698x325.jpg",
+            "length": "82030",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://blog.prusaprinters.org/?p=53320",
           "author": "Mikolas Zuza",
           "description": "I swear I must have at least a few dozen guitar picks at home. However, after each session, they seem to just disappear, one by…\nThe post Does a 3D printed guitar pick suck? (spoiler, it’s actually awesome) appeared first on Prusa Printers.",
