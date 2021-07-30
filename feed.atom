@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T15:21:39.365Z</updated>
+    <updated>2021-07-30T16:29:10.919Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2511,46 +2511,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寄稿:追悼　小林亜星さん　「ダサくない音楽」追求＝田家秀樹（音楽評論家）]]></title>
-        <id>https://mainichi.jp/articles/20210701/dde/018/200/022000c</id>
-        <link href="https://mainichi.jp/articles/20210701/dde/018/200/022000c"/>
-        <updated>2021-07-01T03:44:31.000Z</updated>
-        <summary type="html"><![CDATA[CMソングだけで約4000曲は書いたという作詞家の伊藤アキラさんが5月に亡くなった時、「亜星さんは大丈夫かな」と思った。すでに50年近く歌われている「この木なんの木」や「パッ！とさいでりあ」など、2人の手による曲は数多い。しかも、年は亜星さんの方が8歳上だ。彼が旅立ったのは2週間後だった。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寄席　落語芸術協会新真打ち　勢い感じる個性派4人＝評・濱田元子]]></title>
-        <id>https://mainichi.jp/articles/20210701/dde/018/200/021000c</id>
-        <link href="https://mainichi.jp/articles/20210701/dde/018/200/021000c"/>
-        <updated>2021-07-01T03:44:29.000Z</updated>
-        <summary type="html"><![CDATA[落語芸術協会（芸協、春風亭昇太会長）の若手を軸にした今の勢いを感じさせる。それぞれの個性が光る三遊亭小笑、春風亭昇々、春風亭昇吉、笑福亭羽光の新真打ち4人の披露興行だ。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:音楽劇に出演　美弥るりか　新しい男性像見せたい]]></title>
-        <id>https://mainichi.jp/articles/20210701/dde/018/200/018000c</id>
-        <link href="https://mainichi.jp/articles/20210701/dde/018/200/018000c"/>
-        <updated>2021-07-01T03:44:28.000Z</updated>
-        <summary type="html"><![CDATA[「アニメーションのアカデミー賞」と呼ばれる「アニー賞」にノミネートされ話題を呼んだ人気アニメ「GREAT　PRETENDER」が音楽劇となって上演される。世界を股に掛け、だまし合いを繰り広げる詐欺師たちの物語。フランスのコンフィデンスマン（信用詐欺師）、ローランを演じるのは、元宝塚歌劇団男役スター]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さだまさしがエッセイスト・クラブ賞]]></title>
-        <id>https://mainichi.jp/articles/20210701/dde/018/200/015000c</id>
-        <link href="https://mainichi.jp/articles/20210701/dde/018/200/015000c"/>
-        <updated>2021-07-01T03:44:24.000Z</updated>
-        <summary type="html"><![CDATA[シンガー・ソングライター、さだまさしのエッセー集「さだの辞書」が第69回日本エッセイスト・クラブ賞に選ばれ、6月28日、東京都内で贈呈式があった。さだは「照れくさいくらい力んで書いたエッセー。受賞できて本当に幸せ」と喜びを語った。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
