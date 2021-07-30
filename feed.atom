@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T21:17:35.824Z</updated>
+    <updated>2021-07-30T22:18:02.977Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Hyperlink? Definition for HTML Link Beginners]]></title>
+        <id>6102c9803306a507d1bfb0f4</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-html-link-beginners/"/>
+        <updated>2021-07-30T22:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Links are a defining featute of the Web and you'll find them everywhere.  As their name suggests, they create links, or connections, between pages. This allows us to navigate quickly and easily from one webpage to another.  You'll find many types of links on the Web.  There are links that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Docs Voice Typing – How to Use Speech-to-Text in a Google Doc]]></title>
         <id>60f5350266c61b07d458ed04</id>
