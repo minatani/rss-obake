@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T19:14:23.684Z</updated>
+    <updated>2021-07-30T20:18:26.828Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Docs Voice Typing – How to Use Speech-to-Text in a Google Doc]]></title>
+        <id>60f5350266c61b07d458ed04</id>
+        <link href="https://www.freecodecamp.org/news/google-docs-voice-typing-how-to-use-speech-to-text-in-a-google-doc/"/>
+        <updated>2021-07-30T20:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Speech-to-Text is a really useful accessibility tool if typing is difficult for you. Or you can also use it if you like to think out loud and transcribe what you say. In this tutorial, I'll show you how to use speech-to-text in Google Docs. Do note, though, that this feature]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴率:19～25日]]></title>
         <id>https://mainichi.jp/articles/20210731/ddm/018/200/032000c</id>

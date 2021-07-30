@@ -1594,6 +1594,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60f5350266c61b07d458ed04",
+          "author": null,
+          "description": "Speech-to-Text is a really useful accessibility tool if typing is difficult for you. Or you can also use it if you like to think out loud and transcribe what you say. In this tutorial, I'll show you how to use speech-to-text in Google Docs. Do note, though, that this feature",
+          "link": "https://www.freecodecamp.org/news/google-docs-voice-typing-how-to-use-speech-to-text-in-a-google-doc/",
+          "publishedOn": "2021-07-30T20:09:13.000Z",
+          "wordCount": 740,
+          "title": "Google Docs Voice Typing – How to Use Speech-to-Text in a Google Doc"
+        },
+        {
           "id": "60f0501b66c61b07d458df00",
           "author": null,
           "description": "We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your",
