@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T01:01:27.060Z</updated>
+    <updated>2021-07-30T02:32:08.612Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2520,26 +2520,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[◆新番組・IP～サイバー捜査班（朝日＝後8・0） 　ネット犯罪に対処する京都府警サイバー総合事犯係（総事係）が舞台の連続ドラマ。フィッシング詐欺グループのアジトにあった遺体から記憶媒体が発見され、その中身を調べた府警全体がウイルスに感染する。混乱の中、総事係主任の安洛一誠（佐々木蔵之介）と新人刑事]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is The C Programming Language? A Tutorial for Beginners]]></title>
-        <id>6055c55b687d62084bf68804</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/"/>
-        <updated>2021-06-30T14:25:53.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Router]]></title>
-        <id>60d5ea736e1a1407b6b0bc8d</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-router/"/>
-        <updated>2021-06-30T14:01:01.000Z</updated>
-        <summary type="html"><![CDATA[React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
