@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T16:29:10.919Z</updated>
+    <updated>2021-07-30T17:23:05.784Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴率:19～25日]]></title>
+        <id>https://mainichi.jp/articles/20210731/ddm/018/200/032000c</id>
+        <link href="https://mainichi.jp/articles/20210731/ddm/018/200/032000c"/>
+        <updated>2021-07-30T17:04:45.000Z</updated>
+        <summary type="html"><![CDATA[■教育・教養・実用 （1）新・情報7daysニュースキャスター　　　　　　　　　　　　　　TBS　13．0　土 （2）羽鳥慎一モーニングショー　　　　　　　　　　　　　　　　　　　　朝日　　12．8　木]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[くらしナビ・ライフスタイル:焼け野原の東京2020　ウーバー配達員の見た孤独]]></title>
+        <id>https://mainichi.jp/articles/20210731/ddm/013/040/020000c</id>
+        <link href="https://mainichi.jp/articles/20210731/ddm/013/040/020000c"/>
+        <updated>2021-07-30T17:04:27.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス禍で収入はゼロ、所持金は300円あまり。追い詰められた28歳の男性が選んだのは、東京への「出稼ぎ」だった。初めて緊急事態宣言が出された1カ月間、料理宅配サービス「ウーバーイーツ」の配達員として自転車をこぎ続けた男性は「2020年の東京は焼け野原だ」と感じたという。疾走する自転車か]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:新番組　ザ・ハイスクールヒーローズ]]></title>
+        <id>https://mainichi.jp/articles/20210731/ddm/018/200/156000c</id>
+        <link href="https://mainichi.jp/articles/20210731/ddm/018/200/156000c"/>
+        <updated>2021-07-30T17:01:53.000Z</updated>
+        <summary type="html"><![CDATA[◆新番組　ザ・ハイスクールヒーローズ（朝日＝後11・0） 　学園の平和を守る戦隊ヒーロードラマの第1話。ジャニーズ〓「美　少年」が主演。 　小中高一貫教育の五星学園に通う高校生の真中大成（岩崎大昇）はゴレンジャーオタク。学園の平和を守ろうと、「学園防衛部」を設立した。共にヒーローになってくれる部員]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シネマの週末・この１本:返校　言葉が消えた日　怪物が踏みにじる自由]]></title>
         <id>https://mainichi.jp/articles/20210730/dde/018/070/011000c</id>
@@ -2499,16 +2529,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/"/>
         <updated>2021-07-01T16:51:30.000Z</updated>
         <summary type="html"><![CDATA[The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just released a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It]]></title>
-        <id>60dc78e927f80207bcdbbddc</id>
-        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey/"/>
-        <updated>2021-07-01T04:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

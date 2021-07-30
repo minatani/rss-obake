@@ -6,6 +6,33 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210731/ddm/018/200/032000c",
+          "author": null,
+          "description": "■教育・教養・実用 （1）新・情報7daysニュースキャスター　　　　　　　　　　　　　　TBS　13．0　土 （2）羽鳥慎一モーニングショー　　　　　　　　　　　　　　　　　　　　朝日　　12．8　木",
+          "link": "https://mainichi.jp/articles/20210731/ddm/018/200/032000c",
+          "publishedOn": "2021-07-30T17:04:45.000Z",
+          "wordCount": 475,
+          "title": "視聴率:19～25日"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210731/ddm/013/040/020000c",
+          "author": null,
+          "description": "新型コロナウイルス禍で収入はゼロ、所持金は300円あまり。追い詰められた28歳の男性が選んだのは、東京への「出稼ぎ」だった。初めて緊急事態宣言が出された1カ月間、料理宅配サービス「ウーバーイーツ」の配達員として自転車をこぎ続けた男性は「2020年の東京は焼け野原だ」と感じたという。疾走する自転車か",
+          "link": "https://mainichi.jp/articles/20210731/ddm/013/040/020000c",
+          "publishedOn": "2021-07-30T17:04:27.000Z",
+          "wordCount": 471,
+          "title": "くらしナビ・ライフスタイル:焼け野原の東京2020　ウーバー配達員の見た孤独"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210731/ddm/018/200/156000c",
+          "author": null,
+          "description": "◆新番組　ザ・ハイスクールヒーローズ（朝日＝後11・0） 　学園の平和を守る戦隊ヒーロードラマの第1話。ジャニーズ〓「美　少年」が主演。 　小中高一貫教育の五星学園に通う高校生の真中大成（岩崎大昇）はゴレンジャーオタク。学園の平和を守ろうと、「学園防衛部」を設立した。共にヒーローになってくれる部員",
+          "link": "https://mainichi.jp/articles/20210731/ddm/018/200/156000c",
+          "publishedOn": "2021-07-30T17:01:53.000Z",
+          "wordCount": 472,
+          "title": "視聴室:新番組　ザ・ハイスクールヒーローズ"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210730/dde/018/070/011000c",
           "author": null,
           "description": "観客に“恐怖”を提供するホラー映画は、テーマが二の次になりがち。ところが台湾のジョン・スー監督の長編デビュー作は、重いメッセージをはらんでいる。国民党の独裁政権下で、長らく市民への思想弾圧が行われていた白色テロの時代を背景にしたミステリー仕立てのホラーである。",
@@ -2294,15 +2321,6 @@
           "publishedOn": "2021-07-01T16:51:30.000Z",
           "wordCount": 79275,
           "title": "Backend Web Development with Python - Full Course"
-        },
-        {
-          "id": "60dc78e927f80207bcdbbddc",
-          "author": null,
-          "description": "Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled",
-          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey/",
-          "publishedOn": "2021-07-01T04:36:31.000Z",
-          "wordCount": 942,
-          "title": "The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It"
         }
       ]
     }
