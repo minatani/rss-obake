@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T04:24:44.011Z</updated>
+    <updated>2021-07-30T05:16:11.494Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2550,26 +2550,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤坂電視台:鈴木亮平／3　人間賛歌のドラマになれば]]></title>
-        <id>https://mainichi.jp/articles/20210701/ddm/018/200/016000c</id>
-        <link href="https://mainichi.jp/articles/20210701/ddm/018/200/016000c"/>
-        <updated>2021-06-30T17:12:24.000Z</updated>
-        <summary type="html"><![CDATA[＜TBS系日曜劇場「TOKYO　MER～走る緊急救命室～」（4日スタート、日曜午後9時）喜多見幸太役＞ 　日曜劇場への出演は3作目です。作り手の熱が見ている方に直接伝わるドラマ枠だと思うし、それを期待されている枠でもあると思います。その分、求められるレベルも高いですが、作品に込める思いや、情熱を持]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:新番組・IP～サイバー捜査班]]></title>
-        <id>https://mainichi.jp/articles/20210701/ddm/018/200/018000c</id>
-        <link href="https://mainichi.jp/articles/20210701/ddm/018/200/018000c"/>
-        <updated>2021-06-30T17:11:50.000Z</updated>
-        <summary type="html"><![CDATA[◆新番組・IP～サイバー捜査班（朝日＝後8・0） 　ネット犯罪に対処する京都府警サイバー総合事犯係（総事係）が舞台の連続ドラマ。フィッシング詐欺グループのアジトにあった遺体から記憶媒体が発見され、その中身を調べた府警全体がウイルスに感染する。混乱の中、総事係主任の安洛一誠（佐々木蔵之介）と新人刑事]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
