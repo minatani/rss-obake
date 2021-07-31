@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T15:20:37.626Z</updated>
+    <updated>2021-07-31T16:28:17.412Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2521,56 +2521,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・この１本:アジアの天使　愛とビールがある旅路]]></title>
-        <id>https://mainichi.jp/articles/20210702/dde/018/070/019000c</id>
-        <link href="https://mainichi.jp/articles/20210702/dde/018/070/019000c"/>
-        <updated>2021-07-02T03:44:09.000Z</updated>
-        <summary type="html"><![CDATA[商業映画で挑戦を続ける石井裕也監督、公開中の「茜（あかね）色に焼かれる」に続く新作だ。韓国が舞台のロードムービーで、文化と言葉の壁を越える。 　売れない小説家の剛（池松壮亮）は幼い息子を連れて、ソウルに兄透（オダギリジョー）を訪ねた。透が一緒に商売をやろうと誘ったのだ。ところが現地の共同経営者が財]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・特選掘り出し！:シンプルな情熱　喜びや痛みを鮮烈に]]></title>
-        <id>https://mainichi.jp/articles/20210702/dde/018/070/017000c</id>
-        <link href="https://mainichi.jp/articles/20210702/dde/018/070/017000c"/>
-        <updated>2021-07-02T03:44:08.000Z</updated>
-        <summary type="html"><![CDATA[フランス現代文学の作家アニー・エルノーが、1991年に発表した自伝的ベストセラー小説の映画化。「去年の9月から何もせず、ある男性を待ち続けた」。そんな主人公エレーヌ（レティシア・ドッシュ）の回想で始まり、妻子ある年下のロシア人アレクサンドル（セルゲイ・ポルーニン）に心奪われた日々が紡がれていく。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・トピックス:わたしはダフネ]]></title>
-        <id>https://mainichi.jp/articles/20210702/dde/018/070/015000c</id>
-        <link href="https://mainichi.jp/articles/20210702/dde/018/070/015000c"/>
-        <updated>2021-07-02T03:44:06.000Z</updated>
-        <summary type="html"><![CDATA[とあるキャンプ場で休暇を楽しんでいたダウン症の女性ダフネ（カロリーナ・ラスパンティ）の母マリアが突然他界した。ダフネは悲しみをこらえ、少しずつ日常を取り戻していくが、父ルイジ（アントニオ・ピオヴァネッリ）はふさぎ込みっぱなし。やがて2人はダフネの提案で、マリアの故郷を目指す旅に出る。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・トピックス:スーパーノヴァ]]></title>
-        <id>https://mainichi.jp/articles/20210702/dde/018/070/012000c</id>
-        <link href="https://mainichi.jp/articles/20210702/dde/018/070/012000c"/>
-        <updated>2021-07-02T03:44:05.000Z</updated>
-        <summary type="html"><![CDATA[20年来のパートナーであるピアニストのサム（コリン・ファース）と作家のタスカー（スタンリー・トゥッチ）は、キャンピングカーで2人の思い出が詰まったイギリス・湖水地方の旅に出る。無償の愛を貫いてきた2人だが、タスカーは認知症になり、記憶と能力を失い始めていた。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマの週末・チャートの裏側:洋画ヒットの定石いかに]]></title>
-        <id>https://mainichi.jp/articles/20210702/dde/018/070/011000c</id>
-        <link href="https://mainichi.jp/articles/20210702/dde/018/070/011000c"/>
-        <updated>2021-07-02T03:44:02.000Z</updated>
-        <summary type="html"><![CDATA[なかなか、洋画の興行が回復しない。昨年7月から今年6月にかけて公開された洋画で、興行収入10億円以上は2本のみ。昨年の「TENET　テネット」（27億5000万円）と今年の「映画　モンスターハンター」（推定12億4000万円）だ。これは、ちょっとした驚きではないか。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
