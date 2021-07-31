@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T04:24:31.390Z</updated>
+    <updated>2021-07-31T05:15:50.795Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2589,36 +2589,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <link href="https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/"/>
         <updated>2021-07-01T18:02:56.000Z</updated>
         <summary type="html"><![CDATA[Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:ヒミツの昼顔]]></title>
-        <id>https://mainichi.jp/articles/20210702/ddm/018/200/011000c</id>
-        <link href="https://mainichi.jp/articles/20210702/ddm/018/200/011000c"/>
-        <updated>2021-07-01T17:02:48.000Z</updated>
-        <summary type="html"><![CDATA[◆ヒミツの昼顔（TBS＝後7・0） 　普段は見られない夫や妻の働く姿「昼顔」を観察するバラエティー。5組の夫婦がパートナーの知られざる一面をのぞき見る。MCは南海キャンディーズの山里亮太。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＢＳ未来館:里山で見せる女優の素顔]]></title>
-        <id>https://mainichi.jp/articles/20210702/ddm/018/200/010000c</id>
-        <link href="https://mainichi.jp/articles/20210702/ddm/018/200/010000c"/>
-        <updated>2021-07-01T17:02:47.000Z</updated>
-        <summary type="html"><![CDATA[女優の二階堂ふみと有村架純は大の仲良しだ。でもお互い人気者だからなかなか会えない。そんな2人がようやくスケジュールをやり繰りして1泊2日の里山籠もりをする。BSフジで4日午後7時の「おふみとかすみの休日」はその記録。ゆったりしたテンポの中に、2人の素顔がうかがえる。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backend Web Development with Python - Full Course]]></title>
-        <id>60d5e7ae6e1a1407b6b0bc5a</id>
-        <link href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/"/>
-        <updated>2021-07-01T16:51:30.000Z</updated>
-        <summary type="html"><![CDATA[The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just released a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
