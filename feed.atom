@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T16:28:17.412Z</updated>
+    <updated>2021-07-31T17:22:15.376Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:新番組・ウッチャン式]]></title>
+        <id>https://mainichi.jp/articles/20210801/ddm/018/200/016000c</id>
+        <link href="https://mainichi.jp/articles/20210801/ddm/018/200/016000c"/>
+        <updated>2021-07-31T17:04:08.000Z</updated>
+        <summary type="html"><![CDATA[◆新番組・ウッチャン式（TBS＝後1・30） 　芸能人がやってみたいことを方程式にして、体当たりで挑戦するバラエティー番組。司会は内村光良。ゲストはアンタッチャブルの山崎弘也、麒麟（きりん）の川島明、若槻千夏。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今週のＮＨＫ連続テレビ小説:おかえりモネ]]></title>
+        <id>https://mainichi.jp/articles/20210801/ddm/018/200/027000c</id>
+        <link href="https://mainichi.jp/articles/20210801/ddm/018/200/027000c"/>
+        <updated>2021-07-31T17:03:14.000Z</updated>
+        <summary type="html"><![CDATA[東北の太平洋側に大型の台風が近づいていた。百音（清原果耶）は、気仙沼の実家に電話し、さまざまな対策を伝える。耕治（内野聖陽）や亜哉子（鈴木京香）は、そんな娘の様子に頼もしさを感じる。船を波から守るため、新次（浅野忠信）は耕治からのある提案に乗り、そんな父親の姿に亮（永瀬廉）も喜ぶ。台風が去り、百音]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[豊かな生き物と共存を　自然番組30年、NHKディレクター　「ダーウィンが来た！」初回担当]]></title>
         <id>https://mainichi.jp/articles/20210731/dde/018/200/014000c</id>
@@ -2511,16 +2531,6 @@ The post 3D printing with kids – building and having fun together! appeared fi
 The post Let’s print and dive! Cool diving gadgets for everyone appeared first on Prusa Printers.]]></summary>
         <author>
             <name>Jakub Kočí</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
-        <id>60de3cf127f80207bcdbc9af</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/"/>
-        <updated>2021-07-02T04:55:18.000Z</updated>
-        <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
