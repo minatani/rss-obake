@@ -2357,24 +2357,6 @@
           "publishedOn": "2021-07-02T04:55:18.000Z",
           "wordCount": 641,
           "title": "freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features"
-        },
-        {
-          "id": "60dc72b527f80207bcdbbd8f",
-          "author": null,
-          "description": "In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What",
-          "link": "https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/",
-          "publishedOn": "2021-07-01T18:19:21.000Z",
-          "wordCount": 3084,
-          "title": "What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site"
-        },
-        {
-          "id": "60c0897ad3126007592d5701",
-          "author": null,
-          "description": "Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways",
-          "link": "https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/",
-          "publishedOn": "2021-07-01T18:02:56.000Z",
-          "wordCount": 1769,
-          "title": "HTML List – How to Use Bullet Points, Ordered, and Unordered Lists"
         }
       ]
     }

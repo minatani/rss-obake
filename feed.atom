@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T05:15:50.795Z</updated>
+    <updated>2021-07-31T06:23:03.481Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2571,26 +2571,6 @@ The post Let’s print and dive! Cool diving gadgets for everyone appeared first
         <summary type="html"><![CDATA[なかなか、洋画の興行が回復しない。昨年7月から今年6月にかけて公開された洋画で、興行収入10億円以上は2本のみ。昨年の「TENET　テネット」（27億5000万円）と今年の「映画　モンスターハンター」（推定12億4000万円）だ。これは、ちょっとした驚きではないか。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site]]></title>
-        <id>60dc72b527f80207bcdbbd8f</id>
-        <link href="https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/"/>
-        <updated>2021-07-01T18:19:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML List – How to Use Bullet Points, Ordered, and Unordered Lists]]></title>
-        <id>60c0897ad3126007592d5701</id>
-        <link href="https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/"/>
-        <updated>2021-07-01T18:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
