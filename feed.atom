@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T15:20:37.015Z</updated>
+    <updated>2021-08-01T16:28:17.383Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2450,46 +2450,6 @@ The post 3D printing with kids – building and having fun together! appeared fi
         <summary type="html"><![CDATA[For a long time, I've used libraries like Date-fns whenever I need to format dates in JavaScript. But it gets really weird whenever I do this in small projects that require simple date formats which JavaScript offers by default. I discovered that most developers do this a lot. And I]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「大丈夫はない」を何度でも　文化放送記者とアナ、災害対策本第2作　自分と大事な人守る知識を]]></title>
-        <id>https://mainichi.jp/articles/20210703/dde/018/040/010000c</id>
-        <link href="https://mainichi.jp/articles/20210703/dde/018/040/010000c"/>
-        <updated>2021-07-03T03:59:42.000Z</updated>
-        <summary type="html"><![CDATA[文化放送の伊藤佳子記者（56）と鈴木純子アナウンサー（50）が6月25日、「自然災害から身を守る知恵―気象災害と地震に備える―」（求龍堂、1650円）を刊行した。気象予報士の資格を持つ2人が知識や経験を基に、台風や大雨などの気象災害や地震の事例と対策を分かりやすく説明している。気象災害について解説]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊テレビ評:時代劇で活躍　歌舞伎新世代　演技や所作、キャリアが裏打ち＝ペリー荻野]]></title>
-        <id>https://mainichi.jp/articles/20210703/dde/018/070/007000c</id>
-        <link href="https://mainichi.jp/articles/20210703/dde/018/070/007000c"/>
-        <updated>2021-07-03T03:38:09.000Z</updated>
-        <summary type="html"><![CDATA[お笑い界では、「第7世代」という言葉がすっかり定着した感じだが、最近、歌舞伎界でも新世代俳優のテレビでの活躍が目立つ。 　ひとりは1992年生まれの尾上右近。大河ドラマ「青天を衝（つ）け」では、孝明天皇を演じている。幕末の動乱の中で、公武合体政策のため悩んだ末、妹の和宮を将軍・徳川家茂（磯村勇斗）]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辛酸なめ子のＴＶセラピー:27日の「100回やったら会いましょう！」は…]]></title>
-        <id>https://mainichi.jp/articles/20210703/dde/018/070/006000c</id>
-        <link href="https://mainichi.jp/articles/20210703/dde/018/070/006000c"/>
-        <updated>2021-07-03T03:38:07.000Z</updated>
-        <summary type="html"><![CDATA[27日の「100回やったら会いましょう！」は平和で和む番組でした。絵が苦手な塚田僚一が似顔絵を100回描いてスキルを身に付けたり、俳優の小倉久寛がTikTokに挑戦したら若い劇団員とコミュニケーションが増えたり、反抗期の娘が父親と100回写真を撮ったら仲良くなったり……。しかしミッションをこなす出]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワイド視聴室:日曜邦画劇場　山下達郎迎え放送1000回目]]></title>
-        <id>https://mainichi.jp/articles/20210703/dde/018/200/005000c</id>
-        <link href="https://mainichi.jp/articles/20210703/dde/018/200/005000c"/>
-        <updated>2021-07-03T03:38:05.000Z</updated>
-        <summary type="html"><![CDATA[日曜邦画劇場　日本映画専門チャンネル＝日曜午後9時 　有料BS・CS放送の「日本映画専門チャンネル」による、白黒作品から近年の作品までを幅広く放送する番組。映画と別に、軽部真一フジテレビアナウンサーが「劇場支配人」として出演し、作品について解説する。一昔前の地上波テレビの定番でもあった解説付き映画番]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
         </author>
     </entry>
 </feed>
