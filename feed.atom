@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T16:28:17.383Z</updated>
+    <updated>2021-08-01T17:21:27.184Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[わたぼうし大賞に蔦さん・宮川さん]]></title>
+        <id>https://mainichi.jp/articles/20210802/ddm/041/040/131000c</id>
+        <link href="https://mainichi.jp/articles/20210802/ddm/041/040/131000c"/>
+        <updated>2021-08-01T17:01:53.000Z</updated>
+        <summary type="html"><![CDATA[障害のある人たちが夢や思いを込めた詩に、曲を付けて歌う「第46回わたぼうし音楽祭」（奈良たんぽぽの会主催、毎日新聞社、毎日新聞社会事業団など後援）が1日、開催された。新型コロナウイルスの影響で、2020年に続きインターネットの動画配信を活用して開かれ、最高賞の「わたぼうし大賞」に、千葉県四街道市の]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:世界まる見え！テレビ特捜部　2時間SP]]></title>
+        <id>https://mainichi.jp/articles/20210802/ddm/018/200/042000c</id>
+        <link href="https://mainichi.jp/articles/20210802/ddm/018/200/042000c"/>
+        <updated>2021-08-01T17:01:46.000Z</updated>
+        <summary type="html"><![CDATA[◆世界まる見え！テレビ特捜部　2時間SP（日テレ＝後7・0） 　海外で放送された仰天映像などを紹介するバラエティー。今回は「戦慄（せんりつ）の瞬間」がテーマで、カメラが捉えた危機一髪の救出劇や、猛毒を持つ巨大エイの捕獲ドキュメンタリーなど盛りだくさんの構成。ナレーションは「鬼滅の刃」などで知られる]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[続・リモコンの片隅から:BS12トゥエルビ　森の空気は何よりのごちそう]]></title>
+        <id>https://mainichi.jp/articles/20210802/ddm/018/200/039000c</id>
+        <link href="https://mainichi.jp/articles/20210802/ddm/018/200/039000c"/>
+        <updated>2021-08-01T17:00:22.000Z</updated>
+        <summary type="html"><![CDATA[旅行に行けない。行ける気配もない。頼みのワクチンは供給不足。旅に行きたいこの気持ちはどうすればいい？ 　コロナ禍以前から放送中のBS12トゥエルビ「NEXT　TRIP」は、旅好きの方に向けて「次の旅の行き先」を提案するロケ番組。以前は海外の旅を紹介していたが、今年は国内の旅を提案している。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:新番組・ウッチャン式]]></title>
         <id>https://mainichi.jp/articles/20210801/ddm/018/200/016000c</id>
