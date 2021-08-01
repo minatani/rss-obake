@@ -2262,15 +2262,6 @@
           "publishedOn": "2021-07-06T13:55:00.000Z",
           "wordCount": 109640,
           "title": "Get Ready to Pass CISSP Exam"
-        },
-        {
-          "id": "60df127a27f80207bcdbcac9",
-          "author": null,
-          "description": "For a long time, I've used libraries like Date-fns whenever I need to format dates in JavaScript. But it gets really weird whenever I do this in small projects that require simple date formats which JavaScript offers by default. I discovered that most developers do this a lot. And I",
-          "link": "https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/",
-          "publishedOn": "2021-07-03T06:24:00.000Z",
-          "wordCount": 1067,
-          "title": "How to Format Dates in JavaScript with One Line of Code"
         }
       ]
     }

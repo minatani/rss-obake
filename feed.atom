@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T18:22:23.822Z</updated>
+    <updated>2021-08-01T19:14:05.153Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -2470,16 +2470,6 @@ The post 3D printing with kids – building and having fun together! appeared fi
         <summary type="html"><![CDATA[◆TOKYO　MER～走る救急救命室～（TBS＝後9・0） 　患者の命を救うため、事故や災害などの現場に駆けつける救命救急チーム「TOKYO　MER」の活躍を描く医療ドラマの第1話。脚本は黒岩勉。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Format Dates in JavaScript with One Line of Code]]></title>
-        <id>60df127a27f80207bcdbcac9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/"/>
-        <updated>2021-07-03T06:24:00.000Z</updated>
-        <summary type="html"><![CDATA[For a long time, I've used libraries like Date-fns whenever I need to format dates in JavaScript. But it gets really weird whenever I do this in small projects that require simple date formats which JavaScript offers by default. I discovered that most developers do this a lot. And I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
