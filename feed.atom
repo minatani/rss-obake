@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T17:23:41.315Z</updated>
+    <updated>2021-08-02T18:22:46.642Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How does the internet work?]]></title>
+        <id>61082bc93306a507d1bfc7b9</id>
+        <link href="https://www.freecodecamp.org/news/how-does-the-internet-work/"/>
+        <updated>2021-08-02T17:39:24.000Z</updated>
+        <summary type="html"><![CDATA[The internet is a part of our daily life and we use it constantly. But how does it actually work? We just released a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works and basic networking principles.  Ian Frost teaches this course. He is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[くらしナビ・ライフスタイル:コロナ禍、鶴瓶さんの粋な計らい　自身のドキュメンタリー映画「バケモン」公開]]></title>
+        <id>https://mainichi.jp/articles/20210803/ddm/013/200/147000c</id>
+        <link href="https://mainichi.jp/articles/20210803/ddm/013/200/147000c"/>
+        <updated>2021-08-02T17:29:55.000Z</updated>
+        <summary type="html"><![CDATA[笑福亭鶴瓶さんの日常を17年間撮り続けたドキュメンタリー映画「バケモン」（山根真吾監督）が7月から全国で順次公開されている。「オレが死ぬまで出したらアカン」と念押しして撮影を許した鶴瓶さんだが、一転して公開となったきっかけは、実は新型コロナウイルスの感染拡大だった。そして、コロナで経営危機に陥って]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赤坂電視台:国山ハセンアナウンサー／1　臨場感を持って伝えたい]]></title>
         <id>https://mainichi.jp/articles/20210803/ddm/018/200/012000c</id>

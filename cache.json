@@ -6,6 +6,15 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210803/ddm/013/200/147000c",
+          "author": null,
+          "description": "笑福亭鶴瓶さんの日常を17年間撮り続けたドキュメンタリー映画「バケモン」（山根真吾監督）が7月から全国で順次公開されている。「オレが死ぬまで出したらアカン」と念押しして撮影を許した鶴瓶さんだが、一転して公開となったきっかけは、実は新型コロナウイルスの感染拡大だった。そして、コロナで経営危機に陥って",
+          "link": "https://mainichi.jp/articles/20210803/ddm/013/200/147000c",
+          "publishedOn": "2021-08-02T17:29:55.000Z",
+          "wordCount": 468,
+          "title": "くらしナビ・ライフスタイル:コロナ禍、鶴瓶さんの粋な計らい　自身のドキュメンタリー映画「バケモン」公開"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210803/ddm/018/200/012000c",
           "author": null,
           "description": "＜TBS系「東京オリンピック」（8日まで）リポーター＞ 　東京オリンピックも残り1週間を切りました。私は主にIBC（国際放送センター）から、各競技の様子をお伝えしています。",
@@ -292,6 +301,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61082bc93306a507d1bfc7b9",
+          "author": null,
+          "description": "The internet is a part of our daily life and we use it constantly. But how does it actually work? We just released a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works and basic networking principles.  Ian Frost teaches this course. He is",
+          "link": "https://www.freecodecamp.org/news/how-does-the-internet-work/",
+          "publishedOn": "2021-08-02T17:39:24.000Z",
+          "wordCount": 362,
+          "title": "How does the internet work?"
+        },
         {
           "id": "6053023028094f59be257c79",
           "author": null,
