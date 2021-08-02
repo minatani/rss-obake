@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T03:20:37.718Z</updated>
+    <updated>2021-08-02T04:24:27.630Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AKB48の7人、コロナ感染発表　公演中止へ]]></title>
+        <id>https://mainichi.jp/articles/20210802/dde/041/040/039000c</id>
+        <link href="https://mainichi.jp/articles/20210802/dde/041/040/039000c"/>
+        <updated>2021-08-02T04:21:14.000Z</updated>
+        <summary type="html"><![CDATA[アイドルグループ「AKB48」のメンバー7人が新型コロナウイルスに感染したと、所属事務所が1日発表した。7月30日から8月1日にかけて発熱の症状が出たため、首都圏の医療機関でPCR検査を受けたところ、陽性だったという。2日から8日にかけて予定していた公演やイベントは出演辞退や開催を中止する。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:阿部寛　監督の熱意に応え　マレーシア映画「夕霧花園」に出演]]></title>
+        <id>https://mainichi.jp/articles/20210802/dde/018/200/014000c</id>
+        <link href="https://mainichi.jp/articles/20210802/dde/018/200/014000c"/>
+        <updated>2021-08-02T04:20:47.000Z</updated>
+        <summary type="html"><![CDATA[端正な表情はそのまま、コメディーとなれば大いに笑わせ、シリアスなドラマで情感をにじませる。50代も半ばを過ぎて、融通無碍（むげ）の阿部寛。「もっと貪欲に」となお前向きである。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画のミカタ:ミャンマーに届け＝勝田友巳]]></title>
+        <id>https://mainichi.jp/articles/20210802/dde/018/200/011000c</id>
+        <link href="https://mainichi.jp/articles/20210802/dde/018/200/011000c"/>
+        <updated>2021-08-02T04:20:43.000Z</updated>
+        <summary type="html"><![CDATA[「エイン」は2006年の、日本映画学校（現・日本映画大学）第18期卒業制作として撮られた短編映画だ。「ガイジン」扱いされる日本での生活に嫌気がさし、帰国を望むミャンマー人の少年が主人公。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:名渡山遼（ウクレレ奏者）　ジャンルや奏法、もっと開発]]></title>
+        <id>https://mainichi.jp/articles/20210802/dde/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210802/dde/018/200/013000c"/>
+        <updated>2021-08-02T04:20:42.000Z</updated>
+        <summary type="html"><![CDATA[ウクレレで、あれ弾いちゃだめ、それは合わない、そう考えられてきた“常識”を、思い切ってなくしていきたい――。ハワイのグラミー賞と呼ばれる「ナ・ホク・ハノハノ・アワード」で日本人として史上最年少受賞した記録を持ち、国際的に活動するウクレレ奏者の名渡山遼が、ハワイアン音楽だけではないウクレレの新たな可]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3DCGアニメに初挑戦　バイオハザードで羽住監督]]></title>
+        <id>https://mainichi.jp/articles/20210802/dde/018/200/009000c</id>
+        <link href="https://mainichi.jp/articles/20210802/dde/018/200/009000c"/>
+        <updated>2021-08-02T04:20:38.000Z</updated>
+        <summary type="html"><![CDATA[映画「海猿」シリーズなどで知られる羽住英一郎監督が、米配信大手ネットフリックスの「バイオハザード　インフィニット　ダークネス」（全4話、配信中）で、3DCGアニメに初挑戦した。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わたぼうし大賞に蔦さん・宮川さん]]></title>
         <id>https://mainichi.jp/articles/20210802/ddm/041/040/131000c</id>
