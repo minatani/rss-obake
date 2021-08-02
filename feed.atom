@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T16:30:00.690Z</updated>
+    <updated>2021-08-02T17:23:41.315Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:国山ハセンアナウンサー／1　臨場感を持って伝えたい]]></title>
+        <id>https://mainichi.jp/articles/20210803/ddm/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210803/ddm/018/200/012000c"/>
+        <updated>2021-08-02T17:02:57.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系「東京オリンピック」（8日まで）リポーター＞ 　東京オリンピックも残り1週間を切りました。私は主にIBC（国際放送センター）から、各競技の様子をお伝えしています。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3DCGアニメに初挑戦　バイオハザードで羽住監督]]></title>
         <id>https://mainichi.jp/articles/20210802/dde/018/200/009000c</id>
