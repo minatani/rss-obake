@@ -347,6 +347,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610640c03306a507d1bfbfcf",
+          "author": null,
+          "description": "A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help",
+          "link": "https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/",
+          "publishedOn": "2021-08-03T15:11:05.000Z",
+          "wordCount": 1095,
+          "title": "12 Free Coding Games to Learn Programming for Beginners"
+        },
+        {
           "id": "61082bc93306a507d1bfc7b9",
           "author": null,
           "description": "The internet is a part of our daily life and we use it constantly. But how does it actually work? We just released a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works and basic networking principles.  Ian Frost teaches this course. He is",

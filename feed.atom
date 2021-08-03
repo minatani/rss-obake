@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T14:16:44.265Z</updated>
+    <updated>2021-08-03T15:21:17.243Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[12 Free Coding Games to Learn Programming for Beginners]]></title>
+        <id>610640c03306a507d1bfbfcf</id>
+        <link href="https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/"/>
+        <updated>2021-08-03T15:11:05.000Z</updated>
+        <summary type="html"><![CDATA[A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[私の記念碑:プーシキン歌劇場バレエ監督　岩田守弘／1　父が残した「武将」]]></title>
         <id>https://mainichi.jp/articles/20210803/dde/012/200/005000c</id>
