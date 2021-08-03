@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T15:21:17.243Z</updated>
+    <updated>2021-08-03T16:32:26.473Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/"/>
         <updated>2021-08-03T15:11:05.000Z</updated>
         <summary type="html"><![CDATA[A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Coding Bootcamp Based on freeCodeCamp&#x27;s Curriculum]]></title>
+        <id>61084aac3306a507d1bfc81c</id>
+        <link href="https://www.freecodecamp.org/news/free-coding-bootcamp-based-on-freecodecamp/"/>
+        <updated>2021-08-03T15:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Now you can join a free part-time, remote coding bootcamp. You'll learn freeCodeCamp's entire Responsive Web Design certification, together with friendly people around the world. 👋 Hi, I’m Jess. A long time ago, I was an educator who worked in special education and language education.  When I wanted to get]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
