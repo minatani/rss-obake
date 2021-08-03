@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T19:18:49.327Z</updated>
+    <updated>2021-08-03T20:22:32.387Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For Loop – How to Loop Through an Array in JS]]></title>
+        <id>61079f873306a507d1bfc360</id>
+        <link href="https://www.freecodecamp.org/news/javascript-for-loop-how-to-loop-through-an-array-in-js/"/>
+        <updated>2021-08-03T19:53:47.000Z</updated>
+        <summary type="html"><![CDATA[There are various types of loops in JavaScript, and all of them essentially do the same thing: they repeat an action again and again.  Loops come in handy if you want to repeat the same block of code for a certain number of times. Basically, they are a fast and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Communities to Join to Help You Grow Your Tech Career]]></title>
+        <id>6104ec2f3306a507d1bfbc24</id>
+        <link href="https://www.freecodecamp.org/news/developer-communities-to-join-to-grow-your-career/"/>
+        <updated>2021-08-03T19:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Alone, we can do so little; together, we can do so much.  Helen Keller  It’s true – when you lend someone a helping hand, you feel a lot better about yourself, and you will likely learn something new.  Helping others feels so rewarding because you know that you have contributed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Access Clipboard in Android (and Clear it)]]></title>
         <id>610948d93306a507d1bfd0d5</id>
