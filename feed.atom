@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T03:20:54.765Z</updated>
+    <updated>2021-08-03T04:24:16.818Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[私の記念碑:プーシキン歌劇場バレエ監督　岩田守弘／1　父が残した「武将」]]></title>
+        <id>https://mainichi.jp/articles/20210803/dde/012/200/005000c</id>
+        <link href="https://mainichi.jp/articles/20210803/dde/012/200/005000c"/>
+        <updated>2021-08-03T04:22:13.000Z</updated>
+        <summary type="html"><![CDATA[「子供の頃から根拠のない自信がありました。僕は世界で一番うまいんだと。喜んでいばらの道を選んでしまうのも性分です。バレエ教師の父が良しあしをはっきりと言うタイプだったので、無意識に鼓舞されていたのかもしれません」]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特薦盤:ロック・ブラック・ジャズ　中川ヨウ・選]]></title>
+        <id>https://mainichi.jp/articles/20210803/dde/012/070/002000c</id>
+        <link href="https://mainichi.jp/articles/20210803/dde/012/070/002000c"/>
+        <updated>2021-08-03T04:19:00.000Z</updated>
+        <summary type="html"><![CDATA[■ロイ・ハーグローブ＆マルグリュー・ミラー／イン・ハーモニー（キング・インターナショナル） 　なんと温かく、心を打つデュオだろう。トランペッターとしてビバップからR＆B、ヒップホップまで縦横無尽に活躍したロイ・ハーグローブ（1969～2018年）。メインストリームにありながら、独自性のあるピアノで]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特薦盤:ロック・ブラック・ジャズ　中川五郎・選]]></title>
+        <id>https://mainichi.jp/articles/20210803/dde/012/070/004000c</id>
+        <link href="https://mainichi.jp/articles/20210803/dde/012/070/004000c"/>
+        <updated>2021-08-03T04:16:01.000Z</updated>
+        <summary type="html"><![CDATA[■ジャクソン・ブラウン／ダウンヒル・フロム・エブリホェア（ソニー） 　歴史の流れと共に技術は進歩し人類は進化して、世界は発展していくと考える人も多いようだが、ジャクソン・ブラウンはむしろそれとは逆に今の世界は「あらゆるところから下り坂」と見ているようだ。その言葉がアルバム・タイトルになっている7年]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:さいたまゴールド・シアター　団員高齢化で解散へ　蜷川幸雄発案、55歳以上の演劇集団]]></title>
+        <id>https://mainichi.jp/articles/20210803/dde/012/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210803/dde/012/200/007000c"/>
+        <updated>2021-08-03T04:12:04.000Z</updated>
+        <summary type="html"><![CDATA[埼玉県芸術文化振興財団は、55歳以上による演劇集団「さいたまゴールド・シアター」の活動を12月の公演で終了すると発表した。団員の高齢化に新型コロナウイルス感染拡大の影響が重なり、活動継続が困難となった。同財団は「苦渋の決断だが、劇団を解散することにした」としている。シニア世代が躍動し、注目を集めた]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ひめゆりの塔」など9作品を上映　東京で戦争を語り継ぐ映画祭]]></title>
+        <id>https://mainichi.jp/articles/20210803/dde/012/200/006000c</id>
+        <link href="https://mainichi.jp/articles/20210803/dde/012/200/006000c"/>
+        <updated>2021-08-03T04:12:00.000Z</updated>
+        <summary type="html"><![CDATA[「戦争の記憶と記録を語り継ぐ映画祭2021」が5日から8日まで、東京都千代田区の内幸町ホールで開かれ、「ひろしま」や「ひめゆりの塔」など9作品が上映される。 　「ひめゆりの塔」に出演した香川京子や「おかあさんの被爆ピアノ」に主演したAKB48の武藤十夢のトークショーや、3月に87歳で亡くなった「第]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How does the internet work?]]></title>
         <id>61082bc93306a507d1bfc7b9</id>
