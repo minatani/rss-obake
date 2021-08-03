@@ -365,6 +365,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610948d93306a507d1bfd0d5",
+          "author": null,
+          "description": "The copy and paste functionality on Android smartphones might seem to be a \"one-time\" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and",
+          "link": "https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/",
+          "publishedOn": "2021-08-03T19:10:40.000Z",
+          "wordCount": 980,
+          "title": "How to Access Clipboard in Android (and Clear it)"
+        },
+        {
           "id": "610640c03306a507d1bfbfcf",
           "author": null,
           "description": "A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help",

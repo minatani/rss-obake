@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T18:23:05.799Z</updated>
+    <updated>2021-08-03T19:18:49.327Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Access Clipboard in Android (and Clear it)]]></title>
+        <id>610948d93306a507d1bfd0d5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/"/>
+        <updated>2021-08-03T19:10:40.000Z</updated>
+        <summary type="html"><![CDATA[The copy and paste functionality on Android smartphones might seem to be a "one-time" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:ザ・タイムショック2021]]></title>
         <id>https://mainichi.jp/articles/20210804/ddm/018/200/022000c</id>
