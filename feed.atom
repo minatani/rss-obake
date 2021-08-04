@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T15:22:49.756Z</updated>
+    <updated>2021-08-04T16:32:11.349Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SQL Where – Clause Examples]]></title>
+        <id>6106638c3306a507d1bfc15c</id>
+        <link href="https://www.freecodecamp.org/news/sql-where-clause-examples/"/>
+        <updated>2021-08-04T15:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes when you're working with SQL, you don't need to operate on an entire range of records. Or it would be really bad if you accidentally changed or deleted everything. In these cases, you'll need to select only the part of the records on which you want to work, those]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]]]></title>
         <id>610a56153306a507d1bfd5f0</id>
