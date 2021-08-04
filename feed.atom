@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T14:16:44.619Z</updated>
+    <updated>2021-08-04T15:22:49.756Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]]]></title>
+        <id>610a56153306a507d1bfd5f0</id>
+        <link href="https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/"/>
+        <updated>2021-08-04T15:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Background Color – How to Change the Background Color in HTML]]></title>
+        <id>610641743306a507d1bfbfd4</id>
+        <link href="https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/"/>
+        <updated>2021-08-04T14:46:14.000Z</updated>
+        <summary type="html"><![CDATA[You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秘められた「ブラジル移民史」　戦時中の強制退去、映画化　「オキナワサントス」]]></title>
         <id>https://mainichi.jp/articles/20210804/dde/007/040/025000c</id>
@@ -44,6 +64,16 @@
         <summary type="html"><![CDATA[夏休みといえばラジオ体操（NHKラジオ第1、毎日午前6時半など）ですね。わたしも小学生の頃、近所の公園に出席カードを持って行ってました。日本でもっとも有名なラジオ番組といっても過言ではないでしょう。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Algorithms for Technical Interviews]]></title>
+        <id>6109eca73306a507d1bfd3d2</id>
+        <link href="https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/"/>
+        <updated>2021-08-04T01:35:10.000Z</updated>
+        <summary type="html"><![CDATA[During technical interviews it is common for people to be asked to solve coding challenges. It is important to have a good understanding of graph algorithms if you  want to make sure to do well on these challenges. We just released a course on the freeCodeCamp.org YouTube channel that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

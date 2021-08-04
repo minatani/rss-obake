@@ -401,6 +401,33 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610a56153306a507d1bfd5f0",
+          "author": null,
+          "description": "Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work",
+          "link": "https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/",
+          "publishedOn": "2021-08-04T15:02:39.000Z",
+          "wordCount": 1158,
+          "title": "CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]"
+        },
+        {
+          "id": "610641743306a507d1bfbfd4",
+          "author": null,
+          "description": "You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in",
+          "link": "https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/",
+          "publishedOn": "2021-08-04T14:46:14.000Z",
+          "wordCount": 1675,
+          "title": "CSS Background Color – How to Change the Background Color in HTML"
+        },
+        {
+          "id": "6109eca73306a507d1bfd3d2",
+          "author": null,
+          "description": "During technical interviews it is common for people to be asked to solve coding challenges. It is important to have a good understanding of graph algorithms if you  want to make sure to do well on these challenges. We just released a course on the freeCodeCamp.org YouTube channel that",
+          "link": "https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/",
+          "publishedOn": "2021-08-04T01:35:10.000Z",
+          "wordCount": 25761,
+          "title": "Graph Algorithms for Technical Interviews"
+        },
+        {
           "id": "6109e5233306a507d1bfd3ad",
           "author": null,
           "description": "React continues to be a popular front-end JavaScript library. Improve your skills by building a dictionary project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to create a dictionary",
