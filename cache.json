@@ -419,6 +419,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6106575b3306a507d1bfc104",
+          "author": null,
+          "description": "In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS",
+          "link": "https://www.freecodecamp.org/news/html-padding-css-padding-order/",
+          "publishedOn": "2021-08-04T21:33:13.000Z",
+          "wordCount": 731,
+          "title": "HTML Padding – CSS Padding Order"
+        },
+        {
           "id": "6106638c3306a507d1bfc15c",
           "author": null,
           "description": "Sometimes when you're working with SQL, you don't need to operate on an entire range of records. Or it would be really bad if you accidentally changed or deleted everything. In these cases, you'll need to select only the part of the records on which you want to work, those",

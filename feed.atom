@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T21:17:38.487Z</updated>
+    <updated>2021-08-04T22:18:35.799Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Padding – CSS Padding Order]]></title>
+        <id>6106575b3306a507d1bfc104</id>
+        <link href="https://www.freecodecamp.org/news/html-padding-css-padding-order/"/>
+        <updated>2021-08-04T21:33:13.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:警視庁ひきこもり係]]></title>
         <id>https://mainichi.jp/articles/20210805/ddm/018/200/130000c</id>
