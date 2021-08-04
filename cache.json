@@ -365,6 +365,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6109e5233306a507d1bfd3ad",
+          "author": null,
+          "description": "React continues to be a popular front-end JavaScript library. Improve your skills by building a dictionary project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to create a dictionary",
+          "link": "https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/",
+          "publishedOn": "2021-08-04T01:03:03.000Z",
+          "wordCount": 12944,
+          "title": "Code a Dictionary with React and Material UI"
+        },
+        {
           "id": "61079f873306a507d1bfc360",
           "author": null,
           "description": "There are various types of loops in JavaScript, and all of them essentially do the same thing: they repeat an action again and again.  Loops come in handy if you want to repeat the same block of code for a certain number of times. Basically, they are a fast and",

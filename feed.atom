@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T00:59:07.226Z</updated>
+    <updated>2021-08-04T02:05:06.533Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Code a Dictionary with React and Material UI]]></title>
+        <id>6109e5233306a507d1bfd3ad</id>
+        <link href="https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/"/>
+        <updated>2021-08-04T01:03:03.000Z</updated>
+        <summary type="html"><![CDATA[React continues to be a popular front-end JavaScript library. Improve your skills by building a dictionary project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to create a dictionary]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript For Loop – How to Loop Through an Array in JS]]></title>
         <id>61079f873306a507d1bfc360</id>
