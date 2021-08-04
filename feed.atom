@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T16:32:11.349Z</updated>
+    <updated>2021-08-04T17:26:18.433Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:警視庁ひきこもり係]]></title>
+        <id>https://mainichi.jp/articles/20210805/ddm/018/200/130000c</id>
+        <link href="https://mainichi.jp/articles/20210805/ddm/018/200/130000c"/>
+        <updated>2021-08-04T17:04:09.000Z</updated>
+        <summary type="html"><![CDATA[◆警視庁ひきこもり係（朝日＝後8・0） 　滝藤賢一が主演の2時間ドラマ。他部署の人員をサポートすする目的で、武蔵野中央署に生活安全課総務2係、通称「ひきこもり係」が新設される。集められたのは、漫画喫茶に入り浸る百田桜（山本舞香）や母親の介護で休職していた家藤時子（富田靖子）ら、室内に籠もりがちな人]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:国山ハセンアナウンサー／3　本日、男子400メートルリレー]]></title>
+        <id>https://mainichi.jp/articles/20210805/ddm/018/200/089000c</id>
+        <link href="https://mainichi.jp/articles/20210805/ddm/018/200/089000c"/>
+        <updated>2021-08-04T17:01:28.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系「東京オリンピック」（8日まで）リポーター＞ 　たくさんの競技種目があるオリンピック。初めて見る種目もあれば、五輪だからいろいろ見てみようという人もいると思います。スポーツ全体が盛り上がってほしいですね。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL Where – Clause Examples]]></title>
         <id>6106638c3306a507d1bfc15c</id>
