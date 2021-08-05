@@ -455,6 +455,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60db390127f80207bcdbb455",
+          "author": null,
+          "description": "HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend",
+          "link": "https://www.freecodecamp.org/news/html-crash-course/",
+          "publishedOn": "2021-08-05T14:19:09.000Z",
+          "wordCount": 1180,
+          "title": "HTML for Beginners"
+        },
+        {
           "id": "610afe863306a507d1bfdf1e",
           "author": null,
           "description": "In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.",

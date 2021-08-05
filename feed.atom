@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T14:18:16.663Z</updated>
+    <updated>2021-08-05T15:21:09.001Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML for Beginners]]></title>
+        <id>60db390127f80207bcdbb455</id>
+        <link href="https://www.freecodecamp.org/news/html-crash-course/"/>
+        <updated>2021-08-05T14:19:09.000Z</updated>
+        <summary type="html"><![CDATA[HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:映画「8時15分　ヒロシマ　父から娘へ」　美甘章子　エグゼクティブ・プロデューサー]]></title>
         <id>https://mainichi.jp/articles/20210805/dde/018/200/018000c</id>
