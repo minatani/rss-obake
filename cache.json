@@ -473,6 +473,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610be0ea3306a507d1bfe4b1",
+          "author": null,
+          "description": "The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,",
+          "link": "https://www.freecodecamp.org/news/pre-tag-in-html-example-code/",
+          "publishedOn": "2021-08-05T21:33:51.000Z",
+          "wordCount": 1047,
+          "title": "&lt;pre&gt; Tag in HTML – Example Code"
+        },
+        {
           "id": "6108233d3306a507d1bfc731",
           "author": null,
           "description": "Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While",

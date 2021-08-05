@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T21:17:12.896Z</updated>
+    <updated>2021-08-05T22:18:13.460Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[&lt;pre&gt; Tag in HTML – Example Code]]></title>
+        <id>610be0ea3306a507d1bfe4b1</id>
+        <link href="https://www.freecodecamp.org/news/pre-tag-in-html-example-code/"/>
+        <updated>2021-08-05T21:33:51.000Z</updated>
+        <summary type="html"><![CDATA[The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:ストロングポイントX特別版]]></title>
         <id>https://mainichi.jp/articles/20210806/ddm/018/200/013000c</id>
