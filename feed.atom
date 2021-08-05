@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T03:20:49.101Z</updated>
+    <updated>2021-08-05T04:24:49.442Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:映画「8時15分　ヒロシマ　父から娘へ」　美甘章子　エグゼクティブ・プロデューサー]]></title>
+        <id>https://mainichi.jp/articles/20210805/dde/018/200/018000c</id>
+        <link href="https://mainichi.jp/articles/20210805/dde/018/200/018000c"/>
+        <updated>2021-08-05T04:19:28.000Z</updated>
+        <summary type="html"><![CDATA[平和のメッセージ伝える 　広島の爆心地から1・2キロの距離で被爆した父・美甘進示（みかもしんじ）さん（2020年10月、94歳で死去）の体験を聞き取り著書にまとめた米サンディエゴ在住の臨床心理医、美甘章子さん（59）が、自著を原作にした映画「8時15分　ヒロシマ　父から娘へ」でエグゼクティブ・プロデ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:「JO1」快進撃　成長を応援したくなる　「推し」の宣伝広告出すファン続出]]></title>
+        <id>https://mainichi.jp/articles/20210805/dde/018/200/020000c</id>
+        <link href="https://mainichi.jp/articles/20210805/dde/018/200/020000c"/>
+        <updated>2021-08-05T04:18:16.000Z</updated>
+        <summary type="html"><![CDATA[韓国発のオーディション番組で誕生した日本人によるグローバルボーイズグループ「JO1（ジェイオーワン）」の快進撃が止まらない。デビュー以来、全シングルの初週売り上げが20万枚を超え、ヒットチャート1位を記録。街頭やネットに自費で“推し”の宣伝広告を出すファンが続出するなど、新たな旋風を巻き起こしてい]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「成長する姿に注目して」　映画「都会のトム＆ソーヤ」で城桧吏]]></title>
+        <id>https://mainichi.jp/articles/20210805/dde/018/200/015000c</id>
+        <link href="https://mainichi.jp/articles/20210805/dde/018/200/015000c"/>
+        <updated>2021-08-05T03:51:35.000Z</updated>
+        <summary type="html"><![CDATA[映画「都会（まち）のトム＆ソーヤ」の公開記念舞台あいさつが東京都内で開かれ、主演の城桧吏（じょうかいり）、酒井大地らが登場。城は「2人の中学生が、支え合いながら成長する姿に注目してほしい」と見どころを語った。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[柳家喬太郎30周年　落語会のCD発売]]></title>
+        <id>https://mainichi.jp/articles/20210805/dde/018/200/011000c</id>
+        <link href="https://mainichi.jp/articles/20210805/dde/018/200/011000c"/>
+        <updated>2021-08-05T03:51:32.000Z</updated>
+        <summary type="html"><![CDATA[1カ月間30公演、連日違う噺（はなし）で挑む。100席あまりの濃密な小空間で、あらためて柳家喬太郎のすごみを感じた時間だった。2019年11月の1カ月、東京・下北沢の小劇場の聖地「ザ・スズナリ」で開催された落語生活30周年落語会「ザ・きょんスズ30」だ。その伝説的な公演からセレクトされた12席が、]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Border – Style and HTML Code Examples]]></title>
         <id>610afe863306a507d1bfdf1e</id>
