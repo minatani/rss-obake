@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T23:18:31.143Z</updated>
+    <updated>2021-08-05T01:00:16.235Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Border – Style and HTML Code Examples]]></title>
+        <id>610afe863306a507d1bfdf1e</id>
+        <link href="https://www.freecodecamp.org/news/css-border-style-and-html-code-examples/"/>
+        <updated>2021-08-04T23:25:30.000Z</updated>
+        <summary type="html"><![CDATA[In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Padding – CSS Padding Order]]></title>
         <id>6106575b3306a507d1bfc104</id>

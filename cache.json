@@ -419,6 +419,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610afe863306a507d1bfdf1e",
+          "author": null,
+          "description": "In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.",
+          "link": "https://www.freecodecamp.org/news/css-border-style-and-html-code-examples/",
+          "publishedOn": "2021-08-04T23:25:30.000Z",
+          "wordCount": 1180,
+          "title": "CSS Border – Style and HTML Code Examples"
+        },
+        {
           "id": "6106575b3306a507d1bfc104",
           "author": null,
           "description": "In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS",
