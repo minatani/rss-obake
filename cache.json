@@ -6,6 +6,24 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210806/ddm/018/200/013000c",
+          "author": null,
+          "description": "◆ストロングポイントX特別版（BS日テレ＝後10・0） 　24日に開幕するパラリンピックを前にした特別版。車いすバスケットボールの日本代表として長年活躍してきた藤本怜央選手（37）の10年間の歩みに焦点を当てる。",
+          "link": "https://mainichi.jp/articles/20210806/ddm/018/200/013000c",
+          "publishedOn": "2021-08-05T17:01:37.000Z",
+          "wordCount": 466,
+          "title": "視聴室:ストロングポイントX特別版"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210806/ddm/018/200/012000c",
+          "author": null,
+          "description": "NHKBS1で9日午後8時に「マルレ～“特攻艇”隊員たちの戦争～」が放送される。太平洋戦争末期、木製の小型ボートに爆雷を積んで、敵艦への突入を命じられた若者たちがいた。",
+          "link": "https://mainichi.jp/articles/20210806/ddm/018/200/012000c",
+          "publishedOn": "2021-08-05T17:01:35.000Z",
+          "wordCount": 465,
+          "title": "ＢＳ未来館:無謀な特攻作戦の果てに"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210805/dde/018/200/018000c",
           "author": null,
           "description": "平和のメッセージ伝える 　広島の爆心地から1・2キロの距離で被爆した父・美甘進示（みかもしんじ）さん（2020年10月、94歳で死去）の体験を聞き取り著書にまとめた米サンディエゴ在住の臨床心理医、美甘章子さん（59）が、自著を原作にした映画「8時15分　ヒロシマ　父から娘へ」でエグゼクティブ・プロデ",
@@ -454,6 +472,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6108233d3306a507d1bfc731",
+          "author": null,
+          "description": "Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While",
+          "link": "https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/",
+          "publishedOn": "2021-08-05T16:37:56.000Z",
+          "wordCount": 1409,
+          "title": "Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain"
+        },
         {
           "id": "60db390127f80207bcdbb455",
           "author": null,

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T16:29:20.338Z</updated>
+    <updated>2021-08-05T17:24:15.587Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:ストロングポイントX特別版]]></title>
+        <id>https://mainichi.jp/articles/20210806/ddm/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210806/ddm/018/200/013000c"/>
+        <updated>2021-08-05T17:01:37.000Z</updated>
+        <summary type="html"><![CDATA[◆ストロングポイントX特別版（BS日テレ＝後10・0） 　24日に開幕するパラリンピックを前にした特別版。車いすバスケットボールの日本代表として長年活躍してきた藤本怜央選手（37）の10年間の歩みに焦点を当てる。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ＢＳ未来館:無謀な特攻作戦の果てに]]></title>
+        <id>https://mainichi.jp/articles/20210806/ddm/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210806/ddm/018/200/012000c"/>
+        <updated>2021-08-05T17:01:35.000Z</updated>
+        <summary type="html"><![CDATA[NHKBS1で9日午後8時に「マルレ～“特攻艇”隊員たちの戦争～」が放送される。太平洋戦争末期、木製の小型ボートに爆雷を積んで、敵艦への突入を命じられた若者たちがいた。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain]]></title>
+        <id>6108233d3306a507d1bfc731</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/"/>
+        <updated>2021-08-05T16:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML for Beginners]]></title>
         <id>60db390127f80207bcdbb455</id>
