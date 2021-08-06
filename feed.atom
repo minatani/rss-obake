@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T15:20:53.307Z</updated>
+    <updated>2021-08-06T16:29:54.124Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Insert Into SQL – SQL Insert Statement Example]]></title>
+        <id>6107c0593306a507d1bfc565</id>
+        <link href="https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/"/>
+        <updated>2021-08-06T16:10:39.000Z</updated>
+        <summary type="html"><![CDATA[If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Original Prusa SL1S SPEED Dev Diary: How we developed the fastest desktop SLA 3D printer]]></title>
+        <id>https://blog.prusaprinters.org/?p=53908</id>
+        <link href="https://blog.prusaprinters.org/original-prusa-sl1s-dev-diary-how-we-developed-the-fastest-desktop-sla-3d-printer_53908/"/>
+        <updated>2021-08-06T15:20:01.000Z</updated>
+        <summary type="html"><![CDATA[In today’s dev diary, we’ll explore the world of pixels and subpixels. In addition, we’ll shed some light on how we managed to tame UV…
+The post Original Prusa SL1S SPEED Dev Diary: How we developed the fastest desktop SLA 3D printer appeared first on Prusa Printers.]]></summary>
+        <author>
+            <name>Jiří Posledník</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Switch Case – JS Switch Statement Example]]></title>
         <id>610658bf3306a507d1bfc110</id>

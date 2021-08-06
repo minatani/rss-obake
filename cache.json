@@ -427,6 +427,20 @@
       "siteUrl": "https://blog.prusaprinters.org",
       "articles": [
         {
+          "id": "https://blog.prusaprinters.org/?p=53908",
+          "author": "Jiří Posledník",
+          "description": "In today’s dev diary, we’ll explore the world of pixels and subpixels. In addition, we’ll shed some light on how we managed to tame UV…\nThe post Original Prusa SL1S SPEED Dev Diary: How we developed the fastest desktop SLA 3D printer appeared first on Prusa Printers.",
+          "link": "https://blog.prusaprinters.org/original-prusa-sl1s-dev-diary-how-we-developed-the-fastest-desktop-sla-3d-printer_53908/",
+          "publishedOn": "2021-08-06T15:20:01.000Z",
+          "wordCount": 2352,
+          "title": "Original Prusa SL1S SPEED Dev Diary: How we developed the fastest desktop SLA 3D printer",
+          "enclosure": {
+            "url": "https://blog.prusaprinters.org/wp-content/uploads/2021/08/thumb-698x325.jpg",
+            "length": "48652",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://blog.prusaprinters.org/?p=53638",
           "author": "Jakub Kočí",
           "description": "In the first part of the watertightness series, we’ve shown you how to print waterproof vases, bowls, flowerpots, cups, etc. Today, we will go one…\nThe post Watertight 3D printing part 2: Airtight closable models appeared first on Prusa Printers.",
@@ -517,6 +531,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6107c0593306a507d1bfc565",
+          "author": null,
+          "description": "If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check",
+          "link": "https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/",
+          "publishedOn": "2021-08-06T16:10:39.000Z",
+          "wordCount": 837,
+          "title": "Insert Into SQL – SQL Insert Statement Example"
+        },
         {
           "id": "610658bf3306a507d1bfc110",
           "author": null,
