@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T16:29:54.124Z</updated>
+    <updated>2021-08-06T17:23:31.965Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:新番組　准教授・高槻彰良の推察]]></title>
+        <id>https://mainichi.jp/articles/20210807/ddm/018/200/048000c</id>
+        <link href="https://mainichi.jp/articles/20210807/ddm/018/200/048000c"/>
+        <updated>2021-08-06T17:02:04.000Z</updated>
+        <summary type="html"><![CDATA[◆新番組　准教授・高槻彰良の推察（フジ＝後11・40） 　見たものを瞬時に記憶する大学准教授と、人のうそが分かる大学生のバディーが、怪異事件の謎に挑むミステリードラマの第1話。東海テレビ（愛知）とWOWOWの共同制作。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴率:7月26日～8月1日]]></title>
+        <id>https://mainichi.jp/articles/20210807/ddm/018/200/147000c</id>
+        <link href="https://mainichi.jp/articles/20210807/ddm/018/200/147000c"/>
+        <updated>2021-08-06T17:01:59.000Z</updated>
+        <summary type="html"><![CDATA[■教育・教養・実用 （1）サンデーモーニング　　　　　TBS　14．8　日 （2）羽鳥慎一モーニングショー　　朝日　　11．6　火 （3）ウェークアップ　　　　　　　日テレ　10．4　土]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insert Into SQL – SQL Insert Statement Example]]></title>
         <id>6107c0593306a507d1bfc565</id>
