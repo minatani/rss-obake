@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T14:16:42.965Z</updated>
+    <updated>2021-08-06T15:20:53.307Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Switch Case – JS Switch Statement Example]]></title>
+        <id>610658bf3306a507d1bfc110</id>
+        <link href="https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/"/>
+        <updated>2021-08-06T15:18:55.000Z</updated>
+        <summary type="html"><![CDATA[There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シネマの週末・この１本:キネマの神様　はみ出し者、夢の続き]]></title>
         <id>https://mainichi.jp/articles/20210806/dde/018/070/017000c</id>

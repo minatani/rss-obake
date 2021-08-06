@@ -518,6 +518,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610658bf3306a507d1bfc110",
+          "author": null,
+          "description": "There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to",
+          "link": "https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/",
+          "publishedOn": "2021-08-06T15:18:55.000Z",
+          "wordCount": 1278,
+          "title": "JavaScript Switch Case – JS Switch Statement Example"
+        },
+        {
           "id": "610be0ea3306a507d1bfe4b1",
           "author": null,
           "description": "The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,",
