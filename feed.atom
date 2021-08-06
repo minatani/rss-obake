@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T21:16:57.303Z</updated>
+    <updated>2021-08-06T22:18:00.956Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SQL Update Statement – Update Query in SQL]]></title>
+        <id>61067c973306a507d1bfc1ba</id>
+        <link href="https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/"/>
+        <updated>2021-08-06T21:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Row VS Column in Excel – What is the Difference?]]></title>
+        <id>610cebc13306a507d1bfeca9</id>
+        <link href="https://www.freecodecamp.org/news/row-vs-column-in-excel-what-is-the-difference/"/>
+        <updated>2021-08-06T21:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Excel displays data in tabular format. This means that information is arranged in a table consisting of rows and columns.  Rows and columns are different properties that together make up a table.  These are the two most important features of Excel that allow users to store and manipulate their]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:新番組　准教授・高槻彰良の推察]]></title>
         <id>https://mainichi.jp/articles/20210807/ddm/018/200/048000c</id>

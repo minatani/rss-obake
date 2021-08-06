@@ -550,6 +550,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61067c973306a507d1bfc1ba",
+          "author": null,
+          "description": "Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records",
+          "link": "https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/",
+          "publishedOn": "2021-08-06T21:25:14.000Z",
+          "wordCount": 827,
+          "title": "SQL Update Statement – Update Query in SQL"
+        },
+        {
+          "id": "610cebc13306a507d1bfeca9",
+          "author": null,
+          "description": "Microsoft Excel displays data in tabular format. This means that information is arranged in a table consisting of rows and columns.  Rows and columns are different properties that together make up a table.  These are the two most important features of Excel that allow users to store and manipulate their",
+          "link": "https://www.freecodecamp.org/news/row-vs-column-in-excel-what-is-the-difference/",
+          "publishedOn": "2021-08-06T21:17:04.000Z",
+          "wordCount": 754,
+          "title": "Row VS Column in Excel – What is the Difference?"
+        },
+        {
           "id": "6107c0593306a507d1bfc565",
           "author": null,
           "description": "If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check",
