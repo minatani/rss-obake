@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T03:20:36.157Z</updated>
+    <updated>2021-08-07T04:24:08.645Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[辛酸なめ子のＴＶセラピー:壬申の乱の時代から奈良県の山奥に伝わる…]]></title>
+        <id>https://mainichi.jp/articles/20210807/dde/018/070/008000c</id>
+        <link href="https://mainichi.jp/articles/20210807/dde/018/070/008000c"/>
+        <updated>2021-08-07T04:20:07.000Z</updated>
+        <summary type="html"><![CDATA[壬申の乱の時代から奈良県の山奥に伝わる、犬を飼うと災いが起きる、という言い伝え。裏を返せば、犬を飼わなければ大丈夫という連帯感になる、と解き明かす迷信探偵。絵馬や呪いのひしゃくがまがまがしい縁切り神社のパートでは、念が本当にあるのか2人1組で背後で念を送る「念送り実験」を実践。結果は成功がやや過半]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイド視聴室:ドラマ×マンガ　特攻兵の幸福食堂　食べ、泣き、笑う知覧の若者]]></title>
+        <id>https://mainichi.jp/articles/20210807/dde/018/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210807/dde/018/200/007000c"/>
+        <updated>2021-08-07T04:15:50.000Z</updated>
+        <summary type="html"><![CDATA[ドラマ×マンガ　特攻兵の幸福食堂　NHKBSプレミアム＝11日午後9時54分 　ドラマと漫画を織り交ぜながら、漫画家が特攻に関する作品に取り組む姿を描いた物語。原案・漫画提供は魚乃目三太の「ちらん～特攻兵の幸福食堂～」。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週刊テレビ評:70周年　殺陣集団「剣会」　主役際立たせる伝統の技＝ペリー荻野]]></title>
+        <id>https://mainichi.jp/articles/20210807/dde/018/070/010000c</id>
+        <link href="https://mainichi.jp/articles/20210807/dde/018/070/010000c"/>
+        <updated>2021-08-07T04:07:22.000Z</updated>
+        <summary type="html"><![CDATA[「東映剣（つるぎ）会」（通称・剣会）から、10月に京都で開催される創立70周年記念公演のお知らせが届いた。時代劇好きなら一度はその名前を見聞きしたことがあると思う。今年1月に亡くなった「5万回斬られた男」こと福本清三さんも長く所属した、東映京都撮影所を中心に活動する殺陣技術集団である。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL Update Statement – Update Query in SQL]]></title>
         <id>61067c973306a507d1bfc1ba</id>
