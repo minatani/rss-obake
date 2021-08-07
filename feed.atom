@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T16:27:47.238Z</updated>
+    <updated>2021-08-07T17:21:11.709Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今週のＮＨＫ連続テレビ小説:おかえりモネ]]></title>
+        <id>https://mainichi.jp/articles/20210808/ddm/018/200/021000c</id>
+        <link href="https://mainichi.jp/articles/20210808/ddm/018/200/021000c"/>
+        <updated>2021-08-07T17:02:07.000Z</updated>
+        <summary type="html"><![CDATA[百音（清原果耶）や朝岡（西島秀俊）たちは、車いすマラソン選手の鮫島（菅原小春）をサポートすることになった。来月にある車いすマラソンの強化選手選考会までに、鮫島の弱点「暑さに弱い体質」を克服しなければならない。助っ人に来た菅波（坂口健太郎）は、暑さに弱い原因は競技中に深部体温が上がるからだと指摘し、]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:黄色いハンカチ突撃隊]]></title>
+        <id>https://mainichi.jp/articles/20210808/ddm/018/200/022000c</id>
+        <link href="https://mainichi.jp/articles/20210808/ddm/018/200/022000c"/>
+        <updated>2021-08-07T17:01:44.000Z</updated>
+        <summary type="html"><![CDATA[◆黄色いハンカチ突撃隊（フジ＝後8・0） 　目印の「黄色いハンカチ」を軒先に掲げた願いや悩みを持つ人を訪問し、応援するバラエティー。ヒロミや山崎弘也らの率いる突撃隊が神奈川県三浦市を舞台に奮闘する。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[辛酸なめ子のＴＶセラピー:壬申の乱の時代から奈良県の山奥に伝わる…]]></title>
         <id>https://mainichi.jp/articles/20210807/dde/018/070/008000c</id>
