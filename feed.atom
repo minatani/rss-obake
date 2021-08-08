@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T16:28:05.594Z</updated>
+    <updated>2021-08-08T17:21:12.027Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“耳寄り”な話・ＴＢＳラジオ:テレビで見せない「素」の姿]]></title>
+        <id>https://mainichi.jp/articles/20210809/ddm/018/200/048000c</id>
+        <link href="https://mainichi.jp/articles/20210809/ddm/018/200/048000c"/>
+        <updated>2021-08-08T17:00:57.000Z</updated>
+        <summary type="html"><![CDATA[「イモトアヤコのすっぴんしゃん」（水曜午後9時半）は、もうすぐ丸6年を迎えます。イモトアヤコさんというと、どんなイメージをお持ちでしょうか？ 　「体を張っている」「世界中を旅している」……。ラジオのイモトさんってそれだけじゃないんです。はやり物に敏感だけど、すぐに飽きる。いまだに番組メールアドレス]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:佐藤健＆千鳥ノブよ！この謎を解いてみろ！]]></title>
+        <id>https://mainichi.jp/articles/20210809/ddm/018/200/043000c</id>
+        <link href="https://mainichi.jp/articles/20210809/ddm/018/200/043000c"/>
+        <updated>2021-08-08T17:00:28.000Z</updated>
+        <summary type="html"><![CDATA[◆佐藤健＆千鳥ノブよ！この謎を解いてみろ！（TBS＝後8・0） 　プライベートで海外の謎解きイベントにも参加している佐藤健が、親友のノブ（千鳥）ら4人と共に、クイズ作家の矢野了平らが用意した謎解きに挑戦する。今年1月放送の第1弾で最終問題をクリアできなかった佐藤が、リベンジを期す。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今週のＮＨＫ連続テレビ小説:おかえりモネ]]></title>
         <id>https://mainichi.jp/articles/20210808/ddm/018/200/021000c</id>
