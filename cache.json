@@ -617,6 +617,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610e257e3306a507d1bffc96",
+          "author": null,
+          "description": "Google Colab and VS Code are two popular editor tools that many Python developers use. They're great for developing efficient tech solutions or systems especially in the areas of Machine Learning and Data Science. If you're a Python developer or data scientist, you might already know how to use Google",
+          "link": "https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/",
+          "publishedOn": "2021-08-09T22:24:53.000Z",
+          "wordCount": 841,
+          "title": "How to Use Google Colab with VS Code"
+        },
+        {
           "id": "610d55bf3306a507d1bff496",
           "author": null,
           "description": "Pure functions and impure functions are two programming terms you will often see in functional programming. Once core difference between these two types of functions is whether or not they have side effects. In this article, you will learn what side effects are and we'll discuss the differences between pure",
