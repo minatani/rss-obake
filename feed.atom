@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T20:19:12.872Z</updated>
+    <updated>2021-08-09T21:17:12.864Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pure vs Impure Functions in Functional Programming – What&#x27;s the Difference?]]></title>
+        <id>610d55bf3306a507d1bff496</id>
+        <link href="https://www.freecodecamp.org/news/pure-function-vs-impure-function/"/>
+        <updated>2021-08-09T21:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Pure functions and impure functions are two programming terms you will often see in functional programming. Once core difference between these two types of functions is whether or not they have side effects. In this article, you will learn what side effects are and we'll discuss the differences between pure]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Cross Site Scripting? How to Protect against XSS Attacks]]></title>
         <id>5fff3dd898be260817e495cf</id>

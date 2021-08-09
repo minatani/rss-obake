@@ -617,6 +617,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610d55bf3306a507d1bff496",
+          "author": null,
+          "description": "Pure functions and impure functions are two programming terms you will often see in functional programming. Once core difference between these two types of functions is whether or not they have side effects. In this article, you will learn what side effects are and we'll discuss the differences between pure",
+          "link": "https://www.freecodecamp.org/news/pure-function-vs-impure-function/",
+          "publishedOn": "2021-08-09T21:06:46.000Z",
+          "wordCount": 1278,
+          "title": "Pure vs Impure Functions in Functional Programming – What&#x27;s the Difference?"
+        },
+        {
           "id": "5fff3dd898be260817e495cf",
           "author": null,
           "description": "Cross Site Scripting is the second most prevalent issue in the Open Source Foundation for Application Security (OWASP) top 10 – it's found in roughly 2/3 of all applications.  While automated tools can find some of these problems, there are also automated tools designed to detect and exploit these vulnerabilities.",
