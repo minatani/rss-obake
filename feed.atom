@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T17:24:30.632Z</updated>
+    <updated>2021-08-09T18:21:08.549Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Cross Site Scripting? How to Protect against XSS Attacks]]></title>
+        <id>5fff3dd898be260817e495cf</id>
+        <link href="https://www.freecodecamp.org/news/cross-site-scripting-what-is-xss/"/>
+        <updated>2021-08-09T17:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Cross Site Scripting is the second most prevalent issue in the Open Source Foundation for Application Security (OWASP) top 10 – it's found in roughly 2/3 of all applications.  While automated tools can find some of these problems, there are also automated tools designed to detect and exploit these vulnerabilities.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赤坂電視台:関口宏　後世に戦争を伝える意味]]></title>
         <id>https://mainichi.jp/articles/20210810/ddm/018/200/015000c</id>

@@ -617,6 +617,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "5fff3dd898be260817e495cf",
+          "author": null,
+          "description": "Cross Site Scripting is the second most prevalent issue in the Open Source Foundation for Application Security (OWASP) top 10 – it's found in roughly 2/3 of all applications.  While automated tools can find some of these problems, there are also automated tools designed to detect and exploit these vulnerabilities.",
+          "link": "https://www.freecodecamp.org/news/cross-site-scripting-what-is-xss/",
+          "publishedOn": "2021-08-09T17:27:40.000Z",
+          "wordCount": 1419,
+          "title": "What is Cross Site Scripting? How to Protect against XSS Attacks"
+        },
+        {
           "id": "610d9b6a3306a507d1bff9f0",
           "author": null,
           "description": "You can use HTML's <a> tag to link to different parts of a website, to another web page, or to a separate website entirely.  By default, it is underlined and given a bluish color, but you can override these style defaults with CSS (which a lot of people",
