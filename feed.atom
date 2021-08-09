@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T14:16:27.101Z</updated>
+    <updated>2021-08-09T15:20:55.844Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML &lt;a&gt; Tag – Anchor Link HREF Example]]></title>
+        <id>610d9b6a3306a507d1bff9f0</id>
+        <link href="https://www.freecodecamp.org/news/html-a-tag-anchor-link-href-example/"/>
+        <updated>2021-08-09T15:15:04.000Z</updated>
+        <summary type="html"><![CDATA[You can use HTML's <a> tag to link to different parts of a website, to another web page, or to a separate website entirely.  By default, it is underlined and given a bluish color, but you can override these style defaults with CSS (which a lot of people]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alter Table in SQL – How to Add a Column or Rename a Column in SQL]]></title>
+        <id>610682ee3306a507d1bfc210</id>
+        <link href="https://www.freecodecamp.org/news/alter-table-in-sql-how-to-add-a-column-or-rename-a-column-in-sql/"/>
+        <updated>2021-08-09T15:14:48.000Z</updated>
+        <summary type="html"><![CDATA[You have created your database and your tables, and after all this work, you notice that you need to add or rename a column. Well, you can use the ALTER TABLE statement to do so. Just keep in mind that you need to be really careful when you do this.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud Digital Leader Certification Study Course – Pass the Exam With This Free 6 Hour Course]]></title>
         <id>610aabc23306a507d1bfdc7d</id>

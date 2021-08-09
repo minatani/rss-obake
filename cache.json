@@ -599,6 +599,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610d9b6a3306a507d1bff9f0",
+          "author": null,
+          "description": "You can use HTML's <a> tag to link to different parts of a website, to another web page, or to a separate website entirely.  By default, it is underlined and given a bluish color, but you can override these style defaults with CSS (which a lot of people",
+          "link": "https://www.freecodecamp.org/news/html-a-tag-anchor-link-href-example/",
+          "publishedOn": "2021-08-09T15:15:04.000Z",
+          "wordCount": 1172,
+          "title": "HTML &lt;a&gt; Tag – Anchor Link HREF Example"
+        },
+        {
+          "id": "610682ee3306a507d1bfc210",
+          "author": null,
+          "description": "You have created your database and your tables, and after all this work, you notice that you need to add or rename a column. Well, you can use the ALTER TABLE statement to do so. Just keep in mind that you need to be really careful when you do this.",
+          "link": "https://www.freecodecamp.org/news/alter-table-in-sql-how-to-add-a-column-or-rename-a-column-in-sql/",
+          "publishedOn": "2021-08-09T15:14:48.000Z",
+          "wordCount": 1057,
+          "title": "Alter Table in SQL – How to Add a Column or Rename a Column in SQL"
+        },
+        {
           "id": "610aabc23306a507d1bfdc7d",
           "author": null,
           "description": "Learn how to pass the Google Cloud Digital Leader Certification with this free 6-hour course! This is a significant milestone for free cloud certifications courses, since we now have on freeCodeCamp all the three major cloud service providers (AWS, Azure and GCP). What is the Google Cloud Certified Cloud Digital",
