@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T12:30:14.381Z</updated>
+    <updated>2021-08-09T13:23:45.535Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud Digital Leader Certification Study Course – Pass the Exam With This Free 6 Hour Course]]></title>
+        <id>610aabc23306a507d1bfdc7d</id>
+        <link href="https://www.freecodecamp.org/news/google-cloud-digital-leader-course/"/>
+        <updated>2021-08-09T13:02:15.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to pass the Google Cloud Digital Leader Certification with this free 6-hour course! This is a significant milestone for free cloud certifications courses, since we now have on freeCodeCamp all the three major cloud service providers (AWS, Azure and GCP). What is the Google Cloud Certified Cloud Digital]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“耳寄り”な話・ＴＢＳラジオ:テレビで見せない「素」の姿]]></title>
         <id>https://mainichi.jp/articles/20210809/ddm/018/200/048000c</id>

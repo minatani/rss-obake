@@ -599,6 +599,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610aabc23306a507d1bfdc7d",
+          "author": null,
+          "description": "Learn how to pass the Google Cloud Digital Leader Certification with this free 6-hour course! This is a significant milestone for free cloud certifications courses, since we now have on freeCodeCamp all the three major cloud service providers (AWS, Azure and GCP). What is the Google Cloud Certified Cloud Digital",
+          "link": "https://www.freecodecamp.org/news/google-cloud-digital-leader-course/",
+          "publishedOn": "2021-08-09T13:02:15.000Z",
+          "wordCount": 561,
+          "title": "Google Cloud Digital Leader Certification Study Course – Pass the Exam With This Free 6 Hour Course"
+        },
+        {
           "id": "61067c973306a507d1bfc1ba",
           "author": null,
           "description": "Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records",
