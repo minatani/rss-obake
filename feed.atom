@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T16:29:15.823Z</updated>
+    <updated>2021-08-09T17:24:30.632Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:関口宏　後世に戦争を伝える意味]]></title>
+        <id>https://mainichi.jp/articles/20210810/ddm/018/200/015000c</id>
+        <link href="https://mainichi.jp/articles/20210810/ddm/018/200/015000c"/>
+        <updated>2021-08-09T17:01:21.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系「戦後76年『つなぐ、つながる』SP　へいわとせんそう　〜戦場からのメッセージ」（15日）キャスター＞ 　戦後間もなかった幼少期、記憶にあるのは焼け野原。だけど、子どもたちにとってはそれが当たり前だし、格好の遊び場でした。長ずるに及び、大人たちから戦争の話を聞いて驚きましたね。やがて、私]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:ザ！世界仰天ニュース]]></title>
+        <id>https://mainichi.jp/articles/20210810/ddm/018/200/019000c</id>
+        <link href="https://mainichi.jp/articles/20210810/ddm/018/200/019000c"/>
+        <updated>2021-08-09T17:01:05.000Z</updated>
+        <summary type="html"><![CDATA[◆ザ！世界仰天ニュース（日テレ＝後9・0） 　今回は「危険な食べ方スペシャル」。小腹がすいていた女性は、あるものを混ぜ込んで作ったパウンドケーキを口にしたところ、胃が破裂しそうなほどの強烈な満腹感に襲われた。原因となった材料とは。また、ある飲食店で起きた食中毒も紹介。提供された料理を食べた客が、次]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML &lt;a&gt; Tag – Anchor Link HREF Example]]></title>
         <id>610d9b6a3306a507d1bff9f0</id>
