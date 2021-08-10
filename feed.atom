@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T16:28:39.129Z</updated>
+    <updated>2021-08-10T17:23:36.850Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Format a String in Python]]></title>
+        <id>60f7aef31d2b080797b80a01</id>
+        <link href="https://www.freecodecamp.org/news/how-to-format-a-string-in-python/"/>
+        <updated>2021-08-10T17:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Formatting a string is something you'll do all the time when you're coding in Python. For every variable, tuple, and dictionary and the logic that we define, we eventually have to either print or display it in some form.  And each of these, without exception, require us to format the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴室:新番組　来世ではちゃんとします2]]></title>
+        <id>https://mainichi.jp/articles/20210811/ddm/018/200/015000c</id>
+        <link href="https://mainichi.jp/articles/20210811/ddm/018/200/015000c"/>
+        <updated>2021-08-10T17:01:37.000Z</updated>
+        <summary type="html"><![CDATA[◆来世ではちゃんとします2（東京＝深夜0・40） 　性に依存するアラサー女性のこじらせた恋を描くラブコメディー。20～30代の女性から多くの共感を集めたドラマで、待望のシーズン2・第1話。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:小川彩佳　貴重なお話を“今”に生かす]]></title>
+        <id>https://mainichi.jp/articles/20210811/ddm/018/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210811/ddm/018/200/007000c"/>
+        <updated>2021-08-10T17:01:31.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系「戦後76年『つなぐ、つながる』SP　へいわとせんそう　〜戦場からのメッセージ」（15日）キャスター＞ 　今回、私は戦争で犠牲になった子どもたちについて取材しました。戦争に疑問を持ちながらも、それを口に出してはいけないという“空気”が醸成されていく中、幼い命がどのように国威発揚に利用され]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Big O Notation]]></title>
         <id>610abfc03306a507d1bfde47</id>

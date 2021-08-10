@@ -6,6 +6,24 @@
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210811/ddm/018/200/015000c",
+          "author": null,
+          "description": "◆来世ではちゃんとします2（東京＝深夜0・40） 　性に依存するアラサー女性のこじらせた恋を描くラブコメディー。20～30代の女性から多くの共感を集めたドラマで、待望のシーズン2・第1話。",
+          "link": "https://mainichi.jp/articles/20210811/ddm/018/200/015000c",
+          "publishedOn": "2021-08-10T17:01:37.000Z",
+          "wordCount": 461,
+          "title": "視聴室:新番組　来世ではちゃんとします2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210811/ddm/018/200/007000c",
+          "author": null,
+          "description": "＜TBS系「戦後76年『つなぐ、つながる』SP　へいわとせんそう　〜戦場からのメッセージ」（15日）キャスター＞ 　今回、私は戦争で犠牲になった子どもたちについて取材しました。戦争に疑問を持ちながらも、それを口に出してはいけないという“空気”が醸成されていく中、幼い命がどのように国威発揚に利用され",
+          "link": "https://mainichi.jp/articles/20210811/ddm/018/200/007000c",
+          "publishedOn": "2021-08-10T17:01:31.000Z",
+          "wordCount": 464,
+          "title": "赤坂電視台:小川彩佳　貴重なお話を“今”に生かす"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210810/dde/012/200/009000c",
           "author": null,
           "description": "落語家、柳家小三治の昭和、平成時代の初出音源が20枚組みのCDボックスとなり登場した。題して「昭和・平成　小三治ばなし」（ソニー・ミュージックダイレクト）。3万8500円。「高いよね。でも、これだけのもの並べられたら、今の物価から考えれば、無理はないかもしれない」と小三治は笑う。",
@@ -661,6 +679,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f7aef31d2b080797b80a01",
+          "author": null,
+          "description": "Formatting a string is something you'll do all the time when you're coding in Python. For every variable, tuple, and dictionary and the logic that we define, we eventually have to either print or display it in some form.  And each of these, without exception, require us to format the",
+          "link": "https://www.freecodecamp.org/news/how-to-format-a-string-in-python/",
+          "publishedOn": "2021-08-10T17:19:00.000Z",
+          "wordCount": 1636,
+          "title": "How to Format a String in Python"
+        },
         {
           "id": "610abfc03306a507d1bfde47",
           "author": null,
