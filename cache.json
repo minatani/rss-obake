@@ -662,6 +662,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610abfc03306a507d1bfde47",
+          "author": null,
+          "description": "Big O notation is an important tools for computer scientists to analyze the cost of an algorithm. Most software engineers should have an understanding of it. We just released a course on the freeCodeCamp.org YouTube channel that will help you understand Big O Notation. Georgio Tunson, aka selikapro, created",
+          "link": "https://www.freecodecamp.org/news/learn-big-o-notation/",
+          "publishedOn": "2021-08-10T13:12:34.000Z",
+          "wordCount": 17118,
+          "title": "Learn Big O Notation"
+        },
+        {
           "id": "610a44f83306a507d1bfd44e",
           "author": null,
           "description": "SQL stands for Structured Query Language and is a language that you use to manage data in databases. SQL consists of commands and declarative statements that act as instructions to the database so it can perform tasks.  You can use SQL commands to create a table in a database, to",

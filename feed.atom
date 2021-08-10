@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T12:30:14.880Z</updated>
+    <updated>2021-08-10T13:24:06.709Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Big O Notation]]></title>
+        <id>610abfc03306a507d1bfde47</id>
+        <link href="https://www.freecodecamp.org/news/learn-big-o-notation/"/>
+        <updated>2021-08-10T13:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Big O notation is an important tools for computer scientists to analyze the cost of an algorithm. Most software engineers should have an understanding of it. We just released a course on the freeCodeCamp.org YouTube channel that will help you understand Big O Notation. Georgio Tunson, aka selikapro, created]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:柳家小三治　初出音源20枚組みCDボックス　伝統に縛られない芸を]]></title>
         <id>https://mainichi.jp/articles/20210810/dde/012/200/009000c</id>
