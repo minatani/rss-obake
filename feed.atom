@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T03:20:39.647Z</updated>
+    <updated>2021-08-10T04:24:13.330Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:柳家小三治　初出音源20枚組みCDボックス　伝統に縛られない芸を]]></title>
+        <id>https://mainichi.jp/articles/20210810/dde/012/200/009000c</id>
+        <link href="https://mainichi.jp/articles/20210810/dde/012/200/009000c"/>
+        <updated>2021-08-10T03:39:56.000Z</updated>
+        <summary type="html"><![CDATA[落語家、柳家小三治の昭和、平成時代の初出音源が20枚組みのCDボックスとなり登場した。題して「昭和・平成　小三治ばなし」（ソニー・ミュージックダイレクト）。3万8500円。「高いよね。でも、これだけのもの並べられたら、今の物価から考えれば、無理はないかもしれない」と小三治は笑う。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｉｎｔｅｒｖｉｅｗ:片岡仁左衛門　悪の要素を堂々と　「東海道四谷怪談」で伊右衛門役]]></title>
+        <id>https://mainichi.jp/articles/20210810/dde/012/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210810/dde/012/200/007000c"/>
+        <updated>2021-08-10T03:39:52.000Z</updated>
+        <summary type="html"><![CDATA[四世鶴屋南北作の怪談物「東海道四谷怪談」が、片岡仁左衛門の民谷伊右衛門、坂東玉三郎のお岩により東京・歌舞伎座の「九月大歌舞伎」（9月2～27日）第3部で上演される。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私の記念碑:プーシキン歌劇場バレエ監督　岩田守弘／2　「ゴパック」のロシア魂]]></title>
+        <id>https://mainichi.jp/articles/20210810/dde/012/200/005000c</id>
+        <link href="https://mainichi.jp/articles/20210810/dde/012/200/005000c"/>
+        <updated>2021-08-10T03:39:50.000Z</updated>
+        <summary type="html"><![CDATA[「黄金世代」の同輩がこぞって英米のバレエ学校を目指しても、岩田守弘のロシア志向はぶれなかった。「鉄のカーテンを越え、父と初めて訪れたモスクワのボリショイ劇場に心をわしづかみにされたのです。ダンサーも音楽も空間も別次元。僕もこの舞台に立ちたい、と。17歳の冬でした」]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「上方の芸を東京で」　林家染二が独演会]]></title>
+        <id>https://mainichi.jp/articles/20210810/dde/012/200/006000c</id>
+        <link href="https://mainichi.jp/articles/20210810/dde/012/200/006000c"/>
+        <updated>2021-08-10T03:39:49.000Z</updated>
+        <summary type="html"><![CDATA[上方落語家の林家染二が15日、東京・千代田区立内幸町ホールで独演会を開く。当初2月の開催を予定していたものの、緊急事態宣言の発令により2度延期、ファンにとって待望の会となる。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[そして歌を書きながら:生まれた子抱いて思う　大切な一日を積み上げる]]></title>
+        <id>https://mainichi.jp/articles/20210810/dde/018/070/019000c</id>
+        <link href="https://mainichi.jp/articles/20210810/dde/018/070/019000c"/>
+        <updated>2021-08-10T03:39:41.000Z</updated>
+        <summary type="html"><![CDATA[＜いきものがかり水野良樹のそして歌を書きながら＞ 　その日は雨が降っていたんだよ。赤ら顔の父がしゃべりだす。 　無事におまえが生まれた。お母さんも大丈夫だってなったら、すぐに浜松のおじいちゃんと2人で神社に行ってな。名前を考えてもらって。五つくらい候補があったかな。字画がいいやつだよ。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn SQL Queries – Database Query Tutorial for Beginners]]></title>
         <id>610a44f83306a507d1bfd44e</id>
