@@ -617,6 +617,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610a44f83306a507d1bfd44e",
+          "author": null,
+          "description": "SQL stands for Structured Query Language and is a language that you use to manage data in databases. SQL consists of commands and declarative statements that act as instructions to the database so it can perform tasks.  You can use SQL commands to create a table in a database, to",
+          "link": "https://www.freecodecamp.org/news/learn-sql-queries-database-query-tutorial-for-beginners/",
+          "publishedOn": "2021-08-10T00:05:46.000Z",
+          "wordCount": 2043,
+          "title": "Learn SQL Queries – Database Query Tutorial for Beginners"
+        },
+        {
+          "id": "610657e03306a507d1bfc108",
+          "author": null,
+          "description": "There will be times where you will want to write commands that handle different decisions in your code.  For example, if you are coding a bot, you can have it respond with different messages based on a set of commands it receives.  In this article, I will explain what an",
+          "link": "https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/",
+          "publishedOn": "2021-08-09T23:21:21.000Z",
+          "wordCount": 1482,
+          "title": "JavaScript If-Else and If-Then – JS Conditional Statements"
+        },
+        {
           "id": "610e257e3306a507d1bffc96",
           "author": null,
           "description": "Google Colab and VS Code are two popular editor tools that many Python developers use. They're great for developing efficient tech solutions or systems especially in the areas of Machine Learning and Data Science. If you're a Python developer or data scientist, you might already know how to use Google",

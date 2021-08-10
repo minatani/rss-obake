@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T23:18:58.635Z</updated>
+    <updated>2021-08-10T01:02:06.300Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn SQL Queries – Database Query Tutorial for Beginners]]></title>
+        <id>610a44f83306a507d1bfd44e</id>
+        <link href="https://www.freecodecamp.org/news/learn-sql-queries-database-query-tutorial-for-beginners/"/>
+        <updated>2021-08-10T00:05:46.000Z</updated>
+        <summary type="html"><![CDATA[SQL stands for Structured Query Language and is a language that you use to manage data in databases. SQL consists of commands and declarative statements that act as instructions to the database so it can perform tasks.  You can use SQL commands to create a table in a database, to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript If-Else and If-Then – JS Conditional Statements]]></title>
+        <id>610657e03306a507d1bfc108</id>
+        <link href="https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/"/>
+        <updated>2021-08-09T23:21:21.000Z</updated>
+        <summary type="html"><![CDATA[There will be times where you will want to write commands that handle different decisions in your code.  For example, if you are coding a bot, you can have it respond with different messages based on a set of commands it receives.  In this article, I will explain what an]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Google Colab with VS Code]]></title>
         <id>610e257e3306a507d1bffc96</id>
