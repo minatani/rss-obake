@@ -680,6 +680,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610ce4f83306a507d1bfeba5",
+          "author": null,
+          "description": "Web scraping is the process of extracting specific data from the internet automatically. It has many use cases, like getting data for a machine learning project, creating a price comparison tool, or any other innovative idea that requires an immense amount of data. While you can theoretically do data extraction",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-2/",
+          "publishedOn": "2021-08-10T17:42:52.000Z",
+          "wordCount": 2677,
+          "title": "Python Web Scraping Tutorial – How to Scrape Data From Any Website with Python"
+        },
+        {
+          "id": "5fff3e3798be260817e495df",
+          "author": null,
+          "description": "Distributed Denial of Service (DDoS) attacks are attacks which aim to take an organization or service offline and which originate from multiple, distributed hosts.  The difficult part of defending against DDoS attacks is that the hosts are distributed – if it were a single host or small group, you could easily",
+          "link": "https://www.freecodecamp.org/news/protect-against-ddos-attacks/",
+          "publishedOn": "2021-08-10T17:36:54.000Z",
+          "wordCount": 1646,
+          "title": "How to Protect Against DDoS Attacks"
+        },
+        {
           "id": "60f7aef31d2b080797b80a01",
           "author": null,
           "description": "Formatting a string is something you'll do all the time when you're coding in Python. For every variable, tuple, and dictionary and the logic that we define, we eventually have to either print or display it in some form.  And each of these, without exception, require us to format the",
