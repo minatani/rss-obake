@@ -680,6 +680,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610ef4fc3306a507d1c00257",
+          "author": null,
+          "description": "One of the best things about VS Code is the rich library of extensions you can use to speed up your coding and make your life easier.  Some of these extensions are paid, but there are tons of quality options that are available for free in the VS Code Marketplace.",
+          "link": "https://www.freecodecamp.org/news/10-vscode-extensions-to-increase-productivity/",
+          "publishedOn": "2021-08-10T18:32:00.000Z",
+          "wordCount": 933,
+          "title": "10 VS Code Extensions to Increase Your Productivity"
+        },
+        {
           "id": "610ce4f83306a507d1bfeba5",
           "author": null,
           "description": "Web scraping is the process of extracting specific data from the internet automatically. It has many use cases, like getting data for a machine learning project, creating a price comparison tool, or any other innovative idea that requires an immense amount of data. While you can theoretically do data extraction",
