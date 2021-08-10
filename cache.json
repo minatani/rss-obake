@@ -680,6 +680,51 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610e151e3306a507d1bffb32",
+          "author": null,
+          "description": "JavaScript has two awesome data structures that help you write clean and efficient code. But handling them can get messy sometimes. In this blog, I am going to show you how to handle destructuring in arrays and objects in JavaScript. We'll also learn how to use the spread operator as",
+          "link": "https://www.freecodecamp.org/news/javascript-destructuring-and-spread-operator-explained/",
+          "publishedOn": "2021-08-10T21:46:07.000Z",
+          "wordCount": 1444,
+          "title": "JavaScript Destructuring and the Spread Operator – Explained with Example Code"
+        },
+        {
+          "id": "610d11273306a507d1bfeffe",
+          "author": null,
+          "description": "If you are learning web development, you will come across terms like HTML, CSS, and JavaScript. These are often called the building blocks of the Web.  These three tools dominate web development. Every library or tool seems to be centered around HTML, CSS, and JS. So if you want to",
+          "link": "https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/",
+          "publishedOn": "2021-08-10T21:02:00.000Z",
+          "wordCount": 2257,
+          "title": "Learn Web Development Basics – HTML, CSS, and JavaScript Explained for Beginners"
+        },
+        {
+          "id": "610642353306a507d1bfbfe4",
+          "author": null,
+          "description": "Python is a great programming language to learn and you can use it in a variety of areas in software development. You can use Python for web development, data analysis, machine learning, artificial intelligence, and more.  With the vast amount of resources to choose from, sometimes it is hard to",
+          "link": "https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/",
+          "publishedOn": "2021-08-10T20:37:56.000Z",
+          "wordCount": 1163,
+          "title": "The Best Way to Learn Python – Python Programming Tutorial for Beginners"
+        },
+        {
+          "id": "6108f8453306a507d1bfce17",
+          "author": null,
+          "description": "When coding in Python, have you ever had to check if any item or all items in an iterable evaluate to True? The next time you need to do so, be sure to use the nifty functions any() and all(). In this tutorial, we'll learn about Python's any() and all(",
+          "link": "https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/",
+          "publishedOn": "2021-08-10T20:26:25.000Z",
+          "wordCount": 1541,
+          "title": "Python any() and all() Functions – Explained with Examples"
+        },
+        {
+          "id": "61122afb72231b077cdac810",
+          "author": null,
+          "description": "When you're starting your coding journey, one of the most exciting – and at times overwhelming – things about it is just how much there is to learn.  You'll discover different languages, frameworks, libraries, inventions and conventions.  One technology often requires knowledge of another one, and everything seems to be interconnected and",
+          "link": "https://www.freecodecamp.org/news/what-is-coding/",
+          "publishedOn": "2021-08-10T19:54:45.000Z",
+          "wordCount": 2455,
+          "title": "What is Coding? Computer Coding Definition"
+        },
+        {
           "id": "610ef4fc3306a507d1c00257",
           "author": null,
           "description": "One of the best things about VS Code is the rich library of extensions you can use to speed up your coding and make your life easier.  Some of these extensions are paid, but there are tons of quality options that are available for free in the VS Code Marketplace.",
