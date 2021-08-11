@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T03:21:12.732Z</updated>
+    <updated>2021-08-11T04:24:28.003Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フォーカス:田中哲司　ドラマ「緊急取調室」梶山勝利役　だまし、だまされ　人間くさく]]></title>
+        <id>https://mainichi.jp/articles/20210811/dde/018/200/022000c</id>
+        <link href="https://mainichi.jp/articles/20210811/dde/018/200/022000c"/>
+        <updated>2021-08-11T03:46:28.000Z</updated>
+        <summary type="html"><![CDATA[ドラマ「緊急取調室」梶山勝利役（テレビ朝日系＝木曜午後9時） 　取調官の真壁有希子（天海祐希）らが、取調室で凶悪犯と心理戦を繰り広げる人気ドラマのシーズン4。真壁と共に、警視庁捜査1課の「緊急事案対応取調班（通称キントリ）」メンバーで、中間管理職として刑事部長と部下のはざまで奮闘する役どころを演じる]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナレーター近藤サトのテレビぎらい:刺激に満ちた大きな紙面]]></title>
+        <id>https://mainichi.jp/articles/20210811/dde/018/070/016000c</id>
+        <link href="https://mainichi.jp/articles/20210811/dde/018/070/016000c"/>
+        <updated>2021-08-11T03:46:24.000Z</updated>
+        <summary type="html"><![CDATA[546ミリ×812ミリと聞いて、新聞紙見開きのサイズ！とすぐに分かったあなたはクイズ研究会、それとも年季の入った熟練新聞紙読者でしょうか。改めて見ると新聞紙って大きいですね。輪転機の都合があるとはいえ狭い我が家では広げると結構な存在感。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荻原魚雷のラジオ交差点:名実況が伝えた五輪の面白さ]]></title>
+        <id>https://mainichi.jp/articles/20210811/dde/018/200/014000c</id>
+        <link href="https://mainichi.jp/articles/20210811/dde/018/200/014000c"/>
+        <updated>2021-08-11T03:46:23.000Z</updated>
+        <summary type="html"><![CDATA[ラジオの五輪中継はNHKと民放各社が枠組みを超えて放送――。いかに選手たちのプレーや演技を言葉だけで伝えるか。アナウンサーのしゃべりの技術が問われた。 　卓球の場合、選手の位置（左側にいるか右側にいるか）、フォアかバックか、打球の強弱とコース、どちらにポイントが入ったかなどを矢継ぎ早に語らねばなら]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Destructuring and the Spread Operator – Explained with Example Code]]></title>
         <id>610e151e3306a507d1bffb32</id>
