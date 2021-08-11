@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T12:29:37.433Z</updated>
+    <updated>2021-08-11T13:23:17.307Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create Complex Graphics with OpenGL]]></title>
+        <id>610d8f383306a507d1bff9c3</id>
+        <link href="https://www.freecodecamp.org/news/create-complex-graphics-with-opengl/"/>
+        <updated>2021-08-11T12:40:12.000Z</updated>
+        <summary type="html"><![CDATA[OpenGL can be used to create complex 2D and 3D graphics effects.  We just released an advanced OpenGL course on the freeCodeCamp.org YouTube channel. Victor Gordan created this course. Before this course he created one of the most popular OpenGL course on YouTube. Now, he will help you take]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォーカス:田中哲司　ドラマ「緊急取調室」梶山勝利役　だまし、だまされ　人間くさく]]></title>
         <id>https://mainichi.jp/articles/20210811/dde/018/200/022000c</id>
