@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T20:18:41.559Z</updated>
+    <updated>2021-08-11T21:17:11.064Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Podcasts for Flutter Developers]]></title>
+        <id>611091a63306a507d1c00a1c</id>
+        <link href="https://www.freecodecamp.org/news/best-podcasts-for-flutter-developers/"/>
+        <updated>2021-08-11T20:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Podcasts are a great way to consume digital information. They've become quite popular because you can listen to them anywhere, any time.  Podcasts deliver educational, entertaining, and engaging content on all kinds of topics – tech topics included. The hosts and their guests talk and share ideas, each in their own]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Static vs Dynamic Web Pages – What&#x27;s the Difference?]]></title>
         <id>611126603306a507d1c00fd2</id>
