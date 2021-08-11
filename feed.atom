@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T16:28:46.903Z</updated>
+    <updated>2021-08-11T17:25:27.350Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[赤坂電視台:河村健介プロデューサー　今だからこそ証言の重みを]]></title>
+        <id>https://mainichi.jp/articles/20210812/ddm/018/200/014000c</id>
+        <link href="https://mainichi.jp/articles/20210812/ddm/018/200/014000c"/>
+        <updated>2021-08-11T17:01:13.000Z</updated>
+        <summary type="html"><![CDATA[＜TBS系「戦後76年『つなぐ、つながる』SP　へいわとせんそう　〜戦場からのメッセージ」（15日）プロデューサー＞ 　初めて終戦特番を担当することになり、祖父母が元気な時に戦争の話を聞いておかなかったことを、改めて後悔しました。あの時代の証言者は身近にいたのです。戦時中のことを語れる方が少なくな]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&lt;img&gt; HTML – Image Tag Tutorial]]></title>
         <id>6112913c72231b077cdacc4d</id>
