@@ -716,6 +716,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "611126603306a507d1c00fd2",
+          "author": null,
+          "description": "Imagine that you're interviewing for your dream job and the interviewer drops this question for you: “So can you distinguish between a static web page and a dynamic web page?” What would your reaction be? If you don’t know the answer to that question, or are struggling to think",
+          "link": "https://www.freecodecamp.org/news/static-vs-dynamic-web-pages/",
+          "publishedOn": "2021-08-11T19:54:10.000Z",
+          "wordCount": 1413,
+          "title": "Static vs Dynamic Web Pages – What&#x27;s the Difference?"
+        },
+        {
+          "id": "610eb7f03306a507d1c001f5",
+          "author": null,
+          "description": "We use props to pass information/data from a parent component to child components. In this article, I will explain everything you need to know about props and why you should use props in Vue.js. Here's a brief outline of what we'll cover in this guide: What are props",
+          "link": "https://www.freecodecamp.org/news/how-to-use-props-in-vuejs/",
+          "publishedOn": "2021-08-11T19:51:52.000Z",
+          "wordCount": 1221,
+          "title": "How to Use Props in Vue.js"
+        },
+        {
           "id": "6112913c72231b077cdacc4d",
           "author": null,
           "description": "In HTML, you use the <img> tag to add images to websites. It is an inline and empty element, which means that it doesn't start on a new line and doesn't take a closing tag (unlike the paragraph (<p>) tag, for instance).  The <img>",
