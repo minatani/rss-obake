@@ -707,6 +707,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6112913c72231b077cdacc4d",
+          "author": null,
+          "description": "In HTML, you use the <img> tag to add images to websites. It is an inline and empty element, which means that it doesn't start on a new line and doesn't take a closing tag (unlike the paragraph (<p>) tag, for instance).  The <img>",
+          "link": "https://www.freecodecamp.org/news/img-html-image-tag-tutorial/",
+          "publishedOn": "2021-08-11T15:28:58.000Z",
+          "wordCount": 1466,
+          "title": "&lt;img&gt; HTML – Image Tag Tutorial"
+        },
+        {
+          "id": "610ee8443306a507d1c00249",
+          "author": null,
+          "description": "Lately I've been seeing many tweets and articles about Prisma. It's a modern ORM (Object-Relational-Mapping tool) that works with Node.jsand TypeScript. Yes, this library will help you build and manage your Node.js database – and it's compatible with TypeScript! It will generate all the types of your entities automatically.",
+          "link": "https://www.freecodecamp.org/news/build-nodejs-database-using-prisma-orm/",
+          "publishedOn": "2021-08-11T15:24:42.000Z",
+          "wordCount": 1997,
+          "title": "How to Build a Node.js Database using Prisma and SQLite"
+        },
+        {
           "id": "610d8f383306a507d1bff9c3",
           "author": null,
           "description": "OpenGL can be used to create complex 2D and 3D graphics effects.  We just released an advanced OpenGL course on the freeCodeCamp.org YouTube channel. Victor Gordan created this course. Before this course he created one of the most popular OpenGL course on YouTube. Now, he will help you take",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T15:20:54.037Z</updated>
+    <updated>2021-08-11T16:28:46.903Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[&lt;img&gt; HTML – Image Tag Tutorial]]></title>
+        <id>6112913c72231b077cdacc4d</id>
+        <link href="https://www.freecodecamp.org/news/img-html-image-tag-tutorial/"/>
+        <updated>2021-08-11T15:28:58.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, you use the <img> tag to add images to websites. It is an inline and empty element, which means that it doesn't start on a new line and doesn't take a closing tag (unlike the paragraph (<p>) tag, for instance).  The <img>]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Node.js Database using Prisma and SQLite]]></title>
+        <id>610ee8443306a507d1c00249</id>
+        <link href="https://www.freecodecamp.org/news/build-nodejs-database-using-prisma-orm/"/>
+        <updated>2021-08-11T15:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Lately I've been seeing many tweets and articles about Prisma. It's a modern ORM (Object-Relational-Mapping tool) that works with Node.jsand TypeScript. Yes, this library will help you build and manage your Node.js database – and it's compatible with TypeScript! It will generate all the types of your entities automatically.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create Complex Graphics with OpenGL]]></title>
         <id>610d8f383306a507d1bff9c3</id>
