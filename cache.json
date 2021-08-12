@@ -752,6 +752,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6115261272231b077cdaebfe",
+          "author": null,
+          "description": "When you're learning about web development, you probably hear about HTML and CSS pretty quickly. Well, what are these tools and how do you use them?  You can think of HTML as the structure and framing of a house. And when you want to make that structure look good, you",
+          "link": "https://www.freecodecamp.org/news/html-and-css-inline-style-external-stylesheet-css-code-examples/",
+          "publishedOn": "2021-08-12T18:47:27.000Z",
+          "wordCount": 1580,
+          "title": "HTML and CSS – Inline Style, External Stylesheet, CSS Code Examples"
+        },
+        {
           "id": "6107c0203306a507d1bfc551",
           "author": null,
           "description": "In this day and age, it seems like everyone is learning to code. Maybe you want to know how websites work, or you think back fondly on the old blogging platforms where you could hack together some HTML to personalize them. Or maybe you are curious to learn what all",

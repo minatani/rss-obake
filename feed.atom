@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T18:23:07.646Z</updated>
+    <updated>2021-08-12T19:14:31.238Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML and CSS – Inline Style, External Stylesheet, CSS Code Examples]]></title>
+        <id>6115261272231b077cdaebfe</id>
+        <link href="https://www.freecodecamp.org/news/html-and-css-inline-style-external-stylesheet-css-code-examples/"/>
+        <updated>2021-08-12T18:47:27.000Z</updated>
+        <summary type="html"><![CDATA[When you're learning about web development, you probably hear about HTML and CSS pretty quickly. Well, what are these tools and how do you use them?  You can think of HTML as the structure and framing of a house. And when you want to make that structure look good, you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Websites Where You Can Learn How to Code for Free]]></title>
         <id>6107c0203306a507d1bfc551</id>
