@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T14:16:46.955Z</updated>
+    <updated>2021-08-12T15:21:20.527Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Form – Input Type and Submit Button Example]]></title>
+        <id>6113ee6272231b077cdadbd3</id>
+        <link href="https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example/"/>
+        <updated>2021-08-12T15:17:38.000Z</updated>
+        <summary type="html"><![CDATA[Forms are one of the most important parts of the web. Without them, there wouldn't be an easy way to collect data, search for resources, or sign up to receive valuable information.  You can embed forms on websites with the HTML form element. Inside the form element, several inputs are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FastAPI Helps You Develop APIs Quickly]]></title>
         <id>610aec303306a507d1bfdf07</id>
