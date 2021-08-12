@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T03:20:33.065Z</updated>
+    <updated>2021-08-12T04:24:22.259Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ｔｏｐｉｃｓ:五輪に合わせ「全員切腹」　豊田監督「憎悪の連鎖を断て」]]></title>
+        <id>https://mainichi.jp/articles/20210812/dde/018/200/018000c</id>
+        <link href="https://mainichi.jp/articles/20210812/dde/018/200/018000c"/>
+        <updated>2021-08-12T03:47:13.000Z</updated>
+        <summary type="html"><![CDATA[豊田利晃監督は、新作「全員切腹」の完成披露を7月24日、東京五輪開会式翌日にぶつけた。場所は東京・渋谷のライブハウス。自主製作した26分の短編、クライマックスは窪塚洋介演じる浪人雷漢が腹を切り、真っ赤に充血した目で画面をにらみつけてどなる。「おまえら全員、切腹だ！」。ウソにまみれた世の中への、渾身]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[演劇　さいたまネクスト・シアター「雨花（うか）のけもの」　レガシーの真価これから＝評・濱田元子]]></title>
+        <id>https://mainichi.jp/articles/20210812/dde/018/200/017000c</id>
+        <link href="https://mainichi.jp/articles/20210812/dde/018/200/017000c"/>
+        <updated>2021-08-12T03:47:09.000Z</updated>
+        <summary type="html"><![CDATA[蜷川幸雄のレガシーである「さいたまネクスト・シアター」が刻んだ意義に改めて感慨を深くする最終公演だ。細川洋平作、岩松了演出。 　蜷川が2009年に設立。未知の可能性を秘めた俳優たちを、シェークスピアやギリシャ悲劇、宮本研といった骨太のせりふと徹底的に対峙（たいじ）させてきた。どの舞台も鮮烈で忘れが]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渡辺えり、高畑淳子ダブル主演で喜劇]]></title>
+        <id>https://mainichi.jp/articles/20210812/dde/018/200/012000c</id>
+        <link href="https://mainichi.jp/articles/20210812/dde/018/200/012000c"/>
+        <updated>2021-08-12T03:47:06.000Z</updated>
+        <summary type="html"><![CDATA[渡辺えり、高畑淳子のダブル主演による「喜劇　老後の資金がありません」が、13～26日に東京・新橋演舞場で上演される。 　生け花教室で仲良しの篤子（渡辺）とサツキ（高畑）。篤子は老後用に金をためていたが、娘の結婚式と義父の葬儀費用、派遣先からの解雇、夫の会社倒産などで危機的状況に。一方のサツキは夫と]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binary Search Tree Algorithms for JavaScript Beginners]]></title>
         <id>61025c793306a507d1bfad64</id>
