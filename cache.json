@@ -743,6 +743,33 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610fefc23306a507d1c00896",
+          "author": null,
+          "description": "Authentication is an important feature and basic requirement in web applications these days. And developers spend lots of time building authentication modules for every application they create.  But this manual approach can get tiring and is a bit unproductive. This is where Laravel really shines. It, along with Laravel Breeze,",
+          "link": "https://www.freecodecamp.org/news/basic-authentication-in-laravel8-using-laravel-breeze/",
+          "publishedOn": "2021-08-12T15:48:12.000Z",
+          "wordCount": 1088,
+          "title": "Laravel Authentication Tutorial – How to Set Up Basic Auth in Laravel 8"
+        },
+        {
+          "id": "610e15c63306a507d1bffb45",
+          "author": null,
+          "description": "Flutter is a Dart-based toolkit that helps you build the front end of your apps. It really shines in cross-platform mobile app development and aims to be a viable option for web and desktop as well.  In its mobile app flavor, Flutter provides many UI abstractions to build interfaces. You",
+          "link": "https://www.freecodecamp.org/news/how-to-install-and-setup-flutter-on-ubuntu/",
+          "publishedOn": "2021-08-12T15:43:09.000Z",
+          "wordCount": 2173,
+          "title": "How to Install and Set Up Flutter on Ubuntu 16.04+"
+        },
+        {
+          "id": "6112e3c972231b077cdad299",
+          "author": null,
+          "description": "Clean Architecture is a term coined by Robert C. Martin. The main idea is that  entities and use cases are independent of frameworks, UI, the database, and external services. A Clean Architecture style has a positive effect on maintainability because: We can test domain entities and use cases without a",
+          "link": "https://www.freecodecamp.org/news/modern-clean-architecture/",
+          "publishedOn": "2021-08-12T15:28:31.000Z",
+          "wordCount": 2243,
+          "title": "How to Build Modern Clean Architecture"
+        },
+        {
           "id": "6113ee6272231b077cdadbd3",
           "author": null,
           "description": "Forms are one of the most important parts of the web. Without them, there wouldn't be an easy way to collect data, search for resources, or sign up to receive valuable information.  You can embed forms on websites with the HTML form element. Inside the form element, several inputs are",

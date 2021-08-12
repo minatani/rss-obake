@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T15:21:20.527Z</updated>
+    <updated>2021-08-12T16:29:16.694Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Laravel Authentication Tutorial – How to Set Up Basic Auth in Laravel 8]]></title>
+        <id>610fefc23306a507d1c00896</id>
+        <link href="https://www.freecodecamp.org/news/basic-authentication-in-laravel8-using-laravel-breeze/"/>
+        <updated>2021-08-12T15:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Authentication is an important feature and basic requirement in web applications these days. And developers spend lots of time building authentication modules for every application they create.  But this manual approach can get tiring and is a bit unproductive. This is where Laravel really shines. It, along with Laravel Breeze,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install and Set Up Flutter on Ubuntu 16.04+]]></title>
+        <id>610e15c63306a507d1bffb45</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-and-setup-flutter-on-ubuntu/"/>
+        <updated>2021-08-12T15:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Flutter is a Dart-based toolkit that helps you build the front end of your apps. It really shines in cross-platform mobile app development and aims to be a viable option for web and desktop as well.  In its mobile app flavor, Flutter provides many UI abstractions to build interfaces. You]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Modern Clean Architecture]]></title>
+        <id>6112e3c972231b077cdad299</id>
+        <link href="https://www.freecodecamp.org/news/modern-clean-architecture/"/>
+        <updated>2021-08-12T15:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Clean Architecture is a term coined by Robert C. Martin. The main idea is that  entities and use cases are independent of frameworks, UI, the database, and external services. A Clean Architecture style has a positive effect on maintainability because: We can test domain entities and use cases without a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Form – Input Type and Submit Button Example]]></title>
         <id>6113ee6272231b077cdadbd3</id>
