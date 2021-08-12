@@ -752,6 +752,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610655c93306a507d1bfc0e6",
+          "author": null,
+          "description": "There are many benefits to coding in an online IDE or code editor. With these tools you don't need to set anything up locally, you can easily share your work, and they are often free to use. In this article, you'll learn what a code editor and an IDE are.",
+          "link": "https://www.freecodecamp.org/news/javascript-online-html-css-js-code-editor-list-browser-ide-tools/",
+          "publishedOn": "2021-08-12T19:31:16.000Z",
+          "wordCount": 1339,
+          "title": "JavaScript Online – HTML, CSS, and JS Code Editor List [Browser IDE Tools]"
+        },
+        {
           "id": "6115261272231b077cdaebfe",
           "author": null,
           "description": "When you're learning about web development, you probably hear about HTML and CSS pretty quickly. Well, what are these tools and how do you use them?  You can think of HTML as the structure and framing of a house. And when you want to make that structure look good, you",
