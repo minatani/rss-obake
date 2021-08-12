@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T12:30:11.849Z</updated>
+    <updated>2021-08-12T13:24:19.415Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FastAPI Helps You Develop APIs Quickly]]></title>
+        <id>610aec303306a507d1bfdf07</id>
+        <link href="https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/"/>
+        <updated>2021-08-12T13:07:37.000Z</updated>
+        <summary type="html"><![CDATA[FastAPI makes it quicker and easier to develop APIs with Python. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to use FastAPI.  Tomi Tokko developed this course. Tomi has made many popular courses both on his own channel and the freeCodeCamp]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ｔｏｐｉｃｓ:五輪に合わせ「全員切腹」　豊田監督「憎悪の連鎖を断て」]]></title>
         <id>https://mainichi.jp/articles/20210812/dde/018/200/018000c</id>

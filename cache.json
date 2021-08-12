@@ -743,6 +743,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "610aec303306a507d1bfdf07",
+          "author": null,
+          "description": "FastAPI makes it quicker and easier to develop APIs with Python. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to use FastAPI.  Tomi Tokko developed this course. Tomi has made many popular courses both on his own channel and the freeCodeCamp",
+          "link": "https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/",
+          "publishedOn": "2021-08-12T13:07:37.000Z",
+          "wordCount": 8996,
+          "title": "FastAPI Helps You Develop APIs Quickly"
+        },
+        {
           "id": "61025c793306a507d1bfad64",
           "author": null,
           "description": "I recently had the chance to teach high school students how to code. There are not that many beginner-friendly tutorials on algorithms coded in JavaScript which is the language they were learning. So I decided to make one. In this article, I will try my best to explain some core",
