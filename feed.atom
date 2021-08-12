@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T16:29:16.694Z</updated>
+    <updated>2021-08-12T17:21:47.084Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ＢＳ未来館:妄想で旅する三陸鉄道]]></title>
+        <id>https://mainichi.jp/articles/20210813/ddm/018/200/013000c</id>
+        <link href="https://mainichi.jp/articles/20210813/ddm/018/200/013000c"/>
+        <updated>2021-08-12T17:00:49.000Z</updated>
+        <summary type="html"><![CDATA[「ぶらりと旅に出る」。何と良い言葉だろう。そして、いつになったら。BS日テレで16日午後9時放送の「友近・礼二の妄想トレイン」のお世話になる。鉄道好き、旅好きの芸能人が、スタジオから一歩も出ずに、妄想の中で旅をする番組。時代にピッタリ過ぎるのがうれしくも悲しい。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laravel Authentication Tutorial – How to Set Up Basic Auth in Laravel 8]]></title>
         <id>610fefc23306a507d1c00896</id>
