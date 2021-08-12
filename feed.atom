@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T23:18:09.879Z</updated>
+    <updated>2021-08-12T00:58:34.666Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Binary Search Tree Algorithms for JavaScript Beginners]]></title>
+        <id>61025c793306a507d1bfad64</id>
+        <link href="https://www.freecodecamp.org/news/binary-tree-algorithms-for-javascript-beginners/"/>
+        <updated>2021-08-11T23:50:28.000Z</updated>
+        <summary type="html"><![CDATA[I recently had the chance to teach high school students how to code. There are not that many beginner-friendly tutorials on algorithms coded in JavaScript which is the language they were learning. So I decided to make one. In this article, I will try my best to explain some core]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement iOS-Specific Components and APIs]]></title>
+        <id>610d4a303306a507d1bff2ea</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-ios-components-apis/"/>
+        <updated>2021-08-11T23:31:34.000Z</updated>
+        <summary type="html"><![CDATA[One of the end goals of a React Native project is to have a minimal amount of platform-specific logic and code. Most APIs can be built so the platform-specific code is abstracted away by the framework. This gives you a single way to interact with them and easily create cross-platform]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Podcasts for Flutter Developers]]></title>
         <id>611091a63306a507d1c00a1c</id>

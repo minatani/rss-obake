@@ -716,6 +716,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61025c793306a507d1bfad64",
+          "author": null,
+          "description": "I recently had the chance to teach high school students how to code. There are not that many beginner-friendly tutorials on algorithms coded in JavaScript which is the language they were learning. So I decided to make one. In this article, I will try my best to explain some core",
+          "link": "https://www.freecodecamp.org/news/binary-tree-algorithms-for-javascript-beginners/",
+          "publishedOn": "2021-08-11T23:50:28.000Z",
+          "wordCount": 1356,
+          "title": "Binary Search Tree Algorithms for JavaScript Beginners"
+        },
+        {
+          "id": "610d4a303306a507d1bff2ea",
+          "author": null,
+          "description": "One of the end goals of a React Native project is to have a minimal amount of platform-specific logic and code. Most APIs can be built so the platform-specific code is abstracted away by the framework. This gives you a single way to interact with them and easily create cross-platform",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-ios-components-apis/",
+          "publishedOn": "2021-08-11T23:31:34.000Z",
+          "wordCount": 1442,
+          "title": "How to Implement iOS-Specific Components and APIs"
+        },
+        {
           "id": "611091a63306a507d1c00a1c",
           "author": null,
           "description": "Podcasts are a great way to consume digital information. They've become quite popular because you can listen to them anywhere, any time.  Podcasts deliver educational, entertaining, and engaging content on all kinds of topics – tech topics included. The hosts and their guests talk and share ideas, each in their own",
