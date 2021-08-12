@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T17:21:47.084Z</updated>
+    <updated>2021-08-12T18:23:07.646Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coding Websites Where You Can Learn How to Code for Free]]></title>
+        <id>6107c0203306a507d1bfc551</id>
+        <link href="https://www.freecodecamp.org/news/coding-websites-where-you-can-learn-how-to-code-for-free/"/>
+        <updated>2021-08-12T18:11:29.000Z</updated>
+        <summary type="html"><![CDATA[In this day and age, it seems like everyone is learning to code. Maybe you want to know how websites work, or you think back fondly on the old blogging platforms where you could hack together some HTML to personalize them. Or maybe you are curious to learn what all]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ＢＳ未来館:妄想で旅する三陸鉄道]]></title>
         <id>https://mainichi.jp/articles/20210813/ddm/018/200/013000c</id>

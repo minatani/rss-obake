@@ -752,6 +752,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6107c0203306a507d1bfc551",
+          "author": null,
+          "description": "In this day and age, it seems like everyone is learning to code. Maybe you want to know how websites work, or you think back fondly on the old blogging platforms where you could hack together some HTML to personalize them. Or maybe you are curious to learn what all",
+          "link": "https://www.freecodecamp.org/news/coding-websites-where-you-can-learn-how-to-code-for-free/",
+          "publishedOn": "2021-08-12T18:11:29.000Z",
+          "wordCount": 1627,
+          "title": "Coding Websites Where You Can Learn How to Code for Free"
+        },
+        {
           "id": "610fefc23306a507d1c00896",
           "author": null,
           "description": "Authentication is an important feature and basic requirement in web applications these days. And developers spend lots of time building authentication modules for every application they create.  But this manual approach can get tiring and is a bit unproductive. This is where Laravel really shines. It, along with Laravel Breeze,",
