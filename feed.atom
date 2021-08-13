@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T16:28:52.883Z</updated>
+    <updated>2021-08-13T17:22:23.420Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴室:新番組・家、ついて行ってイイですか？]]></title>
+        <id>https://mainichi.jp/articles/20210814/ddm/018/200/029000c</id>
+        <link href="https://mainichi.jp/articles/20210814/ddm/018/200/029000c"/>
+        <updated>2021-08-13T17:01:21.000Z</updated>
+        <summary type="html"><![CDATA[◆新番組・家、ついて行ってイイですか？（東京＝後11・25） 　タクシー代を支払う代わりに自宅にお邪魔し、その人の生き方を聞き出す同名のバラエティー番組（水曜午後9時）をドラマ化。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴率:2～8日]]></title>
+        <id>https://mainichi.jp/articles/20210814/ddm/018/200/034000c</id>
+        <link href="https://mainichi.jp/articles/20210814/ddm/018/200/034000c"/>
+        <updated>2021-08-13T17:01:11.000Z</updated>
+        <summary type="html"><![CDATA[■教育・教養・実用 （1）真相報道バンキシャ！　　　　　　　　　日テレ　13．9　日 （2）羽鳥慎一モーニングショー　　　　　　　朝日　　11．7　月 （3）新・情報7daysニュースキャスター　TBS　11．3　土]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「カウラ事件」映画化　生きて虜囚の辱めを受けず－－　日本人捕虜、死を求め脱走]]></title>
         <id>https://mainichi.jp/articles/20210813/dde/007/040/029000c</id>
