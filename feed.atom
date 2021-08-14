@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T03:20:15.563Z</updated>
+    <updated>2021-08-14T04:24:01.045Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[つなぐ、戦争体験者の記憶　放送×SNS　久保田元アナ発案でTBS　孫世代が話を聞くきっかけに]]></title>
+        <id>https://mainichi.jp/articles/20210814/dde/018/200/007000c</id>
+        <link href="https://mainichi.jp/articles/20210814/dde/018/200/007000c"/>
+        <updated>2021-08-14T03:29:18.000Z</updated>
+        <summary type="html"><![CDATA[15日は76回目の終戦の日。TBSは今年、新たな試みとして、放送とSNS（ネット交流サービス）を活用した「戦後76年プロジェクト　つなぐ、つながる」を展開している。その一環で、数少なくなった戦争体験者に話を聞き、感じたことをSNSに投稿してもらうキャンペーンがある。発案者の元アナウンサーで報道局記]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週刊テレビ評:8月ジャーナリズム　新たな視点で真実に迫る意義＝碓井広義]]></title>
+        <id>https://mainichi.jp/articles/20210814/dde/018/070/004000c</id>
+        <link href="https://mainichi.jp/articles/20210814/dde/018/070/004000c"/>
+        <updated>2021-08-14T03:29:14.000Z</updated>
+        <summary type="html"><![CDATA[新聞やテレビなどのメディアに関して、「8月ジャーナリズム」という言葉がある。毎年8月になると、「原爆の日」や「終戦記念日」に合わせるように、戦争や平和についての報道が目立つことを指す。その「集中ぶり」、もしくは他の時期の「寡黙ぶり」を揶揄（やゆ）するニュアンスもそこにある。]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイド視聴室:万物トリセツショー　一つの題材を深掘りエンタメ]]></title>
+        <id>https://mainichi.jp/articles/20210814/dde/018/200/002000c</id>
+        <link href="https://mainichi.jp/articles/20210814/dde/018/200/002000c"/>
+        <updated>2021-08-14T03:29:12.000Z</updated>
+        <summary type="html"><![CDATA[万物トリセツショー　NHK総合＝16日午後7時57分 　電化製品などの取り扱い説明書「トリセツ」を隅から隅まで読む人はどれくらいいるだろう。トラブルが起きた時は必要だが、積極的に読みたいとは思えないトリセツをエンターテインメント性あふれるショーに仕立てた。満島真之介が新たに作り上げたトリセツをプレゼ]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辛酸なめ子のＴＶセラピー:閉会式で見応えあったのは各国選手の入場シーン…]]></title>
+        <id>https://mainichi.jp/articles/20210814/dde/018/070/003000c</id>
+        <link href="https://mainichi.jp/articles/20210814/dde/018/070/003000c"/>
+        <updated>2021-08-14T03:29:12.000Z</updated>
+        <summary type="html"><![CDATA[閉会式で見応えあったのは各国選手の入場シーン。ドイツ選手団が背中にカタカナで「ドイツ」とプリントされたユニホームを着ていて日本への親愛の情を感じさせたり、ウクライナの選手が開脚したり、踊りまくる選手もいたりして楽しい雰囲気が伝わります。「休日の公園」のシーンよりも長く各国選手を映してほしかった気が]]></summary>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視聴室:新番組・家、ついて行ってイイですか？]]></title>
         <id>https://mainichi.jp/articles/20210814/ddm/018/200/029000c</id>
