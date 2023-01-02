@@ -2252,6 +2252,1317 @@
       "feedUrl": "http://dsas.blog.klab.org/index.rdf",
       "siteUrl": "http://dsas.blog.klab.org/",
       "articles": []
+    },
+    {
+      "title": "F1-Gate.com",
+      "feedUrl": "http://f1-gate.com/rss2.xml",
+      "siteUrl": "https://f1-gate.com/",
+      "articles": [
+        {
+          "id": "https://f1-gate.com/china_gp/f1_72734.html",
+          "author": null,
+          "description": "F1中国GPの主催者は、新型コロナウイルスの“ゼロコロナ”政策が緩和されたことを受け、2023年のF1カレンダーへの復帰を目指してF1との議論を開始したことを明らかにした。\r\n\r\nF1は、新型コロナウイルスのパンデミックとその後の渡航制限により、過去3シーズン、中国で... 続きを読む",
+          "link": "https://f1-gate.com/china_gp/f1_72734.html",
+          "publishedOn": "2023-01-02T12:33:06.000Z",
+          "wordCount": 667,
+          "title": "F1中国GP主催者、ゼロコロナ緩和で2023年のカレンダー復帰を議論",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230102-f1-chinesegp.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/williams/f1_72733.html",
+          "author": null,
+          "description": "ウィリアムズF1は、2022年にコンストラクターズチャンピオンシップで最下位になることが確実に見えたとき、開発を延長することを選択せず、焦点を2023年F1マシンに移した。\r\n\r\n昨年はランキング9位で終わったウィリアムズF1だったが、シーズンを通してミッドフィール... 続きを読む",
+          "link": "https://f1-gate.com/williams/f1_72733.html",
+          "publishedOn": "2023-01-02T11:21:23.000Z",
+          "wordCount": 684,
+          "title": "ウィリアムズF1 「最下位が見えてすぐに2023年に焦点を移した」",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230102-williams-f1.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/movie/f1_72732.html",
+          "author": null,
+          "description": "2023年のダカールラリーのステージ1で、ミシェル・クレマーとトーマス・ド・ボワのセンチュリー CR6が全焼する事故が発生した。。\r\n\r\n日曜日のステージ1の70km付近でセンチュリー CR6が燃料ラインの漏れが大火を引き起こした。幸いにもミシェル クレマーとトーマス・... 続きを読む",
+          "link": "https://f1-gate.com/movie/f1_72732.html",
+          "publishedOn": "2023-01-02T10:29:00.000Z",
+          "wordCount": 687,
+          "title": "【動画】 ダカールラリー 2023：ステージ1で車両が全焼する事故",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230102-dakar2023.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/alonso/f1_72730.html",
+          "author": null,
+          "description": "フェルナンド・アロンソは、2023年の所属チームであるアストンマーティンF1にドライバーとして正式に加入した。\r\n\r\n2022年の最終戦F1アブダビGP後にヤス・マリーナ・サーキットで行われたポストシーズンテストでアストンマーティンF1に合流したフェルナンド・アロン... 続きを読む",
+          "link": "https://f1-gate.com/alonso/f1_72730.html",
+          "publishedOn": "2023-01-02T09:06:17.000Z",
+          "wordCount": 678,
+          "title": "フェルナンド・アロンソ、アストンマーティンF1に正式に加入",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230102-fernando-alonso.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/mercedes-benz/f1_72729.html",
+          "author": null,
+          "description": "メルセデスF1は、2022年の新しいF1レギュレーションでW13の車体側の問題が非常に顕著だったため、序盤にエンジン側で抱えていた問題はあまり注目されていなかった。\r\n\r\nバーレーンのシーズン開幕戦でのメルセデスF1エンジン勢のパフォーマンスの低さは、V6ターボハイ... 続きを読む",
+          "link": "https://f1-gate.com/mercedes-benz/f1_72729.html",
+          "publishedOn": "2023-01-02T08:20:00.000Z",
+          "wordCount": 718,
+          "title": "メルセデスF1技術者 「シャシーとPUはもはや別々には開発できない」",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230102-mercedes-f1.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/ferrari/f1_72717.html",
+          "author": null,
+          "description": "フェラーリは、2026年のF1技術規則が施行されてもF1にとどまることをまだ約束しておらず、レッドブル・パワートレインズがホンダF1との技術的パートナーシップを維持し、8年前にハイブリッド技術が導入されて以来、完全に新しいF1パワーユニットメーカーがすでにスポ... 続きを読む",
+          "link": "https://f1-gate.com/ferrari/f1_72717.html",
+          "publishedOn": "2023-01-02T07:50:00.000Z",
+          "wordCount": 679,
+          "title": "フェラーリ、ホンダF1の関与が明確になるまで2026年規則への同意を拒否",
+          "imageUrl": "https://f1-gate.com/media/img2022/20221231-redbull-honda.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/vietnamgp/f1_72731.html",
+          "author": null,
+          "description": "2022年にF1ベトナムGPを開催するために建設されたハノイ・ストリート・サーキットで初の走行イベントが開催された。\r\n\r\nハノイ・サーキットは、市街地の道路と最終セクターの一連のコーナーが混在する 5.6 キロメートルのサーキットとなる予定だった。しかし、2020年... 続きを読む",
+          "link": "https://f1-gate.com/vietnamgp/f1_72731.html",
+          "publishedOn": "2023-01-02T07:19:03.000Z",
+          "wordCount": 685,
+          "title": "F1ベトナムGP：ハノイ・サーキットで『Honda Thanks Day』を開催",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230102-hanoi.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/verstappen/f1_72728.html",
+          "author": null,
+          "description": "マックス・フェルスタッペンは、レッドブルF1との長期契約にサインしたが、今では正当化されたと感じていると主張する。\r\n\r\n2022年3月、マックス・フェルスタッペンがF1史上最長の契約であると理解されている2028年末までの5年間の契約延長にサインしたとき、F1パド... 続きを読む",
+          "link": "https://f1-gate.com/verstappen/f1_72728.html",
+          "publishedOn": "2023-01-02T06:40:00.000Z",
+          "wordCount": 681,
+          "title": "マックス・フェルスタッペン 「レッドブルF1との長期契約が正当化された」",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230102-max-verstappen.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/haas/f1_72727.html",
+          "author": null,
+          "description": "ハースF1チームの代表であるギュンター・シュタイナーは、ケビン・マグヌッセンのF1復帰、および苦戦を強いられた2022年シーズン中盤でのより成熟したリラックスしたアプローチを称賛している。\r\n\r\nケビン・マグヌッセンは2017年から2020年までハースF1チームでレー... 続きを読む",
+          "link": "https://f1-gate.com/haas/f1_72727.html",
+          "publishedOn": "2023-01-02T05:49:39.000Z",
+          "wordCount": 688,
+          "title": "ハースF1代表 「復帰後のマグヌッセンは成熟してリラックスしている」",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230101-haas-f1-magunussen.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/lance-stroll/f1_72725.html",
+          "author": null,
+          "description": "ランス・ストロールは、2022年にアストンマーティンF1をレギュラーポイントスコアラーに押し上げたチームの集中的な開発作業を称賛する。\r\n\r\nランス・ストロール、スーパーサブのニコ・ヒュルケンベルグ、新型コロナウイルスから復帰したオーストラリアで復帰したセ... 続きを読む",
+          "link": "https://f1-gate.com/lance-stroll/f1_72725.html",
+          "publishedOn": "2023-01-02T01:18:13.000Z",
+          "wordCount": 673,
+          "title": "ランス・ストロール、2022年のアストンマーティンF1の開発作業を称賛",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230101-lance-stroll.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/pierregasly/f1_72724.html",
+          "author": null,
+          "description": "ピエール・ガスリーは、F1でメンタルヘルスを守るために、2022年に逃したポイント獲得のチャンスを振り返りたくはないと認める。\r\n\r\nピエール・ガスリーとスクーデリア・アルファタウリにとって2022年は難しいシーズンとなり、2021年のコンストラクターズチャンピオ... 続きを読む",
+          "link": "https://f1-gate.com/pierregasly/f1_72724.html",
+          "publishedOn": "2023-01-01T21:52:46.000Z",
+          "wordCount": 680,
+          "title": "ピエール・ガスリー 「逃したF1ポイントは振り返っていたら鬱病になる」",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230101-pierre-gasly.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/audi/f1_72713.html",
+          "author": null,
+          "description": "アウディは、2026年にF1に参入するためにザウバーF1チームとパートナーを組むことになり、チームが達成できることを高く目指している。\r\n\r\nアウディは10月、スイスを拠点とするザウバーF1チームが「戦略的パートナー」となり、ワークスチームとして2026年に参戦する... 続きを読む",
+          "link": "https://f1-gate.com/audi/f1_72713.html",
+          "publishedOn": "2023-01-01T11:28:35.000Z",
+          "wordCount": 678,
+          "title": "アウディF1 「ザウバーと組めば2026年に最前線で戦える可能性さえある」",
+          "imageUrl": "https://f1-gate.com/media/img2022/20221231-audi-f1.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/hamilton/f1_72722.html",
+          "author": null,
+          "description": "2022年のF1世界選手権は、ルイス・ハミルトンにとって初めてともいえるネガティヴなシーズンとなった。1勝も挙げることができず、1回もポール ポジションも獲得できず、トップ5内でチャンピオンシップを終えられなかった初めてのF1シーズンだった。\r\n\r\nメルセデスF1... 続きを読む",
+          "link": "https://f1-gate.com/hamilton/f1_72722.html",
+          "publishedOn": "2023-01-01T09:20:01.000Z",
+          "wordCount": 689,
+          "title": "ルイス・ハミルトン 「2022年シーズンの経験はメルセデスF1を強くする」",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230101-lewis-hamilton.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/mick-schumacher/f1_72718.html",
+          "author": null,
+          "description": "ミック・シューマッハは、2023年のF1シートを失った後、彼の伝説的な7回のチャンピオンである父親の姓を持つことには「否定的側面がある」ことを認める。\r\n\r\nミック・シューマッハは、F1ワールド チャンピオンの息子として初めてF1に足を踏み入れたドライバーではな... 続きを読む",
+          "link": "https://f1-gate.com/mick-schumacher/f1_72718.html",
+          "publishedOn": "2023-01-01T07:50:15.000Z",
+          "wordCount": 675,
+          "title": "ミック・シューマッハ 「有名な父親の姓には否定的側面もある」",
+          "imageUrl": "https://f1-gate.com/media/img2022/20221231-mick-schumacher.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/driver/f1_72721.html",
+          "author": null,
+          "description": "2023年のF1シーズンを前に、グリッド上の各F1ドライバーの身長と体重を確認してみよう。\r\n\r\nドライバーの身長と体重は、車のパフォーマンスに影響を与える可能性があるため、F1エンジニアにとって重要だ。伝統的に、車の周りの気流を介してより最適なパッケージを可... 続きを読む",
+          "link": "https://f1-gate.com/driver/f1_72721.html",
+          "publishedOn": "2023-01-01T03:47:08.000Z",
+          "wordCount": 708,
+          "title": "2023年F1ドライバーの身長＆体重",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230101-f1driver.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/redbull/f1_72716.html",
+          "author": null,
+          "description": "レッドブルF1のチーフテクニカルオフィサーを務めるエイドリアン・ニューウェイは、F1ターボハイブリッド時代におけるルノーのパフォーマンスの欠如によってフェラーリ移籍に傾いていたが、ホンダとの契約によって状況が変わったと明かした。\r\n\r\n2010年から2013年に... 続きを読む",
+          "link": "https://f1-gate.com/redbull/f1_72716.html",
+          "publishedOn": "2023-01-01T03:15:00.000Z",
+          "wordCount": 687,
+          "title": "エイドリアン・ニューウェイ 「ホンダF1がフェラーリ移籍を思いとどまらせた」",
+          "imageUrl": "https://f1-gate.com/media/img2022/20221231-newey-f1-honda.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/alphatauri/f1_72715.html",
+          "author": null,
+          "description": "角田裕毅は、2022年にアルファタウリF1でその恩恵を結果に変えることはできなかったが、イタリアへの転居の影響を称賛した。\r\n\r\n2021年にアルファタウリF1からデビューを果たした角田裕毅だったが、スランプが続いたことで、シーズン途中に英国を離れ、チームの拠点... 続きを読む",
+          "link": "https://f1-gate.com/alphatauri/f1_72715.html",
+          "publishedOn": "2023-01-01T03:01:00.000Z",
+          "wordCount": 677,
+          "title": "アルファタウリF1の角田裕毅 「イタリアへの転居は良い影響を与えた」",
+          "imageUrl": "https://f1-gate.com/media/img2022/20221231-yuki-tsunoda.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/f1car/f1_72720.html",
+          "author": null,
+          "description": "2022年のF1世界選手権の最初の3分の1をリードしたのはフェラーリだったが、レッドブルはバーレーンGPから常に非常に速い車を持っていた。マックス・フェルスタッペンから開幕戦と1か月後のメルボルでの2位の座を奪ったのは信頼性だけだった。2つのDNFはエキサイティ... 続きを読む",
+          "link": "https://f1-gate.com/f1car/f1_72720.html",
+          "publishedOn": "2023-01-01T00:53:46.000Z",
+          "wordCount": 718,
+          "title": "F1マシン：悪魔は細部に宿る - The devil is in the details.",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230101-f1car.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/redbull/f1_72705.html",
+          "author": null,
+          "description": "レッドブルF1の2023年F1マシン『RB19』に搭載されるであろう今季マシンからの要素をRacingNews365.com のテクニカルアナリストであるパオロ・フィリセッティが分析した。\r\n\r\nレッドブル RB18は、F1の歴史の中で最も支配的なマシンの1台になった。車が明らかに支配的... 続きを読む",
+          "link": "https://f1-gate.com/redbull/f1_72705.html",
+          "publishedOn": "2023-01-01T00:45:00.000Z",
+          "wordCount": 719,
+          "title": "レッドブルF1、2023年F1マシン『RB19』で進化が予想されるポイント",
+          "imageUrl": "https://f1-gate.com/media/img2022/20221230-rb19.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/other/f1_72719.html",
+          "author": null,
+          "description": "HAPPY NEW F1 YEAR 2023！　今年もよろしくお願い致します。\r\n\r\n今年の一枚にはF1日本GPの前夜祭で美しいグリーンのライトに照らされるセバスチャン・ベッテルをセレクト。3年ぶりに開催されたF1日本GPはベッテルにとってラスト鈴鹿。予選での日本語での「アリガトウ... 続きを読む",
+          "link": "https://f1-gate.com/other/f1_72719.html",
+          "publishedOn": "2022-12-31T21:46:00.000Z",
+          "wordCount": 712,
+          "title": "HAPPY NEW F1 YEAR 2023！ 新世代F1マシンでの真の戦いへ",
+          "imageUrl": "https://f1-gate.com/media/img2022/20221231-f1-newyear.jpg"
+        }
+      ]
+    },
+    {
+      "title": "fabcross",
+      "feedUrl": "https://fabcross.jp/rss.xml",
+      "siteUrl": "https://fabcross.jp",
+      "articles": [
+        {
+          "id": "https://fabcross.jp/news/2023/20230102_self-healing-materials.html",
+          "author": null,
+          "description": "構造物の使用を中止せずにその場で自己修復できるうえに、100回以上、自己修復可能という新しい自己修復複合材料が開発された。",
+          "link": "https://fabcross.jp/news/2023/20230102_self-healing-materials.html",
+          "publishedOn": "2023-01-01T22:00:00.000Z",
+          "wordCount": 1361,
+          "title": "100回以上も自己修復できる新しい繊維強化複合材料——熱可塑性治癒剤を3Dプリントして埋め込み",
+          "imageUrl": "https://fabcross.jp/news/2023/dmln53000012xkh1-img/dmln53000012xkhu.jpg"
+        },
+        {
+          "id": "https://fabcross.jp/news/2023/20230101_blood-oxygen-levels.html",
+          "author": null,
+          "description": "指に挟むだけで血中酸素飽和度（SpO2）を計測できるパルスオキシメーターは、新型コロナウイルス起因の肺炎を早期発見できるツールとして大きく注目された。自治体などが自宅療養者に貸与したり、一時は全国的に品薄となった。",
+          "link": "https://fabcross.jp/news/2023/20230101_blood-oxygen-levels.html",
+          "publishedOn": "2022-12-31T22:00:00.000Z",
+          "wordCount": 1361,
+          "title": "指をカメラに乗せるだけ——スマホで血中酸素飽和度を計測するAI技術を開発",
+          "imageUrl": "https://fabcross.jp/news/2023/dmln53000012xker-img/dmln53000012xkfk.jpg"
+        },
+        {
+          "id": "https://fabcross.jp/news/2022/20221231_wearable-tech.html",
+          "author": null,
+          "description": "英ノッティンガム・トレント大学のTheodore Hughes-Riley准教授率いる研究チームが、1200個の太陽電池を埋め込んだ繊維製品を開発した。",
+          "link": "https://fabcross.jp/news/2022/20221231_wearable-tech.html",
+          "publishedOn": "2022-12-30T22:00:00.000Z",
+          "wordCount": 1351,
+          "title": "洗濯機で洗える、1200個の太陽電池を埋め込んだ繊維製品を開発",
+          "imageUrl": "https://fabcross.jp/news/2022/dmln53000012xkbu-img/dmln53000012xkcn.jpg"
+        },
+        {
+          "id": "https://fabcross.jp/category/make/20221230_original_game.html",
+          "author": null,
+          "description": "いよいよ大晦日ですね。家族や友人と自宅で冬休みを過ごす方も多いのではないでしょうか。そこでM5Stackを使用したインタラクションのある○×ゲームを考えてみました。プログラムの環境構築やライブラリも不要なので初心者でも作りやすいと思います。",
+          "link": "https://fabcross.jp/category/make/20221230_original_game.html",
+          "publishedOn": "2022-12-30T02:00:00.000Z",
+          "wordCount": 1647,
+          "title": "年末年始こそ工作！ 家族で遊べるオリジナル◯×ゲームを作ろう",
+          "imageUrl": "https://fabcross.jp/category/make/dmln53000012z91b-img/dmln53000012z924.jpg"
+        },
+        {
+          "id": "https://fabcross.jp/news/2022/20221230_tandem-solar-cells.html",
+          "author": null,
+          "description": "ドイツのヘルムホルツ協会ベルリン（HZB）の研究チームが、ペロブスカイト－シリコンの高効率タンデム太陽電池の詳細技術を、2022年10月24日の『Nature Nanotechnology』誌に公開した。",
+          "link": "https://fabcross.jp/news/2022/20221230_tandem-solar-cells.html",
+          "publishedOn": "2022-12-29T22:00:00.000Z",
+          "wordCount": 1353,
+          "title": "変換効率29.8％——高効率型タンデム太陽電池セルを開発",
+          "imageUrl": "https://fabcross.jp/news/2022/dmln53000012xk9k-img/dmln53000012xkad.jpg"
+        },
+        {
+          "id": "https://fabcross.jp/category/make/20221229_bestbuy.html",
+          "author": null,
+          "description": "fabcrossの工作ライター・クリエイターによる「今年買ってよかったもの」を紹介します！",
+          "link": "https://fabcross.jp/category/make/20221229_bestbuy.html",
+          "publishedOn": "2022-12-29T02:00:00.000Z",
+          "wordCount": 1445,
+          "title": "fabcross工作ライターが今年買って良かった「推しグッズ」2022",
+          "imageUrl": "https://fabcross.jp/category/make/dmln53000012yab0-img/dmln53000012yabt.jpg"
+        },
+        {
+          "id": "https://fabcross.jp/news/2022/20221229_fluctus-channel.html",
+          "author": null,
+          "description": "海外のYouTubeチャンネル「Fluctus Channel」が2022年11月6日、英Rolls-Royceや米GE Aviationの最新ジェットエンジンの製造工程などを紹介する動画を公開した。",
+          "link": "https://fabcross.jp/news/2022/20221229_fluctus-channel.html",
+          "publishedOn": "2022-12-28T22:00:00.000Z",
+          "wordCount": 1354,
+          "title": "世界最大のジェットエンジンはどう作る？——製造工程などを紹介するYouTube動画",
+          "imageUrl": "https://fabcross.jp/news/2022/dmln53000012xk68-img/dmln53000012xk71.jpg"
+        },
+        {
+          "id": "https://fabcross.jp/news/2022/20221228_polymaker_polylite_lwpla.html",
+          "author": null,
+          "description": "サンステラは、発泡素材を使用したPolymaker製の低密度PLAフィラメント「PolyLite LW-PLA」を発売した。",
+          "link": "https://fabcross.jp/news/2022/20221228_polymaker_polylite_lwpla.html",
+          "publishedOn": "2022-12-28T08:45:00.000Z",
+          "wordCount": 1338,
+          "title": "サンステラ、Polymaker製軽量PLAフィラメント「PolyLite LW-PLA」発売",
+          "imageUrl": "https://fabcross.jp/news/2022/dmln53000012z9e0-img/dmln53000012z9et.png"
+        },
+        {
+          "id": "https://fabcross.jp/news/2022/20221228_fablabsendaiflat_materialsarchive.html",
+          "author": null,
+          "description": "FabLab SENDAI - FLATが、さまざまな材料の性質や加工方法の情報を集めたWebサイト「Materials Archive」を開設した。",
+          "link": "https://fabcross.jp/news/2022/20221228_fablabsendaiflat_materialsarchive.html",
+          "publishedOn": "2022-12-28T08:30:00.000Z",
+          "wordCount": 1347,
+          "title": "FabLab SENDAI - FLAT、材料特性や加工技法の情報を集約した「Materials Archive」開設",
+          "imageUrl": "https://fabcross.jp/news/2022/dmln53000012z9ar-img/dmln53000012z9bk.png"
+        },
+        {
+          "id": "https://fabcross.jp/news/2022/20221228_diygamedevice_nibble.html",
+          "author": null,
+          "description": "アイランド・ドリームは、本体もゲームもDIYできるCircuitMessのレトロゲーム機「Nibble（ニブル）」の先行予約販売を、Makuakeにて開始した。ゲームを作るときに、サーキットブロックスやArduino言語などが使用できる。",
+          "link": "https://fabcross.jp/news/2022/20221228_diygamedevice_nibble.html",
+          "publishedOn": "2022-12-28T01:55:00.000Z",
+          "wordCount": 1342,
+          "title": "本体もゲームもDIY——ビジュアルプログラミングできるレトロゲーム機「Nibble」",
+          "imageUrl": "https://fabcross.jp/news/2022/dmln53000012yau7-img/dmln53000012yav0.png"
+        }
+      ]
+    },
+    {
+      "title": "Fenrir's BLog",
+      "feedUrl": "http://fenrir.naruoka.org/index.rdf",
+      "siteUrl": "http://fenrir.naruoka.org/",
+      "articles": []
+    },
+    {
+      "title": "GIGAZINE",
+      "feedUrl": "http://gigazine.net/index.php?/news/rss_2.0",
+      "siteUrl": "https://gigazine.net/",
+      "articles": [
+        {
+          "id": "https://gigazine.net/news/20230102-creating-aerial-imagery-bike-helmet-camera/",
+          "author": null,
+          "description": "ドローンを使うと上空から建造物や街の様子を撮影し、ソフトウェアを利用して3Dマップを作成することができますが、場所によってはドローンを飛ばすことが禁じられている場合があります。そこで、自転車のヘルメットに取り付けられた360度カメラだけを使い、ドローンを使わないで3Dマップを作成する方法について、ソフトウェアエンジニアのJake Coppinger氏が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230102-creating-aerial-imagery-bike-helmet-camera/",
+          "publishedOn": "2023-01-02T14:00:00.000Z",
+          "wordCount": 2452,
+          "title": "自転車のヘルメットに取り付けたGoProでドローンを飛ばせないエリアの3Dマップを作成する方法",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/02/creating-aerial-imagery-bike-helmet-camera/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230102-james-webb-telescope-gay-rights/",
+          "author": null,
+          "description": "2021年12月25日に打ち上げられたジェイムズ・ウェッブ宇宙望遠鏡は、2022年7月に本格的な稼働を開始して以来さまざまな発見や貴重なデータを科学界にもたらしています。しかし、ジェイムズ・ウェッブ宇宙望遠鏡の名前の元となったNASAの2代目長官であるジェイムズ・E・ウェッブは同性愛嫌悪者であると主張する声があることから、命名には一騒動あったとThe New York Timesが伝えています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230102-james-webb-telescope-gay-rights/",
+          "publishedOn": "2023-01-02T11:00:00.000Z",
+          "wordCount": 2482,
+          "title": "ジェイムズ・ウェッブ宇宙望遠鏡の命名が同性愛嫌悪をめぐる争いに発展した経緯とは？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/02/james-webb-telescope-gay-rights/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230102-voltes-v-legacy-mega-trailer/",
+          "author": null,
+          "description": "フィリピンのテレビ局・GMA Networksが東映の許諾・監修のもと制作を進めている「超電磁マシーン ボルテスⅤ」の実写版である「Voltes V: Legacy(ボルテスV：レガシー)」の、5分30秒の長尺予告編が公開されました。いよいよ2023年に放送予定ということで、さらに多くの新規シーンの内容が明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230102-voltes-v-legacy-mega-trailer/",
+          "publishedOn": "2023-01-02T07:40:00.000Z",
+          "wordCount": 2471,
+          "title": "実写版「超電磁マシーン ボルテスⅤ」の原作リスペクトてんこ盛りな長尺予告映像公開",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/02/voltes-v-legacy-mega-trailer/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230102-bees-like-roll-little-wooden-balls/",
+          "author": null,
+          "description": "多くの動物が「遊び」に興じると知られていますが、基本的には脳の大きな哺乳類や鳥類などが遊び行動をみせると考えられてきました。しかし、動物行動学の学術誌であるAnimal Behaviourに掲載された論文によると、人間などの脳の大きな動物だけでなく、ミツバチも遊び行動をみせることが明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230102-bees-like-roll-little-wooden-balls/",
+          "publishedOn": "2023-01-02T06:00:00.000Z",
+          "wordCount": 2446,
+          "title": "ミツバチは木製ボールをコロコロ転がす遊びに興じることが研究で明らかに",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/02/bees-like-roll-little-wooden-balls/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230102-chicken-tikka/",
+          "author": null,
+          "description": "鶏肉は比較的安価に入手でき、煮る・焼く・揚げるといったどんな調理法でもおいしく食べられる優秀食材です。しかし、「鶏肉を何度も食べているうちにレパートリーが尽きてしまった」という状態に陥ることもしばしば。そこで、腹ぺこGIGAZINE読者のおなかを満たすべく、ニンニクたっぷりの濃厚風味かつ柔らかくてジューシーな「チキンティッカ」の作り方をまとめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230102-chicken-tikka/",
+          "publishedOn": "2023-01-02T03:00:00.000Z",
+          "wordCount": 2444,
+          "title": "パクチー＆ガーリックで大量の鶏肉が一瞬で消える「激うまチキンティッカ」の作り方",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/02/chicken-tikka/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230102-handlefinder/",
+          "author": null,
+          "description": "SNSやウェブサービスを利用する際に必要となるIDに、自分の本名ではなくハンドルネームを使うという人は多いはず。しかし、何億人もの人が利用するインターネットで、自分が使っているハンドルネームと同じIDをたまたま別の人が使っているということもあり得ます。「HandleFinder」を使えば、自分のハンドルネームがどのSNSで使われているかを簡単に検索することができます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230102-handlefinder/",
+          "publishedOn": "2023-01-02T00:00:00.000Z",
+          "wordCount": 2415,
+          "title": "自分のハンドルネームがネットのどこで使われているかがわかる「HandleFinder」",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/02/handlefinder/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230102-sexual-economics/",
+          "author": null,
+          "description": "セックスを経済的観点から捉え、女性をセックスの売り手、男性を買い手と考えて文化や性的傾向を考える「性的経済学」という理論が、経済学者のロイ・バウマイスター氏とキャスリーン・ヴォース氏により提唱されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230102-sexual-economics/",
+          "publishedOn": "2023-01-01T23:00:00.000Z",
+          "wordCount": 2470,
+          "title": "セックスを女性の資源と捉える「性的経済学」",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/02/sexual-economics/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230101-overfitting-machine-learning-goodharts-law/",
+          "author": null,
+          "description": "機械学習における過学習(過剰適合／オーバーフィッティング)とは、AIが学習データのみに最適化されてしまい、未知のデータに対する予測能力が低くなってしまうという現象です。そんな過学習と同様の現象が機械学習分野だけでなく社会全体のさまざまな場面でも発生していると、Google傘下の人工知能研究所・Google Brainの研究者であり近年の画像生成AIに広く用いられている「拡散モデル」の論文執筆者でもあるJascha Sohl-Dickstein氏が主張しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-overfitting-machine-learning-goodharts-law/",
+          "publishedOn": "2023-01-01T14:00:00.000Z",
+          "wordCount": 2454,
+          "title": "学習データに最適化されすぎて本来の目的が達成できなくなる「過学習」と同様の現象はAIだけでなく社会全体で起こっているという主張",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/overfitting-machine-learning-goodharts-law/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230101-web-was-invented-in-france-not-switzerland/",
+          "author": null,
+          "description": "ウェブの開発にはさまざまな人々が携わっていますが、最もよく知られているのが、CERNに勤務していティム・バーナーズ＝リー氏がハイパーテキストシステム「WorldWideWeb」を開発したことによる貢献です。CERNの所在地から「ウェブはスイス発祥」と言われることがありますが、実は厳密にはフランスだったとデザイナーのデビッド・ガルブレイス氏がブログで指摘しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-web-was-invented-in-france-not-switzerland/",
+          "publishedOn": "2023-01-01T11:00:00.000Z",
+          "wordCount": 2445,
+          "title": "ウェブはスイスではなくフランスで発明された",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/web-was-invented-in-france-not-switzerland/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230101-tottori-hakuto-shrine/",
+          "author": null,
+          "description": "古事記に記載のある「因幡の白うさぎ」の神話の地である鳥取県の白兎神社に行ってきました。主神が白兎神であることから、参道には多くの兎が配されていました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-tottori-hakuto-shrine/",
+          "publishedOn": "2023-01-01T09:00:00.000Z",
+          "wordCount": 2439,
+          "title": "「因幡の白うさぎ」伝説の地・鳥取の白兎神社に行ってきた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/tottori-hakuto-shrine/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230101-alina-of-the-arena/",
+          "author": null,
+          "description": "ローグライクデッキ構築ゲームの「Slay the Spire」と、ターン制ストラテージゲーム「Into the Breach」の要素を組み合わせたローグライクデッキ構築戦術ゲーム「Alina of the Arena」がSteamで配信されています。「ローグライクデッキ構築戦術ゲーム」とはいったいどういうゲームなのか気になったので、実際に遊んでみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-alina-of-the-arena/",
+          "publishedOn": "2023-01-01T08:00:00.000Z",
+          "wordCount": 2511,
+          "title": "闘技場を動き回って戦い進めるデッキ構築型ストラテジーゲーム「Alina of the Arena」プレイレビュー",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/alina-of-the-arena/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230101-10-to-15-inflation-phase/",
+          "author": null,
+          "description": "高止まりするインフレの影響を受け、中央銀行は金利引き上げなどを行い対応措置をとり始めています。インフレの悪循環をかねてから警告していたという経済学者のラッセル・ネイピア氏は、「構造的に上昇したインフレと金融抑圧が15年から20年続く」と主張し、投資家が新しい世界にどのように備える必要があるかについて、見解を共有しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-10-to-15-inflation-phase/",
+          "publishedOn": "2023-01-01T06:00:00.000Z",
+          "wordCount": 2440,
+          "title": "構造的に上昇したインフレと金融抑圧が15年から20年続くと経済学者が警告",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/10-to-15-inflation-phase/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230101-nuclear-fusion-useful/",
+          "author": null,
+          "description": "未来のエネルギーとして大きく期待されている核融合は、連鎖反応で暴走してしまう危険性が高い核分裂と比べると非常に安全とされており、実現に向けて研究が進められていますが、科学系ニュースサイトのIEEE Spectrumは「核融合発電の商業化への長い道のりの小さな一歩にすぎません」と述べています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-nuclear-fusion-useful/",
+          "publishedOn": "2023-01-01T05:00:00.000Z",
+          "wordCount": 2439,
+          "title": "核融合の「ブレークスルー」が実用的な核融合発電の実現にまだつながらない理由とは？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/nuclear-fusion-useful/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230101-curry-pork-vindaloo/",
+          "author": null,
+          "description": "年末年始は「おせち」や「お雑煮」などの和風の料理を食べる機会が増えますが、読者の中には「和食に飽きちゃったな……」と感じている人も多いはず。そこで、ジューシーな豚肉をガッツリ楽しめるスパイスカレー「ポークビンダルー」の作り方を大量の写真付きでまとめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-curry-pork-vindaloo/",
+          "publishedOn": "2023-01-01T03:00:00.000Z",
+          "wordCount": 2433,
+          "title": "肉汁染み出るジューシーな豚肉がゴロゴロ入ったスパイスカレー「ポークビンダルー」の作り方",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/curry-pork-vindaloo/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230101-10-best-shows-netflix/",
+          "author": null,
+          "description": "ストリーミングサービスの普及により、「Netflix」などのサービスで映画・ドラマ・アニメを視聴するようになったという人も多いはず。しかし、Netflixのようなサービスを長く使っていると、「次に何を見るべきか」に悩まされることがあります。そんな次にNetflixで何を見ればいいか悩んでいる人や、年始のお休み期間で暇な時間が有り余っているという人にオススメな、「Netflixで見るべき10の映画＆ドラマ＆アニメ」をThe Vergeがまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-10-best-shows-netflix/",
+          "publishedOn": "2023-01-01T00:00:00.000Z",
+          "wordCount": 2728,
+          "title": "Netflixで見るべき10の映画＆ドラマ＆アニメ",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/10-best-shows-netflix/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230101-akeome-kotoyoro/",
+          "author": null,
+          "description": "あけましておめでとうございます！2023年1月1日になりました！今年もGIGAZINEをなにとぞよろしくお願いします、ぺこりん。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-akeome-kotoyoro/",
+          "publishedOn": "2022-12-31T15:00:00.000Z",
+          "wordCount": 2480,
+          "title": "あけましておめでとうございます、今年もGIGAZINEをよろしくです",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/akeome-kotoyoro/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-all-access-ranking/",
+          "author": null,
+          "description": "まずはGoogleアナリティクスでの測定結果に基づいて、2022年に作成された記事の第10位から順に並べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-all-access-ranking/",
+          "publishedOn": "2022-12-31T12:00:00.000Z",
+          "wordCount": 2496,
+          "title": "なんと1位になったのはコレ！GIGAZINEの記事＆YouTubeトップ10ランキング2022",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/all-access-ranking/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-unclutter/",
+          "author": null,
+          "description": "有料会員への加入誘導のような余計な表示をなくしてくれるだけでなく、ダークモードにしたりハイライトを入れたりして記事を読みやすくできるGoogle ChromeおよびMozilla Firefox向け拡張機能の「Unclutter」を実際に使用して、どれくらい記事が読みやすくなるのかを確認してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-unclutter/",
+          "publishedOn": "2022-12-31T11:00:00.000Z",
+          "wordCount": 2471,
+          "title": "記事からゴチャゴチャした表示を除外して読みやすくしてくれる「Unclutter」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/unclutter/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-tips-turn-down-tinnitus/",
+          "author": null,
+          "description": "耳の中でいろいろな音が鳴るように感じる耳鳴りには、世界各国で多くの人々が悩まされています。慢性的に続く人もいれば、ふとした瞬間に突然症状が発生する人までさまざま。このような耳鳴りにどのように向き合っていけばいいのかについて、バージニア大学の耳鼻咽喉科教授であるブラッドリー・ケッサー氏が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-tips-turn-down-tinnitus/",
+          "publishedOn": "2022-12-31T10:00:00.000Z",
+          "wordCount": 2432,
+          "title": "耳鳴りはなぜ発生するのか？どうすれば耳鳴りを和らげられるのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/tips-turn-down-tinnitus/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-domdom-youlinji-cheese-burger/",
+          "author": null,
+          "description": "ドムドムハンバーガーで2022年ラストの期間限定新商品として「油淋鶏ーズ(ユーリンチーズ)バーガー」が登場したので、2022年の締めに食べに行ってきました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-domdom-youlinji-cheese-burger/",
+          "publishedOn": "2022-12-31T09:00:00.000Z",
+          "wordCount": 2419,
+          "title": "油淋鶏をたっぷりチーズが完全に包み込むドムドムハンバーガーの「油淋鶏ーズバーガー」を食べてきた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/domdom-youlinji-cheese-burger/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-sirako-mosoka-soba/",
+          "author": null,
+          "description": "2022年を締めくくる年越しそばの具材として何を入れようかな～ということで先週からあーでもないこーでもないと迷いまくった結果、「白子がいいのではないか？」ということで買ってきました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-sirako-mosoka-soba/",
+          "publishedOn": "2022-12-31T08:30:00.000Z",
+          "wordCount": 2411,
+          "title": "年越しそばとして爆速＆お手軽簡単な「白子みそかそば」の作り方",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/sirako-mosoka-soba/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-topvalu-oseti/",
+          "author": null,
+          "description": "15時半頃にようやくトップバリュのおせち和風三段重「慶（よろこび）」が届いたのですが、開封してみると何かが変。よく見てみるとどこかのお重から甘くてねちゃくちゃする液体が漏れ出したような跡があり、お重を持つ度に手について拭く羽目に。どこかの時点で何かが漏れ出てしまったようです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-topvalu-oseti/",
+          "publishedOn": "2022-12-31T08:03:00.000Z",
+          "wordCount": 2431,
+          "title": "トップバリュのおせち和風三段重「慶（よろこび）」を買ったら何かが漏れていてねちゃくちゃに",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/topvalu-oseti/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-web-design-12-quiz/",
+          "author": null,
+          "description": "近年ではさまざまなデザインのウェブサイトがインターネット上に広がっています。そんなウェブデザインにおけるピクセル単位の変化に気づく能力を測る12個のクイズが「Semblance: a frontend design quiz」にまとめられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-web-design-12-quiz/",
+          "publishedOn": "2022-12-31T05:00:00.000Z",
+          "wordCount": 2469,
+          "title": "ウェブデザインの基礎知識がクイズ形式で問われるサイト「Semblance: a frontend design quiz」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/web-design-12-quiz/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-jumbo-takarakuji-945/",
+          "author": null,
+          "description": "2021年度年末ジャンボ宝くじの当選結果はこちら。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-jumbo-takarakuji-945/",
+          "publishedOn": "2022-12-31T04:00:00.000Z",
+          "wordCount": 2450,
+          "title": "年末ジャンボ宝くじ(第945回全国自治宝くじ)の当せん番号一覧",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/jumbo-takarakuji-945/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-coconut-curry/",
+          "author": null,
+          "description": "カレー屋さんでカレーを食べた際に「自分でも作れたらいつでもおいしいカレーを食べられるのに……」と考えたことがある人は多いはず。しかし、本格的なカレーを作ろうとすると「何時間も煮込む必要があるのかな」「特殊な材料が必要なのでは？」と考えてしまい、最初の一歩をなかなか踏み出せないものです。そこで、カレー大好き編集部員が編み出した比較的入手しやすい材料だけで作れる「チキンがゴロゴロ入った濃厚ココナッツカレー」のレシピを大量の写真付きでまとめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-coconut-curry/",
+          "publishedOn": "2022-12-31T03:00:00.000Z",
+          "wordCount": 2445,
+          "title": "お店レベルの本格濃厚スパイスカレー「たっぷりチキンのココナッツカレー」を自分で作る方法",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/coconut-curry/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-cancer-vaccines-future/",
+          "author": null,
+          "description": "がんの治療法といえば抗がん剤治療や外科手術による腫瘍(しゅよう)の摘出などが思い浮かぶ人が多いはずですが、近年はがんの治療にワクチン製剤を使用する「がんワクチン」の研究開発が進展しています。そこで、がんワクチンの展望や可能性、課題などについて専門家がまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-cancer-vaccines-future/",
+          "publishedOn": "2022-12-31T02:00:00.000Z",
+          "wordCount": 2437,
+          "title": "治療用「がんワクチン」実現の可能性や課題について専門家はどう見ているのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/cancer-vaccines-future/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-9-best-games-2022-playstation/",
+          "author": null,
+          "description": "年末のボーナスやお年玉で新しいゲームを買い、ゲームの世界にどっぷり浸かりたいと考えている人も少なくないはず。そんな人にオススメしたいPlayStation 4(PS4)やPlayStation 5(PS5)でプレイできる最高のゲームを、海外メディアのThe Vergeがまとめています。2022年に話題をさらった超大作から、猫が主役のあの作品、人気作のリメイクやリマスターまで、さまざまなタイトルが挙げられているので年末年始にゲーム漬けになりたい人は必見です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-9-best-games-2022-playstation/",
+          "publishedOn": "2022-12-31T00:00:00.000Z",
+          "wordCount": 2608,
+          "title": "PlayStationでプレイすべき9つのゲーム",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/9-best-games-2022-playstation/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221230-10-best-games-nintendo-switch/",
+          "author": null,
+          "description": "発売から5年が経過して2022年9月時点での累計販売台数は1億1433万台を突破している「Nintendo Switch」。2022年もそんなNintendo Switch向けのゲームがたくさんリリースされており、ミリオンセラーを記録したタイトルも複数あります。とどまるところを知らない人気っぷりのNintendo Switchのうち、プレイすべき10のタイトルを、海外メディアのThe Vergeがまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221230-10-best-games-nintendo-switch/",
+          "publishedOn": "2022-12-30T14:00:00.000Z",
+          "wordCount": 2632,
+          "title": "Nintendo Switchをゲットしたらプレイすべき10のゲーム",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/30/10-best-games-nintendo-switch/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221230-milk-good-or-bad/",
+          "author": null,
+          "description": "牛乳はタンパク質やカルシウムが豊富なことから健康にいいとされることがある一方、「牛乳を飲む人はがんになりやすい」という研究結果が出ていることから体に悪いとする見方もあります。そんな牛乳や乳製品が健康にいいのかどうかについて、デンマーク・オランダ・イギリスの研究者らが肥満や2型糖尿病、がんなどの発症率の観点から総合的に論じました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221230-milk-good-or-bad/",
+          "publishedOn": "2022-12-30T11:00:00.000Z",
+          "wordCount": 2467,
+          "title": "結局「牛乳や乳製品」は健康にいいのか悪いのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/30/milk-good-or-bad/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221230-freetube/",
+          "author": null,
+          "description": "Googleアカウントにログイン不要でYouTubeを広告なしでサクサクと視聴できる専用プレーヤーが「FreeTube」です。Cookieによる追跡がなくプライベートな環境でYouTubeを再生可能で、Googleアカウントにログインしなくてもチャンネル登録ができる専用ブラウザで、Windows・Mac・Linux向けが無償で配信されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221230-freetube/",
+          "publishedOn": "2022-12-30T10:00:00.000Z",
+          "wordCount": 2439,
+          "title": "無料でYouTubeを広告なし＆ログイン不要でサクサク視聴できるプレイヤー「FreeTube」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/30/freetube/00.png"
+        }
+      ]
+    },
+    {
+      "title": "gihyo.jp",
+      "feedUrl": "http://gihyo.jp/feed/atom",
+      "siteUrl": "https://gihyo.jp",
+      "articles": [
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0744?utm_source=feed",
+          "author": null,
+          "description": "11月6日から9日に東欧チェコの都市プラハにてUbuntuのコミュニティメンバーが一堂に会すUbuntu Summitが開催されました。今回は、Ubuntu Summitがどのようなものであったのか、なぜRaspberry Piコミュニティの筆者が参加していたのか？などの経緯やその様子も含めてレポートします。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0744?utm_source=feed",
+          "publishedOn": "2022-12-28T01:02:00.000Z",
+          "wordCount": 544,
+          "title": "第744回　Ubuntu Summit 2022 レポート",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0744/UbuConAsiaTeam.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/mysql-rcn0187?utm_source=feed",
+          "author": null,
+          "description": "MySQLにIPアドレスの履歴を保存するとき、文字列で保存すると、IPアドレスでない形のデータも保存できる状態になってしまいいます。今回はIPアドレスをMySQLに保存したいときに知っておくと良いかもしれないことを紹介します。",
+          "link": "https://gihyo.jp/article/2022/12/mysql-rcn0187?utm_source=feed",
+          "publishedOn": "2022-12-27T00:17:00.000Z",
+          "wordCount": 482,
+          "title": "第187回　MySQLにIPアドレスを保存したい",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/daily-linux-221226?utm_source=feed",
+          "author": null,
+          "description": "Linus Torvaldsは12月25日（米国時間）、次期カーネル「Linux 6.2」の最初のリリース候補版となる「Linux 6.2-rc1」を公開した。",
+          "link": "https://gihyo.jp/article/2022/12/daily-linux-221226?utm_source=feed",
+          "publishedOn": "2022-12-26T03:11:00.000Z",
+          "wordCount": 165,
+          "title": "Linus、Linux 6.2-rc1を公開 ―クリスマスでも“カーネル開発のショーは続けていく”",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/ruby_3_2-release?utm_source=feed",
+          "author": null,
+          "description": "2022年12月25日、Ruby 3.2.0がリリースされた。Ruby 3.2では多くの機能が追加され、機能の改善も数多く実装されている。",
+          "link": "https://gihyo.jp/article/2022/12/ruby_3_2-release?utm_source=feed",
+          "publishedOn": "2022-12-26T03:07:00.000Z",
+          "wordCount": 165,
+          "title": "Ruby 3.2.0がリリース―WebAssembly/WASIサポート、YJIT実用化、正規表現DoSへの対応など",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/2011_ruby_3_2-release.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/23?utm_source=feed",
+          "author": null,
+          "description": "IoTやエッジコンピューティングの文脈で、Ubuntuを見かける機会がよりいっそう増えそうです。株式会社SRAから、Ubuntuを用いる組込みサービス・サポートについて、Advantechと業務提携を行うことが発表されました。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/23?utm_source=feed",
+          "publishedOn": "2022-12-23T00:44:00.000Z",
+          "wordCount": 275,
+          "title": "日本国内でのUbuntu + Advantechデバイスのサポート、Ubuntu 23.04（lunar）の開発",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/linux_containers-0050?utm_source=feed",
+          "author": null,
+          "description": "2014年に始めたこの連載もついに50回になりました。今回は、ここ数年いろいろな勉強会で登壇するたびに、毎回簡単に紹介をしていた機能について、少し詳細に紹介したいと思います。",
+          "link": "https://gihyo.jp/article/2022/12/linux_containers-0050?utm_source=feed",
+          "publishedOn": "2022-12-23T00:21:00.000Z",
+          "wordCount": 726,
+          "title": "第50回　Linuxの非特権コンテナで利用するID mappedマウント（1）",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1998_linux_container2022.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/daily-linux-221222?utm_source=feed",
+          "author": null,
+          "description": "Fedoraプロジェクトは現在、2023年4月にリリース予定の「Fedora Linux 38」に向けてさまざまな新機能の実装を検討中だが、そのひとつとして「Unified Kernel Image（UKI）」の段階的なサポートが検討されている。",
+          "link": "https://gihyo.jp/article/2022/12/daily-linux-221222?utm_source=feed",
+          "publishedOn": "2022-12-22T05:25:00.000Z",
+          "wordCount": 159,
+          "title": "より堅牢なLinux起動プロセスを求めて ―Fedora，段階的な「Unified Kernel Image」サポートに向けてスタート",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/savanna-letter/0003?utm_source=feed",
+          "author": null,
+          "description": "今回は、自動テスト前提の時代にうまくフィットするテスト分類について考えます。",
+          "link": "https://gihyo.jp/dev/serial/01/savanna-letter/0003?utm_source=feed",
+          "publishedOn": "2022-12-22T00:13:00.000Z",
+          "wordCount": 178,
+          "title": "第3回　テストサイズ ～自動テストとCIにフィットする明確なテスト分類基準～",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1906_savanna-letter.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/kubernetes-cloudnative-topics-05?utm_source=feed",
+          "author": null,
+          "description": "連載「5分でわかる！Kubernetes/CloudNative Topics」の第5回は、最近のNewSQL事情について紹介します。この記事ではNewSQLとは何かについて説明した後、NewSQLソフトウェアであるTiDB、YugabyteDB、CockroachDBを実際のKubernetes環境で動かす方法について紹介します。",
+          "link": "https://gihyo.jp/article/2022/12/kubernetes-cloudnative-topics-05?utm_source=feed",
+          "publishedOn": "2022-12-22T00:12:00.000Z",
+          "wordCount": 1165,
+          "title": "入門NewSQL 〜Kubernetes上で手軽に使えるNewSQLを動かしてみよう",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1951_kubernetes-cloudnative-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/android-weekly-topics-221222?utm_source=feed",
+          "author": null,
+          "description": "今回は、筆者が2022年に購入したスマートウォッチについて振り返ってみます。",
+          "link": "https://gihyo.jp/article/2022/12/android-weekly-topics-221222?utm_source=feed",
+          "publishedOn": "2022-12-22T00:12:00.000Z",
+          "wordCount": 253,
+          "title": "2022年を振り返る。スマートウォッチ編",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/ruby30th?utm_source=feed",
+          "author": null,
+          "description": "プログラミング言語Rubyの30周年を記念して、「プログラミング言語Ruby30周年記念イベント」がオンラインで開催される。",
+          "link": "https://gihyo.jp/article/2022/12/ruby30th?utm_source=feed",
+          "publishedOn": "2022-12-21T02:22:00.000Z",
+          "wordCount": 140,
+          "title": "「プログラミング言語Ruby30周年記念イベント」が2月25日に開催。現在ライトニングトークを募集中",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/2010_ruby30th.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/try-swift-tokyo-meetup?utm_source=feed",
+          "author": null,
+          "description": "Swiftのコミュニティの「try! Swift Tokyo」は、2023年1月21日（土）にMeetupを開催する。本日21日からチケットの申し込みを受け付けている。",
+          "link": "https://gihyo.jp/article/2022/12/try-swift-tokyo-meetup?utm_source=feed",
+          "publishedOn": "2022-12-21T01:49:00.000Z",
+          "wordCount": 158,
+          "title": "「try! Swift Tokyo Meetup」が1月21日に開催。本日よりチケットの申し込みが可能に",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/2009_try-swift-tokyo-meetup.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0743?utm_source=feed",
+          "author": null,
+          "description": "Ubuntuは、標準のブートローダーとしてGRUBを採用しています。ほとんどの利用者は、インストール時に自動設定されるGRUBをそのまま利用し続けていることでしょう。今回は初心者向けに、このGRUBがどう動いているのか、そしてどのように設定可能なのかを紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0743?utm_source=feed",
+          "publishedOn": "2022-12-21T00:52:00.000Z",
+          "wordCount": 594,
+          "title": "第743回　Ubuntuの標準ブートローダーであるGRUBを改めて見直す",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0743/ogp.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/technical_field/0008?utm_source=feed",
+          "author": null,
+          "description": "今回はエンジニアと一緒に製品の価値を高めるプロダクトマネジメントをテーマに小城さんにインタビューします。",
+          "link": "https://gihyo.jp/dev/serial/01/technical_field/0008?utm_source=feed",
+          "publishedOn": "2022-12-21T00:21:00.000Z",
+          "wordCount": 341,
+          "title": "第8回　価値を高めるプロダクトマネジメント",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1904_neighboring-technical-field.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/daily-linux-221220?utm_source=feed",
+          "author": null,
+          "description": "Linus Torvaldsは12月11日（米国時間）、前週の告知どおりに「Linux 6.1」の正式リリースをアナウンスした。",
+          "link": "https://gihyo.jp/article/2022/12/daily-linux-221220?utm_source=feed",
+          "publishedOn": "2022-12-20T03:08:00.000Z",
+          "wordCount": 153,
+          "title": "Linux 6.1の注目機能「MGLRU」―メモリ管理に取り入れられたエイジングシステム",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/mitene-03aws-ri-sps?utm_source=feed",
+          "author": null,
+          "description": "みてね×gihyo.jpスペシャル企画。3回目はみてねでのRI/SPsの活用の歴史を振り返りながら、それぞれを購入する際に注意すべきポイントについて共有いたします。",
+          "link": "https://gihyo.jp/article/2022/12/mitene-03aws-ri-sps?utm_source=feed",
+          "publishedOn": "2022-12-19T00:18:00.000Z",
+          "wordCount": 282,
+          "title": "『家族アルバム みてね』に学ぶ、AWSのReserved InstancesとSavings Plansの勘所",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/2008_mitene03.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/obsidian-02?utm_source=feed",
+          "author": null,
+          "description": "前回の「Obsidianの紹介」を見て、「Obsidianを使ってみたい」と感じた方はダウンロードしてインストールしてみましょう。今回は、Obsidianの初期設定に加え、プラグインの導入について紹介します。",
+          "link": "https://gihyo.jp/article/2022/12/obsidian-02?utm_source=feed",
+          "publishedOn": "2022-12-19T00:15:00.000Z",
+          "wordCount": 316,
+          "title": "標準機能でも便利な「Obsidian」をプラグインで使いやすくする",
+          "imageUrl": "https://gihyo.jp/assets/images/article/2022/12/obsidian-02/image12.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/internet-forecast-report-22?utm_source=feed",
+          "author": null,
+          "description": "地球低軌道（LEO：Low Earth Orbit）を周回する通信衛星群により構成された、Space Exploration Technologies Corp.の衛星インターネットサービスである「スターリンク」の提供が、日本でも2022年10月から始まりました。",
+          "link": "https://gihyo.jp/article/2022/12/internet-forecast-report-22?utm_source=feed",
+          "publishedOn": "2022-12-19T00:15:00.000Z",
+          "wordCount": 148,
+          "title": "第22回　衛星コンステレーション",
+          "imageUrl": "https://gihyo.jp/assets/images/article/2022/12/internet-forecast-report-22/ifr-22-01.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/16?utm_source=feed",
+          "author": null,
+          "description": "RISC-V SummitへのCanonicalの参加に伴い、Ubuntu/CanonicalのRISC-Vへの対応についてまとめたblog記事が提供されています。また、23.04の開発でも、さまざまなタスクが進行しています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/16?utm_source=feed",
+          "publishedOn": "2022-12-16T00:53:00.000Z",
+          "wordCount": 430,
+          "title": "Ubuntu/CanonicalのRISC-V関連の進捗、23.04（lunar）の開発 / ホリデーシーズンの始まり",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007502?utm_source=feed",
+          "author": null,
+          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは一野瀬翔吾さんで、テーマは「AWS Lambda入門」（2）です。",
+          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007502?utm_source=feed",
+          "publishedOn": "2022-12-16T00:18:00.000Z",
+          "wordCount": 475,
+          "title": "第75回　AWS Lambda入門 サーバレスでもPerlを活用しよう！（2）",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1905_perl-hackers-hub.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007501?utm_source=feed",
+          "author": null,
+          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは一野瀬翔吾さんで、テーマは「AWS Lambda入門」（1）です。",
+          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007501?utm_source=feed",
+          "publishedOn": "2022-12-15T00:31:00.000Z",
+          "wordCount": 357,
+          "title": "第75回　AWS Lambda入門 サーバレスでもPerlを活用しよう！（1）",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1905_perl-hackers-hub.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/android-weekly-topics-221215?utm_source=feed",
+          "author": null,
+          "description": "今年も終わりが見えてきました。今回は、筆者が2022年に購入したAndroid端末について振り返ってみます。",
+          "link": "https://gihyo.jp/article/2022/12/android-weekly-topics-221215?utm_source=feed",
+          "publishedOn": "2022-12-15T00:15:00.000Z",
+          "wordCount": 208,
+          "title": "2022年を振り返る。Androidスマホ編",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0742?utm_source=feed",
+          "author": null,
+          "description": "今回はAMDのGPGPUソフトウェアスタックであるROCmを使用し、Blenderのレンダリングを高速化する方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0742?utm_source=feed",
+          "publishedOn": "2022-12-14T01:11:00.000Z",
+          "wordCount": 254,
+          "title": "第742回　AMD RadeonとROCmでBlenderを高速化する",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0742/01.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/increase-productivity-of-r-04?utm_source=feed",
+          "author": null,
+          "description": "自身のPC上に毎回Rを実行できる環境を作るのは、時に大変な作業です。少しだけ使ってみたい場合やコードと実行結果を簡単に共有したい場合もあります。今回はそんなときに便利な、オンラインでコードを実行できる「Google Colaboratory」と「Kaggle Notebook」というサービスを紹介します。",
+          "link": "https://gihyo.jp/article/2022/12/increase-productivity-of-r-04?utm_source=feed",
+          "publishedOn": "2022-12-13T03:00:00.000Z",
+          "wordCount": 386,
+          "title": "Google Colaboratory/Kaggle Notebookが生産性を高める ～ノートブックでRを使用する～",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/r-user-productivity-04.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/mysql-rcn0186?utm_source=feed",
+          "author": null,
+          "description": "information_schemaデータベースのテーブルやビューはMySQLがデータを管理していて、ユーザからの書き込みは許可されず読み取りのみ可能です。今回はその中から、InnoDBに関するinformation_schemaのテーブルについて紹介したいと思います。",
+          "link": "https://gihyo.jp/article/2022/12/mysql-rcn0186?utm_source=feed",
+          "publishedOn": "2022-12-13T00:17:00.000Z",
+          "wordCount": 621,
+          "title": "第186回　information_schemaのInnoDB関連テーブル［その1］",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/ruby-procon2022-12?utm_source=feed",
+          "author": null,
+          "description": "今回で12回目を迎えた「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」。2022年12月3日に最優秀賞他、各賞が決定した。",
+          "link": "https://gihyo.jp/article/2022/12/ruby-procon2022-12?utm_source=feed",
+          "publishedOn": "2022-12-12T06:20:00.000Z",
+          "wordCount": 227,
+          "title": "「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」受賞者決定！",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/2007_rubyprocon.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/prevent-vulnerability-0005?utm_source=feed",
+          "author": null,
+          "description": "いよいよ本連載も今回で最終回です。最終回ということで、近年報告件数が増加傾向にある「型混同の脆弱性」を取り上げたいと思います。",
+          "link": "https://gihyo.jp/article/2022/12/prevent-vulnerability-0005?utm_source=feed",
+          "publishedOn": "2022-12-12T00:31:00.000Z",
+          "wordCount": 537,
+          "title": "第5回（最終回）　PHPの脆弱性 ～型混同～",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/prevent-vulnerability.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/aws-data-analytics-0002?utm_source=feed",
+          "author": null,
+          "description": "本連載の第1回ではデータ活用の全体像について解説しました。第2回は分析の前準備である“データの収集”に焦点を当てて解説していきます。",
+          "link": "https://gihyo.jp/article/2022/12/aws-data-analytics-0002?utm_source=feed",
+          "publishedOn": "2022-12-12T00:30:00.000Z",
+          "wordCount": 450,
+          "title": "データ分析のために必要な「データの収集」の基本 ～AWSを利用したデータ収集の流れを知る",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1989_aws-data-analytics.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/09?utm_source=feed",
+          "author": null,
+          "description": "Ubuntu Cinnamon Remixが、公式なフレーバーとして認められるかもしれません。23.04（lunar）リリースにあわせる形で、Ubuntu Cinnamonの公式フレーバー化へのプロポーザルが提出されています。また、2023年1月にラスベガスで開催されるCES 2023に向けて、Canonicalがブースの宣伝を開始しています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/09?utm_source=feed",
+          "publishedOn": "2022-12-09T01:24:00.000Z",
+          "wordCount": 577,
+          "title": "Ubuntu Cinnamonの公式フレーバーへの歩み、CES 2023のCanonicalブース",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/illustrator-itpassport-12?utm_source=feed",
+          "author": null,
+          "description": "本連載は、イラストレーターイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第12回目は、ITパスポートを受験した結果や、試験を受けているときの様子などについて書いていきます。",
+          "link": "https://gihyo.jp/article/2022/12/illustrator-itpassport-12?utm_source=feed",
+          "publishedOn": "2022-12-09T00:45:00.000Z",
+          "wordCount": 173,
+          "title": "第12回　イシクラのITパスポートの合否結果発表",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1911_illustrator-itpassport.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/aws-re_invent2022?utm_source=feed",
+          "author": null,
+          "description": "11月28日（米国時間）から12月2日までの5日間、米ラスベガスで開催されたAWSのグローバル年次カンファレンス「AWS re:Invent 2022」には、全世界から5万人を超えるAWSユーザ/開発者が参加し、数多くの新サービスや最新事例が発表されました。",
+          "link": "https://gihyo.jp/article/2022/12/aws-re_invent2022?utm_source=feed",
+          "publishedOn": "2022-12-08T08:01:00.000Z",
+          "wordCount": 312,
+          "title": "トレードオフなきパフォーマンスアップを追求し続けるAWSインフラのいま ―AWS re:Invent 2022 キーノートから",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/2006_aws-re_invent2022.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/android-weekly-topics-221208?utm_source=feed",
+          "author": null,
+          "description": "12月1日、Googleがホリデーシーズンに提供予定のAndroidとWear OS向け新機能を発表しました。公式ページの紹介記事では「Special delivery! New Android features this holiday season」と、スペシャル感のあるタイトルが付けられています。",
+          "link": "https://gihyo.jp/article/2022/12/android-weekly-topics-221208?utm_source=feed",
+          "publishedOn": "2022-12-08T00:15:00.000Z",
+          "wordCount": 228,
+          "title": "Googleサンタからのプレゼント「New Android Features！」",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0741?utm_source=feed",
+          "author": null,
+          "description": "2022年11月26日、27日に韓国ソウルでオンラインとオフラインのハイブリッドで開催された「UbuCon Asia 2022」に参加してきました。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0741?utm_source=feed",
+          "publishedOn": "2022-12-07T00:52:00.000Z",
+          "wordCount": 501,
+          "title": "第741回　UbuCon Asia 2022 Korea参加レポート",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0741/2-keynote-upstream-downstream.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/monthly-python-2212?utm_source=feed",
+          "author": null,
+          "description": "鈴木たかのりです。今月のPython Monthly Topicsでは、Python 3.10から導入されたBetter error messagesについて紹介します。Better error messagesがどういったものであるかの紹介と、どのようにこのエラーメッセージが出力されているか、Python内部の処理についても触れようと思います。",
+          "link": "https://gihyo.jp/article/2022/12/monthly-python-2212?utm_source=feed",
+          "publishedOn": "2022-12-06T00:16:00.000Z",
+          "wordCount": 1070,
+          "title": "Python 3.10から導入されたBetter error messagesの深掘り",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1894_python-monthly.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/daily-linux-221205?utm_source=feed",
+          "author": null,
+          "description": "Linus Torvaldsは12月4日（米国時間）、開発中の次期カーネル「Linux 6.1」の8本目のリリース候補版となる「Linux 6.1-rc8」を公開した。",
+          "link": "https://gihyo.jp/article/2022/12/daily-linux-221205?utm_source=feed",
+          "publishedOn": "2022-12-05T01:27:00.000Z",
+          "wordCount": 144,
+          "title": "Linux 6.1-rc8がリリース、正式版公開は12/11に",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/12/prevent-vulnerability-0004?utm_source=feed",
+          "author": null,
+          "description": "本連載では、読者の方にも馴染みのあるOSSで発見された脆弱性を毎月取り上げ、「どのようなコードが、どのような形で脆弱性として発現するのか」、そして「どのように修正されたか」を追います。今回は基本的な脆弱性の1つである「スタックバッファオーバーフロー」を取り上げたいと思います。",
+          "link": "https://gihyo.jp/article/2022/12/prevent-vulnerability-0004?utm_source=feed",
+          "publishedOn": "2022-12-05T00:24:00.000Z",
+          "wordCount": 400,
+          "title": "第4回　PHPの脆弱性 ～スタックバッファオーバーフロー～",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/prevent-vulnerability.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0009?utm_source=feed",
+          "author": null,
+          "description": "近年、IBMが主体的に関わっていて多くの中国企業も参加しているHyperledger Fabricについてご紹介します。",
+          "link": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0009?utm_source=feed",
+          "publishedOn": "2022-12-05T00:15:00.000Z",
+          "wordCount": 173,
+          "title": "第9回　中国の通信キャリアがブロックチェーンでの酸素放出量管理を進める理由",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2021/1857_china-oss-frontline.png"
+        }
+      ]
+    },
+    {
+      "title": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "siteUrl": "https://news.ycombinator.com/",
+      "articles": [
+        {
+          "id": "https://www.economist.com/christmas-specials/2022/12/20/should-we-care-about-people-who-need-never-exist",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/christmas-specials/2022/12/20/should-we-care-about-people-who-need-never-exist",
+          "publishedOn": "2023-01-02T17:24:53.000Z",
+          "wordCount": 21070,
+          "title": "Should we care about people who need never exist?",
+          "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221224_XMD011.jpg"
+        },
+        {
+          "id": "https://100r.co/site/weathering_software_winter.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://100r.co/site/weathering_software_winter.html",
+          "publishedOn": "2023-01-02T16:20:17.000Z",
+          "wordCount": 6152,
+          "title": "Weathering Software Winter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dustri.org/b/the-quest-for-a-family-friendly-password-manager.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dustri.org/b/the-quest-for-a-family-friendly-password-manager.html",
+          "publishedOn": "2023-01-02T16:06:31.000Z",
+          "wordCount": 2013,
+          "title": "The quest for a family-friendly password manager",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34219422",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34219422",
+          "publishedOn": "2023-01-02T16:05:59.000Z",
+          "wordCount": 12973,
+          "title": "Airbnb removed my negative review",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34219335",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34219335",
+          "publishedOn": "2023-01-02T16:01:16.000Z",
+          "wordCount": 12037,
+          "title": "Ask HN: Who is hiring? (January 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pixletters.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pixletters.com/",
+          "publishedOn": "2023-01-02T15:46:15.000Z",
+          "wordCount": 339,
+          "title": "Show HN: Pixletters – Word guessing puzzle game where used pixels give you clues",
+          "imageUrl": "https://pixletters.com/icon.png"
+        },
+        {
+          "id": "https://compactmag.com/article/the-privatization-of-policing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://compactmag.com/article/the-privatization-of-policing",
+          "publishedOn": "2023-01-02T15:25:35.000Z",
+          "wordCount": 6361,
+          "title": "The Privatization of Policing",
+          "imageUrl": "https://cdn.sanity.io/images/rqbxxjr2/production/d2aa73476155b092218b7108ded69408aa94028e-4000x2666.jpg?w=1200&h=630"
+        },
+        {
+          "id": "https://nutcroft.com/blog/an-ontology-of-hope/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nutcroft.com/blog/an-ontology-of-hope/",
+          "publishedOn": "2023-01-02T15:18:03.000Z",
+          "wordCount": 2833,
+          "title": "An Ontology of Hope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/skuep/AIOC",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/skuep/AIOC",
+          "publishedOn": "2023-01-02T15:06:45.000Z",
+          "wordCount": 1196,
+          "title": "AIOC: Ham Radio All-in-One-Cable",
+          "imageUrl": "https://opengraph.githubassets.com/3ffc57f95c9569b85eb097f583245b5a78da817196ec894bc41fbcdb79752f47/skuep/AIOC"
+        },
+        {
+          "id": "https://worldwideweb.cern.ch/browser/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://worldwideweb.cern.ch/browser/",
+          "publishedOn": "2023-01-02T15:02:36.000Z",
+          "wordCount": 9,
+          "title": "WorldWideWeb, the First Web Browser",
+          "imageUrl": "https://worldwideweb.cern.ch/images/colophon/thegroup.jpg"
+        },
+        {
+          "id": "https://old.reddit.com/r/kdenlive/comments/101cvw3/how_you_know_you_had_a_good_year_both_filmora_and/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://old.reddit.com/r/kdenlive/comments/101cvw3/how_you_know_you_had_a_good_year_both_filmora_and/",
+          "publishedOn": "2023-01-02T14:42:56.000Z",
+          "wordCount": 1808,
+          "title": "Filmora and Adobe decide to use “Kdenlive” as a keyword in their online ads",
+          "imageUrl": "https://external-preview.redd.it/g3ycQPhEBruFpbhPH5O1alKWmiA8TyUmW3qVcDo4ykw.png?width=830&height=434.554973822&auto=webp&crop=830:434.554973822,smart&s=31af57260591cf9484eee4cb694ed08e4f031157"
+        },
+        {
+          "id": "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00586-2/fulltext",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00586-2/fulltext",
+          "publishedOn": "2023-01-02T14:34:02.000Z",
+          "wordCount": 19403,
+          "title": "Optimal hydration may slow down the aging process in humans",
+          "imageUrl": "https://www.thelancet.com/cms/asset/4c8b9830-a4bc-46d0-a991-7bd282312102/figs1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34218003",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34218003",
+          "publishedOn": "2023-01-02T14:13:11.000Z",
+          "wordCount": 24694,
+          "title": "Ask HN: Why did Frontend development explode in complexity?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gravitymoth.com/spall/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gravitymoth.com/spall/",
+          "publishedOn": "2023-01-02T14:07:34.000Z",
+          "wordCount": 834,
+          "title": "Show HN: Spall – WASM-based profiler for JavaScript and C in ~5k lines of Odin",
+          "imageUrl": "https://gravitymoth.com/media/spall_unfurl.png"
+        },
+        {
+          "id": "https://wkk.usa.mybluehost.me/mazda-just-proved-that-synthetic-fuels-could-be-the-future/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wkk.usa.mybluehost.me/mazda-just-proved-that-synthetic-fuels-could-be-the-future/",
+          "publishedOn": "2023-01-02T13:45:51.000Z",
+          "wordCount": 2261,
+          "title": "Mazda has tested a synthetic fuel in an unmodified MX5 on a 1000-mile road trip",
+          "imageUrl": "https://cdn-images-1.medium.com/max/800/1*FUA2YDiYdu35Sy_I1dnStg.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/science/2023/01/companies-are-relying-on-quantum-annealers-for-useful-computations/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/science/2023/01/companies-are-relying-on-quantum-annealers-for-useful-computations/",
+          "publishedOn": "2023-01-02T12:30:00.000Z",
+          "wordCount": 1696,
+          "title": "What are companies doing with D-Wave’s quantum hardware?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/quantum-computing2-760x380.jpeg"
+        },
+        {
+          "id": "https://www.bu.edu/articles/2022/fallou-ngom-discovers-ajami-african-writing-system/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bu.edu/articles/2022/fallou-ngom-discovers-ajami-african-writing-system/",
+          "publishedOn": "2023-01-02T12:09:56.000Z",
+          "wordCount": 4753,
+          "title": "Unearthing long ignored African writing system, researcher finds African history",
+          "imageUrl": "https://www.bu.edu/files/2022/12/social-22-1696-AFRICAN-006.jpg"
+        },
+        {
+          "id": "https://jesseduffield.com/Type-Keys/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jesseduffield.com/Type-Keys/",
+          "publishedOn": "2023-01-02T11:25:30.000Z",
+          "wordCount": 1703,
+          "title": "Code Smell of the Day: Type Keys (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/",
+          "publishedOn": "2023-01-02T11:07:39.000Z",
+          "wordCount": 8043,
+          "title": "How many layers of UI inconsistencies are in Windows 11?",
+          "imageUrl": "https://ntdotdev.files.wordpress.com/2023/01/screenshot-2023-01-01-214501.png"
+        },
+        {
+          "id": "https://accu.org/journals/overload/30/172/teodorescu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://accu.org/journals/overload/30/172/teodorescu/",
+          "publishedOn": "2023-01-02T09:49:11.000Z",
+          "wordCount": null,
+          "title": "The Year of C++ Successor Languages",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/bigscience-workshop/petals",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/bigscience-workshop/petals",
+          "publishedOn": "2023-01-02T08:28:22.000Z",
+          "wordCount": 1536,
+          "title": "Petals: Run 100B+ language models at home bit-torrent style",
+          "imageUrl": "https://opengraph.githubassets.com/8a2fd95354c706c184f3cad6114ec4cfcfe3b586c5587da5f83cc3bc68eb2e45/bigscience-workshop/petals"
+        },
+        {
+          "id": "https://phauer.com/2022/book-remote-work-lessons-learned/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phauer.com/2022/book-remote-work-lessons-learned/",
+          "publishedOn": "2023-01-02T06:23:06.000Z",
+          "wordCount": 888,
+          "title": "Lessons Learned from the Book “Effective Remote Work”",
+          "imageUrl": "https://phauer.com/blog/2022/02-book-remote-work-lessons-learned/photo-book-remote-work.jpg"
+        },
+        {
+          "id": "https://onsclom.bearblog.dev/functional-programming-how-and-why/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onsclom.bearblog.dev/functional-programming-how-and-why/",
+          "publishedOn": "2023-01-02T03:59:02.000Z",
+          "wordCount": 1020,
+          "title": "Functional Programming – How and Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://idlewords.com/2023/1/why_not_mars.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://idlewords.com/2023/1/why_not_mars.htm",
+          "publishedOn": "2023-01-02T02:29:45.000Z",
+          "wordCount": 8352,
+          "title": "Why Not Mars",
+          "imageUrl": null
+        },
+        {
+          "id": "https://exposing.ai/megaface/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://exposing.ai/megaface/",
+          "publishedOn": "2023-01-02T01:09:03.000Z",
+          "wordCount": 1762,
+          "title": "Megaface",
+          "imageUrl": "https://exposing.ai/assets/pages/datasets/megaface/assets/background.jpg"
+        },
+        {
+          "id": "https://murdoch.is/projects/currency/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://murdoch.is/projects/currency/",
+          "publishedOn": "2023-01-01T23:34:55.000Z",
+          "wordCount": 1151,
+          "title": "Software Detection of Currency (2004)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://seanblanchfield.com/2022/02/automating-heating-with-home-assistant",
+          "author": null,
+          "description": "Comments",
+          "link": "https://seanblanchfield.com/2022/02/automating-heating-with-home-assistant",
+          "publishedOn": "2023-01-01T18:59:27.000Z",
+          "wordCount": 2256,
+          "title": "Automating Heating with Home Assistant",
+          "imageUrl": "https://seanblanchfield.com/images/2022/02/wall-panel-1.jpg"
+        },
+        {
+          "id": "https://baida.dev/articles/https-explained-with-carrier-pigeons",
+          "author": null,
+          "description": "Comments",
+          "link": "https://baida.dev/articles/https-explained-with-carrier-pigeons",
+          "publishedOn": "2022-12-31T06:10:46.000Z",
+          "wordCount": 2360,
+          "title": "HTTPS explained with carrier pigeons",
+          "imageUrl": null
+        },
+        {
+          "id": "https://commoncog.com/cash-flow-games/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://commoncog.com/cash-flow-games/",
+          "publishedOn": "2022-12-30T22:28:52.000Z",
+          "wordCount": 7249,
+          "title": "Games people play with cash flow",
+          "imageUrl": "https://commoncog.com/content/images/2020/12/cash_flow_games_people_play.jpeg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_h5TXh20_fQ",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=_h5TXh20_fQ",
+          "publishedOn": "2022-12-30T19:39:11.000Z",
+          "wordCount": null,
+          "title": "GameBoy Graphics Part 2: Tile Maps [video]",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
