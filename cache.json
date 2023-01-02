@@ -922,6 +922,16 @@
       "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/040/004000c",
+          "author": null,
+          "description": "2日午後8時50分ごろ、青森県おいらせ町の青い森鉄道の線路上で、電車と車が衝突した。県警三沢署によると、車に乗っていた高齢の男性が病院に搬送されたが、死亡が確認された。電車の乗客らにけがはなかった。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/040/004000c",
+          "publishedOn": "2023-01-02T16:38:18.000Z",
+          "wordCount": 1074,
+          "title": "踏切のない線路上で車が電車と衝突　車の高齢男性が死亡　青森",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/02/28/20220228k0000m040097000p/0c10.jpg?1"
+        },
+        {
           "id": "https://mainichi.jp/articles/20230102/k00/00m/040/161000c",
           "author": null,
           "description": "2日午後8時10分ごろ、福島県郡山市大平町の市道交差点で、乗用車と軽乗用車が衝突し、4人が乗った軽乗用車が横転し炎上した。県警郡山署によると、軽乗用車の車内から4人の遺体が見つかり、身元の確認を急いでいる。",
@@ -1750,6 +1760,12 @@
           "imageUrl": "https://www.mitsue.co.jp/assets/img/og/img-default.png"
         }
       ]
+    },
+    {
+      "title": "寝ログ",
+      "feedUrl": "http://nelog.jp/feed",
+      "siteUrl": "https://nelog.jp",
+      "articles": []
     },
     {
       "title": "CodeZine:新着一覧",
