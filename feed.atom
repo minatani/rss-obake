@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T12:49:43.741Z</updated>
+    <updated>2023-01-02T16:12:28.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[車と衝突し軽乗用車が炎上、4人死亡　車の運転手逮捕　福島・郡山]]></title>
+        <id>https://mainichi.jp/articles/20230102/k00/00m/040/161000c</id>
+        <link href="https://mainichi.jp/articles/20230102/k00/00m/040/161000c"/>
+        <updated>2023-01-02T15:47:40.000Z</updated>
+        <summary type="html"><![CDATA[2日午後8時10分ごろ、福島県郡山市大平町の市道交差点で、乗用車と軽乗用車が衝突し、4人が乗った軽乗用車が横転し炎上した。県警郡山署によると、軽乗用車の車内から4人の遺体が見つかり、身元の確認を急いでいる。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飲食店で20代男性2人刺される　刺した男性は逃走　相模原]]></title>
+        <id>https://mainichi.jp/articles/20230102/k00/00m/040/160000c</id>
+        <link href="https://mainichi.jp/articles/20230102/k00/00m/040/160000c"/>
+        <updated>2023-01-02T14:45:28.000Z</updated>
+        <summary type="html"><![CDATA[2日午後7時ごろ、相模原市中央区相模原2のベトナム料理店内で「客同士がけんかしている」と来店客から110番があった。神奈川県警によると、ベトナム国籍の男性2人が、別の男性に刃物のようなもので腹や背中を刺された。病院に搬送されたが、意識はあったという。刺した男性は現場から逃走しており、県警が殺人未遂]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米俳優のジェレミー・レナーさん　除雪中に大けが　容体は安定]]></title>
+        <id>https://mainichi.jp/articles/20230102/k00/00m/030/164000c</id>
+        <link href="https://mainichi.jp/articles/20230102/k00/00m/030/164000c"/>
+        <updated>2023-01-02T14:20:03.000Z</updated>
+        <summary type="html"><![CDATA[米アカデミー賞で主演男優賞候補になった経歴のある俳優ジェレミー・レナーさん（51）が除雪作業中の事故で大けがをしたと、米メディアが2日に報じた。容体は安定しているという。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オタリアの書き初め見に来て　八景島シーパラダイスのカップル挑戦]]></title>
+        <id>https://mainichi.jp/articles/20230102/k00/00m/040/157000c</id>
+        <link href="https://mainichi.jp/articles/20230102/k00/00m/040/157000c"/>
+        <updated>2023-01-02T13:15:26.000Z</updated>
+        <summary type="html"><![CDATA[横浜市金沢区の「横浜・八景島シーパラダイス」ふれあいラグーン内で1日、新年恒例のアシカの仲間オタリアによる書き初め披露が始まった。31日まで。10日からは来場者の希望した漢字にも挑戦する。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[豪東部ゴールドコーストでヘリ2機が空中衝突　4人死亡、3人重体]]></title>
         <id>https://mainichi.jp/articles/20230102/k00/00m/030/155000c</id>
@@ -647,6 +687,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ゲームデバッグはもう古い？　現代的なゲームテストの考え方となる「ソフトウェアテストの7原則」とは]]></title>
+        <id>http://codezine.jp/article/detail/17032</id>
+        <link href="http://codezine.jp/article/detail/17032"/>
+        <updated>2022-12-28T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム業界で行われているデバッグは「バグ探し」としてのみ認識されており、それだけでは品質を担保するのが難しくなっている。そう語るのが『ゲームをテストする』の著者で、約20年で100以上のタイトルやプロジェクトのテストや品質支援に携わってきた花房輝鑑さんです。花房さんが取り組んできたのはゲームデバッグに代わる「ゲームテスト」。ゲームの品質管理には、ソフトウェアテストの手法を取り入れたゲームテストが欠かせません。今回は本書から、なぜゲームデバッグからゲームテストへ移行しつつあるのか、そしてゲームテストを支える考え方である「ソフトウェアテストの7原則」を紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[視聴室:第1部ドラマ　松本清張と「小説　帝銀事件」]]></title>
         <id>https://mainichi.jp/articles/20221229/ddm/018/200/020000c</id>
         <link href="https://mainichi.jp/articles/20221229/ddm/018/200/020000c"/>
@@ -698,6 +748,26 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[満席続出の大人気リモートモブプログラミング講座がリニューアル、来年2月22日初開催]]></title>
+        <id>http://codezine.jp/article/detail/17070</id>
+        <link href="http://codezine.jp/article/detail/17070"/>
+        <updated>2022-12-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CodeZineは、モブプログラミングを広めた安井力氏や及部敬雄氏といった第一人者を講師に迎え、CodeZine Academyの講座「リーダー＆マネージャーのためのチームの生産性をあげるモブプログラミング入門」を、2023年2月22日にオンライン開催する。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エッジでJavaScript/TypeScriptを処理、Vercelが「Edge Functions」を正式に公開]]></title>
+        <id>http://codezine.jp/article/detail/17113</id>
+        <link href="http://codezine.jp/article/detail/17113"/>
+        <updated>2022-12-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Vercelは、エンドユーザーに近い「エッジ」でJavaScript/TypeScriptを処理する「Edge Functions」を12月15日（現地時間）に正式に公開した。2022年6月にパブリック・ベータとして公開し、改良を重ねながら今回の一般公開にこぎ着けた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022年の記事ランキング トップ10]]></title>
         <id>https://eetimes.itmedia.co.jp/ee/articles/2212/28/news068.html</id>
         <link href="https://eetimes.itmedia.co.jp/ee/articles/2212/28/news068.html"/>
@@ -725,6 +795,26 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         <summary type="html"><![CDATA[地球世界は、水月雨ブランドの開放型ヘッドフォン「空鳴-VOID」と、平面磁界型ドライバー採用の「啓明星-VENUS」を発売した。価格はどちらもオープンプライス。店頭予想価格は、空鳴-VOIDが30,400円前後、啓明星-VENUSが95,000円前後。]]></summary>
         <author>
             <name>AV Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitリポジトリマネージャ「GitLab 15.7」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/17094</id>
+        <link href="http://codezine.jp/article/detail/17094"/>
+        <updated>2022-12-28T05:40:00.000Z</updated>
+        <summary type="html"><![CDATA[米GitLabは、同社の開発するGitリポジトリマネージャGitLabの最新バージョンとなる、「GitLab 15.7」を12月22日（現地時間）にリリースした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubyの30周年を記念したイベント、2023年2月25日にオンライン開催]]></title>
+        <id>http://codezine.jp/article/detail/17095</id>
+        <link href="http://codezine.jp/article/detail/17095"/>
+        <updated>2022-12-28T05:40:00.000Z</updated>
+        <summary type="html"><![CDATA[プログラミング言語「Ruby」の30周年記念イベントが、2023年2月25日にオンライン開催される。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
@@ -817,6 +907,46 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DockerとSSHでセキュリティと手軽さを両立したリモート開発環境を構築する]]></title>
+        <id>http://codezine.jp/article/detail/16975</id>
+        <link href="http://codezine.jp/article/detail/16975"/>
+        <updated>2022-12-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リモートワークが一般的になり、一方でさまざまな課題が生じてきています。特にコミュニケーションの課題などは多くの人に関係するため大きな関心を集め、急速にさまざまなソリューションが出てきています。一方で開発業務に目を向けると、少しずつ進みつつあるものの、デファクトと言えるほどのものもなく、情報もあまり共有されていないように思います。そこで、筆者がいろいろと試行錯誤をしながら行った施策について紹介したいと思います。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS「GuardDuty」「Firewall Manager」がもっと便利に！ セキュリティ関連のアップデート3選]]></title>
+        <id>http://codezine.jp/article/detail/17075</id>
+        <link href="http://codezine.jp/article/detail/17075"/>
+        <updated>2022-12-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本連載では、AWSに関して、なかなか時間がとれず最新のアップデートを追えていない方や、これからAWSを利用したいと考えている方に向けて、AWSから発表される数多あるサービスアップデートのうち、NTTデータのITスペシャリスト達がこれだけは押さえておくべきと厳選した内容を定期的に紹介します。第3回の本記事では、2022年に発表されたセキュリティ関連のアップデートについて紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セキュリティインシデントで顧客に広がる不安、企業が取るべき情報発信とは]]></title>
+        <id>http://codezine.jp/article/detail/17078</id>
+        <link href="http://codezine.jp/article/detail/17078"/>
+        <updated>2022-12-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[とある鉄道会社の社内SEの悲哀を描く技術系コメディ！ 姫路と京都を結ぶ京姫鉄道株式会社。広報部システム課に配属された祝園アカネは、今日もトラブルにてんてこまい！ 小説版『こうしす！社内SE祝園アカネの情報セキュリティ事件簿』の期間限定Kindle Unlimited配信を記念して、マンガ版「こうしす！」の傑作選をお届けします。情報処理安全確保支援士 祝園アカネの解説付き。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel、JavaScriptフレームワーク「Next.js 13.1」公開]]></title>
+        <id>http://codezine.jp/article/detail/17121</id>
+        <link href="http://codezine.jp/article/detail/17121"/>
+        <updated>2022-12-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Vercelは、JavaScriptフレームワーク「Next.js」の最新版「Next.js 13.1」を12月23日（現地時間）に公開した。Next.jsは、MITライセンスで公開しているオープンソース・ソフトウェアだ。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[1万回折り曲げても大丈夫、回路を印刷したPETフィルム]]></title>
         <id>https://eetimes.itmedia.co.jp/ee/articles/2212/28/news082.html</id>
         <link href="https://eetimes.itmedia.co.jp/ee/articles/2212/28/news082.html"/>
@@ -857,6 +987,46 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[令和4年度秋期情報処理技術者試験、14歳がデータベーススペシャリストに、72歳が応用情報技術者に合格し、最年少記録・最年長記録を更新]]></title>
+        <id>http://codezine.jp/article/detail/17110</id>
+        <link href="http://codezine.jp/article/detail/17110"/>
+        <updated>2022-12-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[情報処理推進機構は、10月9日に実施した令和4年度秋期情報処理技術者試験の応用情報技術者試験、高度試験および情報処理安全確保支援士試験の合格者を、12月22日に発表した。データベーススペシャリスト試験では、14歳の中学生が合格し、最年少記録を6年ぶりに更新されている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU／Linuxディストリビューション「Debian 11.6」が公開、カーネルをアップデート]]></title>
+        <id>http://codezine.jp/article/detail/17112</id>
+        <link href="http://codezine.jp/article/detail/17112"/>
+        <updated>2022-12-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GNU／Linuxディストリビューション「Debian」の開発チームは、最新安定版となる「Debian 11（コードネーム：bullseye）」の6番目のアップデート「Debian 11.6」を、12月17日（現地時間）に公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker、12月に登場したおすすめプラグインを紹介]]></title>
+        <id>http://codezine.jp/article/detail/17122</id>
+        <link href="http://codezine.jp/article/detail/17122"/>
+        <updated>2022-12-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Dockerは、クライアント向けコンテナ基盤「Docker Desktop」で使用できるプラグインの中から、12月に登場したおすすめプラグイン2種類を12月22日（現地時間）公開のブログで紹介した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企業でアジャイルを実践する“アジャイルリーダー”のためのイベント「Women in Agile Tokyo 2023」、2023年2月17日に開催]]></title>
+        <id>http://codezine.jp/article/detail/17123</id>
+        <link href="http://codezine.jp/article/detail/17123"/>
+        <updated>2022-12-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Women in Agile Tokyo 2023実行委員会は、企業でアジャイルを実践し、普及を支援する“アジャイルリーダー”のためのイベント「Women in Agile Tokyo 2023」を、2023年2月17日に大崎ブライトコア（東京都品川区）の3階にて開催する。チケット料金は5000円。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022年の半導体業界を振り返る ～景気低迷の露呈と進む分断]]></title>
         <id>https://eetimes.itmedia.co.jp/ee/articles/2212/28/news005.html</id>
         <link href="https://eetimes.itmedia.co.jp/ee/articles/2212/28/news005.html"/>
@@ -894,6 +1064,16 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         <summary type="html"><![CDATA[コロナ禍になって3年が経過し、我々の生活も「新しい生活様式」のままで行くのか、それともコロナ前の生活に戻るのかの岐路に立たされたのが、2022年という年だったのではないだろうか。様々な制限の中で、北京2022オリンピック・パラリンピック、2022 FIFAワールドカップといった大きなスポーツイベントもあり、展示会や製品発表会も規模を縮小しつつも前向きに開催されるようになってきている。]]></summary>
         <author>
             <name>AV Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要件定義の不安をなくす。全体像や機能、進め方などを『図解まるわかり 要件定義のきほん』から解説]]></title>
+        <id>http://codezine.jp/article/detail/17022</id>
+        <link href="http://codezine.jp/article/detail/17022"/>
+        <updated>2022-12-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[要件定義はプロジェクトの成否を左右するほど重要なものですが、いざその担当になったとき、不安なく要件定義書をまとめることはできるでしょうか。失敗しながら学ぶことも大切とはいえ、最初から知識があればより効率的に要件定義を進められます。今回は、書籍『図解まるわかり 要件定義のきほん』（翔泳社）から、要件定義の特徴や機能、その全体像について紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
@@ -1027,6 +1207,16 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[プロダクトマネージャー、アーキテクト、デザイナー……戦略コンサルティングファームでデジタル人材は何をしているのか]]></title>
+        <id>http://codezine.jp/article/detail/16917</id>
+        <link href="http://codezine.jp/article/detail/16917"/>
+        <updated>2022-12-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタル人材のキャリアパスや活躍の場として「コンサルティングファーム」という選択肢がある。しかし、どんな仕事をしているのか、どんなキャリアを築けるのか、知らない人も多いだろう。そこで、事業会社での経験を経て、現在はボストンコンサルティンググループ（BCG）のデジタル組織でそれぞれ、プロダクトマネージャーとして活躍する近藤あやの氏、シニアITアーキテクトの岡 亜矢子氏、そしてエクスペリエンスデザイナーの村山ゆり氏が、座談会形式で実際の仕事内容や働き方などを紹介した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新たな局面を迎えつつある新興メモリ]]></title>
         <id>https://eetimes.itmedia.co.jp/ee/articles/2212/27/news080.html</id>
         <link href="https://eetimes.itmedia.co.jp/ee/articles/2212/27/news080.html"/>
@@ -1034,6 +1224,56 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         <summary type="html"><![CDATA[新興メモリが、新たな局面を迎えている。しかし、これまでの数年間に、同分野の成長に貢献するような知名度の高い相変化メモリ（PCM）は現れていない。【訂正あり】]]></summary>
         <author>
             <name>EE Times Japan 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「スワップ」　～マンガでプログラミング用語解説]]></title>
+        <id>http://codezine.jp/article/detail/16788</id>
+        <link href="http://codezine.jp/article/detail/16788"/>
+        <updated>2022-12-27T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この連載は、マンガで分かるプログラミング用語辞典です。気軽に読み流せるマンガと、テキストによる詳しい解説で、プログラミング未経験者がつまづきがちな専門用語・概念をやさしく読み解き、よりスムーズな学習を手助けします。市販のプログラミング入門書の副教材としてもぜひご活用ください。今回解説するのは、データなどを入れ替える処理「スワップ」です。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 7で簡単にSPA開発！ Turbo StreamsとJavaScript利用を支援するStimulus]]></title>
+        <id>http://codezine.jp/article/detail/16950</id>
+        <link href="http://codezine.jp/article/detail/16950"/>
+        <updated>2022-12-27T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[連載第6回では、Railsアプリケーションのデフォルト構成であるHotwireを使ったSPA（Single Page Application）の開発について紹介します。後半となる今回は、Turbo Stramsによるページの自由自在な書き換えと、より洗練されたJavaScriptの利用を支援するStimulusを解説します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スリーシェイク、ノーコード型ETLツール「Reckoner」にAWS環境へのリソースにセキュアに接続するための機能を追加]]></title>
+        <id>http://codezine.jp/article/detail/17102</id>
+        <link href="http://codezine.jp/article/detail/17102"/>
+        <updated>2022-12-27T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スリーシェイクが提供する、ノーコード型ETLツール「Reckoner」は、AWS環境へのリソースにセキュアに接続するための機能「セキュアアクセス for AWS」を提供開始したことを12月23日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニア／デザイナー向けオンラインテックカンファレンス「RAKUS Tech Conference 2023」が2/8に開催]]></title>
+        <id>http://codezine.jp/article/detail/17103</id>
+        <link href="http://codezine.jp/article/detail/17103"/>
+        <updated>2022-12-27T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ラクスは、開発本部のエンジニア／デザイナーによる技術領域の取り組みや知見を発信するイベント「RAKUS Tech Conference 2023」を2023年2月8日に開催する。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラミング言語「Ruby 3.2.0」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/17107</id>
+        <link href="http://codezine.jp/article/detail/17107"/>
+        <updated>2022-12-27T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースのプログラミング言語であるRubyの開発チームは、最新バージョンとなる「Ruby 3.2.0」を12月25日にリリースしている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
