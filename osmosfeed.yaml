@@ -15,13 +15,10 @@ sources:
   - href: http://rssblog.ameba.jp/takagi-chikako/rss20.xml
   - href: https://note.com/newspeak/rss
   - href: http://r.gnavi.co.jp/g-interview/feed?format=xml
-#  - href: http://smakoji.info/feed
-#  - href: http://oliospec.ldblog.jp/index.rdf
-#  - href: http://mag.switch-science.com/feed/
-#  - href: http://www.emirates.com/jp/japanese/about/news/news_rss.aspx
-#  - href: http://www.interaction-ipsj.org/2016/?feed=rss2
-#  - href: http://www.aaate2015.eu/feed
-#  - href: http://www.fabloid.jp/rss.xml
+  - href: http://smakoji.info/feed
+  - href: http://oliospec.ldblog.jp/index.rdf
+  - href: http://mag.switch-science.com/feed/
+  - href: http://www.fabloid.jp/rss.xml
 #  - href: https://www.aviationwire.jp/feed
 #  - href: http://av.watch.impress.co.jp/sublink/av.rdf
 #  - href: https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf
