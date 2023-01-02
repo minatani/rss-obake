@@ -19,12 +19,12 @@ sources:
   - href: http://oliospec.ldblog.jp/index.rdf
   - href: http://mag.switch-science.com/feed/
   - href: http://www.fabloid.jp/rss.xml
-#  - href: https://www.aviationwire.jp/feed
-#  - href: http://av.watch.impress.co.jp/sublink/av.rdf
+  - href: https://www.aviationwire.jp/feed
+  - href: http://av.watch.impress.co.jp/sublink/av.rdf
 #  - href: https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf
 #  - href: http://www.emutexlabs.com/blog?format=feed&amp;type=rss
-#  - href: https://www.mitsue.co.jp/knowledge/blog/a11y/atom.xml
-#  - href: http://nelog.jp/feed
+  - href: https://www.mitsue.co.jp/knowledge/blog/a11y/atom.xml
+  - href: http://nelog.jp/feed
 #  - href: https://www.brule.co.jp/rss.xml
 #  - href: http://codezine.jp/rss/new/20/index.xml
 #  - href: https://www.coelacanth-dream.com/index.xml
