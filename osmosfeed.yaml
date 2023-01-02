@@ -24,8 +24,8 @@ sources:
 #  - href: https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf
 #  - href: http://www.emutexlabs.com/blog?format=feed&amp;type=rss
   - href: https://www.mitsue.co.jp/knowledge/blog/a11y/atom.xml
-#  - href: http://nelog.jp/feed
-#  - href: https://www.brule.co.jp/rss.xml
+  - href: http://nelog.jp/feed
+  - href: https://www.brule.co.jp/rss.xml
   - href: http://codezine.jp/rss/new/20/index.xml
 #  - href: https://www.coelacanth-dream.com/index.xml
 #  - href: http://dailycult.blogspot.com/feeds/8179188557792956261/comments/default
