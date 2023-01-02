@@ -33,12 +33,12 @@ sources:
   - href: https://www.debian.or.jp/blog/index.cgi/index.rss
   - href: http://dsas.blog.klab.org/index.rdf
 #  - href: http://edmw.net/feed/
-#  - href: http://f1-gate.com/rss2.xml
-#  - href: https://fabcross.jp/rss.xml
-#  - href: http://fenrir.naruoka.org/index.rdf
-#  - href: http://gigazine.net/index.php?/news/rss_2.0
-#  - href: http://gihyo.jp/feed/atom
-#  - href: https://news.ycombinator.com/rss
+  - href: http://f1-gate.com/rss2.xml
+  - href: https://fabcross.jp/rss.xml
+  - href: http://fenrir.naruoka.org/index.rdf
+  - href: http://gigazine.net/index.php?/news/rss_2.0
+  - href: http://gihyo.jp/feed/atom
+  - href: https://news.ycombinator.com/rss
 #  - href: http://masatuguharuki.moe.hm/blog/?feed=rss2
 #  - href: http://www.inclusiveandroid.com/rss.xml
 #  - href: http://juggly.cn/feed
