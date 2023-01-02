@@ -486,6 +486,656 @@
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/2-1.png"
         }
       ]
+    },
+    {
+      "title": "EE Times Japan 最新記事一覧",
+      "feedUrl": "http://rss.itmedia.co.jp/rss/2.0/eetimes.xml",
+      "siteUrl": "https://eetimes.itmedia.co.jp/",
+      "articles": [
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/28/news068.html",
+          "author": null,
+          "description": "「1年間の総合記事ランキングトップ10」をお届けします！　2022年は、どんな記事がよく読まれたのでしょうか。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/28/news068.html",
+          "publishedOn": "2022-12-28T07:00:00.000Z",
+          "wordCount": 2725,
+          "title": "2022年の記事ランキング トップ10",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/28/cover_news068.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/28/news086.html",
+          "author": null,
+          "description": "「SEMICON Japan 2022」（2022年12月14日～16日、東京ビッグサイト）において、将来有望な半導体に関する大学／大学院の研究を表彰する「アカデミア Award」が初開催された。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/28/news086.html",
+          "publishedOn": "2022-12-28T04:30:00.000Z",
+          "wordCount": 2741,
+          "title": "SiCやGaN、ダイヤモンド基板をゆがみなく研磨する技術、阪大",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/28/cover_news086.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news137.html",
+          "author": null,
+          "description": "Crystal Sonicは現在、「音の力」を利用する革新的な素子のリフトオフおよび、基板再利用のための技術を開発している。デバイス当たりの製造コストを大幅に下げることを目的としている。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news137.html",
+          "publishedOn": "2022-12-28T02:30:00.000Z",
+          "wordCount": 2747,
+          "title": "音波を使ったリフトオフでウエハーコストを削減",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/27/cover_news137.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/28/news082.html",
+          "author": null,
+          "description": "2022年12月14日から開幕した「SEMICON Japan 2022」（2022年12月14日～16日、東京ビッグサイト）では、フレキシブルエレクトロニクスに関する展示「FLEX Japan 2022」も開催された。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/28/news082.html",
+          "publishedOn": "2022-12-28T01:30:00.000Z",
+          "wordCount": 2746,
+          "title": "1万回折り曲げても大丈夫、回路を印刷したPETフィルム",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/28/cover_news082.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/28/news053.html",
+          "author": null,
+          "description": "米国SiFiveは、RISC-Vの現状やSiFiveにおける今後の取り組みなどを紹介した。この中で、「RISC-Vの立ち上がりは早く、2024年にはRISC-Vの出荷コア数がArmを上回り、逆転するのではないか」との見通しを明らかにした。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/28/news053.html",
+          "publishedOn": "2022-12-28T00:30:00.000Z",
+          "wordCount": 2728,
+          "title": "RISC-Vコア、「出荷コア数で2024年には主流へ」",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/28/l_tm_221228sifive02_w290.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/28/news005.html",
+          "author": null,
+          "description": "本稿では、2022年後半となる7～12月の出来事を、EE Times Japanの記事とともに振り返る。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/28/news005.html",
+          "publishedOn": "2022-12-27T23:30:00.000Z",
+          "wordCount": 2702,
+          "title": "2022年の半導体業界を振り返る ～景気低迷の露呈と進む分断",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/28/cover_news005.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news142.html",
+          "author": null,
+          "description": "TDKの執行役員で電子部品ビジネスカンパニーCSO（最高営業責任者）を務めるLudger Trockel氏が取材に応じ、同社の重点市場および営業戦略などについて説明した。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news142.html",
+          "publishedOn": "2022-12-27T08:10:00.000Z",
+          "wordCount": 2709,
+          "title": "TDK、生え抜きのドイツ人新CSOが語る市場戦略",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/27/cover_news142.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news117.html",
+          "author": null,
+          "description": "先端プロセスノードへの移行や、チップレット、3D（3次元） ICなどの技術が台頭する中、シミュレーションの世界にはどのような変化が起きているのか。Ansysの半導体・エレクトロニクス・光学ビジネス担当ゼネラルマネジャー、John Lee氏に話を聞いた。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news117.html",
+          "publishedOn": "2022-12-27T05:00:00.000Z",
+          "wordCount": 2710,
+          "title": "半導体の設計、今後は「マルチフィジックス」解析が鍵に",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/27/cover_news117.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news090.html",
+          "author": null,
+          "description": "皆さんの考える「優秀な人材」についてご意見や採用基準がありましたら、コメントやSNSで共有していただければと存じます。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news090.html",
+          "publishedOn": "2022-12-27T03:00:00.000Z",
+          "wordCount": 2712,
+          "title": "毎年4万人を奪い合い!?――“優秀な人材”について考える",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/1407/02/tt140702kobore_icon120.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news080.html",
+          "author": null,
+          "description": "新興メモリが、新たな局面を迎えている。しかし、これまでの数年間に、同分野の成長に貢献するような知名度の高い相変化メモリ（PCM）は現れていない。【訂正あり】",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news080.html",
+          "publishedOn": "2022-12-27T02:30:00.000Z",
+          "wordCount": 2720,
+          "title": "新たな局面を迎えつつある新興メモリ",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/27/cover_news080.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news046.html",
+          "author": null,
+          "description": "富士通と東海大学との共同研究グループは2022年12月21日、超音波AI（人工知能）技術を活用し非破壊で冷凍マグロの鮮度評価に成功したと発表した。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/27/news046.html",
+          "publishedOn": "2022-12-27T00:30:00.000Z",
+          "wordCount": 2717,
+          "title": "“世界初”超音波AIで冷凍マグロの鮮度評価に成功",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/27/cover_news046.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/26/news053.html",
+          "author": null,
+          "description": "京都大学とパナソニックホールディングスは、原子間力顕微鏡（AFM）を用いて、リチウムイオン電池における溶媒和構造を可視化することに成功した。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/26/news053.html",
+          "publishedOn": "2022-12-26T07:30:00.000Z",
+          "wordCount": 2702,
+          "title": "リチウムイオン電池における溶媒和構造を可視化",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/26/l_tm_221226kyouto01_w590.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/26/news054.html",
+          "author": null,
+          "description": "三菱電機は、Ku帯衛星通信地球局用「GaN HEMT」の製品群として新たに、Low-Ku帯（13GHz帯）で動作可能な出力電力70Wのマルチキャリア通信対応製品「MGFK48G2732A」と、シングルキャリア通信対応製品「MGFK48G2732」を開発した。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/26/news054.html",
+          "publishedOn": "2022-12-26T06:30:00.000Z",
+          "wordCount": 2705,
+          "title": "衛星通信地球局向けLow-Ku帯GaN HEMTを開発",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/26/tm_221226mitsubishi01.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/26/news051.html",
+          "author": null,
+          "description": "「エリクソンモビリティレポート」最新版によると、2028年末までに5G（第5世代移動通信）モバイル加入契約数は全世界で50億件を超え、固定無線アクセス（FWA）の接続数は3億件を超える見通しだ。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/26/news051.html",
+          "publishedOn": "2022-12-26T05:30:00.000Z",
+          "wordCount": 2720,
+          "title": "2028年末に5G加入は50億件、FWAは3億接続へ",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/26/l_tm_221223ericsson01_w290.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/26/news047.html",
+          "author": null,
+          "description": "今回は「2022年度版　実装ロードマップ」から、第2節（2.2）「電子機器群の分類と定義」の概要をご紹介する。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/26/news047.html",
+          "publishedOn": "2022-12-26T02:30:00.000Z",
+          "wordCount": 2738,
+          "title": "「ヒューマンサイエンス」「情報通信」「モビリティー」「新技術・新材料・新市場」に注目",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/26/cover_news047.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/26/news056.html",
+          "author": null,
+          "description": "VMwareのサービスプロバイダー・エッジビジネス部門（SEBU）担当上級副社長兼ゼネラルマネジャーであるSanjay Uppal氏は、「欧州では現在、セルラーデータの急増に伴い、エネルギー費が上昇して電力が制限されつつあることから、今冬には一部のセルラーネットワークがダウンする恐れがある」と警告する。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/26/news056.html",
+          "publishedOn": "2022-12-26T00:30:00.000Z",
+          "wordCount": 2702,
+          "title": "エネルギー危機で欧州のセルラー網が混乱の恐れ",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/26/cover_news056.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/23/news163.html",
+          "author": null,
+          "description": "アドバンテストは「SEMICON Japan 2022」（2022年12月14～16日、東京ビッグサイト）で、メモリテストセルの新シリーズ「inteXcell（インテクセル）」など、主に直近3カ月に発表した新製品群を紹介した。【修正あり】",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/23/news163.html",
+          "publishedOn": "2022-12-23T10:00:00.000Z",
+          "wordCount": 2717,
+          "title": "床面積は従来比3分の1、連結できるメモリテストセル",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/23/cover_news163.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/23/news112.html",
+          "author": null,
+          "description": "Infineon Technologies（以下、Infineon）にとって、パワーデバイスは長年、注力事業の一つである。特に近年は、カーボンニュートラルをはじめ、グリーン化社会の実現に向けて省エネが強く求められる中、SiC／GaNなどのWBG（ワイドバンドギャップ）パワーデバイス事業を強化している。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/23/news112.html",
+          "publishedOn": "2022-12-23T04:30:00.000Z",
+          "wordCount": 2729,
+          "title": "WBGパワーデバイス事業を加速するInfineon",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/23/cover_news112.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/23/news047.html",
+          "author": null,
+          "description": "今回は、IntelとNVIDIAの最新のGPUを分解する。GPUにおけるIntelの開発方針と、NVIDIAの開発力が垣間見える結果となった。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/23/news047.html",
+          "publishedOn": "2022-12-23T02:30:00.000Z",
+          "wordCount": 2707,
+          "title": "最新GPUを分解、見えてきたIntelの開発方針とNVIDIAのチップ検証力",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/23/cover_news047.jpg"
+        },
+        {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2212/23/news073.html",
+          "author": null,
+          "description": "3M社が2025年末までにPFAS製造から撤退するという。世界の半導体製造は一体どうなってしまうのだろうか。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2212/23/news073.html",
+          "publishedOn": "2022-12-23T00:30:00.000Z",
+          "wordCount": 2708,
+          "title": "3Mが2025年末までにPFAS製造を停止、世界の半導体製造はどうなるのか",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2212/23/cover_news073.jpg"
+        }
+      ]
+    },
+    {
+      "title": "毎日新聞 「エンタメ」RSS",
+      "feedUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+      "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+      "articles": [
+        {
+          "id": "https://mainichi.jp/articles/20221231/ddm/041/200/092000c",
+          "author": null,
+          "description": "第64回日本レコード大賞（日本作曲家協会など主催）の最終審査が30日、東京都渋谷区の新国立劇場であり、大賞は男女4人組バンド「SEKAI　NO　OWARI（セカイノオワリ）」の「Habit」に決まった。2022年4月公開の映画「ホリック　xxxHOLiC」主題歌。最優秀新人賞には、演歌歌手の田中あ",
+          "link": "https://mainichi.jp/articles/20221231/ddm/041/200/092000c",
+          "publishedOn": "2022-12-31T01:37:08.000Z",
+          "wordCount": 1038,
+          "title": "レコード大賞はセカイノオワリ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/31/20221231ddm041200134000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221231/ddm/041/200/090000c",
+          "author": null,
+          "description": "第73回NHK紅白歌合戦が31日午後7時20分から、NHK総合テレビなどで生放送される。今年は東京都渋谷区のNHKホールで実施される。紅組は、男女4人組バンド「緑黄色社会」やアニメキャラクターの「ウタ」が初出場。白組は2023年5月に5人での活動を終了する「King＆Prince」や、初出場の「な",
+          "link": "https://mainichi.jp/articles/20221231/ddm/041/200/090000c",
+          "publishedOn": "2022-12-30T18:03:00.000Z",
+          "wordCount": 1035,
+          "title": "きょう「紅白」",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/31/20221231ddm041200132000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221230/ddm/018/200/016000c",
+          "author": null,
+          "description": "仕事を終えての一杯は格別だが、「一杯を仕事」にしている人がいる。BS―TBSの人気番組「吉田類の酒場放浪記」（月曜午後9時）の彼。31日は「吉田類の年またぎ酒場放浪記～姫路・倉敷・尾道・岩国へ！西国街道300キロ　城めぐり酒蔵めぐり＆樽酒鏡開き4時間スペシャル」（午後9時）。深夜1時まで、飲みなが",
+          "link": "https://mainichi.jp/articles/20221230/ddm/018/200/016000c",
+          "publishedOn": "2022-12-30T02:11:13.000Z",
+          "wordCount": 1055,
+          "title": "ＢＳ未来館:酒場詩人が瀬戸内で年越し",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221230/ddm/018/200/020000c",
+          "author": null,
+          "description": "◆まんぞくまんぞく（NHKBSプレミアム＝後8・0） 　池波正太郎の生誕100年を記念する時代劇特番。原作は池波の同名小説。 　堀真琴（石橋静河）は幼い頃に両親を亡くし、母の兄・内蔵助（国村隼）の養女になっていた。「私を剣で打ち負かす男が現れない限り結婚しない」と公言する剣術の腕前だ。普段は男装で",
+          "link": "https://mainichi.jp/articles/20221230/ddm/018/200/020000c",
+          "publishedOn": "2022-12-29T17:00:31.000Z",
+          "wordCount": 1061,
+          "title": "視聴室:まんぞくまんぞく",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221229/ddm/018/200/020000c",
+          "author": null,
+          "description": "◆第1部ドラマ　松本清張と「小説　帝銀事件」（NHK＝後9・0） 　NHKスペシャル「シリーズ未解決事件」の第9弾。作家の松本清張が戦後最大のミステリーの一つ、帝銀事件の謎に挑む社会派ドラマ。2夜連続で事件の真相に迫る。",
+          "link": "https://mainichi.jp/articles/20221229/ddm/018/200/020000c",
+          "publishedOn": "2022-12-28T17:01:42.000Z",
+          "wordCount": 1067,
+          "title": "視聴室:第1部ドラマ　松本清張と「小説　帝銀事件」",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221229/ddm/018/200/017000c",
+          "author": null,
+          "description": "＜TBS「第64回　輝く！日本レコード大賞」（30日午後5時半）総合司会＞ 　（有村）特に注目しているのは、新人賞を受賞された方々がどんな歌声を届けてくださるか。また、幅広い世代のアーティストの皆さんが集うので、フレッシュさやバイタリティー、安心感、包容力……いろいろなものを肌で感じられそうで、す",
+          "link": "https://mainichi.jp/articles/20221229/ddm/018/200/017000c",
+          "publishedOn": "2022-12-28T17:00:55.000Z",
+          "wordCount": 1060,
+          "title": "赤坂電視台:安住紳一郎、有村架純　明日の生放送、見どころは？",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221229/ddm/012/200/059000c",
+          "author": null,
+          "description": "宝塚歌劇団所属の演出家、原田諒（りょう）氏が退団したことが28日、歌劇団への取材で明らかになった。同日発売の「週刊文春」で、スタッフにセクハラ行為をしたなどと報道されたが、歌劇団は理由を明らかにしていない。退団は26日付。原田氏は25日に東京宝塚劇場で千秋楽を迎えた雪組公演「蒼穹（そうきゅう）の昴",
+          "link": "https://mainichi.jp/articles/20221229/ddm/012/200/059000c",
+          "publishedOn": "2022-12-28T17:00:52.000Z",
+          "wordCount": 1035,
+          "title": "宝塚歌劇団の演出家が退団",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221228/dde/018/200/010000c",
+          "author": null,
+          "description": "文化放送の「下野紘・巽悠衣子の小説家になろうラジオ（なろラジ）」（金曜午後11時）は国内最大級の小説投稿サイト「小説家になろう」の魅力を伝える内容だ。2018年10月スタートで、パーソナリティーは人気声優の下野さん、巽さんが務めている。",
+          "link": "https://mainichi.jp/articles/20221228/dde/018/200/010000c",
+          "publishedOn": "2022-12-28T05:11:33.000Z",
+          "wordCount": 1055,
+          "title": "荻原魚雷のラジオ交差点:「なろう」の魅力、癒やし声で",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/28/20221228dde018200059000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221228/dde/018/070/011000c",
+          "author": null,
+          "description": "＜教授・岡室美奈子の私の体はテレビでできている＞ 　NHK大河ドラマ「鎌倉殿の13人」の最終回にやられてしまった。そこで今回は、三谷幸喜脚本によるこのドラマの話から始めて、最後に駆け足で年間回顧をしておきたい。",
+          "link": "https://mainichi.jp/articles/20221228/dde/018/070/011000c",
+          "publishedOn": "2022-12-28T04:57:41.000Z",
+          "wordCount": 1057,
+          "title": "私の体はテレビでできている:ドラマに希望を感じた1年",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/28/20221228dde018200058000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221228/dde/018/200/015000c",
+          "author": null,
+          "description": "ラジオ「ガキパラ～NEXT　STAGE～」パーソナリティー（文化放送＝火曜午後9時） 　鍛え上げた肉体美を披露したかと思えば、サックスをカッコよく演奏してみせる。さらにはドラマ、バラエティー番組にも引っ張りだこ。武田真治はとにかく多彩だ。一体いくつの顔があるのだろうか。",
+          "link": "https://mainichi.jp/articles/20221228/dde/018/200/015000c",
+          "publishedOn": "2022-12-28T04:57:25.000Z",
+          "wordCount": 1070,
+          "title": "フォーカス:武田真治　ラジオ「ガキパラ～NEXT　STAGE～」パーソナリティー　50代の自分、まだまだ期待",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/28/20221228dde018200056000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221228/ddm/012/070/099000c",
+          "author": null,
+          "description": "今年は3本の映画に主演したり、アップサイクルのブランドを誕生日に設立したりと、挑戦的で力強い自分を見いだせた年でした。そんな1年を支えてくれたのは、イラストレーターの宇野亞喜良（あきら）さんの絵です。",
+          "link": "https://mainichi.jp/articles/20221228/ddm/012/070/099000c",
+          "publishedOn": "2022-12-27T17:49:57.000Z",
+          "wordCount": 1040,
+          "title": "月刊のん:宝物を手に入れた1年",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/28/20221228ddm012070181000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221228/ddm/018/200/014000c",
+          "author": null,
+          "description": "◆バナナサンド3時間SP（TBS＝後6・0） 　バナナマンの設楽統と日村勇紀、サンドウィッチマンの伊達みきおと富澤たけしが出演するバラエティー。今回の特番は、彼らが雪の積もる岩手県への日帰りツアーを敢行する。",
+          "link": "https://mainichi.jp/articles/20221228/ddm/018/200/014000c",
+          "publishedOn": "2022-12-27T17:01:56.000Z",
+          "wordCount": 1059,
+          "title": "視聴室:バナナサンド3時間SP",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221228/ddm/018/200/019000c",
+          "author": null,
+          "description": "＜TBS「第64回　輝く！日本レコード大賞」（30日午後5時半）総合司会＞ 　「レコード大賞」の司会を初めて務めます。さまざまな経験をさせていただいた20代。その最後の年にこのような大役、本当に光栄です。お芝居とはまた違う音楽の世界の表現を改めて知ることで、これからの刺激にもなると思います。",
+          "link": "https://mainichi.jp/articles/20221228/ddm/018/200/019000c",
+          "publishedOn": "2022-12-27T17:00:49.000Z",
+          "wordCount": 1064,
+          "title": "赤坂電視台:有村架純　女優業は音楽に助けられて",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221227/dde/012/040/003000c",
+          "author": null,
+          "description": "「古事記」に題材を得て、詩楽劇と銘打った「八雲立つ」（戸部和久脚本）が30日～1月1日に東京国際フォーラムホールB7で上演される。 　日本舞踊・尾上流家元の尾上菊之丞構成・演出で、歌舞伎俳優・尾上右近のスサノオ、元宝塚歌劇団男役トップスター・水夏希のイワナガヒメがメインキャスト。石見神楽の大蛇の舞",
+          "link": "https://mainichi.jp/articles/20221227/dde/012/040/003000c",
+          "publishedOn": "2022-12-27T04:55:18.000Z",
+          "wordCount": 1041,
+          "title": "詩楽劇「八雲立つ」　30日から東京で上演",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221227/dde/012/200/005000c",
+          "author": null,
+          "description": "美容雑誌読者が、今年最も輝いている女性として選ぶ「2022　美的　ベストビューティウーマン」に俳優の綾瀬はるか、新設の男性部門にアイドルグループ「Snow　Man」の渡辺翔太がそれぞれ決まった。",
+          "link": "https://mainichi.jp/articles/20221227/dde/012/200/005000c",
+          "publishedOn": "2022-12-27T04:54:56.000Z",
+          "wordCount": 1049,
+          "title": "ベストビューティ、綾瀬はるかを選出　男性部門に渡辺翔太",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/27/20221227dde012200059000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221227/dde/012/200/006000c",
+          "author": null,
+          "description": "英国ロイヤル・シェイクスピア・カンパニー（RSC）製作の人気ミュージカル「マチルダ」が2023年春、日本で初演される。読書好きの5歳の少女が、家庭や学校での苦しい状況に立ち向かいながら、自身の未来を切り開いていく物語。企画制作はホリプロ。堀義貴ホリプログループ会長は発表会見で「マチルダの敵は、いつ",
+          "link": "https://mainichi.jp/articles/20221227/dde/012/200/006000c",
+          "publishedOn": "2022-12-27T04:53:19.000Z",
+          "wordCount": 1066,
+          "title": "Ｔｏｐｉｃｓ:ミュージカル「マチルダ」　子どもだった人々へ　日本初演、来年3月から",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/27/20221227dde012200058000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221227/dde/012/200/007000c",
+          "author": null,
+          "description": "「小指の想い出」「恋のしずく」などの大ヒット曲を持ち、2023年に芸能生活70周年を迎える歌手の伊東ゆかりが、全シングルを網羅したCDボックス「ポップス・クイーン　～オールタイム・シングル・コレクション～」（ソニー、1万3200円）をリリースした。",
+          "link": "https://mainichi.jp/articles/20221227/dde/012/200/007000c",
+          "publishedOn": "2022-12-27T04:52:25.000Z",
+          "wordCount": 1068,
+          "title": "Ｉｎｔｅｒｖｉｅｗ:伊東ゆかり　私には歌しかない　芸能生活70周年へ、全曲CDボックス",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/27/20221227dde012200057000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221227/dde/012/200/004000c",
+          "author": null,
+          "description": "第51回大谷竹次郎賞（松竹など主催） 　「赤穂義士外伝の内　荒川十太夫」竹柴潤一脚本。",
+          "link": "https://mainichi.jp/articles/20221227/dde/012/200/004000c",
+          "publishedOn": "2022-12-27T04:03:47.000Z",
+          "wordCount": 1037,
+          "title": "第51回大谷竹次郎賞",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221227/ddm/012/200/051000c",
+          "author": null,
+          "description": "NHKは26日、大みそかに放送する第73回紅白歌合戦の曲順を発表した。番組全体の最後を飾る大トリは、15回目の出場となる福山雅治さんが「桜坂」を披露。初めての大トリを務める。紅組のトリは7回目出場のMISIAさんで「希望のうた」を歌う。",
+          "link": "https://mainichi.jp/articles/20221227/ddm/012/200/051000c",
+          "publishedOn": "2022-12-26T18:24:52.000Z",
+          "wordCount": 1041,
+          "title": "NHK紅白歌合戦　福山雅治さん、初の大トリ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/27/20221227ddm012200178000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221227/ddm/012/200/056000c",
+          "author": null,
+          "description": "文化庁は26日、優れた芸術活動を表彰する2022年度芸術祭賞の受賞者を発表した。歌舞伎俳優の中村勘九郎さん主演の「忠臣蔵狂詩曲№5中村仲蔵出世階段」を制作したNHKがテレビ・ドラマ部門の大賞。「円熟した脚本と照明や美術などの職人技で、実在した江戸時代の歌舞伎役者を高い完成度で活写した」と評価した。",
+          "link": "https://mainichi.jp/articles/20221227/ddm/012/200/056000c",
+          "publishedOn": "2022-12-26T17:01:46.000Z",
+          "wordCount": 1040,
+          "title": "芸術祭賞大賞に「忠臣蔵狂詩曲」　文化庁",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        }
+      ]
+    },
+    {
+      "title": "毎日新聞「社説・解説・コラム」RSS",
+      "feedUrl": "https://mainichi.jp/rss/etc/opinion.rss",
+      "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
+      "articles": [
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/030/092000c",
+          "author": null,
+          "description": "バイデン米大統領は1日、南北戦争中の1863年元日にリンカーン大統領が奴隷解放宣言に署名してから160年となるのに合わせて声明を発表した。米国は融和を追求し続けてきたとし、「団結を祝おう」と国民に分断解消を呼びかけた。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/030/092000c",
+          "publishedOn": "2023-01-02T07:52:14.000Z",
+          "wordCount": 1069,
+          "title": "バイデン米大統領、分断解消訴え声明　奴隷解放宣言から160年",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/05/25/20220525k0000m030129000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/020/091000c",
+          "author": null,
+          "description": "国際通貨基金（IMF）のゲオルギエワ専務理事は1日放送の米CBSテレビで「世界の多くにとって、今年はこれまでよりも厳しい年になりそうだ」との見通しを示した。IMFは月内に経済見通しを改定する予定で、2023年の世界の成長率を昨年10月時点の2・7％から引き下げる可能性もありそうだ。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/020/091000c",
+          "publishedOn": "2023-01-02T07:51:43.000Z",
+          "wordCount": 1059,
+          "title": "世界経済「厳しい年に」　IMF、見通し引き下げか　景気後退懸念",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m020094000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/040/089000c",
+          "author": null,
+          "description": "新年を迎え、九州地方と山口県の神社仏閣は初詣客でにぎわった。 　「学問の神様」で知られる太宰府天満宮（福岡県太宰府市）には、2日も合格祈願の学生らが大勢訪れた。重要文化財の本殿は124年ぶりとなる大改修を5月に控えており、現在の姿では最後の正月となった。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/040/089000c",
+          "publishedOn": "2023-01-02T07:49:15.000Z",
+          "wordCount": 1012,
+          "title": "太宰府天満宮、改修前最後の初詣にぎわう　本殿が5月に124年ぶり",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m040093000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/050/087000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は2日、東京・大手町―神奈川・箱根町の往路5区間107・5キロに21チーム（オープン参加の関東学生連合を含む）が参加して行われ、駒沢大が5時間23分10秒で19年ぶり4回目の往路優勝を果たした。3日の復路で、出雲全日本選抜、全日本と合わせた大学駅伝3冠",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/050/087000c",
+          "publishedOn": "2023-01-02T07:47:07.000Z",
+          "wordCount": 1019,
+          "title": "往路優勝の駒大、3冠なるか　30秒差で追う中央大　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m050078000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/040/088000c",
+          "author": null,
+          "description": "厚生労働省は2日、新型コロナウイルスの新規感染者が全国で7万6264人確認されたと公表した。1週間前の月曜日より約1000人減った。死者は208人だった。 　主な都道府県の新規感染者数は、北海道1833人▽東京都7537人▽愛知県4252人▽大阪府4980人▽福岡県3424人――など。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/040/088000c",
+          "publishedOn": "2023-01-02T07:31:57.000Z",
+          "wordCount": 1066,
+          "title": "全国で新たに7万6264人感染確認　死者208人　新型コロナ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2019/04/05/20190405k0000m040186000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/050/083000c",
+          "author": null,
+          "description": "ラグビーの全国大学選手権は2日、東京・国立競技場で準決勝2試合があり、早大（関東対抗戦3位）が京産大（関西1位）に34―33で競り勝ち、8日の決勝（国立）に進んだ。3大会ぶり17度目の大学日本一を目指す。連覇を狙う帝京大（関東対抗戦1位）は筑波大（同5位）と対戦。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/050/083000c",
+          "publishedOn": "2023-01-02T07:26:26.000Z",
+          "wordCount": 1069,
+          "title": "早大が決勝進出　3大会ぶり17度目の日本一狙う　全国大学ラグビー",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m050085000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/020/082000c",
+          "author": null,
+          "description": "東京都内の大手百貨店で2日、2023年の初売りが本格的に始まり、福袋やセール品を買い求める多くの客でにぎわった。新型コロナウイルスの流行「第8波」に入りながらも政府の行動制限はなく、各社の来店客数は軒並み増加した。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/020/082000c",
+          "publishedOn": "2023-01-02T07:06:50.000Z",
+          "wordCount": 1066,
+          "title": "百貨店初売り、行動制限なしで来店客増　福袋求めにぎわう",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m020081000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/010/080000c",
+          "author": null,
+          "description": "公明党の山口那津男代表は2日、新春恒例の街頭演説を東京・JR池袋駅前で行い、4月の統一地方選を巡り党公認候補の全員当選を目指すと決意を示した。「地方政治の担い手を選び、党の基盤を固め直す重要な選挙だ。全員当選を目指し、完全勝利へ向けてスタートする」と述べた。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/010/080000c",
+          "publishedOn": "2023-01-02T07:01:48.000Z",
+          "wordCount": 1079,
+          "title": "公明・山口代表「専守防衛の理念変わらない」　統一地方選へ決意",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2021/06/29/20210629k0000m010188000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/040/079000c",
+          "author": null,
+          "description": "鹿児島県西之表市の馬毛島への自衛隊基地建設と米軍機訓練移転計画を巡り、市民団体が八板俊輔市長の解職請求（リコール）を目指し実施した署名が、必要な数に届かなかったことが2日、団体への取材で分かった。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/040/079000c",
+          "publishedOn": "2023-01-02T06:58:38.000Z",
+          "wordCount": 1068,
+          "title": "鹿児島・西之表市長リコール、署名必要数届かず　馬毛島基地建設巡り",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/11/29/20221129k0000m040151000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/040/064000c",
+          "author": null,
+          "description": "九州地方と山口県の百貨店や商店街などで2日、2023年の初売りがあった。九州有数の繁華街、福岡・天神にある各百貨店は穏やかな天候にも恵まれ、福袋やセール品を買い求める客らでにぎわった。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/040/064000c",
+          "publishedOn": "2023-01-02T06:58:19.000Z",
+          "wordCount": 1021,
+          "title": "にぎわう初売り　福岡・百貨店で3000人の行列も",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m020068000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/050/057000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は2日、東京・大手町―神奈川・箱根町の往路5区間107・5キロに21チーム（オープン参加の関東学生連合を含む）が参加して行われ、駒沢大が19年ぶりの往路優勝を果たした。3日の復路で、出雲全日本選抜、全日本と合わせた大学駅伝3冠達成を狙う。中央大が2位、",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/050/057000c",
+          "publishedOn": "2023-01-02T06:52:44.000Z",
+          "wordCount": 1020,
+          "title": "箱根駅伝、駒沢大が19年ぶりの往路優勝　大学駅伝3冠へ弾み",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m050078000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/040/075000c",
+          "author": null,
+          "description": "元日に群馬県内で行われ、Hondaの大会2連覇で幕を閉じた「ニューイヤー駅伝inぐんま　第67回全日本実業団対抗駅伝競走大会」（日本実業団陸上競技連合主催、毎日新聞社など共催）。スタート前には、各チームの1区の選手とともに「エスコートキッズ」として、小学生が登場。晴れの舞台に立った小学生にとって、",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/040/075000c",
+          "publishedOn": "2023-01-02T06:37:42.000Z",
+          "wordCount": 1034,
+          "title": "小学生が晴れ舞台に　水素中継車もデビュー　ニューイヤー駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m050071000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/050/058000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は2日、東京・大手町―神奈川・箱根町の往路5区間107・5キロで行われ、駒沢大が19年ぶり4回目の往路優勝を果たした。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/050/058000c",
+          "publishedOn": "2023-01-02T06:20:23.000Z",
+          "wordCount": 1062,
+          "title": "駒大3冠に向け「新時代」の予感　19年ぶり往路優勝　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102mpj00m050029000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/200/066000c",
+          "author": null,
+          "description": "2022年の大みそかに放送された第73回NHK紅白歌合戦で、トリを含むヤマ場の第2部（午後9時から2時間45分）の関東地区平均視聴率（総合テレビ）は35・3％だった。ビデオリサーチが2日発表した。2部制となった1989年以降で過去最低だった前年と比べ1・0ポイント増えたが、過去2番目の低さだった。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/200/066000c",
+          "publishedOn": "2023-01-02T06:18:31.000Z",
+          "wordCount": 988,
+          "title": "紅白歌合戦、視聴率は関東で35.3％　過去最低の前年から微増",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m200067000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221230/k00/00m/040/152000c",
+          "author": null,
+          "description": "ボクシングのオリンピック金メダリストがこの春から、本格的にカエルの生態研究に取り組む。しかも記者も通った大学院で学ぶという。「どんな研究をするんでしょうか」と尋ねると、いつもの試合後のインタビューのように自然体で語ってくれた。「接近か、離れるか」――。カエルの防御行動からは、ボクシングにも通じる戦",
+          "link": "https://mainichi.jp/articles/20221230/k00/00m/040/152000c",
+          "publishedOn": "2023-01-02T06:00:10.000Z",
+          "wordCount": 1082,
+          "title": "「カエルの戦略はボクシングにも」　金メダリストが研究の道へ飛躍",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/30/20221230k0000m040163000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/050/065000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は2日に往路があり、5区（20・8キロ）は城西大の山本唯翔（ゆいと）選手（3年）が1時間10分4秒の区間新記録で区間賞を獲得した。レース後の主な談話は次の通り。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/050/065000c",
+          "publishedOn": "2023-01-02T05:56:05.000Z",
+          "wordCount": 1028,
+          "title": "祖父に送ったガッツポーズ　城西大の5区・山本唯翔、区間新の好走",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102mpj00m050002000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/050/063000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は2日、東京・大手町―神奈川・箱根町の往路5区間107・5キロに21チーム（オープン参加の関東学生連合を含む）が参加して行われ、駒沢大が往路優勝を果たした。レース後の駒沢大の監督、選手の談話は以下の通り。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/050/063000c",
+          "publishedOn": "2023-01-02T05:41:04.000Z",
+          "wordCount": 1054,
+          "title": "往路優勝の駒沢大・大八木監督「抜きつ抜かれつでハラハラ」　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m050052000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/040/059000c",
+          "author": null,
+          "description": "忘年会後に同級生を刺殺したとして、大阪府警は2日、知人で大阪市平野区の職業不詳、稲掛（いながけ）躍容疑者（55）を殺人の疑いで逮捕したと発表した。稲掛容疑者は事件後に逃げていたが、兵庫県姫路市内で身柄を確保された。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/040/059000c",
+          "publishedOn": "2023-01-02T05:22:03.000Z",
+          "wordCount": 1024,
+          "title": "忘年会後に同級生を刺殺し逃走　55歳容疑者逮捕　大阪府警",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2020/03/08/20200308k0000m040076000p/0c10.jpg?3"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221230/k00/00m/040/364000c",
+          "author": null,
+          "description": "書いて、自分をつかまえて――。日本で両親を見送り、米国で夫をみとった後、帰国した詩人、伊藤比呂美さん（67）は今、大学生に詩を教えている。新型コロナウイルス禍で孤立し「死」すらも意識していた若者たちの人生相談に乗り、詩を書くよう促してきた。新しい年、詩人が若者たちに贈るメッセージとは。【聞き手・小",
+          "link": "https://mainichi.jp/articles/20221230/k00/00m/040/364000c",
+          "publishedOn": "2023-01-02T05:00:09.000Z",
+          "wordCount": 1077,
+          "title": "「詩を書いて、前に進もう」　伊藤比呂美さんの若者人生相談とは",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/31/20221231k0000m040011000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/030/055000c",
+          "author": null,
+          "description": "韓国の尹錫悦（ユンソンニョル）大統領は2日付の韓国紙、朝鮮日報のインタビューで、核・ミサイル開発を続ける北朝鮮に対する抑止のため、米国の核兵器運用に韓国として関与を強め「計画や情報共有、演習と訓練を韓米共同で行うべきだ」と主張した。核兵器を共同運用する「核共有」には至らないとの認識を示した上で「事",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/030/055000c",
+          "publishedOn": "2023-01-02T04:18:55.000Z",
+          "wordCount": 1068,
+          "title": "尹大統領、米韓で核の共同演習など主張　北朝鮮抑止を目的に",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/05/10/20220510k0000m030111000p/0c10.jpg?1"
+        }
+      ]
+    },
+    {
+      "title": "『ちーたか』",
+      "feedUrl": "http://rssblog.ameba.jp/takagi-chikako/rss20.xml",
+      "siteUrl": "https://ameblo.jp/takagi-chikako/",
+      "articles": []
+    },
+    {
+      "title": "はるかぜポポポ",
+      "feedUrl": "https://note.com/newspeak/rss",
+      "siteUrl": "https://note.com/newspeak",
+      "articles": []
+    },
+    {
+      "title": "ぐるなび みんなのごはん",
+      "feedUrl": "http://r.gnavi.co.jp/g-interview/feed?format=xml",
+      "siteUrl": "https://r.gnavi.co.jp/g-interview/",
+      "articles": [
+        {
+          "id": "https://r.gnavi.co.jp/g-interview/entry/jinushi/5346",
+          "author": null,
+          "description": "日本では一般的で誰もが食べたことがあるお菓子、バウムクーヘン。実は発祥の地ドイツではあまり食べられていないそうです。これは驚き！地域性と季節性の高いお菓子だそうで、ドイツでは西部より東部で食べられるのと、クリスマスに出回るのだとか。クリスマスのお菓子と言えば日本ではシュトーレンがだいぶ浸透してきてますが、2つのお菓子を食べにドイツまで行ってきました。（<a href=\"https://r.gnavi.co.jp/area/jp/cafe/rs/\">カフェ・スイーツのグルメガイド</a>）",
+          "link": "https://r.gnavi.co.jp/g-interview/entry/jinushi/5346",
+          "publishedOn": "2022-12-15T02:35:19.000Z",
+          "wordCount": 2067,
+          "title": "メリークリスマス！　バウムクーヘンとシュトーレンを発祥の国で食べる",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/j/jinushikeisuke/20221119/20221119144223.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
