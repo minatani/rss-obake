@@ -84,19 +84,18 @@ sources:
 #  - href: https://viewplus.com/feed/
   - href: http://vip.chowo.co.uk/feed
   - href: http://volumio.org/feed
-#  - href: http://www.w4a.info/2019/feed/
 #  - href: http://www.zakzak.co.jp/rss/society/society.xml
 #  - href: http://www.zakzak.co.jp/rss/shakai-n.xml
 #  - href: http://www.zakzak.co.jp/rss/economy/economy.xml
 #  - href: http://www.zakzak.co.jp/rss/entertainment/entertainment.xml
-#  - href: https://www.ictrehab.com/index.php/feed/
-#  - href: http://denki.iee.jp/?feed=rss2
-#  - href: https://event21.co.jp/ceo/?feed=rss2
+  - href: https://www.ictrehab.com/index.php/feed/
+  - href: http://denki.iee.jp/?feed=rss2
+  - href: https://event21.co.jp/ceo/?feed=rss2
 #  - href: http://chutoislam.blog.fc2.com/?xml
 #  - href: http://ikeuchisatoshi.com/feed
 #  - href: http://lineblog.me/ijuinhikaru/index.rdf
-#  - href: https://tomo-wait-for-it-yuki.hatenablog.com/rss
-#  - href: http://blog.university-staff.net/atom.xml
+  - href: https://tomo-wait-for-it-yuki.hatenablog.com/rss
+  - href: http://blog.university-staff.net/atom.xml
 #  - href: http://ocean.opal.ne.jp/blog/?feed=rss2
 #  - href: https://kaden.watch.impress.co.jp/data/rss/1.0/kdw/feed.rdf
 #  - href: http://kaden.watch.impress.co.jp/cda/rss/kaden.rdf
