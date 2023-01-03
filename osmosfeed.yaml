@@ -75,15 +75,15 @@ sources:
   - href: http://tabilista.com/feed/
 #  - href: https://blind.guru/feeds/all.atom.xml
 #  - href: http://japanese.ruvr.ru/rss/export_all.xml
-#  - href: http://tt-rss.org/forum/rss.php
-#  - href: https://www.tonythetraveller.com/feed/
-#  - href: https://www.traicy.com/feed
+  - href: http://tt-rss.org/forum/rss.php
+  - href: https://www.tonythetraveller.com/feed/
+  - href: https://www.traicy.com/feed
 #  - href: https://feeds.turingcomplete.fm/tcfm
-#  - href: http://www.japanjournals.com/index.php?option=com_content&amp;view=category&amp;id=37&amp;Itemid=96&amp;format=feed&amp;
+  - href: http://www.japanjournals.com/index.php?option=com_content&amp;view=category&amp;id=37&amp;Itemid=96&amp;format=feed&amp;
 #  - href: https://user2020.r-project.org/index.xml
 #  - href: https://viewplus.com/feed/
-#  - href: http://vip.chowo.co.uk/feed
-#  - href: http://volumio.org/feed
+  - href: http://vip.chowo.co.uk/feed
+  - href: http://volumio.org/feed
 #  - href: http://www.w4a.info/2019/feed/
 #  - href: http://www.zakzak.co.jp/rss/society/society.xml
 #  - href: http://www.zakzak.co.jp/rss/shakai-n.xml
