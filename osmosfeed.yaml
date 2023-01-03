@@ -97,19 +97,16 @@ sources:
   - href: https://tomo-wait-for-it-yuki.hatenablog.com/rss
   - href: http://blog.university-staff.net/atom.xml
 #  - href: http://ocean.opal.ne.jp/blog/?feed=rss2
-#  - href: https://kaden.watch.impress.co.jp/data/rss/1.0/kdw/feed.rdf
+  - href: https://kaden.watch.impress.co.jp/data/rss/1.0/kdw/feed.rdf
 #  - href: http://kaden.watch.impress.co.jp/cda/rss/kaden.rdf
 #  - href: http://rss.rssad.jp/rss/kadenwatch/kaden.rdf
 #  - href: http://osoroshian.com/index.rdf
-#  - href: http://blog.livedoor.jp/damekyoshi/index.rdf
-#  - href: https://www.kyobun.co.jp/feed/
-#  - href: http://riha25.seishikyo.net/index.php/news/index.rss
-#  - href: http://nikkan-spa.jp/feed
+  - href: http://blog.livedoor.jp/damekyoshi/index.rdf
+  - href: https://www.kyobun.co.jp/feed/
+  - href: http://nikkan-spa.jp/feed
 #  - href: https://nikkan-spa.jp/feed
 #  - href: http://dailycult.blogspot.com/feeds/posts/default
-#  - href: http://page2rss.com/rss/7d28642844ad0fe1886306e4ea02cae0
-#  - href: http://page2rss.com/rss/2c212890dbdab6aa970cce4690dd4805
-#  - href: http://cpplover.blogspot.com/feeds/posts/default
+  - href: http://cpplover.blogspot.com/feeds/posts/default
 #  - href: https://www.kgs-jpn.co.jp/index.php?cmd=rss
 #  - href: http://shokai.org/blog/feed
 #  - href: https://komachi.hatenablog.com/feed
