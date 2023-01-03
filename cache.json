@@ -1032,6 +1032,16 @@
       "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/105000c",
+          "author": null,
+          "description": "全国高校ラグビー大会は3日、東大阪市花園ラグビー場で準々決勝があり、Bシードの佐賀工はAシードの東福岡に18－24で敗れた。 　伝統とするFWの強さに加え、高さとうまさの「三拍子」がそろった佐賀工は、敗れこそすれ、その実力を遺憾なく出し切った。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/105000c",
+          "publishedOn": "2023-01-03T05:25:23.000Z",
+          "wordCount": 1175,
+          "title": "惜敗のシン・佐賀工　「三拍子」そろったFW奮闘　高校ラグビー",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050071000p/0c10.jpg?1"
+        },
+        {
           "id": "https://mainichi.jp/articles/20230103/k00/00m/050/104000c",
           "author": null,
           "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、往路20位の立教大は復路16位、総合18位だった。",
@@ -5048,6 +5058,119 @@
           "wordCount": 681,
           "title": "早稲田大学など、初期宇宙に存在した赤い渦巻銀河を発見",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        }
+      ]
+    },
+    {
+      "title": "MobileHackerz再起動日記",
+      "feedUrl": "http://blog.mobilehackerz.jp/feeds/posts/default",
+      "siteUrl": "http://blog.mobilehackerz.jp/",
+      "articles": []
+    },
+    {
+      "title": "Mogura VR",
+      "feedUrl": "https://www.moguravr.com/feed/",
+      "siteUrl": "https://www.moguravr.com",
+      "articles": [
+        {
+          "id": "https://www.moguravr.com/?p=209701",
+          "author": "パンみみこ",
+          "description": "2022年12月30日、Metaはオランダ及びベルギーに拠点を置くLuxexcelを買収したことが明らかになりました。同社は3Dプリント技術を用いて、ARグラス向けレンズを製作する企業。処方箋が必要な視力矯正用レンズを大 […]\nThe post Meta、ARグラス向け”度入り”レンズの開発企業を買収 appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/meta-luxexcel-buyout/",
+          "publishedOn": "2023-01-03T02:30:47.000Z",
+          "wordCount": 690,
+          "title": "Meta、ARグラス向け”度入り”レンズの開発企業を買収",
+          "imageUrl": "https://assets.moguravr.com/uploads/2023/01/202301031109001000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=209691",
+          "author": "シェループ",
+          "description": "「気になるVRゲームニュースまとめ」では、一週間の内に報じられたVRゲーム関連ニュースの中から気になる新作、アップデート情報などをまとめてお届けします。今回は12月25日～12月31日の関連ニュースが対象です。 目次 1 […]\nThe post 「SCP財団」題材VRホラーの正式版が配信開始―今週の気になるVRゲームニュースまとめ（12月25日～12月31日） appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/vr-game-news-pickup-22-12-5/",
+          "publishedOn": "2023-01-01T10:10:07.000Z",
+          "wordCount": 984,
+          "title": "「SCP財団」題材VRホラーの正式版が配信開始―今週の気になるVRゲームニュースまとめ（12月25日～12月31日）",
+          "imageUrl": "https://assets.moguravr.com/uploads/2023/01/202301011903655000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=209677",
+          "author": "浅田カズラ",
+          "description": "2022年12月31日（土）に開催されたNHK「第73回紅白歌合戦」にて、映画「ONE PIECE FILM RED」の登場キャラクター「ウタ」が紅組の歌手として出演しました。史上初のアニメキャラの紅白出場とパフォーマン […]\nThe post 紅白歌合戦にONE PIECEのウタが出演！ 生放送中のステージでリアルタイムで「新時代」を披露 appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/kouhaku-uta/",
+          "publishedOn": "2023-01-01T06:48:36.000Z",
+          "wordCount": 706,
+          "title": "紅白歌合戦にONE PIECEのウタが出演！ 生放送中のステージでリアルタイムで「新時代」を披露",
+          "imageUrl": "https://assets.moguravr.com/uploads/2023/01/202301011543542000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=209672",
+          "author": "浅田カズラ",
+          "description": "株式会社アダストリアは、ECサイト「.st（ドットエスティ）」のお年玉企画として、オリジナルアバター「枡花 蒼」「一色 晴」のプレゼントキャンペーンを実施します。応募期間は1月1日（日）から1月4日（水）23:59です。 […]\nThe post ドットエスティ お年玉企画が開催！オリジナルアバター「枡花 蒼」「一色 晴」を抽選でプレゼント appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/dot-st-otoshidama-campaign/",
+          "publishedOn": "2023-01-01T05:07:26.000Z",
+          "wordCount": 818,
+          "title": "ドットエスティ お年玉企画が開催！オリジナルアバター「枡花 蒼」「一色 晴」を抽選でプレゼント",
+          "imageUrl": "https://assets.moguravr.com/uploads/2023/01/202301011358389000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=209610",
+          "author": "井文",
+          "description": "スマートフォン向けARゲーム「ポケモンGO」で、2023年の「お正月イベント」が開催されています。 2023年の「お正月イベント」の開催期間は、12月31日（土）午後20:00から2023年1月4日（水）午後20:00ま […]\nThe post 【ポケモンGO】2023年「お正月イベント」開幕  新年テーマの「フィールドリサーチ」登場！ appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/pokemon-go-779/",
+          "publishedOn": "2022-12-31T11:00:29.000Z",
+          "wordCount": 801,
+          "title": "【ポケモンGO】2023年「お正月イベント」開幕  新年テーマの「フィールドリサーチ」登場！",
+          "imageUrl": "https://assets.moguravr.com/uploads/2022/12/202212311108925000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=209605",
+          "author": "MoguLive編集部",
+          "description": "2022年のMoguLiveの締めくくりとなる企画は、VTuberからの特別コメント記事です。「Q1：2022年のご自身の活動を振り返って、印象的だった出来事など」と「Q2：2023年にやってみたいこと、抱負、読者へのメ […]\nThe post VTuber85名のコメントが集合 2022年の思い出と2023年の目標は？ appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/vtuber-comment-2022/",
+          "publishedOn": "2022-12-31T10:30:37.000Z",
+          "wordCount": 2329,
+          "title": "VTuber85名のコメントが集合 2022年の思い出と2023年の目標は？",
+          "imageUrl": "https://assets.moguravr.com/uploads/2022/12/202212311105166000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=209517",
+          "author": "MoguLive編集部",
+          "description": "今記事では2022年も活躍したバーチャルクリエイターの方々にアンケートを実施。「Q1：2022年のご自身の活動を振り返って、印象的だった出来事など」と「Q2：2023年にやってみたいこと、抱負、読者へのメッセージ」の2つ […]\nThe post バーチャルクリエイター19名のコメントが集合 2022年の思い出と2023年の目標は？ appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/virtual-creator-comment-2022/",
+          "publishedOn": "2022-12-31T10:00:36.000Z",
+          "wordCount": 1109,
+          "title": "バーチャルクリエイター19名のコメントが集合 2022年の思い出と2023年の目標は？",
+          "imageUrl": "https://assets.moguravr.com/uploads/2022/12/202212311104194000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=209498",
+          "author": "MoguLive編集部",
+          "description": "2022年も様々なVTuberが登場し大きな活躍を見せました。MoguLive編集部は「MoguLive VTuberアワード2022」として「今年輝いたVTuber」アンケートを実施（応募総数293票）。今記事で、その […]\nThe post 「今年最も輝いたVTuberベスト9」結果発表！【MoguLive VTuberアワード2022】 appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/2022-vtuber-best-9/",
+          "publishedOn": "2022-12-31T09:30:28.000Z",
+          "wordCount": 940,
+          "title": "「今年最も輝いたVTuberベスト9」結果発表！【MoguLive VTuberアワード2022】",
+          "imageUrl": "https://assets.moguravr.com/uploads/2022/12/202212311104196000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=209485",
+          "author": "MoguLive編集部",
+          "description": "2022年も様々なVTuberが登場し大きな活躍を見せました。MoguLive編集部は「MoguLive VTuberアワード2022」として「今年心に残ったVTuber生放送」のアンケートを実施（応募総数293票）。今 […]\nThe post 今年心に残ったVTuber生放送ベスト5【MoguLive VTuber Award 2022】 appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/2022-memorable-vtuber-live-broadcasts-5/",
+          "publishedOn": "2022-12-31T09:00:47.000Z",
+          "wordCount": 723,
+          "title": "今年心に残ったVTuber生放送ベスト5【MoguLive VTuber Award 2022】",
+          "imageUrl": "https://assets.moguravr.com/uploads/2022/12/202212311103584000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=209482",
+          "author": "MoguLive編集部",
+          "description": "2022年も様々なVTuberが登場し大きな活躍を見せました。MoguLive編集部は「MoguLive VTuberアワード2022」として「今年心に残ったVTuber動画」のアンケートを実施（応募総数293票）。今記 […]\nThe post 今年心に残ったVTuber動画ピックアップ！【MoguLive VTuber Award 2022】 appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/2022-memorable-vtuber-video-pickup/",
+          "publishedOn": "2022-12-31T08:30:46.000Z",
+          "wordCount": 710,
+          "title": "今年心に残ったVTuber動画ピックアップ！【MoguLive VTuber Award 2022】",
+          "imageUrl": "https://assets.moguravr.com/uploads/2022/12/202212311103166000.jpg"
         }
       ]
     }
