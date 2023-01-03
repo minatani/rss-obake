@@ -1032,6 +1032,26 @@
       "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20221229/k00/00m/040/072000c",
+          "author": null,
+          "description": "親の信仰の影響を受けて育つ「宗教2世」。安倍晋三元首相の銃撃事件をきっかけに、多くの当事者がその体験を語り始めています。信仰とは、家族とは、生きるとは。寄せられた「声」をシリーズで届けます。",
+          "link": "https://mainichi.jp/articles/20221229/k00/00m/040/072000c",
+          "publishedOn": "2023-01-03T08:00:10.000Z",
+          "wordCount": 1164,
+          "title": "声を聞いて・宗教2世:「悔い改めますか」同性と交際、高3で追放　家族も故郷も失った日",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/29/20221229k0000m040117000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/147000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、青山学院大は総合3位だった。2年連続7回目の総合優勝はならなかった。レース後の青山学院大・原晋監督の主なコメントは次の通り。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/147000c",
+          "publishedOn": "2023-01-03T07:57:22.000Z",
+          "wordCount": 1021,
+          "title": "青学大・原晋監督「二つのピースがはまらなかった」　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
           "id": "https://mainichi.jp/articles/20230103/k00/00m/030/143000c",
           "author": null,
           "description": "ギリシャが政府の諜報（ちょうほう）機関による盗聴疑惑に揺れている。野党党首や調査報道を手がける記者の携帯電話に対し、メッセージなどを抜き取るスパイウエアが仕掛けられたことが発覚したからだ。ミツォタキス政権は関与を否定しているが、野党側は「首相は政治責任を取るべきだ」と非難している。",
@@ -5677,6 +5697,332 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "PC Watch",
+      "feedUrl": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
+      "siteUrl": "https://pc.watch.impress.co.jp",
+      "articles": [
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467852.html",
+          "author": null,
+          "description": "1月7日まで開催中のAmazon初売りセールにおいて、ミニPCが特別価格で販売されている。Beelink「SEi12」の場合、直近の販売価格から2万2,360円の値引きにより、6万1,440円にて購入可能だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467852.html",
+          "publishedOn": "2023-01-03T05:13:15.000Z",
+          "wordCount": 5236,
+          "title": "本日みつけたお買い得品第12世代Core搭載ミニPCが約2万2千円オフ。Amazon初売り",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/852/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467851.html",
+          "author": null,
+          "description": "1月3日から7日にかけて開催されているAmazon初売りにおいて、Thunderbolt接続に対応するドッキングステーションが割り引き価格で販売中だ。Anker「PowerExpand Elite 12-in-1 Thunderbolt 4 Dock」は、1万1,006円引きの3万2,993円にて購入できる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467851.html",
+          "publishedOn": "2023-01-03T04:12:20.000Z",
+          "wordCount": 5252,
+          "title": "本日みつけたお買い得品AnkerのThunderbolt 4ドックが約1万1千円オフ。Amazon初売り",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/851/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467846.html",
+          "author": null,
+          "description": "Amazonで1月7日まで開催されている初売りセールにおいて、大型の4K対応モニターがお買い得となっている。31.5型のデル「SE3223Q」は、1万2,000円の値引きにより、4万7,800円で購入可能だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467846.html",
+          "publishedOn": "2023-01-03T03:28:39.000Z",
+          "wordCount": 5198,
+          "title": "本日みつけたお買い得品31.5型の4Kモニターが1万2千円引き。Amazon初売り",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/846/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467845.html",
+          "author": null,
+          "description": "Amazonは、1月7日まで初売りセールを開催中。エルゴトロンのモニターアーム「LX デスクマウントアーム」に10%オフクーポンが配布されており、1万5,957円で購入できる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467845.html",
+          "publishedOn": "2023-01-03T03:15:40.000Z",
+          "wordCount": 5197,
+          "title": "本日みつけたお買い得品エルゴトロンのモニターアームが10%オフ。Amazon初売りセール",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/845/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467836.html",
+          "author": null,
+          "description": "1月7日まで開催中のAmazon初売りセールにおいて、MicrosoftのSurfaceシリーズが割り引き価格となっている。13型の「Surface Pro 8」と専用タイプカバー、デジタルペンの3点セットの場合、以前の価格から3万3,458円引きで、13万42円にて購入できる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467836.html",
+          "publishedOn": "2023-01-03T02:47:56.000Z",
+          "wordCount": 5226,
+          "title": "本日みつけたお買い得品Surface Pro 8の3点セットが約3万3千円オフ。Amazon初売り",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/836/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467840.html",
+          "author": null,
+          "description": "Amazonは、1月7日まで初売りセールを開催中。「Fire TV」シリーズを、タイムセール価格で販売している。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467840.html",
+          "publishedOn": "2023-01-03T02:39:46.000Z",
+          "wordCount": 5224,
+          "title": "本日みつけたお買い得品Fire TV Stick 4K MaxとEcho Dotセットが5,980円引き。Amazon初売りセール",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/840/02.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467833.html",
+          "author": null,
+          "description": "1月3日から7日にかけて開催されているAmazon初売りにおいて、TECLASTのAndroidタブレットが安くなっている。10.4型の「T40 Pro」は、6,785円の値引きに加え2,395円オフのクーポンも利用でき、計9,180円引きの2万4,720円で購入できる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467833.html",
+          "publishedOn": "2023-01-03T01:43:14.000Z",
+          "wordCount": 5205,
+          "title": "本日みつけたお買い得品10.1型Androidタブレットが9,180円引き。Amazon初売り",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/833/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467832.html",
+          "author": null,
+          "description": "Amazonは、1月7日まで初売りセールを開催中。電子書籍リーダ「Kindle」シリーズを、充電スタンドやカバーなどとセットにし、タイムセール価格で販売している。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467832.html",
+          "publishedOn": "2023-01-03T01:20:05.000Z",
+          "wordCount": 5203,
+          "title": "本日みつけたお買い得品Kindle Paperwhiteの充電スタンドセットが3,000円引き中。Amazon初売りセール",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/832/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467826.html",
+          "author": null,
+          "description": "Amazonは、1月7日まで初売りセールを開催中。Amazonのタブレット「Fire HD」シリーズをタイムセール価格で販売している。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1467826.html",
+          "publishedOn": "2023-01-03T00:36:20.000Z",
+          "wordCount": 5204,
+          "title": "本日みつけたお買い得品Fire HDシリーズが最大14%オフ。Amazon初売りセール",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/826/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/retro-game-joshi/1467461.html",
+          "author": null,
+          "description": "こんにちは、黒田瑞貴です。今回も連載中の、コーエーテクモゲームス(旧光栄)から発売された「三国志II」をプレイしていきます! 1989年に発売された今作品は、PC‐8801から始まりスーパーファミコンやメガドライブ、今ではスマホ版なんかも出ていて、幅広いプラットフォームで遊ぶことができます! 私はSteam版を1,320円で購入しました。機種によって4人、8人、12人までのマルチプレイが可能なんですが、友情が崩壊する気しかしないので個人的にはソロプレイがお勧めです。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/retro-game-joshi/1467461.html",
+          "publishedOn": "2022-12-30T23:00:00.000Z",
+          "wordCount": 5272,
+          "title": "【インプレスeスポーツ部女子レトロゲーム班】黒田瑞貴、「三國志II」で中華統一を成し遂げる。しかも2回",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/461/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/topic/feature/1467745.html",
+          "author": null,
+          "description": "コロナ禍以降、テレワークやハイブリッドワークが定着したこともあり、モバイルノートの選び方が大きく変化。大多数のビジネスマンがオフィスと自宅のどちらでも仕事をこなし、PCを持ち運ぶ必要性が増した。そのため、外回りやデスクワークの頻度に関係なく、Web会議などを軽快にこなせる優れた性能を備えつつ、自宅とオフィスの間で軽快に持ち運べるモバイルノートが広く求められている。",
+          "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1467745.html",
+          "publishedOn": "2022-12-30T22:37:00.000Z",
+          "wordCount": 5406,
+          "title": "【最新版】1kg以下の軽量モバイルノートおすすめ10選",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/745/image.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/kaimono/1467738.html",
+          "author": null,
+          "description": "長くPCや周辺機器に関する仕事をしていると、たまにビックリするような製品が、あまり聞かないメーカーから出てくることがある。今回購入したInnocnの「27M2U」もその1つだ。7万円弱という価格ながら「ミニLED」に対応するということには正直驚いた。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/kaimono/1467738.html",
+          "publishedOn": "2022-12-30T22:01:00.000Z",
+          "wordCount": 5249,
+          "title": "【買い物山脈】超激安のミニLED搭載4K対応モニター「27M2U」を購入。光の鮮やかさと舞台が暗転した瞬間の「黒」に驚く",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/738/1.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/config/1467693.html",
+          "author": null,
+          "description": "スマホとPCは競合ではなく、協調の関係にある。どちらも、もう片方の使い勝手を高め、その役立ち度を支援する。そして、そこには両者を束ねる存在がある。それがクラウドだ……というのはどうにも勘違いらしい。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/config/1467693.html",
+          "publishedOn": "2022-12-30T21:39:00.000Z",
+          "wordCount": 5217,
+          "title": "【山田祥平のRe:config.sys】スマホとPCがピアー・ツー・ピアで連携",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/693/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/bought/1467587.html",
+          "author": null,
+          "description": "インプレスに入社し、PC Watchの編集部で働くことになった2022年。リモートワークがメインでありつつも定期的に出社する機会はあり、2021年以前のフルリモートもとい引きこもり状態に比べれば、外出することが多くなった。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/bought/1467587.html",
+          "publishedOn": "2022-12-30T21:08:00.000Z",
+          "wordCount": 5226,
+          "title": "【編集部・ライターの今年“これ買った”！】GR IIIとチェキプリンタで「フィルム欲」を発散する",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/587/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/semicon/1467737.html",
+          "author": null,
+          "description": "半導体メモリの大手メーカーであるMicron Technology(以降はMicronと表記)の四半期業績は、半導体メモリ業界では景況の先行指標として知られている。四半期の期末月がほかの半導体メモリメーカーに比べ、1カ月だけ先行しているからだ。ほかの半導体メモリ大手よりも、四半期業績の発表時期が約1カ月早い。Micron以外の半導体メモリ大手は、1カ月後の決算発表でMicronと類似の業績を示す可能性が少なくない。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/semicon/1467737.html",
+          "publishedOn": "2022-12-30T00:49:57.000Z",
+          "wordCount": 5216,
+          "title": "【福田昭のセミコン業界最前線】半導体メモリ大手の先行指標、Micronの営業損益が赤字に転落",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/737/photo002.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/topic/feature/1467726.html",
+          "author": null,
+          "description": "PC環境を整えるにあたり、悩ましいことの1つがモニター選び。インチサイズの違いはもちろんのこと、最近では横幅の広いウルトラワイド系の製品も増えて選択肢が広がったことで、なおさら迷ってしまいがち。実際に使ってみないとサイズ感や解像度が自分の用途に適切か分かりにくい、というのも難しさを増している要因かもしれない。",
+          "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1467726.html",
+          "publishedOn": "2022-12-29T22:20:00.000Z",
+          "wordCount": 5284,
+          "title": "サイズ違いでモニターの見え方はどう変わる？23.8/27/31.5/37.5型の4機種で使い勝手を比較",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/726/001.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/topic/feature/1467121.html",
+          "author": null,
+          "description": "ミニPC(もしくは小型PC)のメリットは、言うまでもなくコンパクトであること。タワー型のデスクトップPCと比べれば、その差は一目瞭然。ミニPCを数台並べても、まだタワー型より設置場所を取らないくらいで、何かと狭い日本の住宅事情にマッチしたPCと言える。",
+          "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1467121.html",
+          "publishedOn": "2022-12-29T21:37:00.000Z",
+          "wordCount": 5426,
+          "title": "【最新版】小さくても高性能！ミニPCおすすめ8選",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/121/sam.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/bought/1467486.html",
+          "author": null,
+          "description": "Androidスマートフォンといえば、Googleが管理し、各社メーカーに提供するプラットフォームだ。そんなAndroidにおけるリファレンスモデルと言えば、昔「Nexus」、今「Pixel」。最近ではGoogleもPixelのシェア拡大にかなり力を入れているようで、YouTubeなどの動画広告だけでなく、テレビCMもかなり頻繁に流すようになっており、同社が自社のブランド強化に対してかなり力を入れている様子が伺える。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/bought/1467486.html",
+          "publishedOn": "2022-12-29T21:28:00.000Z",
+          "wordCount": 5211,
+          "title": "【編集部・ライターの今年“これ買った”！】消しゴムマジックもだが、実質半額で買えたのが何よりすごい「Google Pixel 7」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/486/ss.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/ebook/1467000.html",
+          "author": null,
+          "description": "「BOOX Tab Ultra」は、10.3型のE Ink電子ペーパーを搭載したAndroidタブレットだ。Google Playストアにも対応しており、電子書籍に限らず、好みのAndroidアプリを自由にインストールして利用できるほか、BSR(BOOX Super Refresh)なる独自技術により、高速な描画を実現しているのが大きな特徴だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/ebook/1467000.html",
+          "publishedOn": "2022-12-29T21:16:00.000Z",
+          "wordCount": 5374,
+          "title": "【山口真弘の電子書籍タッチアンドトライ】Playストアも使える10.3型E Ink端末「BOOX Tab Ultra」。専用GPU搭載、メモリカード対応、スキャン用カメラも備えたフラッグシップモデル",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/000/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1467732.html",
+          "author": null,
+          "description": "高性能、高機能、高品質、そしてオリジナリティ溢れるモノづくりで根強い支持を得ているVAIOブランドのPC。2022年にVAIOは誕生25周年を迎えました。同年に創刊26周年を迎えたPC WatchがVAIO株式会社全面協力の元、長野県安曇野市にあるVAIO本社工場のノートPC製造工程を動画でレポートします。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1467732.html",
+          "publishedOn": "2022-12-29T21:10:00.000Z",
+          "wordCount": 5190,
+          "title": "VAIO工場独占レポート。国産ノートPCの製造工程を見せます ～VAIO 25周年＆PC Watch 26周年特別番組",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1467/732/01.png"
+        }
+      ]
+    },
+    {
+      "title": "ウインタブ　PC/タブレット/スマホの情報サイト",
+      "feedUrl": "https://win-tab.net/feed/",
+      "siteUrl": "https://win-tab.net",
+      "articles": [
+        {
+          "id": "https://win-tab.net/?p=127562",
+          "author": "natsuki",
+          "description": "こんにちは、natsukiです。新年そうそう、ニッチな製品を紹介します。ご覧の通り、microSDカード、SDカード、nano SIMカードの収納と、各種USBデータ転送ケーブルを兼ね備えた、オールインワンのカードケース...",
+          "link": "https://win-tab.net/acc/budi_adapter_2301032/",
+          "publishedOn": "2023-01-03T05:35:13.000Z",
+          "wordCount": 1742,
+          "title": "budi 9in1 マルチファンクションアダプター － 変換アダプターも各種カード収納も何でもござれ、”あの”microSDカードアダプターの進化形が登場",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2023/01/budi_9in1-multi-functional-box_00_title.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=127525",
+          "author": "かのあゆ",
+          "description": "ONE-NETBOOKのゲーミングUMPC、ONEXPLAYER mini Pro Ryzen版の実機レビューです。ウインタブでも実機レビューをさせていただいたONEXPLAYER mini Ryzen版の上位モデル（あ...",
+          "link": "https://win-tab.net/imported/onexplayer_mini_pro_ryzen_review_2301031/",
+          "publishedOn": "2023-01-03T02:54:16.000Z",
+          "wordCount": 2058,
+          "title": "ONEXPLAYER mini Pro Ryzen版 レビュー － 最新CPU搭載でパフォーマンスが大幅にアップ！ドッキングステーションを使えば高性能なミニPCとしても使えます",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2023/01/onex_pro_amd_review_top.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=127549",
+          "author": "wintab",
+          "description": "Amazonが1月3日9:00から初売り（セール）を開催します（1月8日まで）。他の通販サイトとは異なり、事前のネタバレが非常に少ないのですが、セール品が一部公開されているほか、福袋も販売されます。 言うまでもなくAma...",
+          "link": "https://win-tab.net/sale/amazon_hatsuuri_2301022/",
+          "publishedOn": "2023-01-02T13:13:42.000Z",
+          "wordCount": 1648,
+          "title": "Amazonの初売りは1月3日9:00から！セール品の一部が公開されています。福袋もありますよ！",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2023/01/amazon_fire_tv_stick_0103.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=127489",
+          "author": "wintab",
+          "description": "テックワンが運営するONE-NETBOOK日本公式サイトで年末年始セールを開催中です。ゲーミングUMPCのONEXPLAYERシリーズが最大30%OFFという大きな割引率になっています。ONEXPLAYERシリーズはゲー...",
+          "link": "https://win-tab.net/sale/one_netbook_sale_2301021/",
+          "publishedOn": "2023-01-02T04:45:06.000Z",
+          "wordCount": 1763,
+          "title": "ONEXPLAYERシリーズが最大30%OFF！ONE-NETBOOK日本公式サイトで年末年始セール開催中！",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2023/01/one_netbook_sale0102.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=127473",
+          "author": "wintab",
+          "description": "あけましておめでとうございます。旧年中は格別のご愛顧を賜り、誠にありがとうございました。本年もどうぞよろしくお願いいたします。年頭に際し、2023年の抱負を書いていこうと思います。 ごった煮 ウインタブはもともと「Win...",
+          "link": "https://win-tab.net/opinion/new_year_2023_2301011/",
+          "publishedOn": "2023-01-01T01:55:44.000Z",
+          "wordCount": 1669,
+          "title": "【2023年元旦】あけましておめでとうございます",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2022/12/kingashinnen2023.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=127272",
+          "author": "wintab",
+          "description": "「ダイナブック」というのはもともと東芝が手掛けていたノートパソコンのブランド名です。現在は東芝から離れ、そのものズバリ「Dynabook株式会社」が製造・販売をしています。Dynabookのパソコンはウインタブでも何度も...",
+          "link": "https://win-tab.net/dynabook/osusume_dynabook_2301lp/",
+          "publishedOn": "2022-12-31T05:29:25.000Z",
+          "wordCount": 1752,
+          "title": "Dynabook ノートパソコンおすすめ5選。利用目的に合わせて選ぶ【2023年1月版】",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2022/04/dynabook_rz-1.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=127452",
+          "author": "かのあゆ",
+          "description": "イオシスが1月3日に「超高額福袋」を販売します。最も高価なものは100万円、一番安いものでも30万円と、イオシス自ら「狂気の高額福袋」と言っているように、気軽に購入できるとは言い難いですが、中に入っているものは「超ゴージ...",
+          "link": "https://win-tab.net/sale/iosys_luckybag_2023_2212311/",
+          "publishedOn": "2022-12-30T16:03:08.000Z",
+          "wordCount": 1781,
+          "title": "来たれ！挑戦者！！イオシスがなんと100万円の超高額福袋を販売します…普通の中古もお買い得品がありますよ！",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2022/12/iosys_luckeybag_2023-1.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=127440",
+          "author": "wintab",
+          "description": "BTOパソコンメーカーのFRONTIERが「福箱」を販売します。FRONTIERは毎年お正月に福袋を販売しており、いまどき珍しい「福袋らしい激安価格」になっていて個人的には好感を持っていました。2023年の福箱についても...",
+          "link": "https://win-tab.net/sale/frontier_fukubako_2212303/",
+          "publishedOn": "2022-12-30T07:37:11.000Z",
+          "wordCount": 1682,
+          "title": "FRONTIERが「福箱」を販売します。1月1日正午スタート、中身はゲーミングデスクトップPCと周辺機器で、中身もわかります",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2022/12/frontier_fukubako-1.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=127431",
+          "author": "wintab",
+          "description": "こんにちは、ウインタブ（@WTab8）です。年末ということでPCやスマホの新製品情報も少ないので、少し前から気になっていた「パズル」をご紹介したいと思います。kibidangoでクラウドファンディング中の「The Wav...",
+          "link": "https://win-tab.net/acc/the_wavelinks_puzzle_2212302/",
+          "publishedOn": "2022-12-30T06:01:26.000Z",
+          "wordCount": 1676,
+          "title": "The Wavelinks Puzzle － 大人のための美しくて難解な立体パズル、根気のある人に。インテリアにも良さそうです",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2022/12/the_wavelinks_puzzle-1.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=127421",
+          "author": "wintab",
+          "description": "マウスコンピューターが「年末年始セール」を開催中です（1月11日まで）。モバイルノートからクリエイターノート、ゲーミングノートまで最新モデルも含む幅広い製品がセール対象になっています。マウスコンピューターはBTOパソコン...",
+          "link": "https://win-tab.net/sale/mouse_sale_2212301/",
+          "publishedOn": "2022-12-30T03:34:06.000Z",
+          "wordCount": 1742,
+          "title": "マウスコンピューターが「年末年始セール」を開催中！Core i7搭載のモバイルノート、B4-i7が139,800円、カスタマイズ注文できるのも魅力！",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2022/12/mouse_daiv_4p_1229-2.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Political Economy Tokyo Seminar (PoETS)",
+      "feedUrl": "https://politicaleconomyseminar.wordpress.com/feed/",
+      "siteUrl": "https://politicaleconomyseminar.wordpress.com",
+      "articles": []
+    },
+    {
+      "title": "Posts on l0w.dev",
+      "feedUrl": "http://l0w.dev/posts/index.xml",
+      "siteUrl": "https://l0w.dev/posts/",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
