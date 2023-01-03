@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T15:50:28.629Z</updated>
+    <updated>2023-01-03T16:59:58.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -14,6 +14,56 @@
         <summary type="html"><![CDATA[ラジオから東京、そして日本をイノベーション！テクノロジーの進化を追うラジオプログラム。リスナーと“2WAY”で未来を探ります。]]></summary>
         <author>
             <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[釣り中に男性2人が転落、心肺停止に　新潟]]></title>
+        <id>https://mainichi.jp/articles/20230104/k00/00m/040/007000c</id>
+        <link href="https://mainichi.jp/articles/20230104/k00/00m/040/007000c"/>
+        <updated>2023-01-03T16:33:20.000Z</updated>
+        <summary type="html"><![CDATA[3日午後7時35分ごろ、新潟市北区の新潟港で釣りをしていた男性から「友人と波にさらわれ海に落ちた」と118番があった。通報者の男性を含む2人と連絡が取れず、新潟海上保安部などが捜索。午後10時50分ごろに港内から男性2人を発見した。いずれも心肺停止の状態で病院に搬送された。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Remarks on Large Language Models]]></title>
+        <id>https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9</id>
+        <link href="https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9"/>
+        <updated>2023-01-03T15:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update: Stripe is holding over $400k of mine with no explanation [resolved]]]></title>
+        <id>https://news.ycombinator.com/item?id=34233011</id>
+        <link href="https://news.ycombinator.com/item?id=34233011"/>
+        <updated>2023-01-03T15:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detangle: tl;dr your legal docs with AI]]></title>
+        <id>https://detangle.ai/</id>
+        <link href="https://detangle.ai/"/>
+        <updated>2023-01-03T15:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bertrand Meyer et al.: The concept of class invariant in OO programming]]></title>
+        <id>https://arxiv.org/abs/2109.06557</id>
+        <link href="https://arxiv.org/abs/2109.06557"/>
+        <updated>2023-01-03T15:35:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -34,6 +84,16 @@
         <summary type="html"><![CDATA[専門家は昨年、アルコールに関する主な質問に答えた。アルコール飲料は時に健康によいというのは本当か、なぜ人はアルコールに惹かれ、アルコール依存とどう戦えばいいのか。スプートニク通信がまとめた。]]></summary>
         <author>
             <name>スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Basic User Authentication in a Flask App]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/"/>
+        <updated>2023-01-03T14:57:06.000Z</updated>
+        <summary type="html"><![CDATA[User authentication is important for protecting sensitive information and resources from unauthorized access. It helps ensure that only authorized users can access and make changes to data, and helps prevent unauthorized users from gaining access to sensitive information. There are different methods for implementing user authentication, including password-based authentication, token-based]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
         </author>
     </entry>
     <entry>
@@ -101,6 +161,16 @@
         <id>https://newsletter.mollywhite.net/p/in-2022-web3-went-just-great</id>
         <link href="https://newsletter.mollywhite.net/p/in-2022-web3-went-just-great"/>
         <updated>2023-01-03T14:25:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Please write a breaking news article about a leaf falling from a tree]]></title>
+        <id>https://www.learngpt.com/prompts/please-write-a-breaking-news-article-about-a-leaf</id>
+        <link href="https://www.learngpt.com/prompts/please-write-a-breaking-news-article-about-a-leaf"/>
+        <updated>2023-01-03T14:21:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -2893,6 +2963,16 @@ FIA会長のモハメド・ビン・ス... 続きを読む]]></summary>
         <summary type="html"><![CDATA[日本の防衛省は2日、中国海軍の空母「遼寧」など複数の艦艇が、沖縄本島と宮古島の間を北上し、太平洋から東シナ海に向けて航行したと発表した。]]></summary>
         <author>
             <name>スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xerox’s influence on Steve Jobs and Bill Gates (2018) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=pQocN_c2uLI</id>
+        <link href="https://www.youtube.com/watch?v=pQocN_c2uLI"/>
+        <updated>2023-01-02T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -7564,6 +7644,17 @@ Reiner]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2か月連続で過去最高売上を更新中！11月度は単月売上2億2500万円突破！これが僕達が大切にしてきた経営戦略と全社員一致団結カルチャーの結果です。]]></title>
+        <id>http://event21.co.jp/ceo/?p=18132</id>
+        <link href="https://event21.co.jp/ceo/?p=18132"/>
+        <updated>2022-12-26T08:03:40.000Z</updated>
+        <summary type="html"><![CDATA[皆さんこんにちは！今年もあとわずかになりましたね～ タイトルのとおり、イベント21爆走中です。 今まで、イベント21は1… Read more →
+The post 2か月連続で過去最高売上を更新中！11月度は単月売上2億2500万円突破！これが僕達が大切にしてきた経営戦略と全社員一致団結カルチャーの結果です。 first appeared on 世界をもっとhappy!に変えていきたいイベント21の社長ブログ│中野愛一郎.]]></summary>
+        <author>
+            <name>aiichiro_nakano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[リチウムイオン電池における溶媒和構造を可視化]]></title>
         <id>https://eetimes.itmedia.co.jp/ee/articles/2212/26/news053.html</id>
         <link href="https://eetimes.itmedia.co.jp/ee/articles/2212/26/news053.html"/>
@@ -8847,6 +8938,106 @@ WordPress Playground: Running WordPress in the Browser originally published on C
         <summary type="html"><![CDATA[地球低軌道（LEO：Low Earth Orbit）を周回する通信衛星群により構成された、Space Exploration Technologies Corp.の衛星インターネットサービスである「スターリンク」の提供が、日本でも2022年10月から始まりました。]]></summary>
         <author>
             <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第17回　リハビリ・介護 モノづくり成果発表会]]></title>
+        <id>https://www.ictrehab.com/misc/518/</id>
+        <link href="https://www.ictrehab.com/misc/518/"/>
+        <updated>2022-12-18T19:14:42.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/12/10 時間：13:30〜15:30 第17回 リハビリ・介護モノづくり成果発表会を開催 […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はじめてでも簡単！3Dプリンタでものづくり体験：自助具編]]></title>
+        <id>https://www.ictrehab.com/misc/517/</id>
+        <link href="https://www.ictrehab.com/misc/517/"/>
+        <updated>2022-12-18T19:13:08.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/12/04 時間：10:00〜16:00 広島県呉市は大崎下島にある「Nurse and C […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レーザー加工機に親しもう！]]></title>
+        <id>https://www.ictrehab.com/misc/516/</id>
+        <link href="https://www.ictrehab.com/misc/516/"/>
+        <updated>2022-12-18T19:10:20.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/11/20 時間：10:30〜12:00 本日はオンサイトにて、初心者向けのレーザー加工機の […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いろんなフィラメントの 3D 出力を楽しんでみよう]]></title>
+        <id>https://www.ictrehab.com/misc/515/</id>
+        <link href="https://www.ictrehab.com/misc/515/"/>
+        <updated>2022-12-18T19:07:35.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/11/10 時間：19:00〜20:30 オンラインにて、様々な３Dプリント用のフィラメント […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スライサー勉強会]]></title>
+        <id>https://www.ictrehab.com/misc/514/</id>
+        <link href="https://www.ictrehab.com/misc/514/"/>
+        <updated>2022-12-18T19:05:13.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/10/20 時間：19:00〜20:30 オンラインにて、３Dプリントのための設定ソフト「ス […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinkerCadで３Dモデリングしてみよう（オンライン）]]></title>
+        <id>https://www.ictrehab.com/misc/513/</id>
+        <link href="https://www.ictrehab.com/misc/513/"/>
+        <updated>2022-12-18T19:03:16.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/10/06 時間：19:00〜20:30 オンラインにて、恒例研修会である「TinkerCa […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[３Dプリンタで自助具を作る（中級編）]]></title>
+        <id>https://www.ictrehab.com/misc/512/</id>
+        <link href="https://www.ictrehab.com/misc/512/"/>
+        <updated>2022-12-18T19:00:45.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/09/15 時間：19:00〜20:30 オンラインにて、研修会「３Dプリンタで自助具をつく […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第16回　リハビリ・介護 モノづくり成果発表会]]></title>
+        <id>https://www.ictrehab.com/misc/511/</id>
+        <link href="https://www.ictrehab.com/misc/511/"/>
+        <updated>2022-12-18T18:58:43.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/09/10 時間：13:30〜15:30 本日、約半年ぶりになる成果発表会を開催しました！何 […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈作業〉とデザイン]]></title>
+        <id>https://www.ictrehab.com/misc/510/</id>
+        <link href="https://www.ictrehab.com/misc/510/"/>
+        <updated>2022-12-18T18:56:48.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/07/28 時間：19:00〜20:30 国内で、作業療法のコンセプトを元に建築や空間設計、 […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[３Dプリンタで自助具を作る（初級編）]]></title>
+        <id>https://www.ictrehab.com/misc/509/</id>
+        <link href="https://www.ictrehab.com/misc/509/"/>
+        <updated>2022-12-18T18:53:07.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/07/14 時間：19:00〜20:30 ３Dプリンタを用いて自助具を作るための初級編ワーク […]]]></summary>
+        <author>
+            <name>ictrehab</name>
         </author>
     </entry>
     <entry>

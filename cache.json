@@ -401,6 +401,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/",
+          "author": "Ashutosh Krishna",
+          "description": "User authentication is important for protecting sensitive information and resources from unauthorized access. It helps ensure that only authorized users can access and make changes to data, and helps prevent unauthorized users from gaining access to sensitive information. There are different methods for implementing user authentication, including password-based authentication, token-based",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/",
+          "publishedOn": "2023-01-03T14:57:06.000Z",
+          "wordCount": 5996,
+          "title": "How to Set Up Basic User Authentication in a Flask App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/basic-auth.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/",
           "author": "Sule-Balogun Olanrewaju Ganiu",
           "description": "Last week, I decided to install Laravel Valet on my Mac. But after the installation, the performance of the microservice architecture application I had it on was quite slow.  I wondered if it was an M1 issue or because I had yet to shut the machine down. I shut",
@@ -1031,6 +1041,16 @@
       "feedUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "articles": [
+        {
+          "id": "https://mainichi.jp/articles/20230104/k00/00m/040/007000c",
+          "author": null,
+          "description": "3日午後7時35分ごろ、新潟市北区の新潟港で釣りをしていた男性から「友人と波にさらわれ海に落ちた」と118番があった。通報者の男性を含む2人と連絡が取れず、新潟海上保安部などが捜索。午後10時50分ごろに港内から男性2人を発見した。いずれも心肺停止の状態で病院に搬送された。",
+          "link": "https://mainichi.jp/articles/20230104/k00/00m/040/007000c",
+          "publishedOn": "2023-01-03T16:33:20.000Z",
+          "wordCount": 1070,
+          "title": "釣り中に男性2人が転落、心肺停止に　新潟",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2019/05/13/20190513k0000m040107000p/0c10.jpg?1"
+        },
         {
           "id": "https://mainichi.jp/articles/20230104/k00/00m/020/006000c",
           "author": null,
@@ -4463,6 +4483,46 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9",
+          "publishedOn": "2023-01-03T15:54:22.000Z",
+          "wordCount": 4286,
+          "title": "Some Remarks on Large Language Models",
+          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34233011",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34233011",
+          "publishedOn": "2023-01-03T15:52:43.000Z",
+          "wordCount": 8069,
+          "title": "Update: Stripe is holding over $400k of mine with no explanation [resolved]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://detangle.ai/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://detangle.ai/",
+          "publishedOn": "2023-01-03T15:39:03.000Z",
+          "wordCount": 321,
+          "title": "Detangle: tl;dr your legal docs with AI",
+          "imageUrl": "https://detangle.ai/assets/meta-51f5a5ec52f3c6f1a248bf04b696913ac90cc2e4df67301a1f750a9d290e6cc9.png"
+        },
+        {
+          "id": "https://arxiv.org/abs/2109.06557",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2109.06557",
+          "publishedOn": "2023-01-03T15:35:33.000Z",
+          "wordCount": 671,
+          "title": "Bertrand Meyer et al.: The concept of class invariant in OO programming",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theguardian.com/world/2023/jan/03/million-yen-per-child-to-leave-tokyo-japans-offer-to-families",
           "author": null,
           "description": "Comments",
@@ -4521,6 +4581,16 @@
           "wordCount": 5061,
           "title": "In 2022, Web3 went just great",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8d69be06-b675-495b-9016-0aa6ef3e0635_1167x799.jpeg"
+        },
+        {
+          "id": "https://www.learngpt.com/prompts/please-write-a-breaking-news-article-about-a-leaf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.learngpt.com/prompts/please-write-a-breaking-news-article-about-a-leaf",
+          "publishedOn": "2023-01-03T14:21:53.000Z",
+          "wordCount": 299,
+          "title": "Please write a breaking news article about a leaf falling from a tree",
+          "imageUrl": "https://www.learngpt.com/assets/thumbnail-885981f4a07590fedabcee5a5dbc2f6e59c2355591beb7d7f707fa76220aff39.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=34231553",
@@ -5101,6 +5171,16 @@
           "wordCount": 2261,
           "title": "Mazda has tested a synthetic fuel in an unmodified MX5 on a 1000-mile road trip",
           "imageUrl": "https://cdn-images-1.medium.com/max/800/1*FUA2YDiYdu35Sy_I1dnStg.jpeg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pQocN_c2uLI",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=pQocN_c2uLI",
+          "publishedOn": "2023-01-02T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Xerox’s influence on Steve Jobs and Bill Gates (2018) [video]",
+          "imageUrl": null
         },
         {
           "id": "https://arstechnica.com/science/2023/01/companies-are-relying-on-quantum-annealers-for-useful-computations/",
@@ -9195,6 +9275,136 @@
       "feedUrl": "http://volumio.org/feed",
       "siteUrl": "https://volumio.com/en/",
       "articles": []
+    },
+    {
+      "title": "一般社団法人ICTリハビリテーション研究会",
+      "feedUrl": "https://www.ictrehab.com/index.php/feed/",
+      "siteUrl": "https://www.ictrehab.com",
+      "articles": [
+        {
+          "id": "https://www.ictrehab.com/misc/518/",
+          "author": "ictrehab",
+          "description": "開催日：2022/12/10 時間：13:30〜15:30 第17回 リハビリ・介護モノづくり成果発表会を開催 […]",
+          "link": "https://www.ictrehab.com/misc/518/",
+          "publishedOn": "2022-12-18T19:14:42.000Z",
+          "wordCount": 248,
+          "title": "第17回　リハビリ・介護 モノづくり成果発表会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/517/",
+          "author": "ictrehab",
+          "description": "開催日：2022/12/04 時間：10:00〜16:00 広島県呉市は大崎下島にある「Nurse and C […]",
+          "link": "https://www.ictrehab.com/misc/517/",
+          "publishedOn": "2022-12-18T19:13:08.000Z",
+          "wordCount": 246,
+          "title": "はじめてでも簡単！3Dプリンタでものづくり体験：自助具編",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/516/",
+          "author": "ictrehab",
+          "description": "開催日：2022/11/20 時間：10:30〜12:00 本日はオンサイトにて、初心者向けのレーザー加工機の […]",
+          "link": "https://www.ictrehab.com/misc/516/",
+          "publishedOn": "2022-12-18T19:10:20.000Z",
+          "wordCount": 242,
+          "title": "レーザー加工機に親しもう！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/515/",
+          "author": "ictrehab",
+          "description": "開催日：2022/11/10 時間：19:00〜20:30 オンラインにて、様々な３Dプリント用のフィラメント […]",
+          "link": "https://www.ictrehab.com/misc/515/",
+          "publishedOn": "2022-12-18T19:07:35.000Z",
+          "wordCount": 247,
+          "title": "いろんなフィラメントの 3D 出力を楽しんでみよう",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/514/",
+          "author": "ictrehab",
+          "description": "開催日：2022/10/20 時間：19:00〜20:30 オンラインにて、３Dプリントのための設定ソフト「ス […]",
+          "link": "https://www.ictrehab.com/misc/514/",
+          "publishedOn": "2022-12-18T19:05:13.000Z",
+          "wordCount": 242,
+          "title": "スライサー勉強会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/513/",
+          "author": "ictrehab",
+          "description": "開催日：2022/10/06 時間：19:00〜20:30 オンラインにて、恒例研修会である「TinkerCa […]",
+          "link": "https://www.ictrehab.com/misc/513/",
+          "publishedOn": "2022-12-18T19:03:16.000Z",
+          "wordCount": 241,
+          "title": "TinkerCadで３Dモデリングしてみよう（オンライン）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/512/",
+          "author": "ictrehab",
+          "description": "開催日：2022/09/15 時間：19:00〜20:30 オンラインにて、研修会「３Dプリンタで自助具をつく […]",
+          "link": "https://www.ictrehab.com/misc/512/",
+          "publishedOn": "2022-12-18T19:00:45.000Z",
+          "wordCount": 243,
+          "title": "３Dプリンタで自助具を作る（中級編）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/511/",
+          "author": "ictrehab",
+          "description": "開催日：2022/09/10 時間：13:30〜15:30 本日、約半年ぶりになる成果発表会を開催しました！何 […]",
+          "link": "https://www.ictrehab.com/misc/511/",
+          "publishedOn": "2022-12-18T18:58:43.000Z",
+          "wordCount": 251,
+          "title": "第16回　リハビリ・介護 モノづくり成果発表会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/510/",
+          "author": "ictrehab",
+          "description": "開催日：2022/07/28 時間：19:00〜20:30 国内で、作業療法のコンセプトを元に建築や空間設計、 […]",
+          "link": "https://www.ictrehab.com/misc/510/",
+          "publishedOn": "2022-12-18T18:56:48.000Z",
+          "wordCount": 243,
+          "title": "〈作業〉とデザイン",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/509/",
+          "author": "ictrehab",
+          "description": "開催日：2022/07/14 時間：19:00〜20:30 ３Dプリンタを用いて自助具を作るための初級編ワーク […]",
+          "link": "https://www.ictrehab.com/misc/509/",
+          "publishedOn": "2022-12-18T18:53:07.000Z",
+          "wordCount": 241,
+          "title": "３Dプリンタで自助具を作る（初級編）",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "一般社団法人 電気学会",
+      "feedUrl": "http://denki.iee.jp/?feed=rss2",
+      "siteUrl": "http://denki.iee.jp",
+      "articles": []
+    },
+    {
+      "title": "世界をもっとhappy!に変えていきたいイベント21の社長ブログ│中野愛一郎",
+      "feedUrl": "https://event21.co.jp/ceo/?feed=rss2",
+      "siteUrl": "https://event21.co.jp/ceo",
+      "articles": [
+        {
+          "id": "http://event21.co.jp/ceo/?p=18132",
+          "author": "aiichiro_nakano",
+          "description": "皆さんこんにちは！今年もあとわずかになりましたね～ タイトルのとおり、イベント21爆走中です。 今まで、イベント21は1… Read more →\nThe post 2か月連続で過去最高売上を更新中！11月度は単月売上2億2500万円突破！これが僕達が大切にしてきた経営戦略と全社員一致団結カルチャーの結果です。 first appeared on 世界をもっとhappy!に変えていきたいイベント21の社長ブログ│中野愛一郎.",
+          "link": "https://event21.co.jp/ceo/?p=18132",
+          "publishedOn": "2022-12-26T08:03:40.000Z",
+          "wordCount": 642,
+          "title": "2か月連続で過去最高売上を更新中！11月度は単月売上2億2500万円突破！これが僕達が大切にしてきた経営戦略と全社員一致団結カルチャーの結果です。",
+          "imageUrl": "https://event21.co.jp/ceo/wp-content/uploads/2022/12/IMG_4111-800x600.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
