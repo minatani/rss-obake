@@ -4333,6 +4333,16 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.learncpp.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.learncpp.com/",
+          "publishedOn": "2023-01-03T10:13:40.000Z",
+          "wordCount": 3024,
+          "title": "LearnCPP: Website devoted to teaching you how to program in C++",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=34229502",
           "author": null,
           "description": "Comments",
@@ -8638,6 +8648,235 @@
       "feedUrl": "http://volumio.org/feed",
       "siteUrl": "https://volumio.com/en/",
       "articles": []
+    },
+    {
+      "title": "一般社団法人ICTリハビリテーション研究会",
+      "feedUrl": "https://www.ictrehab.com/index.php/feed/",
+      "siteUrl": "https://www.ictrehab.com",
+      "articles": [
+        {
+          "id": "https://www.ictrehab.com/misc/518/",
+          "author": "ictrehab",
+          "description": "開催日：2022/12/10 時間：13:30〜15:30 第17回 リハビリ・介護モノづくり成果発表会を開催 […]",
+          "link": "https://www.ictrehab.com/misc/518/",
+          "publishedOn": "2022-12-18T19:14:42.000Z",
+          "wordCount": 248,
+          "title": "第17回　リハビリ・介護 モノづくり成果発表会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/517/",
+          "author": "ictrehab",
+          "description": "開催日：2022/12/04 時間：10:00〜16:00 広島県呉市は大崎下島にある「Nurse and C […]",
+          "link": "https://www.ictrehab.com/misc/517/",
+          "publishedOn": "2022-12-18T19:13:08.000Z",
+          "wordCount": 246,
+          "title": "はじめてでも簡単！3Dプリンタでものづくり体験：自助具編",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/516/",
+          "author": "ictrehab",
+          "description": "開催日：2022/11/20 時間：10:30〜12:00 本日はオンサイトにて、初心者向けのレーザー加工機の […]",
+          "link": "https://www.ictrehab.com/misc/516/",
+          "publishedOn": "2022-12-18T19:10:20.000Z",
+          "wordCount": 242,
+          "title": "レーザー加工機に親しもう！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/515/",
+          "author": "ictrehab",
+          "description": "開催日：2022/11/10 時間：19:00〜20:30 オンラインにて、様々な３Dプリント用のフィラメント […]",
+          "link": "https://www.ictrehab.com/misc/515/",
+          "publishedOn": "2022-12-18T19:07:35.000Z",
+          "wordCount": 247,
+          "title": "いろんなフィラメントの 3D 出力を楽しんでみよう",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/514/",
+          "author": "ictrehab",
+          "description": "開催日：2022/10/20 時間：19:00〜20:30 オンラインにて、３Dプリントのための設定ソフト「ス […]",
+          "link": "https://www.ictrehab.com/misc/514/",
+          "publishedOn": "2022-12-18T19:05:13.000Z",
+          "wordCount": 242,
+          "title": "スライサー勉強会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/513/",
+          "author": "ictrehab",
+          "description": "開催日：2022/10/06 時間：19:00〜20:30 オンラインにて、恒例研修会である「TinkerCa […]",
+          "link": "https://www.ictrehab.com/misc/513/",
+          "publishedOn": "2022-12-18T19:03:16.000Z",
+          "wordCount": 241,
+          "title": "TinkerCadで３Dモデリングしてみよう（オンライン）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/512/",
+          "author": "ictrehab",
+          "description": "開催日：2022/09/15 時間：19:00〜20:30 オンラインにて、研修会「３Dプリンタで自助具をつく […]",
+          "link": "https://www.ictrehab.com/misc/512/",
+          "publishedOn": "2022-12-18T19:00:45.000Z",
+          "wordCount": 243,
+          "title": "３Dプリンタで自助具を作る（中級編）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/511/",
+          "author": "ictrehab",
+          "description": "開催日：2022/09/10 時間：13:30〜15:30 本日、約半年ぶりになる成果発表会を開催しました！何 […]",
+          "link": "https://www.ictrehab.com/misc/511/",
+          "publishedOn": "2022-12-18T18:58:43.000Z",
+          "wordCount": 251,
+          "title": "第16回　リハビリ・介護 モノづくり成果発表会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/510/",
+          "author": "ictrehab",
+          "description": "開催日：2022/07/28 時間：19:00〜20:30 国内で、作業療法のコンセプトを元に建築や空間設計、 […]",
+          "link": "https://www.ictrehab.com/misc/510/",
+          "publishedOn": "2022-12-18T18:56:48.000Z",
+          "wordCount": 243,
+          "title": "〈作業〉とデザイン",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ictrehab.com/misc/509/",
+          "author": "ictrehab",
+          "description": "開催日：2022/07/14 時間：19:00〜20:30 ３Dプリンタを用いて自助具を作るための初級編ワーク […]",
+          "link": "https://www.ictrehab.com/misc/509/",
+          "publishedOn": "2022-12-18T18:53:07.000Z",
+          "wordCount": 241,
+          "title": "３Dプリンタで自助具を作る（初級編）",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "一般社団法人 電気学会",
+      "feedUrl": "http://denki.iee.jp/?feed=rss2",
+      "siteUrl": "http://denki.iee.jp",
+      "articles": []
+    },
+    {
+      "title": "世界をもっとhappy!に変えていきたいイベント21の社長ブログ│中野愛一郎",
+      "feedUrl": "https://event21.co.jp/ceo/?feed=rss2",
+      "siteUrl": "https://event21.co.jp/ceo",
+      "articles": [
+        {
+          "id": "http://event21.co.jp/ceo/?p=18132",
+          "author": "aiichiro_nakano",
+          "description": "皆さんこんにちは！今年もあとわずかになりましたね～ タイトルのとおり、イベント21爆走中です。 今まで、イベント21は1… Read more →\nThe post 2か月連続で過去最高売上を更新中！11月度は単月売上2億2500万円突破！これが僕達が大切にしてきた経営戦略と全社員一致団結カルチャーの結果です。 first appeared on 世界をもっとhappy!に変えていきたいイベント21の社長ブログ│中野愛一郎.",
+          "link": "https://event21.co.jp/ceo/?p=18132",
+          "publishedOn": "2022-12-26T08:03:40.000Z",
+          "wordCount": 642,
+          "title": "2か月連続で過去最高売上を更新中！11月度は単月売上2億2500万円突破！これが僕達が大切にしてきた経営戦略と全社員一致団結カルチャーの結果です。",
+          "imageUrl": "https://event21.co.jp/ceo/wp-content/uploads/2022/12/IMG_4111-800x600.jpg"
+        }
+      ]
+    },
+    {
+      "title": "低レイヤ強くなりたい組込み屋さんのブログ",
+      "feedUrl": "https://tomo-wait-for-it-yuki.hatenablog.com/rss",
+      "siteUrl": "https://tomo-wait-for-it-yuki.hatenablog.com/",
+      "articles": [
+        {
+          "id": "hatenablog://entry/4207112889943396644",
+          "author": null,
+          "description": "この記事は、モダン言語によるベアメタル組込み開発 Advent Calendar 2022の12日目として書きました。\nqiita.com\nモダン言語によるベアメタル組込み開発、と言われても私のような人間は、何の言語ネタで書くか困ってしまいますね。\n困った時の神だより。\n神と言えば、Rust というのが、人類の共通認識になって久しく思われるため、Rust について書くことにしました。\nあらまし\ngithub.com\nembedded-hal について言うことは全て「基礎から学ぶ組込みRust」で書いたので、何も書きません！\n二度と同じような内容は書かない、という強い気持ちのもと書ききったので誰も文句ないね？\nembedded-hal を知らない人は本を買ってね。\n本にはめちゃくちゃ丁寧に書いたから！\n\n基礎から学ぶ 組込みRust\n\n作者:中林智之,井田健太\nシーアンドアール研究所\nAmazon\n\nそんな embedded-hal ですが、基礎から学ぶ組込みRust執筆前から、v1.0.0 のリリースについての issue が作られています。\ngithub.com\n本を書き始めた当初は、本を出すのは embedded-hal v1.0.0 が出るのを待ちたい、とか言ってましたね。\n待たなくてよかったね？\nそんな長らく時間のかかっている embedded-hal v1.0.0 のリリースですが、一体全体どうなっているのでしょう？\nわたし、気になります！\nということで軽く現状を調べてみました。\n本当に軽く調べただけなので間違ってる部分もあるかもしれません。\nほんまかぁ？と思ったら自分でも確かめて見てください。\n継続的に v1.0.0 alpha リリースがなされている\nちょいちょい v1.0.0-alpha.x がリリースされています。\n現在の最新は alpha.9 です。\nリ…",
+          "link": "https://tomo-wait-for-it-yuki.hatenablog.com/entry/embedded-hal-1.0.0",
+          "publishedOn": "2022-12-11T21:02:09.000Z",
+          "wordCount": 604,
+          "title": "結局 Rust の embedded-hal v1.0.0 ってどうなってるの？",
+          "enclosure": {
+            "url": "https://m.media-amazon.com/images/I/41fSx1WVv+S._SL500_.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://m.media-amazon.com/images/I/41fSx1WVv+S._SL500_.jpg"
+        }
+      ]
+    },
+    {
+      "title": "大学職員.net -Blog/News-",
+      "feedUrl": "http://blog.university-staff.net/atom.xml",
+      "siteUrl": "http://blog.university-staff.net/",
+      "articles": [
+        {
+          "id": "http://blog.university-staff.net/archives/2023/01/01/2023.html",
+          "author": null,
+          "description": "ここのところ毎年同じことを書いていますが、2023年も、ひきつづき私の無理のない...",
+          "link": "http://blog.university-staff.net/archives/2023/01/01/2023.html",
+          "publishedOn": "2023-01-01T03:20:28.000Z",
+          "wordCount": 249,
+          "title": "謹賀新年　2023年",
+          "imageUrl": "http://blog.university-staff.net/fb.gif"
+        },
+        {
+          "id": "http://blog.university-staff.net/archives/2022/12/30/55-3.html",
+          "author": null,
+          "description": "出版社 ‏ : ‎ 学校経理研究会 (2019/3/14) 発売日 ‏ : ‎...",
+          "link": "http://blog.university-staff.net/archives/2022/12/30/55-3.html",
+          "publishedOn": "2022-12-30T01:00:27.000Z",
+          "wordCount": 274,
+          "title": "『大学経営を支える理事・職員の心得―頼りにされるための55ヶ条』",
+          "imageUrl": "http://blog.university-staff.net/fb.gif"
+        },
+        {
+          "id": "http://blog.university-staff.net/archives/2022/12/30/sd-2020.html",
+          "author": null,
+          "description": "出版社 ‏ : ‎ 学校経理研究会 (2020/7/20) 発売日 ‏ : ‎...",
+          "link": "http://blog.university-staff.net/archives/2022/12/30/sd-2020.html",
+          "publishedOn": "2022-12-30T00:55:41.000Z",
+          "wordCount": 275,
+          "title": "『SDのための速解 大学教職員の基礎知識〈2020コロナ版〉』",
+          "imageUrl": "http://blog.university-staff.net/fb.gif"
+        },
+        {
+          "id": "http://blog.university-staff.net/archives/2022/12/30/-httpsw.html",
+          "author": null,
+          "description": "帝京大学は、 学生に対するアカデミック・ハラスメント等があったとして、教員が諭旨...",
+          "link": "http://blog.university-staff.net/archives/2022/12/30/-httpsw.html",
+          "publishedOn": "2022-12-30T00:50:58.000Z",
+          "wordCount": 267,
+          "title": "帝京大学　アカデミック・ハラスメント等があったとして教員が諭旨解雇",
+          "imageUrl": "http://blog.university-staff.net/fb.gif"
+        },
+        {
+          "id": "http://blog.university-staff.net/archives/2022/12/26/e-catslibrarysaasnec.html",
+          "author": null,
+          "description": "NECネッツエスアイ株式会社は、 大学向け図書館システム「E-CatsLibra...",
+          "link": "http://blog.university-staff.net/archives/2022/12/26/e-catslibrarysaasnec.html",
+          "publishedOn": "2022-12-26T02:45:14.000Z",
+          "wordCount": 261,
+          "title": "大学向け図書館システム「E-CatsLibrary」SaaS版（NECネッツエスアイ株式会社）",
+          "imageUrl": "http://blog.university-staff.net/fb.gif"
+        },
+        {
+          "id": "http://blog.university-staff.net/archives/2022/12/18/post-3631.html",
+          "author": null,
+          "description": "出版社 ‏ : ‎ 丸善出版 (2022/11/1) 発売日 ‏ : ‎ 20...",
+          "link": "http://blog.university-staff.net/archives/2022/12/18/post-3631.html",
+          "publishedOn": "2022-12-18T09:04:29.000Z",
+          "wordCount": 279,
+          "title": "『大学教員のための安全衛生管理の基礎』",
+          "imageUrl": "http://blog.university-staff.net/fb.gif"
+        },
+        {
+          "id": "http://blog.university-staff.net/archives/2022/12/18/post-3630.html",
+          "author": null,
+          "description": "熊本県立大学では、 同大名誉教授のメールアカウントが何者かに不正に利用され、メー...",
+          "link": "http://blog.university-staff.net/archives/2022/12/18/post-3630.html",
+          "publishedOn": "2022-12-18T08:52:47.000Z",
+          "wordCount": 260,
+          "title": "熊本県立大学　メールアカウントの不正利用事案が発生",
+          "imageUrl": "http://blog.university-staff.net/fb.gif"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

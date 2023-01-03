@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T10:38:13.158Z</updated>
+    <updated>2023-01-03T11:00:52.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[This could be easily resolved by having a toggle in the settings to look for the published date and ignore updates.]]></summary>
         <author>
             <name>@gautifor gaurifor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LearnCPP: Website devoted to teaching you how to program in C++]]></title>
+        <id>https://www.learncpp.com/</id>
+        <link href="https://www.learncpp.com/"/>
+        <updated>2023-01-03T10:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -3890,6 +3900,16 @@ The post ドットエスティ お年玉企画が開催！オリジナルアバ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[謹賀新年　2023年]]></title>
+        <id>http://blog.university-staff.net/archives/2023/01/01/2023.html</id>
+        <link href="http://blog.university-staff.net/archives/2023/01/01/2023.html"/>
+        <updated>2023-01-01T03:20:28.000Z</updated>
+        <summary type="html"><![CDATA[ここのところ毎年同じことを書いていますが、2023年も、ひきつづき私の無理のない...]]></summary>
+        <author>
+            <name>大学職員.net -Blog/News-</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A secret message in a Colombian song gave hostages hope]]></title>
         <id>https://www.bbc.com/news/world-latin-america-63995293</id>
         <link href="https://www.bbc.com/news/world-latin-america-63995293"/>
@@ -5472,6 +5492,36 @@ thanks]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[『大学経営を支える理事・職員の心得―頼りにされるための55ヶ条』]]></title>
+        <id>http://blog.university-staff.net/archives/2022/12/30/55-3.html</id>
+        <link href="http://blog.university-staff.net/archives/2022/12/30/55-3.html"/>
+        <updated>2022-12-30T01:00:27.000Z</updated>
+        <summary type="html"><![CDATA[出版社 ‏ : ‎ 学校経理研究会 (2019/3/14) 発売日 ‏ : ‎...]]></summary>
+        <author>
+            <name>大学職員.net -Blog/News-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『SDのための速解 大学教職員の基礎知識〈2020コロナ版〉』]]></title>
+        <id>http://blog.university-staff.net/archives/2022/12/30/sd-2020.html</id>
+        <link href="http://blog.university-staff.net/archives/2022/12/30/sd-2020.html"/>
+        <updated>2022-12-30T00:55:41.000Z</updated>
+        <summary type="html"><![CDATA[出版社 ‏ : ‎ 学校経理研究会 (2020/7/20) 発売日 ‏ : ‎...]]></summary>
+        <author>
+            <name>大学職員.net -Blog/News-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帝京大学　アカデミック・ハラスメント等があったとして教員が諭旨解雇]]></title>
+        <id>http://blog.university-staff.net/archives/2022/12/30/-httpsw.html</id>
+        <link href="http://blog.university-staff.net/archives/2022/12/30/-httpsw.html"/>
+        <updated>2022-12-30T00:50:58.000Z</updated>
+        <summary type="html"><![CDATA[帝京大学は、 学生に対するアカデミック・ハラスメント等があったとして、教員が諭旨...]]></summary>
+        <author>
+            <name>大学職員.net -Blog/News-</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【福田昭のセミコン業界最前線】半導体メモリ大手の先行指標、Micronの営業損益が赤字に転落]]></title>
         <id>https://pc.watch.impress.co.jp/docs/column/semicon/1467737.html</id>
         <link href="https://pc.watch.impress.co.jp/docs/column/semicon/1467737.html"/>
@@ -6999,6 +7049,17 @@ Reiner]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2か月連続で過去最高売上を更新中！11月度は単月売上2億2500万円突破！これが僕達が大切にしてきた経営戦略と全社員一致団結カルチャーの結果です。]]></title>
+        <id>http://event21.co.jp/ceo/?p=18132</id>
+        <link href="https://event21.co.jp/ceo/?p=18132"/>
+        <updated>2022-12-26T08:03:40.000Z</updated>
+        <summary type="html"><![CDATA[皆さんこんにちは！今年もあとわずかになりましたね～ タイトルのとおり、イベント21爆走中です。 今まで、イベント21は1… Read more →
+The post 2か月連続で過去最高売上を更新中！11月度は単月売上2億2500万円突破！これが僕達が大切にしてきた経営戦略と全社員一致団結カルチャーの結果です。 first appeared on 世界をもっとhappy!に変えていきたいイベント21の社長ブログ│中野愛一郎.]]></summary>
+        <author>
+            <name>aiichiro_nakano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[リチウムイオン電池における溶媒和構造を可視化]]></title>
         <id>https://eetimes.itmedia.co.jp/ee/articles/2212/26/news053.html</id>
         <link href="https://eetimes.itmedia.co.jp/ee/articles/2212/26/news053.html"/>
@@ -7066,6 +7127,16 @@ Reiner]]></summary>
         <summary type="html"><![CDATA[2022年12月25日、Ruby 3.2.0がリリースされた。Ruby 3.2では多くの機能が追加され、機能の改善も数多く実装されている。]]></summary>
         <author>
             <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大学向け図書館システム「E-CatsLibrary」SaaS版（NECネッツエスアイ株式会社）]]></title>
+        <id>http://blog.university-staff.net/archives/2022/12/26/e-catslibrarysaasnec.html</id>
+        <link href="http://blog.university-staff.net/archives/2022/12/26/e-catslibrarysaasnec.html"/>
+        <updated>2022-12-26T02:45:14.000Z</updated>
+        <summary type="html"><![CDATA[NECネッツエスアイ株式会社は、 大学向け図書館システム「E-CatsLibra...]]></summary>
+        <author>
+            <name>大学職員.net -Blog/News-</name>
         </author>
     </entry>
     <entry>
@@ -8285,6 +8356,106 @@ WordPress Playground: Running WordPress in the Browser originally published on C
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第17回　リハビリ・介護 モノづくり成果発表会]]></title>
+        <id>https://www.ictrehab.com/misc/518/</id>
+        <link href="https://www.ictrehab.com/misc/518/"/>
+        <updated>2022-12-18T19:14:42.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/12/10 時間：13:30〜15:30 第17回 リハビリ・介護モノづくり成果発表会を開催 […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はじめてでも簡単！3Dプリンタでものづくり体験：自助具編]]></title>
+        <id>https://www.ictrehab.com/misc/517/</id>
+        <link href="https://www.ictrehab.com/misc/517/"/>
+        <updated>2022-12-18T19:13:08.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/12/04 時間：10:00〜16:00 広島県呉市は大崎下島にある「Nurse and C […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レーザー加工機に親しもう！]]></title>
+        <id>https://www.ictrehab.com/misc/516/</id>
+        <link href="https://www.ictrehab.com/misc/516/"/>
+        <updated>2022-12-18T19:10:20.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/11/20 時間：10:30〜12:00 本日はオンサイトにて、初心者向けのレーザー加工機の […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いろんなフィラメントの 3D 出力を楽しんでみよう]]></title>
+        <id>https://www.ictrehab.com/misc/515/</id>
+        <link href="https://www.ictrehab.com/misc/515/"/>
+        <updated>2022-12-18T19:07:35.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/11/10 時間：19:00〜20:30 オンラインにて、様々な３Dプリント用のフィラメント […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スライサー勉強会]]></title>
+        <id>https://www.ictrehab.com/misc/514/</id>
+        <link href="https://www.ictrehab.com/misc/514/"/>
+        <updated>2022-12-18T19:05:13.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/10/20 時間：19:00〜20:30 オンラインにて、３Dプリントのための設定ソフト「ス […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinkerCadで３Dモデリングしてみよう（オンライン）]]></title>
+        <id>https://www.ictrehab.com/misc/513/</id>
+        <link href="https://www.ictrehab.com/misc/513/"/>
+        <updated>2022-12-18T19:03:16.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/10/06 時間：19:00〜20:30 オンラインにて、恒例研修会である「TinkerCa […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[３Dプリンタで自助具を作る（中級編）]]></title>
+        <id>https://www.ictrehab.com/misc/512/</id>
+        <link href="https://www.ictrehab.com/misc/512/"/>
+        <updated>2022-12-18T19:00:45.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/09/15 時間：19:00〜20:30 オンラインにて、研修会「３Dプリンタで自助具をつく […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第16回　リハビリ・介護 モノづくり成果発表会]]></title>
+        <id>https://www.ictrehab.com/misc/511/</id>
+        <link href="https://www.ictrehab.com/misc/511/"/>
+        <updated>2022-12-18T18:58:43.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/09/10 時間：13:30〜15:30 本日、約半年ぶりになる成果発表会を開催しました！何 […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈作業〉とデザイン]]></title>
+        <id>https://www.ictrehab.com/misc/510/</id>
+        <link href="https://www.ictrehab.com/misc/510/"/>
+        <updated>2022-12-18T18:56:48.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/07/28 時間：19:00〜20:30 国内で、作業療法のコンセプトを元に建築や空間設計、 […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[３Dプリンタで自助具を作る（初級編）]]></title>
+        <id>https://www.ictrehab.com/misc/509/</id>
+        <link href="https://www.ictrehab.com/misc/509/"/>
+        <updated>2022-12-18T18:53:07.000Z</updated>
+        <summary type="html"><![CDATA[開催日：2022/07/14 時間：19:00〜20:30 ３Dプリンタを用いて自助具を作るための初級編ワーク […]]]></summary>
+        <author>
+            <name>ictrehab</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【Windows必須な人へ】旅行用にNrealAir等とスティックPCを利用する新モバイル環境を試しました。]]></title>
         <id>https://sinmoble.com/?p=10472</id>
         <link href="https://sinmoble.com/2022/12/18/post-10472/"/>
@@ -8293,6 +8464,26 @@ WordPress Playground: Running WordPress in the Browser originally published on C
 The post 【Windows必須な人へ】旅行用にNrealAir等とスティックPCを利用する新モバイル環境を試しました。 first appeared on モバイルやIT機器を活用するSINのモバイル修行3rd 復活編.]]></summary>
         <author>
             <name>sinmoble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『大学教員のための安全衛生管理の基礎』]]></title>
+        <id>http://blog.university-staff.net/archives/2022/12/18/post-3631.html</id>
+        <link href="http://blog.university-staff.net/archives/2022/12/18/post-3631.html"/>
+        <updated>2022-12-18T09:04:29.000Z</updated>
+        <summary type="html"><![CDATA[出版社 ‏ : ‎ 丸善出版 (2022/11/1) 発売日 ‏ : ‎ 20...]]></summary>
+        <author>
+            <name>大学職員.net -Blog/News-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熊本県立大学　メールアカウントの不正利用事案が発生]]></title>
+        <id>http://blog.university-staff.net/archives/2022/12/18/post-3630.html</id>
+        <link href="http://blog.university-staff.net/archives/2022/12/18/post-3630.html"/>
+        <updated>2022-12-18T08:52:47.000Z</updated>
+        <summary type="html"><![CDATA[熊本県立大学では、 同大名誉教授のメールアカウントが何者かに不正に利用され、メー...]]></summary>
+        <author>
+            <name>大学職員.net -Blog/News-</name>
         </author>
     </entry>
     <entry>
@@ -8706,6 +8897,46 @@ See the awesome sight of sand dunes in the background and sand flying everywhere
         <summary type="html"><![CDATA[個人的にはなぜこのタイミングに達成基準そのものを削除する話が...と思っていると...]]></summary>
         <author>
             <name>ミツエーリンクス アクセシビリティBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[結局 Rust の embedded-hal v1.0.0 ってどうなってるの？]]></title>
+        <id>hatenablog://entry/4207112889943396644</id>
+        <link href="https://tomo-wait-for-it-yuki.hatenablog.com/entry/embedded-hal-1.0.0"/>
+        <updated>2022-12-11T21:02:09.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、モダン言語によるベアメタル組込み開発 Advent Calendar 2022の12日目として書きました。
+qiita.com
+モダン言語によるベアメタル組込み開発、と言われても私のような人間は、何の言語ネタで書くか困ってしまいますね。
+困った時の神だより。
+神と言えば、Rust というのが、人類の共通認識になって久しく思われるため、Rust について書くことにしました。
+あらまし
+github.com
+embedded-hal について言うことは全て「基礎から学ぶ組込みRust」で書いたので、何も書きません！
+二度と同じような内容は書かない、という強い気持ちのもと書ききったので誰も文句ないね？
+embedded-hal を知らない人は本を買ってね。
+本にはめちゃくちゃ丁寧に書いたから！
+
+基礎から学ぶ 組込みRust
+
+作者:中林智之,井田健太
+シーアンドアール研究所
+Amazon
+
+そんな embedded-hal ですが、基礎から学ぶ組込みRust執筆前から、v1.0.0 のリリースについての issue が作られています。
+github.com
+本を書き始めた当初は、本を出すのは embedded-hal v1.0.0 が出るのを待ちたい、とか言ってましたね。
+待たなくてよかったね？
+そんな長らく時間のかかっている embedded-hal v1.0.0 のリリースですが、一体全体どうなっているのでしょう？
+わたし、気になります！
+ということで軽く現状を調べてみました。
+本当に軽く調べただけなので間違ってる部分もあるかもしれません。
+ほんまかぁ？と思ったら自分でも確かめて見てください。
+継続的に v1.0.0 alpha リリースがなされている
+ちょいちょい v1.0.0-alpha.x がリリースされています。
+現在の最新は alpha.9 です。
+リ…]]></summary>
+        <author>
+            <name>低レイヤ強くなりたい組込み屋さんのブログ</name>
         </author>
     </entry>
     <entry>
