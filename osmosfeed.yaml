@@ -58,11 +58,11 @@ sources:
   - href: https://orbitseals.blogspot.com/feeds/posts/default?alt=rss
   - href: http://www.oreilly.co.jp/catalog/soon.xml
   - href: http://feeds.feedburner.com/osakanataro?format=xml
-#  - href: https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf
+  - href: https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf
 #  - href: http://pc.watch.impress.co.jp/sublink/pc.rdf
-#  - href: https://win-tab.net/feed/
-#  - href: https://politicaleconomyseminar.wordpress.com/feed/
-#  - href: http://l0w.dev/posts/index.xml
+  - href: https://win-tab.net/feed/
+  - href: https://politicaleconomyseminar.wordpress.com/feed/
+  - href: http://l0w.dev/posts/index.xml
 #  - href: http://shibuya-archery.com/blog_proshop/?feed=rss2
 #  - href: https://www.prusa3d.com/feed/
 #  - href: https://blog.prusaprinters.org/feed/
