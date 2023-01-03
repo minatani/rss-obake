@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T06:54:10.984Z</updated>
+    <updated>2023-01-03T07:50:30.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[盗聴疑惑に揺れるギリシャ　野党党首や記者に　政権は関与否定]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/030/143000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/030/143000c"/>
+        <updated>2023-01-03T07:49:42.000Z</updated>
+        <summary type="html"><![CDATA[ギリシャが政府の諜報（ちょうほう）機関による盗聴疑惑に揺れている。野党党首や調査報道を手がける記者の携帯電話に対し、メッセージなどを抜き取るスパイウエアが仕掛けられたことが発覚したからだ。ミツォタキス政権は関与を否定しているが、野党側は「首相は政治責任を取るべきだ」と非難している。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[報徳学園が4強進出　東海大大阪仰星、連覇ならず　高校ラグビー]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/050/134000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/050/134000c"/>
+        <updated>2023-01-03T07:45:54.000Z</updated>
+        <summary type="html"><![CDATA[第102回全国高校ラグビー大会は3日、東大阪市花園ラグビー場で準々決勝があり、Aシードの報徳学園（兵庫）がBシードの東海大大阪仰星（大阪第3）を31―21で降し、準決勝に進出した。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福岡県の新規感染者、3352人確認　新型コロナ]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/040/144000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/040/144000c"/>
+        <updated>2023-01-03T07:45:47.000Z</updated>
+        <summary type="html"><![CDATA[福岡県は3日、新型コロナウイルスの新規感染者が3352人確認されたと発表した。前週の同一曜日を2日ぶりに下回った。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[準決勝は天理vs報徳学園、京都成章vs東福岡　高校ラグビー]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/050/136000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/050/136000c"/>
+        <updated>2023-01-03T07:43:03.000Z</updated>
+        <summary type="html"><![CDATA[第102回全国高校ラグビー大会は3日、準決勝（5日）の組み合わせ抽選を行い、対戦カードは天理（奈良）―報徳学園（兵庫）、京都成章―東福岡に決まった。 　天理と報徳学園は第79回大会（1999年度）の3回戦で天理が27―10で勝って以来の顔合わせ。京都成章と東福岡は前回大会準々決勝でもぶつかっており]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[道なき道を行く　自由自在の報徳学園、「3冠」へ前進　高校ラグビー]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/050/056000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/050/056000c"/>
+        <updated>2023-01-03T07:42:08.000Z</updated>
+        <summary type="html"><![CDATA[第102回全国高校ラグビー大会は3日、東大阪市花園ラグビー場で準々決勝があり、「高校3冠」を狙う報徳学園（兵庫）が前回優勝の東海大大阪仰星（大阪第3）と対戦。第77回（1997年度）大会以来、25大会ぶり2回目の4強進出を果たした。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米で18歳未満の銃死傷者が過去最多　6100人超　規制緩和背景に]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/030/139000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/030/139000c"/>
+        <updated>2023-01-03T07:30:47.000Z</updated>
+        <summary type="html"><![CDATA[米国で18歳未満の未成年者の銃による死傷者数が昨年1年間で6000人を超え、過去最多となったことが分かった。銃撃事件の情報を収集する非営利団体「ガン・バイオレンス・アーカイブ」の統計で3日、判明した。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイデン氏、韓国と核共同演習を否定　認識の違い露呈]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/030/137000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/030/137000c"/>
+        <updated>2023-01-03T07:30:33.000Z</updated>
+        <summary type="html"><![CDATA[バイデン米大統領は2日、ホワイトハウスで記者団から「韓国と核の共同演習を議論しているのか」と問われ「ノー」と否定した。韓国の尹錫悦（ユンソンニョル）大統領は韓国紙のインタビューで議論していると語っており、認識の食い違いが露呈した。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国の新規感染者は8万9643人　死者223人　新型コロナ]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/040/138000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/040/138000c"/>
+        <updated>2023-01-03T07:27:57.000Z</updated>
+        <summary type="html"><![CDATA[厚生労働省は3日、新型コロナウイルスの新規感染者が全国で8万9643人確認されたと公表した。1週間前の火曜日より約11万3200人減った。死者は223人だった。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本の軍事化は「深刻な脅威」　ロシア外務次官、対抗措置を警告]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/030/135000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/030/135000c"/>
+        <updated>2023-01-03T07:21:38.000Z</updated>
+        <summary type="html"><![CDATA[ロシアのルデンコ外務次官は、岸田政権が平和的発展の道を放棄して軍事化の方向に移行しつつあると指摘し「ロシアやアジア太平洋地域への深刻な脅威だ」と述べた。この方針が継続されれば「ロシアへの軍事的脅威を食い止めるため適切な対抗措置を取らざるを得ない」とも警告した。タス通信が3日、インタビューを報じた。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashby (YC W19) is hiring product and design engineers]]></title>
+        <id>https://www.ashbyhq.com/careers?utm_source=hn</id>
+        <link href="https://www.ashbyhq.com/careers?utm_source=hn"/>
+        <updated>2023-01-03T07:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhoneのバッテリー交換費用が2023年3月から3000円値上げ]]></title>
+        <id>https://gigazine.net/news/20230103-apple-iphone-battery-replacement-raising/</id>
+        <link href="https://gigazine.net/news/20230103-apple-iphone-battery-replacement-raising/"/>
+        <updated>2023-01-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AppleはiPhone向けにバッテリーサービス(バッテリー交換)を提供していますが、このバッテリー交換費用が2023年3月から3000円値上げされることが発表されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニック・デ・フリース、F1固定カーナンバーに“21”を選択した背景]]></title>
         <id>https://f1-gate.com/nyckdevries/f1_72740.html</id>
@@ -2507,6 +2618,16 @@ F1は、新型コロナウイルスのパンデミックとその後の渡航制
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How a Balkan Drug Cartel Infiltrated Global Shipping [video]]]></title>
+        <id>https://www.youtube.com/watch?v=PpiOLdnAGBw</id>
+        <link href="https://www.youtube.com/watch?v=PpiOLdnAGBw"/>
+        <updated>2023-01-01T21:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ピエール・ガスリー 「逃したF1ポイントは振り返っていたら鬱病になる」]]></title>
         <id>https://f1-gate.com/pierregasly/f1_72724.html</id>
         <link href="https://f1-gate.com/pierregasly/f1_72724.html"/>
@@ -3275,6 +3396,39 @@ The post 今年心に残ったVTuber動画ピックアップ！【MoguLive VTube
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vision Five 2のM.2 M-keyスロットは現状NVMe SSDが使える]]></title>
+        <id>https://blog.osakana.net/?p=13540</id>
+        <link href="https://blog.osakana.net/archives/13540"/>
+        <updated>2022-12-30T13:40:37.000Z</updated>
+        <summary type="html"><![CDATA[StarFive Vision Five2のM.2 M-keyスロットにまずはM.2 NVMe SSDを入れてみた まあ、普通に使える。 次に、M.2 SATA SSDを入れてみたが認識はしなかった。 また、Orange … 
+"Vision Five 2のM.2 M-keyスロットは現状NVMe SSDが使える" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StarFive Vision Five 2の2022年12月出荷分を使うには面倒くさい手順が必要]]></title>
+        <id>https://blog.osakana.net/?p=13536</id>
+        <link href="https://blog.osakana.net/archives/13536"/>
+        <updated>2022-12-30T13:16:01.000Z</updated>
+        <summary type="html"><![CDATA[StarFiveのRISC-Vコア搭載SoCのJH7110のVision Five 2をKickstarter クラファンのSuper Early Bird – 4GB version が届いた。 しかし、こ … 
+"StarFive Vision Five 2の2022年12月出荷分を使うには面倒くさい手順が必要" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StarFive Vision Five 2のSPLとU-Bootを更新してImage-69を起動できるようにする]]></title>
+        <id>https://blog.osakana.net/?p=13519</id>
+        <link href="https://blog.osakana.net/archives/13519"/>
+        <updated>2022-12-30T12:06:01.000Z</updated>
+        <summary type="html"><![CDATA[開発陣がImage-69で使っている、ということは、ハードウェア的な何かを更新すればいけるのでは？と感じたので、更新出来る要素を探してみた。 すると、Quick Start Guideに「Updating SPL and … 
+"StarFive Vision Five 2のSPLとU-Bootを更新してImage-69を起動できるようにする" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[結局「牛乳や乳製品」は健康にいいのか悪いのか？]]></title>
         <id>https://gigazine.net/news/20221230-milk-good-or-bad/</id>
         <link href="https://gigazine.net/news/20221230-milk-good-or-bad/"/>
@@ -3294,6 +3448,17 @@ The post 今年心に残ったVTuber動画ピックアップ！【MoguLive VTube
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[64bit RISC-VコアのStarFive Vision Five 2が届いたけど標準提供Debianはうまく動かないバグあり]]></title>
+        <id>https://blog.osakana.net/?p=13522</id>
+        <link href="https://blog.osakana.net/archives/13522"/>
+        <updated>2022-12-30T09:00:16.000Z</updated>
+        <summary type="html"><![CDATA[64bitのRISC-Vコアを４コア積んだSoC StarFive JH7110を使用したStarFive Vision Five2のクラウドファンディングが８月にあったのでRAM 4GBモデルを１個手配した。(ラズパイ … 
+"64bit RISC-VコアのStarFive Vision Five 2が届いたけど標準提供Debianはうまく動かないバグあり" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
         </author>
     </entry>
     <entry>
@@ -4091,6 +4256,17 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Orange Pi 5純正のUbuntuのGPU表示を高速化できるのか？]]></title>
+        <id>https://blog.osakana.net/?p=13507</id>
+        <link href="https://blog.osakana.net/archives/13507"/>
+        <updated>2022-12-27T14:03:11.000Z</updated>
+        <summary type="html"><![CDATA[ゆきまくらさんの「OrangePi5の公式xfceイメージにビデオドライバーをあてる」にGPUドライバを適用する話が書かれていた。 ただ上記だと詳細がわからないので、いろいろ調べながら試してみた。 まず、同じRK3588 … 
+"Orange Pi 5純正のUbuntuのGPU表示を高速化できるのか？" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Guide To Command-Line Data Manipulation]]></title>
         <id>https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/</id>
         <link href="https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/"/>
@@ -4321,6 +4497,16 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[自分だけのボードゲームを作ろう]]></title>
+        <id>http://www.oreilly.co.jp/books/9784814400164/?utm_source=feed&amp;utm_mediun=referral&amp;utm_content=new_book</id>
+        <link href="http://www.oreilly.co.jp/books/9784814400164/?utm_source=feed&amp;utm_mediun=referral&amp;utm_content=new_book"/>
+        <updated>2022-12-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本書は、ボードゲーム（テーブルトップゲーム）を作りたいと考えている読者のために、ゲームの「ルール」、ルールを実際にプレイするための仕組みである「メカニクス」、コマやカードなどの小道具である「コンポーネント」など、ゲームを構成する要素について、初歩から詳しく解説する書籍です。本書に収録された4つのサンプルゲームをカスタマイズしたり、よく知っているゲームや遊びに本書の要素を取り入れることで、初心者でもゲーム作りをはじめることができるようになります。もちろんゼロからゲーム作りをはじめることも可能です。さらにゲームの構造、ルール、基本的な流れを理解する力が身に付くことで、優れたゲーマーになることも手助けします。]]></summary>
+        <author>
+            <name>Jesse Terrance Daniels　著 金井 哲夫　訳</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ギタージャンボリー！チケット販売中]]></title>
         <id>https://www.j-wave.co.jp/special/guitarjamboree2023/?jw_ref=rgj23_jtop</id>
         <link href="https://www.j-wave.co.jp/special/guitarjamboree2023/?jw_ref=rgj23_jtop"/>
@@ -4421,6 +4607,17 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Orange Pi 5用Android 12からGSIイメージの汎用Androidを起動する]]></title>
+        <id>https://blog.osakana.net/?p=13485</id>
+        <link href="https://blog.osakana.net/archives/13485"/>
+        <updated>2022-12-24T12:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Orange Pi 5用として公式で出ているAndroid 12とOrange Pi OS (Droid)のどちらにもGoogle Playは入っていなかった。 しかし、開発者向けオプションを有効にしてみると、DSU L … 
+"Orange Pi 5用Android 12からGSIイメージの汎用Androidを起動する" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[エシカルトラベルの魅力について語る公開収録を開催]]></title>
         <id>https://www.j-wave.co.jp/topics/2301_ethical.htm</id>
         <link href="https://www.j-wave.co.jp/topics/2301_ethical.htm"/>
@@ -4428,6 +4625,17 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         <summary type="html"><![CDATA[沖縄で体験してきたエシカルトラベルの魅力について語る公開収録の公開が決定！20名様をご招待]]></summary>
         <author>
             <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orange Piの中国サイトからだとOrange Pi OS(Droid)が入手できる]]></title>
+        <id>https://blog.osakana.net/?p=13458</id>
+        <link href="https://blog.osakana.net/archives/13458"/>
+        <updated>2022-12-24T10:25:02.000Z</updated>
+        <summary type="html"><![CDATA[youtubeにOrange Pi 5のレビュー動画が公開されていた。 Androidのホーム画面にGoogle Playがいるばかりか、原神をプレイしている・・・ Google Play入りのOrange Pi 5用A … 
+"Orange Piの中国サイトからだとOrange Pi OS(Droid)が入手できる" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
         </author>
     </entry>
     <entry>
@@ -4672,6 +4880,28 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Orange Pi 5でデータディスクとしてならM.2 SATAも使える]]></title>
+        <id>https://blog.osakana.net/?p=13452</id>
+        <link href="https://blog.osakana.net/archives/13452"/>
+        <updated>2022-12-21T12:51:25.000Z</updated>
+        <summary type="html"><![CDATA[Orange Pi 5で、M.2 SATAを利用する方法がある、という情報をいただきました。 Orange Pi純正のUbuntuに入っているorangepi-configに設定がある、ということ。 「sudo oran … 
+"Orange Pi 5でデータディスクとしてならM.2 SATAも使える" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetAppのstart-time/end-time指定は役立たずなのでは？]]></title>
+        <id>https://blog.osakana.net/?p=13447</id>
+        <link href="https://blog.osakana.net/archives/13447"/>
+        <updated>2022-12-21T06:48:52.000Z</updated>
+        <summary type="html"><![CDATA[NetAppのsnapmirror履歴を見るため「snapmirror show-history」を実行すると、長々と出力される。 調べるとsnapmirror show-historyには下記の指定ができるようだった。 … 
+"NetAppのstart-time/end-time指定は役立たずなのでは？" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「プログラミング言語Ruby30周年記念イベント」が2月25日に開催。現在ライトニングトークを募集中]]></title>
         <id>https://gihyo.jp/article/2022/12/ruby30th?utm_source=feed</id>
         <link href="https://gihyo.jp/article/2022/12/ruby30th?utm_source=feed"/>
@@ -4721,6 +4951,27 @@ Now there’s another chance …
 Help choose the syntax for CSS Nesting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マスタリング・ライトニングネットワーク]]></title>
+        <id>http://www.oreilly.co.jp/books/9784814400140/?utm_source=feed&amp;utm_mediun=referral&amp;utm_content=new_book</id>
+        <link href="http://www.oreilly.co.jp/books/9784814400140/?utm_source=feed&amp;utm_mediun=referral&amp;utm_content=new_book"/>
+        <updated>2022-12-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン上で機能するセカンドレイヤー（レイヤー2）技術である、ライトニングネットワークの本格的な解説書。トランザクションのコストを削減しながら速度とプライバシーを向上させることで、少額決済を素早く小さなコストで実現することができる注目の技術です。本書では、まずライトニングネットワークの基本的な仕組みを知り、ライトニングノードの実装や運用方法をくわしく紹介します。さらに、ライトニングネットワークの各アーキテクチャについても、体系的にわかりやすく解説しています。レイヤー2技術に興味を持ち、コミュニティに参加を考えているエンジニアにとって必携の一冊です。]]></summary>
+        <author>
+            <name>Andreas M. Antonopoulos、Olaoluwa Osuntokun、René Pickhardt　著 安土 茂亨、中城 元臣、深田 涼太、鳩貝 淳一郎　監訳 株式会社クイープ　訳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orange Pi 5をAndroid 12で動かす]]></title>
+        <id>https://blog.osakana.net/?p=13423</id>
+        <link href="https://blog.osakana.net/archives/13423"/>
+        <updated>2022-12-20T12:39:01.000Z</updated>
+        <summary type="html"><![CDATA[2022/12/20時点で使えるOrange Pi 5のOSは、Ubuntu, Debian, Android 12。 Orange Pi (Droid)はリンクはあるもののファイル自体は存在していないという残念な状態  … 
+"Orange Pi 5をAndroid 12で動かす" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
         </author>
     </entry>
     <entry>
@@ -4776,6 +5027,17 @@ WordPress Playground: Running WordPress in the Browser originally published on C
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Orange Pi 5 が届いた]]></title>
+        <id>https://blog.osakana.net/?p=13382</id>
+        <link href="https://blog.osakana.net/archives/13382"/>
+        <updated>2022-12-19T12:45:25.000Z</updated>
+        <summary type="html"><![CDATA[2022年11月12日に発注し2022年12月5日に発送連絡があった Orange PI 5が12月19日に届いた。 Orange Pi のいつもの箱に入って届いた 中身もいつものごとく ラズパイ2BとOrange Pi … 
+"Orange Pi 5 が届いた" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[『家族アルバム みてね』に学ぶ、AWSのReserved InstancesとSavings Plansの勘所]]></title>
         <id>https://gihyo.jp/article/2022/12/mitene-03aws-ri-sps?utm_source=feed</id>
         <link href="https://gihyo.jp/article/2022/12/mitene-03aws-ri-sps?utm_source=feed"/>
@@ -4803,6 +5065,17 @@ WordPress Playground: Running WordPress in the Browser originally published on C
         <summary type="html"><![CDATA[地球低軌道（LEO：Low Earth Orbit）を周回する通信衛星群により構成された、Space Exploration Technologies Corp.の衛星インターネットサービスである「スターリンク」の提供が、日本でも2022年10月から始まりました。]]></summary>
         <author>
             <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aliexpressでM.2 2242サイズのSATAとNVMeを買ってみた]]></title>
+        <id>https://blog.osakana.net/?p=13369</id>
+        <link href="https://blog.osakana.net/archives/13369"/>
+        <updated>2022-12-18T07:39:29.000Z</updated>
+        <summary type="html"><![CDATA[KingSpec M.2 NVMe 2242サイズ編 Orange Pi 5にM.2 NVMeの2242サイズが搭載できる、というのでaliexpressで探してみた。 KingSpecというところでM-keyのNVMe … 
+"aliexpressでM.2 2242サイズのSATAとNVMeを買ってみた" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
         </author>
     </entry>
     <entry>
@@ -4953,6 +5226,41 @@ Unchain My Inaccessibly-Labelled Heart originally published on CSS-Tricks, which
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Space One スペースワン カイロスロケット打ち上げ能力推定2, Space One KAIROS rocket launch vehicle capability estimation 2]]></title>
+        <id>tag:blogger.com,1999:blog-3619244384534613463.post-4511347484388946620</id>
+        <link href="https://orbitseals.blogspot.com/2022/12/space-one-2-space-one-kairos-rocket.html"/>
+        <updated>2022-12-14T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Space One スペースワン カイロスロケット打ち上げ能力推定2
+Space One KAIROS rocket launch vehicle capability estimation 2
+
+
+
+
+
+
+Update：2022.12.14
+English Version
+
+この記事では、前回の記事に引き続き、公表データより、スペースワンが和歌山県串本町から打ち上げを計画している、固体燃料ロケット：カイロス（KAIROS：Kii-based Advanced & Instant ROcket System）の構造、打ち上げ能力等を推定する。
+
+
+
+
+【関連記事】
+
+Space One スペースワン カイロスロケット打ち上げ能力推定, キヤノン電子×IHIエアロスペース, Space One KAIROS rocket launch vehicle capability estimation, Canon Electronics x IHI Aerospace
+キヤノン電子と日本カーリットは、自社開発で固体燃料ロケットモーターを製造する？, Canon Electronics Inc. and Japan Carlit Co.Ltd. ｍanufacture solid fuel rocket motor by in-house development ?
+内閣衛星情報センターの短期打上型小型衛星はキヤノン電子 & スペースワンのロケット1号機で打ち上げるのか？Japan CSICE Cabinet Satellite Intelligence Center's short-launch small satellite will be launched on the Canon Electronics & Space One's 1st rocket ?
+
+
+
+
+     …]]></summary>
+        <author>
+            <name>noreply@blogger.com (Dirg.rocket)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第742回　AMD RadeonとROCmでBlenderを高速化する]]></title>
         <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0742?utm_source=feed</id>
         <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0742?utm_source=feed"/>
@@ -5003,6 +5311,27 @@ Holiday Snowtacular 2022 originally published on CSS-Tricks, which is part of th
 A Few Times Container Size Queries Would Have Helped Me Out originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Dan Christofi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday, OctoPrint!]]></title>
+        <id>https://octoprint.org/blog/2022/12/13/happy-birthday-octoprint/</id>
+        <link href="https://octoprint.org/blog/2022/12/13/happy-birthday-octoprint/?utm_source=rss&amp;utm_medium=all"/>
+        <updated>2022-12-13T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OctoPrint is turning 10 years old this holiday season! Time to reflect a bit on its history, and to eat cake!]]></summary>
+        <author>
+            <name>OctoBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows ServerからNetAppに対してsshでコマンドを実行させる]]></title>
+        <id>https://blog.osakana.net/?p=13322</id>
+        <link href="https://blog.osakana.net/archives/13322"/>
+        <updated>2022-12-13T10:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Windows Server 2019からNetAppに対してsshを実行するにはTeraTermやputtyをインストールしないとダメなのかなぁ、と思いつつ、PowerShellで「ssh」と実行してみると、OpenS … 
+"Windows ServerからNetAppに対してsshでコマンドを実行させる" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
         </author>
     </entry>
     <entry>
@@ -5108,6 +5437,38 @@ Saving Settings for a Custom WordPress Block in the Block Editor originally publ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[マスタリングLinuxシェルスクリプト 第2版]]></title>
+        <id>http://www.oreilly.co.jp/books/9784814400119/?utm_source=feed&amp;utm_mediun=referral&amp;utm_content=new_book</id>
+        <link href="http://www.oreilly.co.jp/books/9784814400119/?utm_source=feed&amp;utm_mediun=referral&amp;utm_content=new_book"/>
+        <updated>2022-12-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Linuxシェルスクリプトの解説書。その中でも特にbashのシェルスクリプティングに焦点を当てています。シェルスクリプトの書き方、デバッグ方法、bashプログラミングの基本といったシェルスクリプティングの基礎から、sedやAWKなど各種ツールとの連携といった実践的な応用までを体系的に解説します。WebサーバーなどのLinuxシステムの管理を任されるようになった初級の管理者にも、もっと高度で実践的なテクニックを必要としている中級の管理者や開発者にも広く役に立つ内容です。]]></summary>
+        <author>
+            <name>Mokhtar Ebrahim、Andrew Mallett　著 萬谷 暢崇　監訳 原 隆文　訳</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士通FUTRO MU937にWindows 10をインストールした]]></title>
+        <id>https://blog.osakana.net/?p=13267</id>
+        <link href="https://blog.osakana.net/archives/13267"/>
+        <updated>2022-12-11T11:47:35.000Z</updated>
+        <summary type="html"><![CDATA[先日の富士通Lifebook S937/R はハズレを引いたようでM.2 SATAがちゃんと動かなかったので、どうしようかなーと思いつつ 旧キャプテンにいくと、ほぼ同じスペックで薄くなっているシンクラ専用機FUTRO M … 
+"富士通FUTRO MU937にWindows 10をインストールした" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士通LIFEBOOK S937/RにWindows 10をインストールした]]></title>
+        <id>https://blog.osakana.net/?p=13222</id>
+        <link href="https://blog.osakana.net/archives/13222"/>
+        <updated>2022-12-10T11:57:19.000Z</updated>
+        <summary type="html"><![CDATA[秋葉原の旧キャプテンで富士通LIFEBOOK S937/Rが安いということだったので入手した。 裏面の蓋を一通り取ってみたところ。DDR4 SO-DIMMスロットがある。 マザーボードはこんな感じ M.2 A-keyスロ … 
+"富士通LIFEBOOK S937/RにWindows 10をインストールした" の続きを読む]]></summary>
+        <author>
+            <name>osakanataro</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[13年ぶりになるアバターとMEET AGAIN]]></title>
         <id>https://www.j-wave.co.jp/topics/2212_avatar.htm</id>
         <link href="https://www.j-wave.co.jp/topics/2212_avatar.htm"/>
@@ -5156,6 +5517,16 @@ CSS Infinite Slider Flipping Through Polaroid Images originally published on CSS
         <summary type="html"><![CDATA[本連載は、イラストレーターイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第12回目は、ITパスポートを受験した結果や、試験を受けているときの様子などについて書いていきます。]]></summary>
         <author>
             <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OctoPi Release Candidate 1.0.0rc3 needs testers!]]></title>
+        <id>https://octoprint.org/blog/2022/12/08/octopi-release-candidate-1-0-0rc3/</id>
+        <link href="https://octoprint.org/blog/2022/12/08/octopi-release-candidate-1-0-0rc3/?utm_source=rss&amp;utm_medium=all"/>
+        <updated>2022-12-08T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guy Sheffer published a third release candidate for the release of OctoPi 1.0.0 and is looking for feedback!]]></summary>
+        <author>
+            <name>OctoBlog</name>
         </author>
     </entry>
     <entry>
@@ -5248,6 +5619,16 @@ Adding Box Shadows to WordPress Blocks and Elements originally published on CSS-
         <summary type="html"><![CDATA[鈴木たかのりです。今月のPython Monthly Topicsでは、Python 3.10から導入されたBetter error messagesについて紹介します。Better error messagesがどういったものであるかの紹介と、どのようにこのエラーメッセージが出力されているか、Python内部の処理についても触れようと思います。]]></summary>
         <author>
             <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcement: OctoPrint On Air #50 LIVE]]></title>
+        <id>https://octoprint.org/blog/2022/12/05/octoprint-on-air-50/</id>
+        <link href="https://octoprint.org/blog/2022/12/05/octoprint-on-air-50/?utm_source=rss&amp;utm_medium=all"/>
+        <updated>2022-12-05T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[All of you are invited to join me on Monday, December 12th at 17:00 CET on YouTube, where the next OctoPrint On Air episode will air live. It will be a birthday special as OctoPrint is turning 10!]]></summary>
+        <author>
+            <name>OctoBlog</name>
         </author>
     </entry>
     <entry>
