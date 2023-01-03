@@ -3109,6 +3109,16 @@
       "siteUrl": "https://f1-gate.com/",
       "articles": [
         {
+          "id": "https://f1-gate.com/ricciardo/f1_72743.html",
+          "author": null,
+          "description": "ダニエル・リカルドは、マクラーレンF1がとったエンジニアリングアプローチがレッドブル・レーシングとどこが違うかを説明した。\r\n\r\nF1でダニエル・リカルドは、2014年にレッドブル・レーシングに昇格する前に当時トロロッソ呼ばれていたレッドブルのジュニアチーム... 続きを読む",
+          "link": "https://f1-gate.com/ricciardo/f1_72743.html",
+          "publishedOn": "2023-01-03T09:16:39.000Z",
+          "wordCount": 676,
+          "title": "ダニエル・リカルドが感じたレッドブルF1とマクラーレンの違い",
+          "imageUrl": "https://f1-gate.com/media/img2023/20230103-daniel-ricciardo.jpg"
+        },
+        {
           "id": "https://f1-gate.com/nyckdevries/f1_72740.html",
           "author": null,
           "description": "ニック・デ・フリースが、2023年からスクーデリア・アルファタウリでスタートするF1キャリアで使用する固定カーナンバーに“21”を選択した背景について語った。\r\n\r\n2014年以降、すべてのドライバーは、F1キャリア全体で使用するレース番号を選択する必要がある。ニッ... 続きを読む",
@@ -4883,6 +4893,16 @@
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/auroraTOP-760x380.jpg"
         },
         {
+          "id": "https://www.youtube.com/watch?v=0CgafaxnQ9A",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=0CgafaxnQ9A",
+          "publishedOn": "2023-01-01T22:02:46.000Z",
+          "wordCount": null,
+          "title": "Coding on a 1980s business minicomputer [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PpiOLdnAGBw",
           "author": null,
           "description": "Comments",
@@ -4979,6 +4999,16 @@
       "feedUrl": "http://juggly.cn/feed",
       "siteUrl": "https://juggly.cn",
       "articles": [
+        {
+          "id": "https://juggly.cn/?p=245165",
+          "author": "juggly",
+          "description": "ネットからプログラムなどのファイルをダウンロードすることは日常的に行われていますが、時々、怪しいサイトだとわかっていてもそこからダウンロードさざるを得ない、また、サイトにアクセスすると勝手にファイルがダウンロードされてし [...]",
+          "link": "https://juggly.cn/archives/245165.html",
+          "publishedOn": "2023-01-03T08:12:41.000Z",
+          "wordCount": 501,
+          "title": "Google Chromeにもうすぐ安全ではないサイトからのファイルダウンロードをブロックする機能が導入される見込み",
+          "imageUrl": null
+        },
         {
           "id": "https://juggly.cn/?p=245161",
           "author": "juggly",
@@ -6159,6 +6189,1461 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.blog.prusa3d.com/wp-content/uploads/2022/12/uvod-skoda-698x325.jpg"
+        }
+      ]
+    },
+    {
+      "title": "shimajiro@mobiler",
+      "feedUrl": "http://shimajiro-mobiler.net/feed/",
+      "siteUrl": "http://shimajiro-mobiler.net",
+      "articles": [
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78696",
+          "author": "shimajiro",
+          "description": "Appleは、2023年3月1日よりiPhone、MacBook Airなどのバッテリー交換料金を値上げする。iPhoneでは14シリーズより前のiPhoneが対象で、値上げ幅は3,000円。iPadは3,800円、Ma...",
+          "link": "http://shimajiro-mobiler.net/2023/01/03/post78696/?utm_source=rss&utm_medium=rss&utm_campaign=post-78696",
+          "publishedOn": "2023-01-03T09:26:41.000Z",
+          "wordCount": 2372,
+          "title": "Appleのバッテリー交換料金が3月1日から値上げ、iPhone・iPad・MacBookが対象",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2017/09/170913_Apple.jpg"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78694",
+          "author": "shimajiro",
+          "description": "Amazon初売りセールに、Alexa搭載のスマートスピーカー「Echo Dot」が登場。 おまんじゅう型のEcho Dot（第3世代）はセールで1,980円、丸型のEcho Dot（第4世代）は2,980円で購入可能に...",
+          "link": "http://shimajiro-mobiler.net/2023/01/03/post78694/?utm_source=rss&utm_medium=rss&utm_campaign=post-78694",
+          "publishedOn": "2023-01-03T02:38:11.000Z",
+          "wordCount": 2389,
+          "title": "AmazonでEcho Dotが初売り特価、第3世代1,980円・第4世代2,980円",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2021/06/210621_EchoDot4th.jpg"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78690",
+          "author": "shimajiro",
+          "description": "Amazonは、2023年1月3日（火）09:00 – 1月7日（土）23:59まで、初売りセールを開催。 Fire TVは、テレビやパソコン用のディスプレイに搭載されるHDMI端子に挿して、Amazon P...",
+          "link": "http://shimajiro-mobiler.net/2023/01/03/post78690/?utm_source=rss&utm_medium=rss&utm_campaign=post-78690",
+          "publishedOn": "2023-01-03T01:21:52.000Z",
+          "wordCount": 2419,
+          "title": "Amazon初売り、Fire TV Stickが3,980円・4K Maxが4,980円（〜1月7日）",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2022/02/220226_FireTV_Stick.jpg"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78687",
+          "author": "shimajiro",
+          "description": "Appleは、1月2日・3日の2日間限定の初売りセールを開催中。 初売りセールでは、対象のApple製品で最大32,000円のApple Gift Cardがプレゼントされる。対象となる製品は、iPhone 13/13 ...",
+          "link": "http://shimajiro-mobiler.net/2023/01/02/post78687/?utm_source=rss&utm_medium=rss&utm_campaign=post-78687",
+          "publishedOn": "2023-01-02T02:02:45.000Z",
+          "wordCount": 2380,
+          "title": "Apple Store初売り、楽天リーベイツ経由で買うと5%ポイント還元（1月3日まで）",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2022/11/221110_iPhone13mini_Apple.jpg"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78684",
+          "author": "shimajiro",
+          "description": "イオシスは、2023年1月3日（火）から9日（月）の間、新春初売を開催する。初売りは、全国11店舗とオンラインストアで実施する。 イオシスの公式オンラインストアは以下にて。 中古スマホ・タブレット販売の【イオシス】｜けっ...",
+          "link": "http://shimajiro-mobiler.net/2023/01/02/post78684/?utm_source=rss&utm_medium=rss&utm_campaign=post-78684",
+          "publishedOn": "2023-01-02T00:47:39.000Z",
+          "wordCount": 2331,
+          "title": "イオシス初売り、Pixel 6aが37,777円・Pixel Watchが32,023円など（1月3日〜）",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2022/03/220321_IOSYS_Akiba.png"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78681",
+          "author": "shimajiro",
+          "description": "Appleは、2023年の初売りを1月2日・3日限定で開催する。 オンラインストアと全国のApple Storeで、iPhone 13/13 miniなど対象製品を購入するとApple Gift Cardが最大で32,0...",
+          "link": "http://shimajiro-mobiler.net/2023/01/02/post78681/?utm_source=rss&utm_medium=rss&utm_campaign=post-78681",
+          "publishedOn": "2023-01-01T22:17:34.000Z",
+          "wordCount": 2367,
+          "title": "Apple初売り開始、1月2日から2日間限定",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2023/01/230102_Apple.png"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78677",
+          "author": "shimajiro",
+          "description": "関空を本拠地とするLCC、Peach（ピーチ）は、日本国内線が片道1,000円からのセールを開催する。セールは1月1日の24時間限定。 P1DAY（ピーチデイ） SALE ■販売期間 2023年1月1日（日）00:00 ...",
+          "link": "http://shimajiro-mobiler.net/2023/01/01/post78677/?utm_source=rss&utm_medium=rss&utm_campaign=post-78677",
+          "publishedOn": "2023-01-01T01:39:30.000Z",
+          "wordCount": 2315,
+          "title": "【Peach】国内線が片道1,000円から、1月1日限定セール",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2023/01/230101_Peach_P1Day.png"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78672",
+          "author": "shimajiro",
+          "description": "Amazonは、プライム会員向けの「Prime Video」で提供している有料チャンネルが、最初の2カ月間月額10円で楽しめるキャンペーンを開催中。キャンペーン期間は2023年1月5日まで。 対象チャンネルの一覧は以下に...",
+          "link": "http://shimajiro-mobiler.net/2023/01/01/post78672/?utm_source=rss&utm_medium=rss&utm_campaign=post-78672",
+          "publishedOn": "2023-01-01T00:02:39.000Z",
+          "wordCount": 2350,
+          "title": "Prime Videoの対象チャンネルが2カ月10円、1月5日まで",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2023/01/230101_PrimeVideo.png"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78667",
+          "author": "shimajiro",
+          "description": "ソフトバンクは、オンライン専用料金プラン「LINEMO」のミニプラン（月間3GBで990円）を新規契約またはMNP契約で他社から乗り換えすると、990円×最大8カ月分をPayPayポイントで還元するキャンペーンを実施中。...",
+          "link": "http://shimajiro-mobiler.net/2022/12/31/post78667/?utm_source=rss&utm_medium=rss&utm_campaign=post-78667",
+          "publishedOn": "2022-12-31T08:38:08.000Z",
+          "wordCount": 2261,
+          "title": "LINEMO、ミニプラン申込で990円×8カ月還元は2023年1月末まで",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2021/02/210220LINEMO.jpg"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78665",
+          "author": "shimajiro",
+          "description": "ワイモバイルオンラインストアの年末年始セールの第3弾で追加された「BALMUDA Phone」がMNP契約で23,000円→2,023円に割引するセールが完売により終了。 セールでは、MNP契約で本体代金を一括2,023...",
+          "link": "http://shimajiro-mobiler.net/2022/12/31/post78665/?utm_source=rss&utm_medium=rss&utm_campaign=post-78665",
+          "publishedOn": "2022-12-31T08:18:45.000Z",
+          "wordCount": 2284,
+          "title": "【Y!mobile】MNP契約で一括2,023円のBALMUDA Phoneが完売",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2022/12/221231_BALMUDAPhone_Ymobile.jpg"
+        }
+      ]
+    },
+    {
+      "title": "モバイルやIT機器を活用するSINのモバイル修行3rd 復活編",
+      "feedUrl": "https://sinmoble.com/feed/",
+      "siteUrl": "https://sinmoble.com",
+      "articles": [
+        {
+          "id": "https://sinmoble.com/?p=10619",
+          "author": "sinmoble",
+          "description": "NrealAdapterを購入した理由 私はHDMIからTYPE-Cに変換するアダプタを２種類購入しています。本来であればこれ以上購入する必要はないのですが、NrealAirの純正アダプターということもあり購入することに […]\nThe post NrealAdapterの購入レビュー　ChromeCastと組み合わせるとワイヤレスミラーリングが可能 first appeared on モバイルやIT機器を活用するSINのモバイル修行3rd 復活編.",
+          "link": "https://sinmoble.com/2022/12/22/post-10619/",
+          "publishedOn": "2022-12-22T01:18:50.000Z",
+          "wordCount": 2881,
+          "title": "NrealAdapterの購入レビュー　ChromeCastと組み合わせるとワイヤレスミラーリングが可能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sinmoble.com/?p=10472",
+          "author": "sinmoble",
+          "description": "最初に ここ数年、様々なモバイル環境を試行錯誤しながら旅行をしていましたが、とりあえずの完成形が出来上がりました。携帯性と視認性は相反するものですが、Nreal Airの登場でモバイル環境も驚くほど進化しました。 少し前 […]\nThe post 【Windows必須な人へ】旅行用にNrealAir等とスティックPCを利用する新モバイル環境を試しました。 first appeared on モバイルやIT機器を活用するSINのモバイル修行3rd 復活編.",
+          "link": "https://sinmoble.com/2022/12/18/post-10472/",
+          "publishedOn": "2022-12-18T10:04:20.000Z",
+          "wordCount": 3041,
+          "title": "【Windows必須な人へ】旅行用にNrealAir等とスティックPCを利用する新モバイル環境を試しました。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sinmoble.com/?p=9630",
+          "author": "sinmoble",
+          "description": "最初に Astro Slide 5GをミラーリングでNreal Airと接続してみた。 という記事を書きましたがNrealAirのバージョンアップにより垂直同期の問題が解決され、完全な表示でのワイヤレスミラーリングができ […]\nThe post AstroSlide5GとNreal AirをChromeCastを使用してワイヤレス環境でミラーリング接続しました。 first appeared on モバイルやIT機器を活用するSINのモバイル修行3rd 復活編.",
+          "link": "https://sinmoble.com/2022/12/15/post-9630/",
+          "publishedOn": "2022-12-15T14:47:18.000Z",
+          "wordCount": 2938,
+          "title": "AstroSlide5GとNreal AirをChromeCastを使用してワイヤレス環境でミラーリング接続しました。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sinmoble.com/?p=10385",
+          "author": "sinmoble",
+          "description": "最初に 最近は携帯会社の通信障害が相次いでいます。本当に最近はよく発生しているので仕事で通信回線が必須の方は不安を感じることもあるはずです。 サブ回線として端末をもうひとつ持ち歩くのか、iPhoneのように2回線使える端 […]\nThe post e-SIM対応のスマートフォンでサブ回線を探しているならIIJmioが断トツに安い。 first appeared on モバイルやIT機器を活用するSINのモバイル修行3rd 復活編.",
+          "link": "https://sinmoble.com/2022/12/13/post-10385/",
+          "publishedOn": "2022-12-13T09:57:29.000Z",
+          "wordCount": 2850,
+          "title": "e-SIM対応のスマートフォンでサブ回線を探しているならIIJmioが断トツに安い。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sinmoble.com/?p=10390",
+          "author": "sinmoble",
+          "description": "最初に 購入してから約4年間CAPCLIPをモバイル用のマウスとして愛用し続けていたですが、今回Rapoo M600miniというマウスを見つけたので買い替えることにしました。今使っているCAPCLIPが壊れたり寿命とい […]\nThe post 本当に便利だから3年以上愛用していたモバイル用マウスの買い替え。Rapoo M600miniレビュー first appeared on モバイルやIT機器を活用するSINのモバイル修行3rd 復活編.",
+          "link": "https://sinmoble.com/2022/12/08/post-10390/",
+          "publishedOn": "2022-12-07T22:16:28.000Z",
+          "wordCount": 2967,
+          "title": "本当に便利だから3年以上愛用していたモバイル用マウスの買い替え。Rapoo M600miniレビュー",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース",
+      "feedUrl": "http://jp.sputniknews.com/export/rss2/archive/index.xml",
+      "siteUrl": "https://sputniknews.jp",
+      "articles": [
+        {
+          "id": "https://sputniknews.jp/20230103/2022-14449604.html",
+          "author": null,
+          "description": "2022年、アジア太平洋地域は大きな注目を集めた。スプートニクは、この年における同地域の政治的ハイライトをお送りする。",
+          "link": "https://sputniknews.jp/20230103/2022-14449604.html",
+          "publishedOn": "2023-01-03T08:29:00.000Z",
+          "wordCount": null,
+          "title": "ペロシ下院議長の台湾訪問と北朝鮮のミサイル発射　アジア太平洋地域における2022年の政治を総括",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/14467314.html",
+          "author": null,
+          "description": "2021年1月6日に起きた米国会議事堂への襲撃が再発する可能性がある。国会議事堂警察のトーマス・メンジャー署長が見方を示した。",
+          "link": "https://sputniknews.jp/20230103/14467314.html",
+          "publishedOn": "2023-01-03T07:11:00.000Z",
+          "wordCount": null,
+          "title": "米国会、編成新たに始動　警察は「国会議事堂襲撃の再発も起こり得る」と警戒",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/14466362.html",
+          "author": null,
+          "description": "政府は、国家公務員の出張経費などを定めた旅費法の改正に向け検討を始めた。旅費法が規定する宿泊料は１９８４年以来改定されておらず、海外出張が多い外務省職員らが自腹で補填するケースが出ていた。近年の物価高や円安なども改正必要論の背景。政府関係者が２日、明らかにした。",
+          "link": "https://sputniknews.jp/20230103/14466362.html",
+          "publishedOn": "2023-01-03T06:15:00.000Z",
+          "wordCount": null,
+          "title": "政府、海外出張費の改定検討　公務員、宿泊費自腹も",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/14466533.html",
+          "author": null,
+          "description": "ウクライナでは1月1日、第二次世界大戦中にナチス・ドイツに協力し、ユダヤ系ポーランド人の虐殺に関与したとされるウクライナ民族主義者、ステパン・バンデラの誕生日が広く祝われた。これを受け、ポーランドのマテウシュ・モラヴェツキ首相はウクライナのデニス・シュミハリ首相に対し、厳重抗議した。",
+          "link": "https://sputniknews.jp/20230103/14466533.html",
+          "publishedOn": "2023-01-03T04:35:00.000Z",
+          "wordCount": null,
+          "title": "ウクライナ政府がポーランド人の虐殺に関与した民族主義者の誕生日を祝福、西側の反発招く",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e7/01/03/14466731_0:233:3227:2048_600x0_80_0_0_23720b189c047393d2ee3081e55a7868.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e7/01/03/14466731_0:233:3227:2048_600x0_80_0_0_23720b189c047393d2ee3081e55a7868.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/14466218.html",
+          "author": null,
+          "description": "米司法省はジョー・バイデン大統領の息子であるハンター・バイデン氏、及び弟ジム・バイデン氏とウクライナ企業の関係に関する政府の内部資料を隠蔽しようとしている。資料にはその他、中国企業、ロシア企業との取引に関する情報も含まれている模様。英紙デイリー・メールがコロラド州の法律家、ケヴィン・エヴァンス氏の発言を引用して報じた。",
+          "link": "https://sputniknews.jp/20230103/14466218.html",
+          "publishedOn": "2023-01-03T03:43:00.000Z",
+          "wordCount": null,
+          "title": "米司法省がウクライナ企業とバイデン一族の取引に関する資料を隠蔽＝英紙",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/1297-14466110.html",
+          "author": null,
+          "description": "3日の外国為替市場はドルを売って円を買う動きが強まった。円相場は2022年6月以来、7か月ぶりに一時、1ドル＝129円台まで値上がりした。日本のメディアが報じた。",
+          "link": "https://sputniknews.jp/20230103/1297-14466110.html",
+          "publishedOn": "2023-01-03T03:12:00.000Z",
+          "wordCount": null,
+          "title": "円相場が一時129円台に、7か月ぶりの円高水準",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/495/74/4957418_0:80:2454:1460_600x0_80_0_0_389986edb4d4457077e2928babc8d3c4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/495/74/4957418_0:80:2454:1460_600x0_80_0_0_389986edb4d4457077e2928babc8d3c4.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/g7-14465984.html",
+          "author": null,
+          "description": "英国は2023年、他のG7の国々と比べ、最も厳しい景気後退に直面する。英紙フィナンシャル・タイムズが経済学者等の見解を引用して報じた。",
+          "link": "https://sputniknews.jp/20230103/g7-14465984.html",
+          "publishedOn": "2023-01-03T02:30:23.000Z",
+          "wordCount": null,
+          "title": "G7中、英国が最悪の景気後退に直面",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/02/14050061_0:160:3073:1888_600x0_80_0_0_e4747d825ddaa4f12f2b900989ad795b.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/02/14050061_0:160:3073:1888_600x0_80_0_0_e4747d825ddaa4f12f2b900989ad795b.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/3-14465833.html",
+          "author": null,
+          "description": "ウクライナ領土防衛部隊外国人軍団社会連携部のエメシェ・ファイク部長（30）は軍人向けの医薬品（約250万ドル相当）、及び多額の寄付金を横領した容疑で、ウクライナ保安庁の調査を受けている。英紙デイリー・メールがウクライナ陸軍司令部向けに用意された報告書を引用して報じた。",
+          "link": "https://sputniknews.jp/20230103/3-14465833.html",
+          "publishedOn": "2023-01-03T01:54:47.000Z",
+          "wordCount": null,
+          "title": "ウクライナ領土防衛部隊外国人軍団の美人幹部、3億円相当の軍事品を横領した容疑で保安庁の調査受ける＝英紙",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/527/89/5278972_0:158:3077:1889_600x0_80_0_0_67b4e08d1b40fb2c5aaf358d5dc5f454.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/527/89/5278972_0:158:3077:1889_600x0_80_0_0_67b4e08d1b40fb2c5aaf358d5dc5f454.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/14465696.html",
+          "author": null,
+          "description": "韓国の尹錫悦（ユン・ソクヨル）大統領は米国との共同核演習実施に向けて交渉していると発言したものの、ジョー・バイデン大統領はこの計画について明確に否定した。米ホワイトハウスのプレスサービスが発表した。",
+          "link": "https://sputniknews.jp/20230103/14465696.html",
+          "publishedOn": "2023-01-03T01:06:18.000Z",
+          "wordCount": null,
+          "title": "バイデン氏、共同核演習に関する韓国大統領の発言を否定",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/m56-14465606.html",
+          "author": null,
+          "description": "クリル諸島でマグニチュード5.6の地震が発生した。ロシア科学アカデミー地球物理学部門カムチャッカ支部が発表した。",
+          "link": "https://sputniknews.jp/20230103/m56-14465606.html",
+          "publishedOn": "2023-01-03T00:40:03.000Z",
+          "wordCount": null,
+          "title": "クリル諸島でM5.6の地震発生",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/586/25/5862574_0:257:2731:1793_600x0_80_0_0_7c39422ebfb84a1901a501a06ce5f3e8.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/586/25/5862574_0:257:2731:1793_600x0_80_0_0_7c39422ebfb84a1901a501a06ce5f3e8.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/eu--14465483.html",
+          "author": null,
+          "description": "欧州対外行動局は声明を発出し、完全で不可逆的な非核化の道を進むよう北朝鮮に要求した。",
+          "link": "https://sputniknews.jp/20230103/eu--14465483.html",
+          "publishedOn": "2023-01-03T00:29:32.000Z",
+          "wordCount": null,
+          "title": "EU が声明を発表、北朝鮮に完全非核化を要求",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/09/15/13024732_0:166:3049:1881_600x0_80_0_0_f5ce0ce431c3f78b6688992ba0ee8330.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/09/15/13024732_0:166:3049:1881_600x0_80_0_0_f5ce0ce431c3f78b6688992ba0ee8330.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/14465335.html",
+          "author": null,
+          "description": "ドイツ西部では石炭採掘に反対する抗議活動が行われ、採掘予定地への道路を封鎖していた環境保護団体と警察の間で衝突が発生した。ドイツのポータルサイト、Tagesschauが報じた。",
+          "link": "https://sputniknews.jp/20230103/14465335.html",
+          "publishedOn": "2023-01-03T00:01:00.000Z",
+          "wordCount": null,
+          "title": "ドイツ西部で環境保護団体と警察が衝突、石炭の採掘に団体側が反発",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/475/53/4755320_0:132:1786:1137_600x0_80_0_0_748d8dc3e2bfdbd0ecb599a69fa6c73d.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/475/53/4755320_0:132:1786:1137_600x0_80_0_0_748d8dc3e2bfdbd0ecb599a69fa6c73d.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/6-14465069.html",
+          "author": null,
+          "description": "イスラエル空軍はゴラン高原側からシリア領に空爆を行い、これによりシリア兵6名が死亡した。",
+          "link": "https://sputniknews.jp/20230103/6-14465069.html",
+          "publishedOn": "2023-01-02T23:12:01.000Z",
+          "wordCount": null,
+          "title": "イスラエル空軍によるシリア首都の空爆、死者が6人に拡大",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/14463856.html",
+          "author": null,
+          "description": "今日の「ファストファッション」産業は、何百万トンもの廃棄物を生み出し、迫りくる環境破壊を著しく加速させている。米ペンシルベニア大学のガッド・アロン教授が、米メディア「ビジネスインサイダー」の記事で警告している。",
+          "link": "https://sputniknews.jp/20230103/14463856.html",
+          "publishedOn": "2023-01-02T22:55:00.000Z",
+          "wordCount": null,
+          "title": "ファストファッションブームは世界を環境破壊の危機に追いやっている",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/vr-14463673.html",
+          "author": null,
+          "description": "運動時にVRゴーグルをかけると、運動後の食欲が抑えられる。ブリストル大学医学部が実験の結果、こうした結論にいたった。研究成果は、学術誌『Appetite』に掲載されている。",
+          "link": "https://sputniknews.jp/20230103/vr-14463673.html",
+          "publishedOn": "2023-01-02T20:45:00.000Z",
+          "wordCount": null,
+          "title": "VRダイエット　バーチャルリアリティーで運動すると食欲は抑えられる",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e5/01/1b/8110090_0:0:3072:1728_600x0_80_0_0_669b14e00d2d0e1e21d93041b28a769e.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e5/01/1b/8110090_0:0:3072:1728_600x0_80_0_0_669b14e00d2d0e1e21d93041b28a769e.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230103/2024-14464321.html",
+          "author": null,
+          "description": "ウクライナへの米国製地対空ミサイルシステム「パトリオット」の納入開始は2023年前半になるという憶測に反して、現地の修理作業員の訓練だけで約53週間かかるため、運用できるのは2024年になる。米軍事メディア「ミリタリー・ウォッチ・マガジン」が、米議会調査局の報告書を引用して伝えている。",
+          "link": "https://sputniknews.jp/20230103/2024-14464321.html",
+          "publishedOn": "2023-01-02T17:30:00.000Z",
+          "wordCount": null,
+          "title": "米メディア　ウクライナは2024年までパトリオットを使用できない",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/120--14463103.html",
+          "author": null,
+          "description": "英国政府は、ロシア製燃料の代わりとなる燃料の開発を支援する目的で、7500万ポンド（約120億円）規模の基金を設立する。英国政府がウェブサイトで声明を発表した。",
+          "link": "https://sputniknews.jp/20230102/120--14463103.html",
+          "publishedOn": "2023-01-02T14:55:00.000Z",
+          "wordCount": null,
+          "title": "英国　120億円規模の基金を創設 　ロシア製核燃料の代替品開発を支援",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/04/07/10562394_0:183:2790:1752_600x0_80_0_0_b39e5d14a722189a2b97bb6bc986e1ba.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/04/07/10562394_0:183:2790:1752_600x0_80_0_0_b39e5d14a722189a2b97bb6bc986e1ba.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/320-14463402.html",
+          "author": null,
+          "description": "日本の防衛省は2日、中国海軍の空母「遼寧」など複数の艦艇が、沖縄本島と宮古島の間を北上し、太平洋から東シナ海に向けて航行したと発表した。",
+          "link": "https://sputniknews.jp/20230102/320-14463402.html",
+          "publishedOn": "2023-01-02T13:42:09.000Z",
+          "wordCount": null,
+          "title": "中国海軍空母「遼寧」沖縄本島と宮古島の間を通過　戦闘機等の発着艦が約320回",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e7/01/02/14463304_200:475:2200:1600_600x0_80_0_0_7f73b96656755b80ce2eb2707b54331d.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e7/01/02/14463304_200:475:2200:1600_600x0_80_0_0_7f73b96656755b80ce2eb2707b54331d.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/14462823.html",
+          "author": null,
+          "description": "北朝鮮の金正恩総書記とその娘が、戦術核が搭載可能なミサイル「KN-23」と中距離弾道ミサイル「火星12」が保管されている倉庫を視察した。韓国の聯合ニュースが、北朝鮮の朝鮮中央テレビの映像を引用して報じている。",
+          "link": "https://sputniknews.jp/20230102/14462823.html",
+          "publishedOn": "2023-01-02T12:00:00.000Z",
+          "wordCount": null,
+          "title": "「核兵器は未来の世代を守る道具」金正恩氏と娘が、核兵器搭載可能なミサイルの保管倉庫を視察",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/14462414.html",
+          "author": null,
+          "description": "西側諸国は、天然ガスパイプライン「ノルド・ストリーム」に対するテロ行為やポーランドでのミサイル着弾事件の時のように、どんな災難でもロシアを根拠なしに非難する機会を逃さない。コラムニストのテッド・スナイダー氏が、米誌「アメリカン・コンサバティブ」でこのような考えを示している。",
+          "link": "https://sputniknews.jp/20230102/14462414.html",
+          "publishedOn": "2023-01-02T10:50:00.000Z",
+          "wordCount": null,
+          "title": "誰がノルド・ストリームを爆破したのか？米誌　ロシアとの関係でみられる西側諸国の特徴を紹介",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/14461479.html",
+          "author": null,
+          "description": "韓国は、北朝鮮の核の脅威に対応するため、米国の核戦力を含む米韓の共同計画や演習について米国と交渉を行っている。韓国の尹錫悦（ユン・ソクヨル）大統領が、朝鮮日報の取材でこのように明らかにした。",
+          "link": "https://sputniknews.jp/20230102/14461479.html",
+          "publishedOn": "2023-01-02T09:25:00.000Z",
+          "wordCount": null,
+          "title": "「核の傘」にはもう「説得力がない」韓国　核戦力を含む共同演習で米国と交渉",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/14460853.html",
+          "author": null,
+          "description": "アフガニスタンでは、タリバン政権が女子の高等教育を禁じたことで、国内にある約35の大学が閉鎖の危機に瀕している。英紙「インディペンデント」が、同国の労働組合代表の話を引用して報じている。",
+          "link": "https://sputniknews.jp/20230102/14460853.html",
+          "publishedOn": "2023-01-02T08:10:00.000Z",
+          "wordCount": null,
+          "title": "アフガニスタン　女子教育禁止で数十の大学が閉鎖の危機",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/14111756.html",
+          "author": null,
+          "description": "2023年は卯年（うさぎ年）。スプートニクでは今回、うさぎ年生まれの世界の著名人をご紹介します。",
+          "link": "https://sputniknews.jp/20230102/14111756.html",
+          "publishedOn": "2023-01-02T07:00:00.000Z",
+          "wordCount": null,
+          "title": "卯年生まれの著名人",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/06/14113130_0:250:3194:2047_600x0_80_0_0_866c4d4a591b1d0a44cd6e04d3006db5.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/06/14113130_0:250:3194:2047_600x0_80_0_0_866c4d4a591b1d0a44cd6e04d3006db5.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/imf-14460212.html",
+          "author": null,
+          "description": "国際通貨基金（IMF）のクリスタリナ・ゲオルギエバ専務理事は、米CBSテレビのインタビューに対し、エネルギー供給の面でロシアからの独立を目指す欧州諸国は、今年「厳しい冬」に直面するだろうと表明した。",
+          "link": "https://sputniknews.jp/20230102/imf-14460212.html",
+          "publishedOn": "2023-01-02T06:15:00.000Z",
+          "wordCount": null,
+          "title": "ロシア産エネルギーのない欧州、「厳しい冬」になる＝IMF専務理事",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/nato-14459981.html",
+          "author": null,
+          "description": "NATO（北大西洋条約機構）のイェンス・ストルテンベルグ事務総長は、BBCのインタビューに応じた中で、ウクライナ紛争の長期化に備えるよう西側諸国に呼びかけた。",
+          "link": "https://sputniknews.jp/20230102/nato-14459981.html",
+          "publishedOn": "2023-01-02T05:06:00.000Z",
+          "wordCount": null,
+          "title": "NATO事務総長、ウクライナ紛争の長期化に備えるよう呼びかけ",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/3-14459792.html",
+          "author": null,
+          "description": "2日、新型コロナウイルスの影響で中止されていた皇居での新年一般参賀が、3年ぶりに開催された。感染防止対策により、事前に行われた抽選に当選した1500人が午前10時過ぎの1回目の参賀に集まった。NHKなど日本の各メディアが報じた。",
+          "link": "https://sputniknews.jp/20230102/3-14459792.html",
+          "publishedOn": "2023-01-02T04:03:00.000Z",
+          "wordCount": null,
+          "title": "天皇陛下、皇居で3年ぶりの新年一般参賀　愛子さまも初参加",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/2023g7-14459441.html",
+          "author": null,
+          "description": "日本は5月に広島市で開催されるG7（主要7カ国）サミットに、ウクライナのウォロディミル・ゼレンスキー大統領をオンライン形式で招待する調整に入っている。1日、日本経済新聞が報じた。",
+          "link": "https://sputniknews.jp/20230102/2023g7-14459441.html",
+          "publishedOn": "2023-01-02T03:01:00.000Z",
+          "wordCount": null,
+          "title": "2023年は日本がG7議長国　ゼレンスキー氏の広島サミット招待を調整",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/brics-14459096.html",
+          "author": null,
+          "description": "ブラジルでは1日、ルイス・イナシオ・ルーラ・ダ・シルヴァ大統領が就任した。ルーラ大統領は選挙公約を果たし、国内の飢餓をなくすと約束した。また、BRICS強化の必要性について表明した。",
+          "link": "https://sputniknews.jp/20230102/brics-14459096.html",
+          "publishedOn": "2023-01-02T02:12:00.000Z",
+          "wordCount": null,
+          "title": "ブラジル　ルーラ大統領が就任　飢餓の根絶やBRICSの強化を表明",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e7/01/02/14459175_0:0:3072:1728_600x0_80_0_0_f88a43c3b025fadcf9eb7da727a17bb3.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e7/01/02/14459175_0:0:3072:1728_600x0_80_0_0_f88a43c3b025fadcf9eb7da727a17bb3.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/2-14458907.html",
+          "author": null,
+          "description": "シリア国防省によると、現地時間2日未明、イスラエル軍のミサイル攻撃によりシリア軍の兵士2人が死亡、2人が負傷した。また、シリアの首都ダマスカス国際空港が機能不全に陥った。",
+          "link": "https://sputniknews.jp/20230102/2-14458907.html",
+          "publishedOn": "2023-01-02T01:27:00.000Z",
+          "wordCount": null,
+          "title": "イスラエルがシリア首都を空爆　兵士2人死亡、ダマスカス空港が機能不全に",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/2022-14441964.html",
+          "author": null,
+          "description": "2022年は、国際関係においてまさにターニングポイントとなる年だった。2月末にウクライナで特別軍事作戦が始まって以降、ロシアは西側諸国からかつてないほどの圧力を受け、冷戦後最も深刻な関係悪化に直面した。また、アジア太平洋地域や中東でも不穏な事態が発生した。北朝鮮は核開発への決意を示す形で弾道ミサイルを何度も発射し、国際社会全体が懸念を抱いている。また、米国は中国に対して前例のない動きを見せた。ナンシー・ペロシ米下院議長が台湾へ訪問したことで、アジア地域の緊張度が高まった。2022年に起きたこれらの出来事とその他の重要な国際間の出来事について、スプートニクの記事をお読みください。",
+          "link": "https://sputniknews.jp/20230102/2022-14441964.html",
+          "publishedOn": "2023-01-02T01:00:00.000Z",
+          "wordCount": null,
+          "title": "【解説】2022年の政治を変えた世界の出来事",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1f/14443599_0:15:3074:1744_600x0_80_0_0_545a070261dcbe945aa6ddefb8eb595b.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1f/14443599_0:15:3074:1744_600x0_80_0_0_545a070261dcbe945aa6ddefb8eb595b.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/14458630.html",
+          "author": null,
+          "description": "米国のアントニー・ブリンケン国務長官は1日、中国の秦剛新外相と電話会談を行い、二国間関係や開かれたコミュニケーション・チャネルを維持する必要性について協議したと明らかにした。",
+          "link": "https://sputniknews.jp/20230102/14458630.html",
+          "publishedOn": "2023-01-02T00:08:00.000Z",
+          "wordCount": null,
+          "title": "米国務長官、中国・秦剛新外相と電話会談　コミュニケーション・チャネルの維持を協議",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/700-14458192.html",
+          "author": null,
+          "description": "フランスでは大晦日、暴動により490人が拘束され、690台の車が燃やされた。同国の内務省が発表した。",
+          "link": "https://sputniknews.jp/20230102/700-14458192.html",
+          "publishedOn": "2023-01-01T23:14:00.000Z",
+          "wordCount": null,
+          "title": "フランス　大晦日の暴動で約700台の車が燃やされる　これでも減少傾向",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e7/01/02/14458360_0:0:1811:1018_600x0_80_0_0_635a4069a1f0e744105ef0d97e196a48.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e7/01/02/14458360_0:0:1811:1018_600x0_80_0_0_635a4069a1f0e744105ef0d97e196a48.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/14456362.html",
+          "author": null,
+          "description": "日本人にとってもロシア人にとっても新年は新しいことが始まる祝日。年老いたおばあさんから若いポップスターにいたるまで、どの人も心の奥で信じている。不安や悲しみは去り行く年に置いていき、来る年には新たな幸せが待っていると。そのため大晦日の鐘とともに「新年おめでとう！新しい幸せおめでとう！」とお互いを祝福するのだ。",
+          "link": "https://sputniknews.jp/20230102/14456362.html",
+          "publishedOn": "2023-01-01T22:20:00.000Z",
+          "wordCount": null,
+          "title": "「新年の迎え方でその年が決まる」　ロシアの新年の伝統と習慣",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/0d/14239373_0:117:3223:1930_600x0_80_0_0_37bc2fccf8bd4c7fb30ea2665e658cd6.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/0d/14239373_0:117:3223:1930_600x0_80_0_0_37bc2fccf8bd4c7fb30ea2665e658cd6.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/14457644.html",
+          "author": null,
+          "description": "中国の親たちはわが子をコンピューターゲームから引き離すため、新した方策を考案した。親たちはわざと経験豊富なゲーマーを雇い、自分の子どもと対戦させている。地元のメディアが報じている。",
+          "link": "https://sputniknews.jp/20230102/14457644.html",
+          "publishedOn": "2023-01-01T21:16:00.000Z",
+          "wordCount": null,
+          "title": "有能なゲーマーを雇って、コテンパンに負けさせる　わが子のゲーム依存症と闘う中国人の親たちの苦肉の策",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/2-14456967.html",
+          "author": null,
+          "description": "世界中で新年が祝われた1日、各地で思わぬ事故や不運が相次いだ。ポーランドでは花火で2人が死亡。レバノンでは祝砲の弾丸で民間機が損傷する騒動も起こっている。",
+          "link": "https://sputniknews.jp/20230102/2-14456967.html",
+          "publishedOn": "2023-01-01T20:15:00.000Z",
+          "wordCount": null,
+          "title": "悲劇の年越し　ポーランド、花火で2人死亡　レバノンでは「祝砲」で飛行機損傷",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e7/01/01/14457145_0:300:3107:2048_600x0_80_0_0_f91876f0ddfb126683e626054996597d.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e7/01/01/14457145_0:300:3107:2048_600x0_80_0_0_f91876f0ddfb126683e626054996597d.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/14451577.html",
+          "author": null,
+          "description": "脂質の一種であるセラミドが加齢に伴い筋肉に蓄積されることが、スイスの研究で明らかになった。しかしこの発見により、筋肉の老化を防ぐ方法の開発が可能になるという。この研究をまとめた論文が、学術誌「ネイチャー・エイジング」に掲載されている。",
+          "link": "https://sputniknews.jp/20230102/14451577.html",
+          "publishedOn": "2023-01-01T18:03:00.000Z",
+          "wordCount": null,
+          "title": "スイスの研究者　筋肉をより強くする方法をつきとめる",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e7/01/01/14451855_0:214:2995:1899_600x0_80_0_0_ca221dd16c0815063f780989f375c953.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e7/01/01/14451855_0:214:2995:1899_600x0_80_0_0_ca221dd16c0815063f780989f375c953.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230102/14457510.html",
+          "author": null,
+          "description": "岸田文雄首相は1日放送のニッポン放送ラジオ番組で、好きな歴史上の人物を問われ「かつては徳川家康がすごく好きだった」と明らかにした。山岡荘八の小説「徳川家康」全26巻を5～6年前に通読したといい「若い頃の家康は織田信長や豊臣秀吉にずいぶんといじめられ、苦労したので共感できた」と説明した。",
+          "link": "https://sputniknews.jp/20230102/14457510.html",
+          "publishedOn": "2023-01-01T16:00:00.000Z",
+          "wordCount": null,
+          "title": "首相「家康好きだった」　苦労に共感、小説通読",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/14455215.html",
+          "author": null,
+          "description": "インドとパキスタンは1日、外交ルートを通じて互いの原子力関連施設や勾留中の囚人に関するリストを交換した。インド外務省が発表した。",
+          "link": "https://sputniknews.jp/20230101/14455215.html",
+          "publishedOn": "2023-01-01T14:45:00.000Z",
+          "wordCount": null,
+          "title": "インド・パキスタン、原子力施設のリスト交換",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/wz7-14456027.html",
+          "author": null,
+          "description": "日本の防衛省は1日、中国軍の無人偵察機「無偵7・翔龍無人機（WZ7）」が沖縄本島と宮古島の間を通過して、太平洋との間を往復したと発表した。防空対応で「WZ7」の飛行が確認されたのは初めてだという。",
+          "link": "https://sputniknews.jp/20230101/wz7-14456027.html",
+          "publishedOn": "2023-01-01T13:41:00.000Z",
+          "wordCount": null,
+          "title": "中国、無人偵察機「WZ7」　沖縄周辺で初確認",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/14454561.html",
+          "author": null,
+          "description": "ロシア・シベリアのイルクーツク州の歴史公園で、旧ソ連の元最高指導者、ヨシフ・スターリンが若かりし頃に流刑先として送られた村の建物が復元された。園内には日ソ合作の映画「おろしや国酔夢譚」の撮影に使われた教会の建物もあるという。",
+          "link": "https://sputniknews.jp/20230101/14454561.html",
+          "publishedOn": "2023-01-01T12:30:00.000Z",
+          "wordCount": null,
+          "title": "シベリアでスターリンの流刑地を復元　日ソ合作「おろしや国酔夢譚」の教会も",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/217/16/2171633_0:0:3083:1734_600x0_80_0_0_0f93a91587dd0caf3912ca56d67b384f.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/217/16/2171633_0:0:3083:1734_600x0_80_0_0_0f93a91587dd0caf3912ca56d67b384f.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/14454938.html",
+          "author": null,
+          "description": "東アフリカ・ウガンダの首都カンパラのショッピングセンターで、年越しの夜に群集事故がありこれまでに少なくとも9人の死亡が確認された。1日、現地メディア「Chimp Reports」が伝えている。",
+          "link": "https://sputniknews.jp/20230101/14454938.html",
+          "publishedOn": "2023-01-01T11:01:00.000Z",
+          "wordCount": null,
+          "title": "アフリカ・ウガンダ　年越しの花火で群集事故　死者も",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/14452977.html",
+          "author": null,
+          "description": "ウクライナの勝利のシナリオは存在しない。なぜならウクライナ軍にはロシアに対抗するだけの十分な軍事的手段が足りていないからだ。こうした分析を米陸軍退役中佐で軍事専門家のダニエル・デイビス氏が、米軍事シンクタンクの「19FortyFive」に寄稿したなかで示している。",
+          "link": "https://sputniknews.jp/20230101/14452977.html",
+          "publishedOn": "2023-01-01T09:23:00.000Z",
+          "wordCount": null,
+          "title": "米シンクタンク「軍事的現実、ウクライナ軍勝利のシナリオなし」",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e7/01/01/14453185_0:149:3115:1901_600x0_80_0_0_dc11fef7b0aed0e0f334d45a362a9da2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e7/01/01/14453185_0:149:3115:1901_600x0_80_0_0_dc11fef7b0aed0e0f334d45a362a9da2.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/nato-14452750.html",
+          "author": null,
+          "description": "北朝鮮の最高指導者・金正恩氏は朝鮮労働党の会議で、米国が日韓との協力強化を名目に、北大西洋条約機構（NATO）のアジア版をつくろうとしていると警戒感を表明した。1日、北朝鮮の国営放送「朝鮮中央テレビ」が伝えている。",
+          "link": "https://sputniknews.jp/20230101/nato-14452750.html",
+          "publishedOn": "2023-01-01T07:28:00.000Z",
+          "wordCount": null,
+          "title": "金正恩氏、日米韓は「アジア版NATO」　核の巨大多連装ロケット砲も登場",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1c/14419941_0:59:2725:1591_600x0_80_0_0_b275a04ac481c4c1fda011cd153f2eca.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1c/14419941_0:59:2725:1591_600x0_80_0_0_b275a04ac481c4c1fda011cd153f2eca.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/2022-14429039.html",
+          "author": null,
+          "description": "2022年もスプートニクはあらゆる分野の専門家、有名人に数十本に及ぶ独占取材を行った。数あるインタビューから選りすぐりの記事をまとめてご紹介します。",
+          "link": "https://sputniknews.jp/20230101/2022-14429039.html",
+          "publishedOn": "2023-01-01T06:00:00.000Z",
+          "wordCount": null,
+          "title": "ミハイル・ガルージン前駐日ロシア大使から高橋大輔選手まで　2022年にスプートニクがお届けした綺羅星のインタビュー集",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/557/83/5578307_0:3:1036:586_600x0_80_0_0_4004e77a60238af492fdadf39372bbbc.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/557/83/5578307_0:3:1036:586_600x0_80_0_0_4004e77a60238af492fdadf39372bbbc.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/14448533.html",
+          "author": null,
+          "description": "ロシアと中国の連携は外的圧力の対象となっており、この圧力が混迷を極める世界情勢を健全化させるのを妨害している。こうした見方を国際関係に詳しい中国人民大学のジャ・ミン学術研究員が語っている。",
+          "link": "https://sputniknews.jp/20230101/14448533.html",
+          "publishedOn": "2023-01-01T03:56:00.000Z",
+          "wordCount": null,
+          "title": "露中への圧力は世界的危機を複雑化させる＝専門家",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/02/05/10105367_0:177:3111:1928_600x0_80_0_0_fc022b3d6bd14ce23962445a6fe8506f.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/02/05/10105367_0:177:3111:1928_600x0_80_0_0_fc022b3d6bd14ce23962445a6fe8506f.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/f-35-14445644.html",
+          "author": null,
+          "description": "米航空機大手「ロッキード・マーティン社」は、第5世代ステルス戦闘爆撃機「F-35ライトニングII」の納入停止を発表した。米軍事専門メディア「Defence News」が伝えている。",
+          "link": "https://sputniknews.jp/20230101/f-35-14445644.html",
+          "publishedOn": "2023-01-01T02:04:00.000Z",
+          "wordCount": null,
+          "title": "米最新戦闘機「F-35」の納入停止　事故相次ぎ　空自も運用",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/2022-14447976.html",
+          "author": null,
+          "description": "2022年の科学界もヒトDNA塩基配列の完全解読から、小惑星の衝突回避実験の成功、ブタの心臓の人体への移植まで、新たな発見、達成は少なくなかった。スプートニクは2022年に起きたブレイクスルーの中から最も重要度の高く、興味深い話題を5つ集めた。",
+          "link": "https://sputniknews.jp/20230101/2022-14447976.html",
+          "publishedOn": "2023-01-01T00:00:00.000Z",
+          "wordCount": null,
+          "title": "【解説】進歩の推進力　2022年の科学界が達成した新発見",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/202230-14446092.html",
+          "author": null,
+          "description": "2022年の1年間で、世界の株式・債券市場は最大で計30兆ドル（約3900兆円）を失った。英紙フィナンシャル・タイムズが伝えている。",
+          "link": "https://sputniknews.jp/20230101/202230-14446092.html",
+          "publishedOn": "2022-12-31T22:10:00.000Z",
+          "wordCount": null,
+          "title": "世界の株式市場、2022年に30兆ドル失う",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/14445996.html",
+          "author": null,
+          "description": "ロシア極東の沿海地方の高速道路に「車好き」のアムールトラが出没し、注目を集めている。",
+          "link": "https://sputniknews.jp/20230101/14445996.html",
+          "publishedOn": "2022-12-31T20:32:00.000Z",
+          "wordCount": null,
+          "title": "雪の上にゴロン　ロシア極東で「車好き」のトラ現る",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/584/03/5840318_0:3:3072:1731_600x0_80_0_0_baefbcb31bb23778da06911eb878afc4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/584/03/5840318_0:3:3072:1731_600x0_80_0_0_baefbcb31bb23778da06911eb878afc4.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/14452092.html",
+          "author": null,
+          "description": "北朝鮮は1日未明、弾道ミサイルを日本海に向けて発射した。31日に続いて2日連続で、2023年ではこれが初めて。連合ニュースが韓国軍の発表として伝えている。",
+          "link": "https://sputniknews.jp/20230101/14452092.html",
+          "publishedOn": "2022-12-31T18:25:20.000Z",
+          "wordCount": null,
+          "title": "北朝鮮が弾道ミサイル発射　2日連続、今年初",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/300030-14447832.html",
+          "author": null,
+          "description": "防衛省は、反撃能力（敵基地攻撃能力）を巡り、2千キロ程度、3千キロ程度を飛行可能な長射程ミサイルをそれぞれ開発する方向で調整に入った。",
+          "link": "https://sputniknews.jp/20230101/300030-14447832.html",
+          "publishedOn": "2022-12-31T17:07:00.000Z",
+          "wordCount": null,
+          "title": "最長3000キロの長射程弾開発　防衛省調整、30年代の配備目標",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230101/15-14447558.html",
+          "author": null,
+          "description": "世界各国で次々と年越しを迎えるなか、国際宇宙ステーション（ISS）ではロシアの宇宙飛行士らが新年のメッセージを送った。ロシアの国営宇宙開発企業「ロスコスモス」がビデオを公開した。",
+          "link": "https://sputniknews.jp/20230101/15-14447558.html",
+          "publishedOn": "2022-12-31T15:32:00.000Z",
+          "wordCount": null,
+          "title": "一晩で15回年越し　国際宇宙ステーションの乗員が新年祝う",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/8015-14447720.html",
+          "author": null,
+          "description": "岸田文雄首相は31日、東京・八重洲の書店を訪れた。1時間ほど店内を巡り、精神科医の和田秀樹さんの「80歳の壁」など書籍15冊ほどを裕子夫人と選び、購入した。ロシアの作家ドストエフスキーの「カラマーゾフの兄弟」全5巻も買い求めた。1月3日までの年末年始の休暇中に読むとみられる。",
+          "link": "https://sputniknews.jp/20221231/8015-14447720.html",
+          "publishedOn": "2022-12-31T13:45:00.000Z",
+          "wordCount": null,
+          "title": "首相「80歳の壁」購入　ドストエフスキーなど15冊",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/14448806.html",
+          "author": null,
+          "description": "ロシアのウラジーミル・プーチン大統領は毎年恒例の新年の国民へのビデオメッセージで、2022年は転換点となったとの認識を示し、ロシアの将来のために結束するよう呼びかけた。",
+          "link": "https://sputniknews.jp/20221231/14448806.html",
+          "publishedOn": "2022-12-31T12:10:57.000Z",
+          "wordCount": null,
+          "title": "【全文】プーチン露大統領、新年の国民へのメッセージ",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1f/14449032_0:227:3073:1955_600x0_80_0_0_284033cf0a89aa99f842d90359c7ab3d.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1f/14449032_0:227:3073:1955_600x0_80_0_0_284033cf0a89aa99f842d90359c7ab3d.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/14445463.html",
+          "author": null,
+          "description": "英国のロックバンド「クイーン」のギタリスト、ブライアン・メイさんにナイトの爵位が授与されたことが分かった。英国では30日、チャールズ3世即位後初となる新年の叙勲受賞者リストが発表された。",
+          "link": "https://sputniknews.jp/20221231/14445463.html",
+          "publishedOn": "2022-12-31T11:21:00.000Z",
+          "wordCount": null,
+          "title": "クイーンのギタリスト　ブライアン・メイさんにナイトの爵位",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/16-14446754.html",
+          "author": null,
+          "description": "ローマ教皇庁（バチカン市国）は31日、前ローマ教皇のベネディクト16世が死去したと発表した。95歳だった。葬儀は1月5日に行われる。",
+          "link": "https://sputniknews.jp/20221231/16-14446754.html",
+          "publishedOn": "2022-12-31T09:38:02.000Z",
+          "wordCount": null,
+          "title": "前ローマ教皇、ベネディクト16世が死去　95歳",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/14444573.html",
+          "author": null,
+          "description": "ロシア、トルコ、シリアの3カ国防衛相会談で、トルコがシリア北部に駐留する軍の撤退に同意した。31日、シリア紙「Al-Watan」が関係者の話として伝えている。",
+          "link": "https://sputniknews.jp/20221231/14444573.html",
+          "publishedOn": "2022-12-31T08:01:00.000Z",
+          "wordCount": null,
+          "title": "トルコ、シリア北部からの撤退に同意か",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/14444414.html",
+          "author": null,
+          "description": "英ロンドンの地下鉄の空気中には、人体に危険を及ぼす恐れがある微小な金属粒子が大量に含まれていることが、同国の研究者らによって明らかになった。この研究をまとめた論文は、学術誌「ネイチャー・サイエンティフィック・レポーツ」に掲載されている。",
+          "link": "https://sputniknews.jp/20221231/14444414.html",
+          "publishedOn": "2022-12-31T06:45:00.000Z",
+          "wordCount": null,
+          "title": "地下鉄の空気は人体に危険を及ぼす恐れがある＝研究",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/431/84/4318409_0:152:2124:1347_600x0_80_0_0_207523c8603c228cefc700412dc197e3.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/431/84/4318409_0:152:2124:1347_600x0_80_0_0_207523c8603c228cefc700412dc197e3.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/--14442929.html",
+          "author": null,
+          "description": "英エリザベス女王の死去後、女王の愛犬コッカー・スパニエルはそのしつけを担当していたドッグトレーナーのイアン・オープンショー氏に引き取られ、コーギーはアンドルー王子が引き取った。女王が亡くなった後の愛犬たちの運命についてガーディアンが報じた。",
+          "link": "https://sputniknews.jp/20221231/--14442929.html",
+          "publishedOn": "2022-12-30T23:31:00.000Z",
+          "wordCount": null,
+          "title": "故エリザベス女王の愛犬の引き取り先が明らかに　 女王のコーギー、ドーギー、コッカー・スパニエルを引き取ったのは誰？",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/631/86/6318625_3:0:1919:1078_600x0_80_0_0_570526b49a5d23bab5cb05765b2c7552.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/631/86/6318625_3:0:1919:1078_600x0_80_0_0_570526b49a5d23bab5cb05765b2c7552.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/14439620.html",
+          "author": null,
+          "description": "新年2023年を目前に控え、スプートニクは今年の人類の様々な活動分野での出来事の総括を行っている。スプートニク日本は、著名な露日経済関係のアナリストで、ロシア工業団地協会の顧問を務める大橋　巌氏に取材し、ロシアから常に日本に注目する人々が最も関心を寄せている露日関係の現状と、これからの展望について、見解を伺った。",
+          "link": "https://sputniknews.jp/20221231/14439620.html",
+          "publishedOn": "2022-12-30T22:50:00.000Z",
+          "wordCount": null,
+          "title": "【視点】露日関係は今までと違う時代を迎えるのか　日本人専門家の見解",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/14440978.html",
+          "author": null,
+          "description": "環境に関するカルマの法則が働いている。元キックボクサーのアンドリュー・テイト容疑者が、人身売買とポルノ作成の疑いで逮捕された。アンドリュー容疑者が逮捕されるまでの流れには、環境活動家グレタ・トゥーンベリさんが間接的に絡んでいる。これについてスプートニク通信がお伝えする。",
+          "link": "https://sputniknews.jp/20221231/14440978.html",
+          "publishedOn": "2022-12-30T21:46:00.000Z",
+          "wordCount": null,
+          "title": "グレタ・トゥーンベリさんをからかってはいけない！スキャンダラスなブロガー、グレタさんと対立後、人身売買の容疑で逮捕される",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e5/0c/14/9821071_0:50:2049:1202_600x0_80_0_0_b5e21784efc422c03fdbea03adcb87f4.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e5/0c/14/9821071_0:50:2049:1202_600x0_80_0_0_b5e21784efc422c03fdbea03adcb87f4.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/2022-14443087.html",
+          "author": null,
+          "description": "ウクライナのシュミハリ首相は30日、今年2022年にウクライナは戦時国債の発行を含め10カ月間でパートナーから360億ドル（約4兆7000億円）超を調達したと発表した。",
+          "link": "https://sputniknews.jp/20221231/2022-14443087.html",
+          "publishedOn": "2022-12-30T20:30:00.000Z",
+          "wordCount": null,
+          "title": "ウクライナ、2022年に西側から提供された支援額を発表",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0b/05/13666468_79:0:1999:1080_600x0_80_0_0_9cc4dcb1174335546cef1dd4c38f0aff.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0b/05/13666468_79:0:1999:1080_600x0_80_0_0_9cc4dcb1174335546cef1dd4c38f0aff.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/iaea-14442463.html",
+          "author": null,
+          "description": "国際原子力機関（IAEA）のグロッシ事務局長は30日、声明を発表し、ザポロジエ原子力発電所につながる予備の送電線が29日に砲撃で損傷し、切断されたことを明らかにした。",
+          "link": "https://sputniknews.jp/20221231/iaea-14442463.html",
+          "publishedOn": "2022-12-30T19:40:00.000Z",
+          "wordCount": null,
+          "title": "ザポロジエ原発の予備送電線が損傷＝IAEA",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/08/0c/12455279_0:0:3133:1762_600x0_80_0_0_058fa648ec26abcf4d2695f7143a8994.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/08/0c/12455279_0:0:3133:1762_600x0_80_0_0_058fa648ec26abcf4d2695f7143a8994.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/14441817.html",
+          "author": null,
+          "description": "ベラルーシ国家安全保障会議のアレクサンドル・ボリフォヴィチ書記は、ベラルーシ領内にウクライナのミサイルが落下した事件について、これが偶然の出来事だった可能性は低いとの見方を示した。",
+          "link": "https://sputniknews.jp/20221231/14441817.html",
+          "publishedOn": "2022-12-30T18:27:00.000Z",
+          "wordCount": null,
+          "title": "ウクライナのミサイル落下についてベラルーシ国家安全保障会議書記がコメント",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1f/14441667_0:175:3016:1872_600x0_80_0_0_06041911b2ff6b4b336700674e86791b.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1f/14441667_0:175:3016:1872_600x0_80_0_0_06041911b2ff6b4b336700674e86791b.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/14441514.html",
+          "author": null,
+          "description": "ウクライナのゼレンスキー大統領は、「メディアに関する」法律に署名した。同氏のサイトで発表された。法案によると、ウクライナ当局の代表者は、何らかの理由で情報コンテンツが気に入らない場合、それらのテレビ局、新聞、サイトに罰金を科したり、閉鎖することが可能となる。ウクライナのマスコミが報じた。",
+          "link": "https://sputniknews.jp/20221231/14441514.html",
+          "publishedOn": "2022-12-30T16:50:00.000Z",
+          "wordCount": null,
+          "title": "「裁判や調査もせずに」　メディアに関するウクライナの新法律は、マスメディアに対する横暴の正当化＝露外務省",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/06/1e/11770132_0:0:3073:1728_600x0_80_0_0_9399d57aa45fe70fd87dc6d5c06502bf.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/06/1e/11770132_0:0:3073:1728_600x0_80_0_0_9399d57aa45fe70fd87dc6d5c06502bf.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221231/14441285.html",
+          "author": null,
+          "description": "タイ保健省疾病管理局は、「脳を食べる」アメーバ（フォーラーネグレリア）のヒトへの感染が起こるのは極めて稀であるという内容の声明を発表した。",
+          "link": "https://sputniknews.jp/20221231/14441285.html",
+          "publishedOn": "2022-12-30T15:30:00.000Z",
+          "wordCount": null,
+          "title": "脳を食べるアメーバに感染するのは稀　感染初期であれば治療可能＝タイ保健省",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/100--14439853.html",
+          "author": null,
+          "description": "100年前、1922年12月30日にソビエト社会主義共和国連邦が誕生した。ソ連は人類史上、最も野心的なプロジェクトと名付けてもいいだろう。マルクス・レーニン主義のイデオロギーで武装したソ連は全世界の資本主義システムと欧州大国の帝国主義に挑戦を投げつけた。ソ連の歴史には暗い、血塗られた頁もあるが、何といっても全く新しい公正な社会を建築し、高い思想と探求心をもつ新しい人間を生み出すことを目指した国であった。",
+          "link": "https://sputniknews.jp/20221230/100--14439853.html",
+          "publishedOn": "2022-12-30T14:10:00.000Z",
+          "wordCount": null,
+          "title": "【解説】ソ連誕生から100年「ソ連は多大な犠牲と世界の模範の歴史」",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1e/14440212_0:703:2048:1855_600x0_80_0_0_aec20f4c2c010723f5456b345644324b.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1e/14440212_0:703:2048:1855_600x0_80_0_0_aec20f4c2c010723f5456b345644324b.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/14228254.html",
+          "author": null,
+          "description": "冬季五輪にワールドカップ、ロシアの軍事作戦、中国のゼロ・コロナ対策など、2022年、世界を賑わせた主要な出来事やニュースをスプートニクの写真で振り返る。",
+          "link": "https://sputniknews.jp/20221230/14228254.html",
+          "publishedOn": "2022-12-30T13:00:00.000Z",
+          "wordCount": null,
+          "title": "2022年、世界の主なニュース　写真で見るハイライト",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/14439978.html",
+          "author": null,
+          "description": "ロシアのプーチン大統領は30日、中国の習近平国家主席とオンライン形式で会談し、建設的パートナーシップに基づいた対話を行った。ロシアのペスコフ大統領報道官が記者団に明らかにした。中国は複雑な国際情勢を背景にロシアのグローバルパートナーになる用意があることを表明した。",
+          "link": "https://sputniknews.jp/20221230/14439978.html",
+          "publishedOn": "2022-12-30T12:43:01.000Z",
+          "wordCount": null,
+          "title": "「ロシアと中国の主権を守るために」　露中首脳がオンライン会談　主な発言",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/06/0f/11564316_0:96:3303:1954_600x0_80_0_0_e988b33616c71faa7be61b4fca1e8dc3.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/06/0f/11564316_0:96:3303:1954_600x0_80_0_0_e988b33616c71faa7be61b4fca1e8dc3.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/jp2023-14438835.html",
+          "author": null,
+          "description": "JPモルガンは、2023年の主要テーマはグローバリゼーションの終焉であり、それは必然的に資本市場や投資にとってネガティブな結果を引き起こし、サプライチェーン、産業政策、またエネルギーや防衛に影響を与えるとの見方を示している。ブルームバーグが報じた。",
+          "link": "https://sputniknews.jp/20221230/jp2023-14438835.html",
+          "publishedOn": "2022-12-30T08:47:33.000Z",
+          "wordCount": null,
+          "title": "JPモルガン、2023年の主要テーマを挙げる",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/nato--14438128.html",
+          "author": null,
+          "description": "NATOのストルテンベルグ事務総長はDPAとのインタビューで、自身の発言が「逆説的」としながらも、NATOによるウクライナへの兵器供与は平和への最短の道のりであると述べた。",
+          "link": "https://sputniknews.jp/20221230/nato--14438128.html",
+          "publishedOn": "2022-12-30T06:55:42.000Z",
+          "wordCount": null,
+          "title": "NATO事務総長 「ウクライナ軍事支援は平和への最短の道のり」",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/-j-11rc-135-14437770.html",
+          "author": null,
+          "description": "中国の戦闘機J-11が先週、南シナ海上空で米国偵察機ボーイングRC-135に6メートルまで迫る接近飛行を行っていたことが明らかになった。米軍インド太平洋司令部が発表。中国のパイロットの行為は衝突の危険をはらむものであった指摘した。",
+          "link": "https://sputniknews.jp/20221230/-j-11rc-135-14437770.html",
+          "publishedOn": "2022-12-30T05:56:57.000Z",
+          "wordCount": null,
+          "title": "南シナ海上空で「危険な行為」 中国機J-11と米偵察機ボーイングRC-135　あわや衝突",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/2022-14431072.html",
+          "author": null,
+          "description": "2022年は真に歴史的規模の出来事が満載であり、新たな国際的現実が作られる兆候のもとで、誇張ではなく、ロシア外交政策にとって転換点となった。ロシア外務省が2022年総括を公式サイトで公開した。",
+          "link": "https://sputniknews.jp/20221230/2022-14431072.html",
+          "publishedOn": "2022-12-30T02:00:00.000Z",
+          "wordCount": null,
+          "title": "ロシア外務省　2022年の外交総括",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0b/1e/14009759_0:0:3073:1728_600x0_80_0_0_5b775b24920e32964e1cb29638ebd1e5.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0b/1e/14009759_0:0:3073:1728_600x0_80_0_0_5b775b24920e32964e1cb29638ebd1e5.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/14437400.html",
+          "author": null,
+          "description": "29日、原子力潜水艦「皇帝アレクサンドル3世」が進水式を迎えた。露大統領府は、プーチン大統領は潜水艦の進水と海軍への就役を示す国旗掲揚の式に参加した。",
+          "link": "https://sputniknews.jp/20221230/14437400.html",
+          "publishedOn": "2022-12-30T00:33:00.000Z",
+          "wordCount": null,
+          "title": "ロシアの新型原子力潜水艦が進水式",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1e/14437483_0:124:3093:1863_600x0_80_0_0_770a980084ed71d11f47ac0428a8c33d.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1e/14437483_0:124:3093:1863_600x0_80_0_0_770a980084ed71d11f47ac0428a8c33d.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/14435223.html",
+          "author": null,
+          "description": "英国ドンカスターのある開業医が数百人の患者にクリスマスのグリーティングメールの代わりに、「あなたは肺がんの末期です」というメッセージを誤って送信してしまった。タイムズ紙が報じた。",
+          "link": "https://sputniknews.jp/20221230/14435223.html",
+          "publishedOn": "2022-12-29T22:42:00.000Z",
+          "wordCount": null,
+          "title": "メリークリスマス？　イブに英国人医師が患者にがん診断メールを誤信…",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/20232022-14431165.html",
+          "author": null,
+          "description": "2022年は露日関係において非常に難しい年となった。しかし、文化面では今後も関係が続いていくだろう。したがって、2023年にはもっといろいろなロシア文化のイベントが開催され、日本人を楽しませることになるだろう。スプートニクは、2022年に開催された露日間の主な文化イベントを振り返り、開催が明らかになっている2023年のイベントについてお伝えする。",
+          "link": "https://sputniknews.jp/20221230/20232022-14431165.html",
+          "publishedOn": "2022-12-29T21:27:00.000Z",
+          "wordCount": null,
+          "title": "【解説】日本で開催のロシア文化フェスティバル　2023年はどうなる?　2022年のイベントと来年の展望",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e5/07/0d/8539806_0:159:3077:1890_600x0_80_0_0_28d8b6ea9ba4148e2038d514e8439732.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e5/07/0d/8539806_0:159:3077:1890_600x0_80_0_0_28d8b6ea9ba4148e2038d514e8439732.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/300atacms-14434983.html",
+          "author": null,
+          "description": "ゼレンスキー大統領は訪米中、最大射程300キロの地対地ミサイルMGM-140 ATACMSのウクライナへの提供をバイデン米大統領に再度懇願したものの、供給しないという米国側の姿勢は変わらなかった。米ポリティコ紙が報じた。",
+          "link": "https://sputniknews.jp/20221230/300atacms-14434983.html",
+          "publishedOn": "2022-12-29T20:20:00.000Z",
+          "wordCount": null,
+          "title": "ゼレンスキーは射程距離300キロのミサイルATACMSを懇願　バイデンは拒否",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/16/14344697_0:0:1585:892_600x0_80_0_0_8362b10306d2a1aa924ad6c507c27dd7.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/16/14344697_0:0:1585:892_600x0_80_0_0_8362b10306d2a1aa924ad6c507c27dd7.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/3-82-14435692.html",
+          "author": null,
+          "description": "サッカーのW杯3冠王でペレの名で世界に慕われたブラジルのエドソン・アランテス・ド・ナシメント氏が死去した。享年82歳。ペレの死去は娘がインスタグラム（インスタグラム、Facebookの親会社のメタは急進主義的としてロシアで活動が禁止）を通じて公表した。",
+          "link": "https://sputniknews.jp/20221230/3-82-14435692.html",
+          "publishedOn": "2022-12-29T19:01:30.000Z",
+          "wordCount": null,
+          "title": "サッカーW杯3冠王のペレが死去　82歳",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221230/3-14434224.html",
+          "author": null,
+          "description": "米国務省は対戦車地雷散布装置「ボルケーノ」とそれに付随する装置を約1億8000万ドル（240億円超）で台湾に売却することを承認した。台湾はこの間に人口2300万人をはるかに超える8600万人が収容可能な10万5000か所の防空壕を整備する。",
+          "link": "https://sputniknews.jp/20221230/3-14434224.html",
+          "publishedOn": "2022-12-29T16:41:00.000Z",
+          "wordCount": null,
+          "title": "台湾にプレッシャーの中国に対抗　米国は対戦車システムを売却　台湾は人口の3倍が収容可能な防空壕を整備",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/3-14434289.html",
+          "author": null,
+          "description": "クネセト（イスラエル議会）は12月29日、11月1日に実施の選挙結果を踏まえ、リクード党の党首のネタニヤフ氏を首相とする政府を承認した。ネタニヤフ氏はすでにイスラエルの新首相に就任しており、現在、閣僚の宣誓式が始まっている。",
+          "link": "https://sputniknews.jp/20221229/3-14434289.html",
+          "publishedOn": "2022-12-29T14:53:08.000Z",
+          "wordCount": null,
+          "title": "ベンヤミン・ネタニヤフ氏　正式にイスラエル首相に6度目の再任",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1d/14434338_0:35:2906:1670_600x0_80_0_0_aa45609b28c9f7069325dba4d9cbfd93.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1d/14434338_0:35:2906:1670_600x0_80_0_0_aa45609b28c9f7069325dba4d9cbfd93.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/14426371.html",
+          "author": null,
+          "description": "日本では、2022年の世相を一文字で表す「今年の漢字」に「戦」が選ばれた。事実、今年の軍事分野での大きな事件となったのは、ウクライナにおける特別軍事作戦である。また、アジア太平洋地域情勢も、台湾をめぐる軍事紛争の開始に対する深刻な脅威が生まれるほど、急激に悪化した。2022年、軍事政治的情勢はきわめて緊張したものであった。この緊張はおそらく2023年も続くことになるだろう。",
+          "link": "https://sputniknews.jp/20221229/14426371.html",
+          "publishedOn": "2022-12-29T14:00:00.000Z",
+          "wordCount": null,
+          "title": "【解説】2022年を振り返る　軍事情勢",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0a/03/13180988_0:0:3221:1811_600x0_80_0_0_88523925c86bb0e6d2a3afd5fdcabfc3.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0a/03/13180988_0:0:3221:1811_600x0_80_0_0_88523925c86bb0e6d2a3afd5fdcabfc3.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/14429960.html",
+          "author": null,
+          "description": "米シアトル（ワシントン州）では寒波により車道、歩道、樹木、車が氷に覆われた。雪が降った後、寒波の影響で路面が凍結し、道路はスケートリンクのようにツルツルの状態となった。安全な運行が困難になり、バスは運転を見合わせた。一方、住民はふさぎ込むこともなく、突然に訪れた凍てつく冬の景色をSNSに投稿している。",
+          "link": "https://sputniknews.jp/20221229/14429960.html",
+          "publishedOn": "2022-12-29T12:04:00.000Z",
+          "wordCount": null,
+          "title": "米シアトルで路面が凍結　道路が氷の滑り台と化す",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/14430369.html",
+          "author": null,
+          "description": "12月29日、ウクライナ軍の地対空ミサイルS-300が ベラルーシ領内に落下した。ベラルーシ国営通信ベルタが報じた。",
+          "link": "https://sputniknews.jp/20221229/14430369.html",
+          "publishedOn": "2022-12-29T11:28:35.000Z",
+          "wordCount": null,
+          "title": "ウクライナ軍のミサイルがベラルーシ領内に落下",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1d/14430805_0:0:3072:1728_600x0_80_0_0_b346029188aaa1afd2c39586a1f913cc.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1d/14430805_0:0:3072:1728_600x0_80_0_0_b346029188aaa1afd2c39586a1f913cc.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/14157126.html",
+          "author": null,
+          "description": "毎年恒例の神社での寒中水浴、イラン・テヘランの監獄レストラン、インドネシアの歯削りの儀式...。今年世界各地であった印象的な出来事やイベントを、スプートニクがまとめてご紹介。",
+          "link": "https://sputniknews.jp/20221229/14157126.html",
+          "publishedOn": "2022-12-29T10:56:00.000Z",
+          "wordCount": null,
+          "title": "今年起こったユニークで印象的な出来事",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/1lng-14428977.html",
+          "author": null,
+          "description": "29日、日本の損害保険会社がロシア海域で船舶の沈没などの被害を補償する保険を2023年1月も提供することが明らかになった。これより前、損保各社が年明けから保険提供を停止すると取引先に通知していたことがわかり、ロシア極東の石油・天然ガス開発事業「サハリン2」からの液化天然ガス（LNG）輸入の停滞が懸念されていた。共同通信が伝えている。",
+          "link": "https://sputniknews.jp/20221229/1lng-14428977.html",
+          "publishedOn": "2022-12-29T10:29:50.000Z",
+          "wordCount": null,
+          "title": "日本の損保各社、来年1月もロシア海域の船舶保険提供を継続　LNGへの影響回避",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1c/14417753_0:156:3001:1844_600x0_80_0_0_ca3e9080c2c7fa22d270935f81298e4a.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/1c/14417753_0:156:3001:1844_600x0_80_0_0_ca3e9080c2c7fa22d270935f81298e4a.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/14426018.html",
+          "author": null,
+          "description": "日本の新たな国家安全保障戦略は同国憲法違反であり、長期的な影響をおよぼすだろう。東アジア地域の軍拡につながる可能性さえあり、周辺諸国のみならず米国も懸念すべきである。吉林大学北東アジア研究センターのバ・ジャンシュン副所長がスプートニク通信とのインタビューで見解を示した。",
+          "link": "https://sputniknews.jp/20221229/14426018.html",
+          "publishedOn": "2022-12-29T08:39:32.000Z",
+          "wordCount": null,
+          "title": "【視点】日本の新たな国家安全保障戦略は東アジア地域の軍拡につながる恐れ＝中国専門家",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/15-14425713.html",
+          "author": null,
+          "description": "ウクライナは第二次世界大戦以来の速さで弾薬を消費しており、欧州にある主な兵器工場では十分な量の弾薬を製造できていない。これは、ウクライナ支援と欧州各国の安全保障の両方を脅かしている。米国の軍事専門家が米紙「ウォール・ストリート・ジャーナル」でこのように指摘している。",
+          "link": "https://sputniknews.jp/20221229/15-14425713.html",
+          "publishedOn": "2022-12-29T07:26:28.000Z",
+          "wordCount": null,
+          "title": "軍事専門家　ウクライナ紛争が突然終結したとしても、欧州は弾薬の補充に少なくとも15年を要する",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/349/22/3492292_0:161:3071:1888_600x0_80_0_0_2868360ee6ccfea098f787794c841deb.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/349/22/3492292_0:161:3071:1888_600x0_80_0_0_2868360ee6ccfea098f787794c841deb.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/--14425517.html",
+          "author": null,
+          "description": "韓国軍は29日、北朝鮮の無人機対策として、あらゆる軍備を用いた全軍実戦演習を5年ぶりに実施する。YTNテレビが伝えた。",
+          "link": "https://sputniknews.jp/20221229/--14425517.html",
+          "publishedOn": "2022-12-29T06:10:00.000Z",
+          "wordCount": null,
+          "title": "韓国　北朝鮮の無人機対策として全軍全国規模の演習実施",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/xiaomi-14423529.html",
+          "author": null,
+          "description": "中国の電気機器大手「Xiaomi（シャオミ）」はスマートフォンのユーザーらに対し、画面の損傷を修理するために歯磨き粉を用いないよう呼びかけた。Xiaomiはこの呼びかけを広めるためにYouTube上に特別動画を発表し、スマホ画面が割れたり、ひびが入った場合はサービスセンターに問い合わせ、修理するよう勧めている。",
+          "link": "https://sputniknews.jp/20221229/xiaomi-14423529.html",
+          "publishedOn": "2022-12-29T04:32:00.000Z",
+          "wordCount": null,
+          "title": "歯磨き粉は塗っちゃダメ！　スマホ画面が「修繕」できる噂をXiaomiが否定",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/14423638.html",
+          "author": null,
+          "description": "考古学者、環境学者らによる国際的な研究グループが6600万年前の小惑星の衝突が当時、文字通り「地球の覇者」としてわが世の春を謳歌していた恐竜の絶滅を引き起こしたことを証明した。恐竜の絶滅により地球の生態系にあいたニッチは一瞬のうちに何者かによって埋められた。それが誰だったのかについての研究結果がサイエンス・アドヴァンセス誌に掲載されている。",
+          "link": "https://sputniknews.jp/20221229/14423638.html",
+          "publishedOn": "2022-12-29T02:35:00.000Z",
+          "wordCount": null,
+          "title": "恐竜の絶滅で笑ったのは誰か？",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e5/09/1d/8725644_0:0:1200:676_600x0_80_0_0_75a32aa0f02e5fd7d243e2900eface6b.png",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e5/09/1d/8725644_0:0:1200:676_600x0_80_0_0_75a32aa0f02e5fd7d243e2900eface6b.png"
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/20225-14303070.html",
+          "author": null,
+          "description": "2022年もあと残りわずか。今年も様々な出来事、事件、話題が日本中を駆け巡り、あるときには社会を震撼させ、ときには人々を勇気づけた。ここでは2022年に特に世間の注目を集めた5大ニュースを振り返る。",
+          "link": "https://sputniknews.jp/20221229/20225-14303070.html",
+          "publishedOn": "2022-12-29T00:30:00.000Z",
+          "wordCount": null,
+          "title": "スプートニクと振り返る　2022年の日本の5大ニュース",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/2011-14423923.html",
+          "author": null,
+          "description": "ロシア、シリア、トルコの国防相が28日、モスクワで会談し、シリア情勢の安定化に向けて議論が交わされた。ロシア国防省が発表した。",
+          "link": "https://sputniknews.jp/20221229/2011-14423923.html",
+          "publishedOn": "2022-12-28T22:46:00.000Z",
+          "wordCount": null,
+          "title": "モスクワで露・トルコ・シリアの国防相会議　2011年以来初めて",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/121/80/1218084_0:159:3076:1889_600x0_80_0_0_129e340333a8caa84d30df7b0086e598.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/121/80/1218084_0:159:3076:1889_600x0_80_0_0_129e340333a8caa84d30df7b0086e598.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/14424143.html",
+          "author": null,
+          "description": "ロシアのセルゲイ・ラブロフ外相は、28日に放送されたロシアメディアのインタビューで、ウクライナ情勢、米国との二国間関係などについて語った。",
+          "link": "https://sputniknews.jp/20221229/14424143.html",
+          "publishedOn": "2022-12-28T21:06:00.000Z",
+          "wordCount": null,
+          "title": "ラブロフ露外相「米国はロシアとの直接対決望まず」",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/0c/01/14023270_0:255:2959:1919_600x0_80_0_0_02c225683bda3141e477be6349848b76.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/0c/01/14023270_0:255:2959:1919_600x0_80_0_0_02c225683bda3141e477be6349848b76.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/3100-14423302.html",
+          "author": null,
+          "description": "政治資金パーティーの収入などを正確に書かず、政治資金収支報告書の収支を実際より少なく記載したとして、政治資金規正法違反（虚偽記入、不記載）の罪で略式起訴された薗浦健太郎元衆院議員（50）＝21日辞職、自民党離党＝について、東京簡裁が罰金100万円の略式命令を出したことが28日、関係者への取材で分かった。",
+          "link": "https://sputniknews.jp/20221229/3100-14423302.html",
+          "publishedOn": "2022-12-28T19:03:00.000Z",
+          "wordCount": null,
+          "title": "薗浦元議員の公民権停止3年　罰金100万円、略式命令",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221229/200-14423032.html",
+          "author": null,
+          "description": "中国の河南省で28日、200台以上の自動車が絡む多重事故が起こった。",
+          "link": "https://sputniknews.jp/20221229/200-14423032.html",
+          "publishedOn": "2022-12-28T17:04:00.000Z",
+          "wordCount": null,
+          "title": "中国、濃霧で200台が玉突き事故",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221228/2036-14422520.html",
+          "author": null,
+          "description": "インドのアヌラク・タクル青年スポーツ相は、インドの2036年の夏季オリンピック（五輪）の招致に向けて意欲を示した。インド紙「Times of India」が伝えている。",
+          "link": "https://sputniknews.jp/20221228/2036-14422520.html",
+          "publishedOn": "2022-12-28T14:58:00.000Z",
+          "wordCount": null,
+          "title": "インドが2036年五輪招致へ　現時点の候補国は？",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/440/36/4403684_0:161:3071:1888_600x0_80_0_0_c0b9cf1dbe3c1fe0d5924c71b919ba54.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/440/36/4403684_0:161:3071:1888_600x0_80_0_0_c0b9cf1dbe3c1fe0d5924c71b919ba54.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20221228/14422349.html",
+          "author": null,
+          "description": "韓国大統領府は28日、尹錫悦（ユン・ソクヨル）政権による同国初の「インド太平洋戦略」の最終報告書を発表した。このなかでは米国や日本のほか、中国も協力国に含まれており、中国包囲網ともとれる日米の地域戦略とは性質が違うものとなっている。聯合ニュースが伝えている。",
+          "link": "https://sputniknews.jp/20221228/14422349.html",
+          "publishedOn": "2022-12-28T14:10:00.000Z",
+          "wordCount": null,
+          "title": "韓国、初の「インド太平洋戦略」発表　中国も協力国",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221228/14419508.html",
+          "author": null,
+          "description": "日米両政府は、2023年にジョー・バイデン米大統領が、米国が1945年に原爆を投下した長崎に訪問することを検討している。長崎訪問は、23年5月19日から21日まで広島で開催される主要7カ国（G7）首脳会議に合わせて行われる可能性がある。もし実現すれば、現職の米国大統領が初めて長崎を訪れることになる。",
+          "link": "https://sputniknews.jp/20221228/14419508.html",
+          "publishedOn": "2022-12-28T13:15:00.000Z",
+          "wordCount": null,
+          "title": "【解説】バイデン大統領が広島・長崎の原爆投下について謝罪する可能性は低い",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221228/14421849.html",
+          "author": null,
+          "description": "台湾が2024年から4カ月の徴兵期間を1年に延長することを受け、中国外務省の汪文斌（オウ・ブンヒン）報道官は28日、中国本土と台湾の再統一は歴史の宿命であり、台湾の住民は分離主義勢力のために「砲弾の餌食」になる必要はないとけん制した。",
+          "link": "https://sputniknews.jp/20221228/14421849.html",
+          "publishedOn": "2022-12-28T12:14:00.000Z",
+          "wordCount": null,
+          "title": "台湾人は「大砲の餌食」になるな＝中国外務省　徴兵期間延長受け",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20221228/14420544.html",
+          "author": null,
+          "description": "北朝鮮が無人機を発進させたのは韓国の尹 錫悦政権に勝ち目がないところを見せつけ、将来、いつ何時も韓国により完成度の高い無人機を差し向けることができるところを見せて、心理的に抑圧するのが目的だった。慶尚国立大学のパク・チョンホル教授はスプートニクからの取材にこう語った。",
+          "link": "https://sputniknews.jp/20221228/14420544.html",
+          "publishedOn": "2022-12-28T11:15:00.000Z",
+          "wordCount": null,
+          "title": "【視点】北朝鮮はなぜ韓国に無人機を飛ばしたか　撃墜はなぜできなかったのか　韓国人専門家",
+          "itunes": {},
+          "imageUrl": null
         }
       ]
     }
