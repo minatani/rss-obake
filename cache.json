@@ -1032,6 +1032,56 @@
       "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/104000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、往路20位の立教大は復路16位、総合18位だった。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/104000c",
+          "publishedOn": "2023-01-03T05:17:58.000Z",
+          "wordCount": 1055,
+          "title": "55年ぶり出場の立教大、シード権逃すも最後までたすき　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103mpj00m050039000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/040/099000c",
+          "author": null,
+          "description": "福岡県は3日、同県古賀市の農場で飼育されている大型鳥のエミューについて、高病原性鳥インフルエンザの陽性が確認されたと発表した。飼育されているエミュー約430羽の殺処分を始めた。県内で飼育されている家きんでは今季3例目の確認で、エミューの陽性確認は国内4例目。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/040/099000c",
+          "publishedOn": "2023-01-03T04:56:13.000Z",
+          "wordCount": 1022,
+          "title": "エミューが鳥インフル、国内4例目　福岡・古賀市の農場430羽処分",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2021/02/05/20210205k0000m040189000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/020/098000c",
+          "author": null,
+          "description": "米電気自動車（EV）大手テスラは2日、2022年の販売台数が前年比40％増の131万3851台だったと発表した。過去最多を更新したが、前年実績（93万6222台）の50％超の増加としていた目標には届かなかった。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/020/098000c",
+          "publishedOn": "2023-01-03T04:55:07.000Z",
+          "wordCount": 1067,
+          "title": "米EV大手テスラ　22年販売は過去最多131万、目標届かず",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2020/06/01/20200601k0000m020135000p/0c8.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/097000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、創価大は総合8位だった。 　往路10位から追い上げ、実力の一端は示した。山下りの6区で浜野将基選手（4年）が区間4位の好走で6位に立つと、7区はエースの葛西潤選手（4年）が区間賞の",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/097000c",
+          "publishedOn": "2023-01-03T04:53:48.000Z",
+          "wordCount": 1084,
+          "title": "創価大は総合8位　監督とともに歩んできた4年生　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103mpj00m050043000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/096000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、早稲田大は総合6位で2年ぶりにシードを獲得した。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/096000c",
+          "publishedOn": "2023-01-03T04:52:04.000Z",
+          "wordCount": 1086,
+          "title": "早稲田大は総合6位　「泥臭く」2年ぶりにシード復帰　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103mpj00m050040000p/0c10.jpg?1"
+        },
+        {
           "id": "https://mainichi.jp/articles/20230103/k00/00m/050/088000c",
           "author": null,
           "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日に復路があり、9区（23・1キロ）は青山学院大の岸本大紀選手（4年）が1時間7分27秒で区間賞を獲得した。レース後の主な談話は次の通り。",
@@ -4093,6 +4143,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nbcnews.com/health/health-news/weight-loss-drug-affordability-rcna60422",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nbcnews.com/health/health-news/weight-loss-drug-affordability-rcna60422",
+          "publishedOn": "2023-01-02T17:47:01.000Z",
+          "wordCount": 13890,
+          "title": "The FDA will likely approve the diabetes drug tirzepatide for weight loss",
+          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-12/221229-weight-loss-injectables-jg-cs-c518fa.jpg"
+        },
+        {
           "id": "https://secretartofscience.com/performance",
           "author": null,
           "description": "Comments",
@@ -4560,6 +4620,26 @@
       "siteUrl": "https://juggly.cn",
       "articles": [
         {
+          "id": "https://juggly.cn/?p=245161",
+          "author": "juggly",
+          "description": "まもなく正式発表となる OnePlus 11 の新たな実機写真が中国の Weibo で流出し、背面だけでなく、前面や側面の様子などもクリアな写真で確認することができます。どうやら報道関係者らには、事前に OnePlus  [...]",
+          "link": "https://juggly.cn/archives/245161.html",
+          "publishedOn": "2023-01-03T04:10:53.000Z",
+          "wordCount": 490,
+          "title": "OnePlus 11発表目前にして大量の実機写真が流出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://juggly.cn/?p=245157",
+          "author": "juggly",
+          "description": "Amazon の Kindle ストアがスマホ決済アプリ PayPay での支払いに対応し、通常の Amazon 商品に加えて電子書籍も PayPay で購入できるようになりました。 これにより、PayPay マネーや  [...]",
+          "link": "https://juggly.cn/archives/245157.html",
+          "publishedOn": "2023-01-03T02:22:10.000Z",
+          "wordCount": 500,
+          "title": "PayPayを利用してKindle電子書籍の購入が可能に",
+          "imageUrl": null
+        },
+        {
           "id": "https://juggly.cn/?p=245149",
           "author": "juggly",
           "description": "Galaxy スマホを Android 13 にアップデートしたらまず試して欲しいのが Android 12 の時からグレードアップした「壁紙とスタイル」です。Android 12 からはカラーパレットの種類が増え、アイ [...]",
@@ -4855,6 +4935,119 @@
           "wordCount": 255,
           "title": "13年ぶりになるアバターとMEET AGAIN",
           "imageUrl": "https://www.j-wave.co.jp/assets_v2020/images/topics/2212_avatar_og.jpg"
+        }
+      ]
+    },
+    {
+      "title": "methaneのブログ",
+      "feedUrl": "https://methane.hatenablog.jp/rss",
+      "siteUrl": "https://methane.hatenablog.jp/",
+      "articles": []
+    },
+    {
+      "title": "MITテクノロジーレビュー",
+      "feedUrl": "https://www.technologyreview.jp/feed/",
+      "siteUrl": "https://www.technologyreview.jp",
+      "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=289534",
+          "author": "Abby Ohlheiser",
+          "description": "ティックトックの「おすすめ」に従ってカラスに興味を持った記者は、たくさんの動画を見た挙句に、実際に自分もカラスと友だちになりたいと考えるに至った。",
+          "link": "https://www.technologyreview.jp/s/289534/how-to-befriend-a-crow/",
+          "publishedOn": "2023-01-03T03:42:46.000Z",
+          "wordCount": 1339,
+          "title": "きっかけはTIkiTok、私はいかにして「カラス沼」にハマったか",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/10/31181503/GettyImages-115456614-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=287753",
+          "author": "Margaret O’Mara",
+          "description": "「世界を変える」と訴えるテック業界で長らく解決されない問題がある。ジェンダーーやダイバーシティの問題だ。シリコンバレーの歴史を振り返りながら、少しずつ業界に押し寄せる変革の兆しを展望する。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/287753/why-cant-tech-fix-its-gender-problem/",
+          "publishedOn": "2023-01-02T22:54:05.000Z",
+          "wordCount": 1210,
+          "title": "「世界を変える」テック企業 ジェンダー問題では なぜ変われないのか？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/10/07120558/SO22_techgender-01SC-1400x713.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=289628",
+          "author": "Melissa Heikkilä",
+          "description": "「責任あるAI」を求める動きが高まる一方で、企業はいまだに十分な投資をしていない。企業のAI倫理担当者は、ほとんど助けを得られないまま、難しい仕事を押しつけられている。",
+          "link": "https://www.technologyreview.jp/s/289628/how-to-survive-as-an-ai-ethicist/",
+          "publishedOn": "2022-12-30T05:51:31.000Z",
+          "wordCount": 1318,
+          "title": "テック企業で働く「AI倫理」担当者が生き残る方法",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/11/01210503/burnout-AI2-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=292656",
+          "author": "Jessica Hamzelou",
+          "description": "新生児はなぜ、それほど長い睡眠を必要とするのか。新たなツールは、急速に発達する新生児の脳の中で何が起きているのかを明らかにするのに役立つかもしれない。",
+          "link": "https://www.technologyreview.jp/s/292656/babies-spend-most-of-their-time-asleep-new-technologies-are-beginning-to-reveal-why/",
+          "publishedOn": "2022-12-30T02:59:21.000Z",
+          "wordCount": 1363,
+          "title": "1日のほとんどを睡眠に費やす赤ちゃん、脳では何が起きているのか",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/12/09191504/IMG_0652-SA-590x787.jpg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=294438",
+          "author": "Matt Whittaker",
+          "description": "太陽光パネルを高めに設置することで少し日陰を作り、発電や営農に利用するソーラーシェアリング（営農型太陽光発電）が、温暖化対策や農家の収益増、都市問題の解決につながる可能性があると注目されている。",
+          "link": "https://www.technologyreview.jp/s/294438/the-newest-crop-found-on-the-farm-solar-panels/",
+          "publishedOn": "2022-12-29T23:05:27.000Z",
+          "wordCount": 1346,
+          "title": "環境も農家も救う「ソーラーシェアリング」が注目される理由",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/12/28191504/JF23_download-4-1400x787.jpg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=293843",
+          "author": "Jonathan O'Callaghan",
+          "description": "2023年は宇宙開発の「当たり年」になりそうだ。今後12カ月の間に、日本のスタートアップ企業の月面着陸をはじめ、商業宇宙遊泳、太陽系に関する新たな探査ミッション、超大型ロケットの打ち上げなどが予定されている。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/293843/whats-next-in-space-in-2023/",
+          "publishedOn": "2022-12-29T21:47:55.000Z",
+          "wordCount": 1225,
+          "title": "日本企業の月面着陸も 注目計画が目白押しの 2023年の宇宙開発",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/12/22191503/moon_1-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=290855",
+          "author": "Casey Crownhart",
+          "description": "再生可能エネルギーの普及に伴って、送電網向け蓄電池への期待が高まっている。現在普及しているリチウムイオン電池とはニーズのミスマッチがあるため、多くの企業が新しいエネルギー貯蔵手段を研究中だ。",
+          "link": "https://www.technologyreview.jp/s/290855/super-hot-salt-could-be-coming-to-a-battery-near-you/",
+          "publishedOn": "2022-12-29T20:42:35.000Z",
+          "wordCount": 1383,
+          "title": "MIT発ベンチャーの「溶融塩」、送電網向け蓄電池の主流になるか",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/11/17201509/Ambri-Container-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=288851",
+          "author": "Shannon Vallor",
+          "description": "かつては、新しいテクノロジーが登場すると、それによる恩恵を最も受けるのは消費者である私たちだった。だが、今や最も恩恵を受けるのは、消費者からデータを吸い上げる企業だ。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/288851/we-used-to-get-excited-about-technology-what-happened/",
+          "publishedOn": "2022-12-28T23:07:21.000Z",
+          "wordCount": 1208,
+          "title": "テクノロジーはなぜ「私たちのもの」ではなくなったのか？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/10/21181507/ND22_imacs-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=292570",
+          "author": "Casey Crownhart",
+          "description": "カリフォルニア州で実施された浮体式洋上風力発電タービン設置用地の競売は、5社が合計7億5700万ドルで落札した。カリフォルニア州での今回の取り組みは、世界の風力発電にどのような意味を持つのだろうか。",
+          "link": "https://www.technologyreview.jp/s/292570/the-wild-new-technology-coming-to-offshore-wind-power/",
+          "publishedOn": "2022-12-27T21:59:04.000Z",
+          "wordCount": 1397,
+          "title": "動き出した浮体式洋上風力発電、今後の課題は？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/12/05201514/AP18276736969551-crop-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/12/26/294192/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/12/28/294192/",
+          "publishedOn": "2022-12-27T21:57:10.000Z",
+          "wordCount": 681,
+          "title": "早稲田大学など、初期宇宙に存在した赤い渦巻銀河を発見",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
