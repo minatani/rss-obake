@@ -401,6 +401,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/",
+          "author": "Sule-Balogun Olanrewaju Ganiu",
+          "description": "Last week, I decided to install Laravel Valet on my Mac. But after the installation, the performance of the microservice architecture application I had it on was quite slow.  I wondered if it was an M1 issue or because I had yet to shut the machine down. I shut",
+          "link": "https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/",
+          "publishedOn": "2023-01-02T23:12:30.000Z",
+          "wordCount": 1638,
+          "title": "Laravel Valet Performance – How to Prevent 504 Errors and Speed Up Valet",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-jonathan-petersson-399636.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-react-in-2023/",
+          "author": "Reed Barger",
+          "description": "As the most popular JavaScript library for building frontend applications, there has never been a better year to learn React than 2023.  In this guide, I'm going to show you the most valuable resources and tips that I believe will help you learn React faster. You'll also save a",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-react-in-2023/",
+          "publishedOn": "2023-01-02T22:59:24.000Z",
+          "wordCount": 2431,
+          "title": "How to Learn React in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/learn-react-2023.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/",
+          "author": "Jennifer Bland",
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Figma logo:  * flex-wrap  * multiple classes  * border-radius What We Will Be Creating We will create",
+          "link": "https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/",
+          "publishedOn": "2023-01-02T22:39:24.000Z",
+          "wordCount": 1328,
+          "title": "Learn CSS by Building the Figma Logo in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Learn-CSS-Create-The-Figma-Logo-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-online/",
+          "author": "Manish Shivanandhan",
+          "description": "In today’s growing cyber threat landscape, it is important to learn how to protect yourself. In this article, I'll share my five favorite tools you can use to protect your privacy online. Why Online Privacy is Important Have you ever wondered how valuable your data is? Every app, website, and",
+          "link": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-online/",
+          "publishedOn": "2023-01-02T22:33:08.000Z",
+          "wordCount": 2042,
+          "title": "How to Protect Your Privacy Online – Five Useful Tools",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/security-tools.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-custom-network-to-metamask/",
+          "author": "Joshua Omobola",
+          "description": "As a developer, you can enhance the user experience of your decentralized applications (DApps) by allowing users to easily add your network to their Metamask wallet with just one click.  This simplifies the process of onboarding users to your application, since they don't have to manually add the network",
+          "link": "https://www.freecodecamp.org/news/how-to-add-custom-network-to-metamask/",
+          "publishedOn": "2023-01-02T22:17:22.000Z",
+          "wordCount": 1188,
+          "title": "How to Add a Custom Network to Metamask with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Frame-1--3--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/",
+          "author": "Arunachalam B",
+          "description": "Just as with other operating systems, multiple users can create user accounts and share the same machine running Linux OS.  But whenever different users share a system, problems of privacy can easily arise. The first user may not wish the next user to view, edit, or delete their files,",
+          "link": "https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/",
+          "publishedOn": "2023-01-02T22:17:02.000Z",
+          "wordCount": 2637,
+          "title": "File Permissions in Linux – How to Use the chmod Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Banner---File-permission-blog-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
           "author": "Lynn Zheng",
           "description": "Hello from the Learn to Code RPG dev team! We are Lynn, KayLa, and Nielda. And we've been hard at work building out new adventures for our characters. I'm excited to announce the launch of Learn to Code RPG v1.5, a year after the launch of Learn to Code RPG",
@@ -971,6 +1031,206 @@
       "feedUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "articles": [
+        {
+          "id": "https://mainichi.jp/articles/20221231/k00/00m/020/082000c",
+          "author": null,
+          "description": "共同通信社は2日、主要企業117社へのアンケートをまとめた。2023年の国内景気を拡大基調と予想した企業は56％にとどまり、1年前の84％から大幅に減少。過去10年の調査で2番目の低水準だった。ロシアによるウクライナ侵攻や為替相場の円安進行が資源や原材料の価格高騰を招き、米国や中国の景気減速懸念も",
+          "link": "https://mainichi.jp/articles/20221231/k00/00m/020/082000c",
+          "publishedOn": "2023-01-03T01:36:19.000Z",
+          "wordCount": 1070,
+          "title": "2023年国内景気、「拡大」予想56％に大幅減　主要117社調査",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m020041000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/040000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロに21チーム（オープン参加の関東学生連合を含む）が参加して行われ、7区は往路優勝の駒沢大が首位をキープし、たすきをつないだ。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/040000c",
+          "publishedOn": "2023-01-03T01:34:09.000Z",
+          "wordCount": 991,
+          "title": "箱根駅伝7区　駒沢大が依然トップ、中央大振り切る　国学院大3位に",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050018000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/040/013000c",
+          "author": null,
+          "description": "千葉県は3日、旭市の養鶏場で発生した高病原性鳥インフルエンザの疑い例について、遺伝子検査の結果、高病原性の感染が確認されたと発表した。飼育する採卵鶏約1万羽を殺処分する。県によると、今シーズン、国内の養鶏場などでの鳥インフルエンザ発生事例数は、過去最多を更新した。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/040/013000c",
+          "publishedOn": "2023-01-03T01:27:15.000Z",
+          "wordCount": 989,
+          "title": "鳥インフル、国内発生数最多に　千葉の養鶏場で感染確認、1万羽処分",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m040039000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/033000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日に復路があり、6区（20・8キロ）は駒沢大の伊藤蒼唯選手（1年）が区間賞を獲得した。レース後の主な談話は次の通り。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/033000c",
+          "publishedOn": "2023-01-03T01:07:33.000Z",
+          "wordCount": 1022,
+          "title": "6区区間賞の駒沢大・伊藤蒼唯「自分の走り、良かった」　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050018000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/030000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、国学院大は往路4位からスタートした。 　「なんとかして邪魔したい」",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/030000c",
+          "publishedOn": "2023-01-03T00:47:37.000Z",
+          "wordCount": 1110,
+          "title": "「男だろ！」　国学院大・前田監督が乗り越えたい恩師　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050021000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/030/029000c",
+          "author": null,
+          "description": "ロシア国防省は2日、ウクライナ東部ドネツク州に駐留していたロシア軍部隊が砲撃され、兵士63人が死亡したと発表した。ウクライナ侵攻を巡り、ロシアが自軍の大規模な犠牲者を明かすのは異例といえる。一方、ロシア国内では軍の対応への批判も出ており、停滞する軍事作戦への不満が露呈している。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/030/029000c",
+          "publishedOn": "2023-01-03T00:38:17.000Z",
+          "wordCount": 1149,
+          "title": "駐屯地に砲撃、ロシア兵63人死亡　異例の発表　ウクライナ東部",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m030027000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230101/k00/00m/050/079000c",
+          "author": null,
+          "description": "新しい年を迎えました。フィギュアスケート女子で2010年カナダのバンクーバー冬季オリンピック（五輪）銀メダリストの浅田真央さん（32）は、現在、アイスショー「BEYOND（ビヨンド）」で全国をツアー中です。毎日小学生新聞のインタビューに答えてくれた浅田さん。ウサギが主役の今年は、「（BEYONDだ",
+          "link": "https://mainichi.jp/articles/20230101/k00/00m/050/079000c",
+          "publishedOn": "2023-01-03T00:25:05.000Z",
+          "wordCount": 1158,
+          "title": "「ビヨーン」と笑顔で乗り越える　浅田真央さんが語る2023年",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/01/20230101k0000m040056000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/028000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロに21チーム（オープン参加の関東学生連合を含む）が参加して行われ、6区は往路優勝の駒沢大がトップでたすきをつないだ。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/028000c",
+          "publishedOn": "2023-01-03T00:17:29.000Z",
+          "wordCount": 989,
+          "title": "6区は駒沢大がトップ通過　青学大は7位に失速　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050018000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/030/023000c",
+          "author": null,
+          "description": "中国の文化観光省は2日夜、同日終わった年末年始の連休のレジャー客が全国で延べ5271万人だったと発表した。前年同期比0・44％増と、ほぼ横ばいだった。新型コロナウイルスの流行は収まっていないものの、北京など一部で人出が戻り始めた。ただコロナ流行前の2019年と比べると4割程度にとどまっている。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/030/023000c",
+          "publishedOn": "2023-01-03T00:13:09.000Z",
+          "wordCount": 1150,
+          "title": "中国、人出そろり回復　年末年始のレジャー客、コロナ前には及ばず",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m030025000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/020000c",
+          "author": null,
+          "description": "3日の第99回東京箱根間往復大学駅伝競走（箱根駅伝）復路。37歳の上野裕一郎監督が率いる立教大は、1968年以来55年ぶりに箱根路に戻ってきたが、2日の往路は5時間38分51秒で最下位の20位。復路は、繰り上げ一斉スタートした。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/020000c",
+          "publishedOn": "2023-01-02T23:52:07.000Z",
+          "wordCount": 1054,
+          "title": "55年ぶりの立教大、復路最下位スタートから巻き返しへ　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050019000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/050/096000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、2日の往路を19年ぶりに制した駒沢大が午前8時にスタートした。2位の中央大が30秒遅れでスタート。前回総合優勝の青山学院大は2分3秒遅れの3位から逆転を狙う。",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/050/096000c",
+          "publishedOn": "2023-01-02T23:51:40.000Z",
+          "wordCount": 988,
+          "title": "箱根駅伝　復路は駒沢大からスタート　中央大など逆転狙う",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050018000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/009000c",
+          "author": null,
+          "description": "第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、青山学院大が往路1位の駒沢大から2分3秒遅れでスタートした。当日にオーダー変更があり、岸本大紀選手（4年）を9区（23・1キロ）に起用。逆転での連覇を狙う。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/009000c",
+          "publishedOn": "2023-01-02T23:47:41.000Z",
+          "wordCount": 1019,
+          "title": "逆転Vへ「可能性ゼロじゃない」青学大が復路スタート　箱根駅伝",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050017000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/014000c",
+          "author": null,
+          "description": "2日に始まった東京箱根間往復大学駅伝競走（箱根駅伝）では、多くの選手たちが米ナイキ社製の厚底シューズを使用している。近年おなじみの光景だが、短距離で名をはせるブランドも本格参戦し、競争に拍車がかかっている。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/014000c",
+          "publishedOn": "2023-01-02T23:33:16.000Z",
+          "wordCount": 1062,
+          "title": "ナイキに対抗する厚底シューズ　箱根駅伝を意識したデザインも",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050015000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221230/k00/00m/040/148000c",
+          "author": null,
+          "description": "しゃれた洋館が連なる神戸市中央区北野町の異人館街の中でも、ひときわ目立つのが「風見鶏の館（旧トーマス住宅）」だ。館長の明星守さん（64）の案内で建築主のドイツ人貿易商、ゴットフリート・トーマス氏（1871～1950年）一家の数奇な運命をたどりながら、当時に思いを向けた。",
+          "link": "https://mainichi.jp/articles/20221230/k00/00m/040/148000c",
+          "publishedOn": "2023-01-02T23:30:09.000Z",
+          "wordCount": 1076,
+          "title": "「風見鶏の館」一家の数奇な運命…屋根裏部屋の秘密　神戸異人館",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/30/20221230mpj00m040026000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221228/k00/00m/020/173000c",
+          "author": null,
+          "description": "「失われた30年」と言われるほど低成長が続いてきた日本。2022年もロシアによるウクライナ侵攻を背景にした資源高や円安のあおりで低迷した。新たな年、日本経済の再生に何が必要か。若者の視点で考えてみた＝上はこちら、中はこちらです。",
+          "link": "https://mainichi.jp/articles/20221228/k00/00m/020/173000c",
+          "publishedOn": "2023-01-02T23:30:08.000Z",
+          "wordCount": 1076,
+          "title": "リスク恐れるな　室橋祐貴さんが思う変われない日本への対策／下",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/28/20221228k0000m020108000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/012000c",
+          "author": null,
+          "description": "女子テニスの往年の名選手、マルチナ・ナブラチロワさんが2日、喉と胸部のがんと診断されたと公表した。女子テニス協会（WTA）のサイトで声明を発表し「このダブルパンチは深刻だが、治療可能だ。好意的な結果を期待している」とコメントした。がんは早期のステージ1で、近く米ニューヨークで治療を開始するという。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/012000c",
+          "publishedOn": "2023-01-02T23:20:24.000Z",
+          "wordCount": 982,
+          "title": "女子テニスのナブラチロワさん、喉と胸部のがん公表",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050011000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221229/k00/00m/200/115000c",
+          "author": null,
+          "description": "今、最も旬な俳優の一人と言っていいだろう。西島秀俊さん（51）。5日からテレビ朝日系でスタートする連続ドラマ「警視庁アウトサイダー」（木曜午後9時）で主演を務める。",
+          "link": "https://mainichi.jp/articles/20221229/k00/00m/200/115000c",
+          "publishedOn": "2023-01-02T23:16:37.000Z",
+          "wordCount": 1078,
+          "title": "最も旬な俳優、西島秀俊さん　刑事役にハマるワケ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/29/20221229k0000m200126000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/050/108000c",
+          "author": null,
+          "description": "第102回全国高校ラグビー大会は3日、準々決勝4試合が東大阪市花園ラグビー場で行われる。 　春の選抜大会、夏の7人制大会を制し「高校3冠」を狙うAシードの報徳学園（兵庫）は2連覇を狙う東海大大阪仰星（大阪第3）と対戦する。前回大会の3回戦では東海大大阪仰星が快勝。前回王者の組織防御を、報徳学園自慢",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/050/108000c",
+          "publishedOn": "2023-01-02T22:30:12.000Z",
+          "wordCount": 1165,
+          "title": "全国高校ラグビー注目の準々決勝　「2冠」報徳と王者・仰星が激突",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/01/20230101k0000m050130000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230102/k00/00m/040/129000c",
+          "author": null,
+          "description": "世間に広く知られた出来事、制度、慣習。その「裏面」には、私たちからは見えにくい事実や疑問、物語が潜んでいる。記者が足を運び、関係者の証言や記録に迫った。＝次回は4日午前7時に公開予定",
+          "link": "https://mainichi.jp/articles/20230102/k00/00m/040/129000c",
+          "publishedOn": "2023-01-02T22:00:15.000Z",
+          "wordCount": 1092,
+          "title": "中傷に手染めた「選挙広報のプロ」　炎上対策指南役が加害者に",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/02/20230102k0000m040131000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221223/k00/00m/040/121000c",
+          "author": null,
+          "description": "京都大学に留学中、ドナルド・キーンさんは時間を見つけては、他の町へも足を延ばした。1953年10月には、伊勢神宮の式年遷宮の式典に参列するため三重県伊勢市へ向かった。松尾芭蕉が「おくのほそ道」の旅を大垣（岐阜県）で終え、1689（元禄2）年の式年遷宮に向かった、その足跡を追いたかったのだ。通常は2",
+          "link": "https://mainichi.jp/articles/20221223/k00/00m/040/121000c",
+          "publishedOn": "2023-01-02T22:00:14.000Z",
+          "wordCount": 1597,
+          "title": "ドナルド・キーンが描いた日本－－生誕100年に:／22　4度の式年遷宮で、社会の変化をウオッチ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/23/20221223k0000m040131000p/0c10.jpg?1"
+        },
         {
           "id": "https://mainichi.jp/articles/20230103/ddm/002/030/091000c",
           "author": null,
@@ -1676,6 +1936,26 @@
       "siteUrl": "https://www.aviationwire.jp",
       "articles": [
         {
+          "id": "https://www.aviationwire.jp/?p=267990",
+          "author": "Tadayuki YOSHIKAWA",
+          "description": "防衛省は1月2日、中国軍の無人偵察機WZ-7を沖縄で確認したと発表した。領空侵犯に対する措置でWZ-7を確認したのは1日が初めてで、年明けから2日連続で航空自衛隊の戦闘機を緊急発進させた。 　防衛省によると、飛来したW […]",
+          "link": "https://www.aviationwire.jp/archives/267990",
+          "publishedOn": "2023-01-03T00:59:51.000Z",
+          "wordCount": 367,
+          "title": "中国の無人偵察機、沖縄に2日連続飛来　空自がスクランブル",
+          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2023/01/230102_mod_wz7_01-720.jpg"
+        },
+        {
+          "id": "https://www.aviationwire.jp/?p=267684",
+          "author": "Yusuke KOHASE",
+          "description": "英国のデータ分析会社「シリウム（Cirium）」が公表した、2022年11月の空港別の定時出発率によると、発着規模が最も大きい「グローバル」部門でオスロ空港（ノルウェー）が首位となった。2月から9カ月連続トップだった羽 […]",
+          "link": "https://www.aviationwire.jp/archives/267684",
+          "publishedOn": "2023-01-02T21:00:10.000Z",
+          "wordCount": 387,
+          "title": "11月の空港定時出発率、羽田10カ月ぶり首位陥落＝英Cirium調査",
+          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2022/06/220624_1267_rjtt_hatobus-720.jpg"
+        },
+        {
           "id": "https://www.aviationwire.jp/?p=267981",
           "author": "Tadayuki YOSHIKAWA",
           "description": "防衛省は1月1日、中国軍の無人偵察機WZ-7を沖縄で確認したと発表した。領空侵犯に対する措置でWZ-7を確認したのは今回が初めてで、航空自衛隊の戦闘機を緊急発進させた。 　防衛省によると、飛来したWZ-7は1機。東シナ […]",
@@ -1782,6 +2062,46 @@
       "feedUrl": "http://av.watch.impress.co.jp/sublink/av.rdf",
       "siteUrl": "https://av.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1467828.html",
+          "author": null,
+          "description": "Amazonは1月7日23時59分まで「Amazon 初売り」を実施中。テレビもセール対象になっており、3日の9時30分に編集部が確認したところ、ソニーの55型4K液晶「ブラビア KJ-55X80J」が16% OFFの108,980円、4K液晶レグザ 43型「43M550L」が20% OFの80,000円、LG 55型4K液晶「55UQ8000PJC」が6% OFFの79,800円、ハイセンス40型液晶「40A35G」が16% OFFの30,800円で販売されている。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1467828.html",
+          "publishedOn": "2023-01-03T00:51:40.000Z",
+          "wordCount": 4285,
+          "title": "Amazon初売りでソニー55型4Kテレビが16% OFF。REGZAやハイセンスも",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1467/828/ama03.jpg"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1467827.html",
+          "author": null,
+          "description": "Amazonは1月7日23時59分まで「Amazon 初売り」を実施中。“見える福袋”を用意しており、LogicoolやRazer、SteelSeriesがゲーミングキーボードやマウス、ヘッドセットをセットにした福袋を最大27% OFFで用意。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1467827.html",
+          "publishedOn": "2023-01-03T00:38:41.000Z",
+          "wordCount": 4280,
+          "title": "“Amazon福袋”。LogicoolやRazerがゲーミング福袋。4K UHD福袋も",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1467/827/ama02.jpg"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1467794.html",
+          "author": null,
+          "description": "シーイヤーは、CES2023に向けて、新たなBluetoothスピーカーのプロトタイプを作成した。Qualcomm S5 Sound Platformに刷新した3D音場制御技術Cear Fieldを実装しており、Snapdragon Sound with Bluetooth Low Energy Audio Gaming Modeを採用。2023年度中の市場導入を目指すという",
+          "link": "https://av.watch.impress.co.jp/docs/news/1467794.html",
+          "publishedOn": "2023-01-03T00:27:04.000Z",
+          "wordCount": 4258,
+          "title": "シーイヤー、「圧倒的な3D音場体験」の新Bluetoothスピーカー試作",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1467/794/main.jpg"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1467825.html",
+          "author": null,
+          "description": "Amazonは、1月3日から「Amazon 初売り」をスタートした。期間は1月7日23時59分までの5日間。Amazonデバイスもセールになっており、「Fire TV Stick 4K Max」が通常価格6,980円から29% OFFの4,980円。「Fire TV Stick」が20% OFFの3,980円。「New Fire TV Cube」が10% OFFの17,980円で販売中。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1467825.html",
+          "publishedOn": "2023-01-03T00:25:53.000Z",
+          "wordCount": 4299,
+          "title": "「Amazon初売り」開幕、1月7日まで。Fire TV Stickが3,980円",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1467/825/ama01.jpg"
+        },
         {
           "id": "https://av.watch.impress.co.jp/docs/topic/nenmatu/1467574.html",
           "author": null,
@@ -2259,6 +2579,36 @@
       "siteUrl": "https://f1-gate.com/",
       "articles": [
         {
+          "id": "https://f1-gate.com/fia/f1_72739.html",
+          "author": null,
+          "description": "FIA（国際自動車連盟）は、新しいF1チームがチャンピオンシップへの参入に関心を持っていることを登録できるようにすることを計画している。これは、F1グリッドが10チームを超えて成長する可能性があることを最も明確に示している。\r\n\r\nFIA会長のモハメド・ビン・ス... 続きを読む",
+          "link": "https://f1-gate.com/fia/f1_72739.html",
+          "publishedOn": "2023-01-03T01:13:00.000Z",
+          "wordCount": 677,
+          "title": "FIA、新規参入F1チームのための入札希望者公募を計画",
+          "imageUrl": "https://f1-gate.com/media/img2023/20230103-f1.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/carlossainzjr/f1_72736.html",
+          "author": null,
+          "description": "カルロス・サインツは、シャルル・ルクレールとフェラーリF1の新しいチーム代表であるフレッド・ヴァスールとの長年にわたる友情が彼を不利な立場に置くことはないとし、フェラーリF1にとって「有益」であることが証明されると考えている。\r\n\r\n11月末に辞表を提出し... 続きを読む",
+          "link": "https://f1-gate.com/carlossainzjr/f1_72736.html",
+          "publishedOn": "2023-01-03T00:46:07.000Z",
+          "wordCount": 682,
+          "title": "カルロス・サインツ 「ルクレールとヴァスールの関係はフェラーリF1に有益」",
+          "imageUrl": "https://f1-gate.com/media/img2023/20230102-sainz-f1-ferrari.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/audi/f1_72735.html",
+          "author": null,
+          "description": "アウディは、F1参戦の準備と2026年のF1パワーユニットの進歩を支援するために2023年後半に開発ドライバーを採用すると述べた。\r\n\r\nアウディは、3年後の2026年にF1に参入する。インゴルシュタットで独自にF1エンジンを開発する一方で、シャシー開発においてはザウバー... 続きを読む",
+          "link": "https://f1-gate.com/audi/f1_72735.html",
+          "publishedOn": "2023-01-02T23:08:55.000Z",
+          "wordCount": 673,
+          "title": "アウディF1、2023年後半に開発ドライバーを採用",
+          "imageUrl": "https://f1-gate.com/media/img2022/20230102-audif1.jpg"
+        },
+        {
           "id": "https://f1-gate.com/china_gp/f1_72734.html",
           "author": null,
           "description": "F1中国GPの主催者は、新型コロナウイルスの“ゼロコロナ”政策が緩和されたことを受け、2023年のF1カレンダーへの復帰を目指してF1との議論を開始したことを明らかにした。\r\n\r\nF1は、新型コロナウイルスのパンデミックとその後の渡航制限により、過去3シーズン、中国で... 続きを読む",
@@ -2466,6 +2816,16 @@
       "siteUrl": "https://fabcross.jp",
       "articles": [
         {
+          "id": "https://fabcross.jp/news/2023/20230103_agnibaan.html",
+          "author": null,
+          "description": "インドの宇宙開発スタートアップAgnikul Cosmosは2022年11月8日、一体型の3Dプリント製ロケットエンジンのホットテストに成功したと発表した。",
+          "link": "https://fabcross.jp/news/2023/20230103_agnibaan.html",
+          "publishedOn": "2023-01-02T22:00:00.000Z",
+          "wordCount": 1348,
+          "title": "インドの民間宇宙ロケット、3Dプリント製一体型エンジンのホットテストに成功",
+          "imageUrl": "https://fabcross.jp/news/2023/dmln53000012xkji-img/dmln53000012xkkb.jpg"
+        },
+        {
           "id": "https://fabcross.jp/news/2023/20230102_self-healing-materials.html",
           "author": null,
           "description": "構造物の使用を中止せずにその場で自己修復できるうえに、100回以上、自己修復可能という新しい自己修復複合材料が開発された。",
@@ -2578,6 +2938,16 @@
       "feedUrl": "http://gigazine.net/index.php?/news/rss_2.0",
       "siteUrl": "https://gigazine.net/",
       "articles": [
+        {
+          "id": "https://gigazine.net/news/20230103-ai-unmask-anonymous-chess-players/",
+          "author": null,
+          "description": "複雑な領域で人間の意思決定能力を超えるAIの出現により、将棋や囲碁、チェス、ストラテジーゲームなどでAIが人間を凌駕するようになりました。そんな中、チェスの駒運びからプレイヤーが誰なのかを高い精度で特定できるAIが発表され、オンラインチェスにおけるプライバシーが脅かされているのではないかと危惧されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230103-ai-unmask-anonymous-chess-players/",
+          "publishedOn": "2023-01-03T00:00:00.000Z",
+          "wordCount": 2436,
+          "title": "AIが匿名のチェスプレーヤーの正体を特定してプライバシーリスクをもたらす可能性",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/03/ai-unmask-anonymous-chess-players/00_m.jpg"
+        },
         {
           "id": "https://gigazine.net/news/20230102-creating-aerial-imagery-bike-helmet-camera/",
           "author": null,
@@ -3263,6 +3633,166 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://grantisom.com/2023/01/02/mustread-books-for.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://grantisom.com/2023/01/02/mustread-books-for.html",
+          "publishedOn": "2023-01-02T23:48:37.000Z",
+          "wordCount": 765,
+          "title": "Books for Software Engineers in 2023",
+          "imageUrl": "https://grantisom.com/uploads/2023/ec18f32904.jpg"
+        },
+        {
+          "id": "https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/",
+          "publishedOn": "2023-01-02T23:25:30.000Z",
+          "wordCount": 3061,
+          "title": "My YouTube earnings",
+          "imageUrl": "https://brickexperimentchannel.files.wordpress.com/2022/11/revenue_analysis_ctr_vs_views.png"
+        },
+        {
+          "id": "https://gist.github.com/Spuffynism/446c7c2d498477491d8137e8f234d4a9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gist.github.com/Spuffynism/446c7c2d498477491d8137e8f234d4a9",
+          "publishedOn": "2023-01-02T22:16:33.000Z",
+          "wordCount": 2028,
+          "title": "Solving a Dungeons and Dragons riddle using Prolog",
+          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
+        },
+        {
+          "id": "https://ironicsans.substack.com/p/the-strangest-computer-manual-ever",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ironicsans.substack.com/p/the-strangest-computer-manual-ever",
+          "publishedOn": "2023-01-02T21:52:13.000Z",
+          "wordCount": 4499,
+          "title": "The strangest computer manual ever written",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F391e6f32-9dd9-4126-a0f5-03d7c7dd6970_1476x982.png"
+        },
+        {
+          "id": "https://www.impact-solutions.co.uk/tallow-in-plastics/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.impact-solutions.co.uk/tallow-in-plastics/",
+          "publishedOn": "2023-01-02T21:36:08.000Z",
+          "wordCount": 22900,
+          "title": "Tallow in plastics – why? (2016)",
+          "imageUrl": "https://www.impact-solutions.co.uk/wp-content/uploads/2016/12/tallow-in-plastics-1.jpg"
+        },
+        {
+          "id": "https://overexact.com/rust-for-professionals/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://overexact.com/rust-for-professionals/",
+          "publishedOn": "2023-01-02T20:59:31.000Z",
+          "wordCount": 4091,
+          "title": "Rust for Professionals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hypchain.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hypchain.com/",
+          "publishedOn": "2023-01-02T20:55:51.000Z",
+          "wordCount": 588,
+          "title": "HypChain, the first completely hypothetical blockchain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34223288",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34223288",
+          "publishedOn": "2023-01-02T20:35:18.000Z",
+          "wordCount": 8962,
+          "title": "Ask HN: Pros and cons of thinking in public vs. in private?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.exclassics.com/espoke/espkpdf.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.exclassics.com/espoke/espkpdf.pdf",
+          "publishedOn": "2023-01-02T18:44:59.000Z",
+          "wordCount": 5666,
+          "title": "English as She Is Spoke (1884) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search",
+          "publishedOn": "2023-01-02T18:43:19.000Z",
+          "wordCount": 2662,
+          "title": "Private and Public Mastodon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2203.10702",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2203.10702",
+          "publishedOn": "2023-01-02T18:37:12.000Z",
+          "wordCount": 642,
+          "title": "Higher-order organization of multivariate time series",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gbatemp.net/download/gba-and-ds-rom-hacking-guide.33419/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gbatemp.net/download/gba-and-ds-rom-hacking-guide.33419/",
+          "publishedOn": "2023-01-02T18:24:14.000Z",
+          "wordCount": 3261,
+          "title": "Nintendo GBA and DS ROM hacking guide (2016)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/",
+          "publishedOn": "2023-01-02T18:16:59.000Z",
+          "wordCount": 1719,
+          "title": "Musicians wage war against evil robots (2012)",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/LdwRMBTavVzyy2Excwbw5n9r2Y8=/fit-in/1600x0/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2F201202100131061930-Nov-3-Syracuse-Herald-Syracuse-NY-470x251.jpg"
+        },
+        {
+          "id": "https://www.righto.com/2023/01/inside-8086-processors-instruction.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.righto.com/2023/01/inside-8086-processors-instruction.html",
+          "publishedOn": "2023-01-02T18:11:53.000Z",
+          "wordCount": 8677,
+          "title": "Inside the 8086 processor's instruction prefetch circuitry",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1EK8XVX21S4dgm9jRSjdccXpkWQjI-VCVIRS8ndbBRrxyghuXUvFGgvRTa_ICKBAhhEHoJzbHEQiUlXMCItZ5b6vb--ZYPivPhex0RowwgDw8KVx_ZAhTEFT94rjjEw6duIwwvIsI=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://secretartofscience.com/performance",
+          "author": null,
+          "description": "Comments",
+          "link": "https://secretartofscience.com/performance",
+          "publishedOn": "2023-01-02T17:46:11.000Z",
+          "wordCount": 3475,
+          "title": "What we talk about when we talk about performance (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34220710",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34220710",
+          "publishedOn": "2023-01-02T17:28:51.000Z",
+          "wordCount": 13438,
+          "title": "Ask HN: What are you working on this year?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.economist.com/christmas-specials/2022/12/20/should-we-care-about-people-who-need-never-exist",
           "author": null,
           "description": "Comments",
@@ -3271,6 +3801,16 @@
           "wordCount": 21070,
           "title": "Should we care about people who need never exist?",
           "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221224_XMD011.jpg"
+        },
+        {
+          "id": "https://ottertune.com/blog/2022-databases-retrospective/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ottertune.com/blog/2022-databases-retrospective/",
+          "publishedOn": "2023-01-02T17:17:37.000Z",
+          "wordCount": 3352,
+          "title": "Databases in 2022: A Year in Review",
+          "imageUrl": "https://ottertune.com/wp-content/uploads/2023/01/Databases-in-Review-2022-social-image.jpg"
         },
         {
           "id": "https://100r.co/site/weathering_software_winter.html",
@@ -3313,6 +3853,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=34219332",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34219332",
+          "publishedOn": "2023-01-02T16:01:14.000Z",
+          "wordCount": 24597,
+          "title": "Ask HN: Who wants to be hired? (January 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pixletters.com/",
           "author": null,
           "description": "Comments",
@@ -3340,6 +3890,26 @@
           "publishedOn": "2023-01-02T15:18:03.000Z",
           "wordCount": 2833,
           "title": "An Ontology of Hope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://haystack.it/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://haystack.it/",
+          "publishedOn": "2023-01-02T15:14:13.000Z",
+          "wordCount": 143,
+          "title": "Show HN: I built Haystack – your own google for scattered workplace knowledge",
+          "imageUrl": "https://lh3.googleusercontent.com/mxua9jWPye0iJb--i0Ataut1XcGH3Tv1QCSqYO7nbbsvKEBS7-g6yqaGneJHixHAh_SI0l-1EPTFzeICV3tjagWHaZJEV08_9GHuxnvnHhGHpW79MYpG27uRKEPrVtrSgye3vYZ2DuLABMlqMRKGmugL0JtYZssJ_jch2a9G-7g4gwdKhGo-mKPJhHrAMYjjjL2YKTe1RK0c2ufgiS2o4a2Ei9JkNVAPq_MiXn_OhdMvaSNNbtTSr0JLCo1Ave1H1jayO3dILI_CH7nE9yXgCdGfvGBYj0OInekDKPAa9U_gxshtpusTCowgiasmn497IuzzgwHOwreeMSmGXfDxb4bX0-zwo6uzvNK7GQ6Q6PF8AaBAZWJVlJ35c1SLyNZs9lHTwOWjCCwRW1437c-sbQkoUKC4FTkb-451rVNlr9LFOl3-Wpat2VHfOeeMjW4QjTxEC7GOgQATwI5br6RObRe5jmgpghnm32DY5Rmjk2b0yZ6S7H-pD0x98POxwAVLyYBdIrQ0nMzzw0bmCphjlOfJq1MN1MpCK5D4CwHvdTxbznqFDZhCVUEtWMV2ovfiZqsKqrsSshvV2deFquWvyopmdbNNbkrLgitPz-5abL2SHUeVIsm84Qn9d37iJExDZ9-zP7ytvM3MizlDLnI34qv8rDCRQ3Xi0JWu9xeRsS4AGfYgqJbPJaCgwTcMji48NWhd7iecqc_aU1cKHeCEk1NCNuu4qLE059vQ91qdRWuU0QHzIUgXl9BpoLfgi12MhVFOgclgi2HliRJsA7vEwa0e8f5-Cx3qg1zs3tsalZxRzDos8zTQ2pqGVWjJyW5UPlPyC6qbQ2yG7-qWmTMk49iv_lN1ZnfDKdQzhH0y-KYo3vMBNKagCetvftuvWSkio9pbakBBTprhhtE_XnQXksHupyIadWPwbXkjYg=w1493-h784-no?authuser=0"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QrkiJZKJfpY",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=QrkiJZKJfpY",
+          "publishedOn": "2023-01-02T15:08:28.000Z",
+          "wordCount": null,
+          "title": "Mechanical circuits: electronics without electricity [video]",
           "imageUrl": null
         },
         {
@@ -3433,6 +4003,16 @@
           "imageUrl": "https://www.bu.edu/files/2022/12/social-22-1696-AFRICAN-006.jpg"
         },
         {
+          "id": "https://twitter.com/badlogicgames/status/1609652290113404928",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/badlogicgames/status/1609652290113404928",
+          "publishedOn": "2023-01-02T11:41:52.000Z",
+          "wordCount": 470,
+          "title": "Writing DOS games and demos with modern tools",
+          "imageUrl": null
+        },
+        {
           "id": "https://jesseduffield.com/Type-Keys/",
           "author": null,
           "description": "Comments",
@@ -3453,6 +4033,16 @@
           "imageUrl": "https://ntdotdev.files.wordpress.com/2023/01/screenshot-2023-01-01-214501.png"
         },
         {
+          "id": "https://www.youtube.com/watch?v=VhYEOG9LOIk",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=VhYEOG9LOIk",
+          "publishedOn": "2023-01-02T10:33:27.000Z",
+          "wordCount": null,
+          "title": "Trash Train: I put my trash cans on rails so they move automatically [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://accu.org/journals/overload/30/172/teodorescu/",
           "author": null,
           "description": "Comments",
@@ -3461,6 +4051,16 @@
           "wordCount": null,
           "title": "The Year of C++ Successor Languages",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.voanews.com/a/canada-bans-most-foreigners-from-buying-homes/6899982.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.voanews.com/a/canada-bans-most-foreigners-from-buying-homes/6899982.html",
+          "publishedOn": "2023-01-02T09:42:02.000Z",
+          "wordCount": 1172,
+          "title": "Canada bans most foreigners from buying homes",
+          "imageUrl": "https://gdb.voanews.com/022a0000-0aff-0242-1edc-08daec5290ad_cx0_cy4_cw0_w1200_r1.jpg"
         },
         {
           "id": "https://github.com/bigscience-workshop/petals",
@@ -3481,6 +4081,16 @@
           "wordCount": 888,
           "title": "Lessons Learned from the Book “Effective Remote Work”",
           "imageUrl": "https://phauer.com/blog/2022/02-book-remote-work-lessons-learned/photo-book-remote-work.jpg"
+        },
+        {
+          "id": "https://mafs.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mafs.dev/",
+          "publishedOn": "2023-01-02T06:09:23.000Z",
+          "wordCount": 503,
+          "title": "Show HN: Mafs – React components for interactive math",
+          "imageUrl": null
         },
         {
           "id": "https://onsclom.bearblog.dev/functional-programming-how-and-why/",
@@ -3523,6 +4133,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=34211796",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34211796",
+          "publishedOn": "2023-01-01T22:34:32.000Z",
+          "wordCount": 5376,
+          "title": "Ask HN: Why isn't JSON-RPC more widely adopted?",
+          "imageUrl": null
+        },
+        {
           "id": "https://seanblanchfield.com/2022/02/automating-heating-with-home-assistant",
           "author": null,
           "description": "Comments",
@@ -3531,6 +4151,16 @@
           "wordCount": 2256,
           "title": "Automating Heating with Home Assistant",
           "imageUrl": "https://seanblanchfield.com/images/2022/02/wall-panel-1.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/world-latin-america-63995293",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/world-latin-america-63995293",
+          "publishedOn": "2023-01-01T03:17:07.000Z",
+          "wordCount": 7297,
+          "title": "A secret message in a Colombian song gave hostages hope",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/16429/production/_128077119_c0d2452d-66f9-4ad2-a176-f5b5d77eee98.jpg"
         },
         {
           "id": "https://baida.dev/articles/https-explained-with-carrier-pigeons",
