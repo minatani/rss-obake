@@ -88,9 +88,9 @@ sources:
 #  - href: http://www.zakzak.co.jp/rss/shakai-n.xml
 #  - href: http://www.zakzak.co.jp/rss/economy/economy.xml
 #  - href: http://www.zakzak.co.jp/rss/entertainment/entertainment.xml
-#  - href: https://www.ictrehab.com/index.php/feed/
-#  - href: http://denki.iee.jp/?feed=rss2
-#  - href: https://event21.co.jp/ceo/?feed=rss2
+  - href: https://www.ictrehab.com/index.php/feed/
+  - href: http://denki.iee.jp/?feed=rss2
+  - href: https://event21.co.jp/ceo/?feed=rss2
 #  - href: http://chutoislam.blog.fc2.com/?xml
 #  - href: http://ikeuchisatoshi.com/feed
 #  - href: http://lineblog.me/ijuinhikaru/index.rdf
