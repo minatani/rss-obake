@@ -47,8 +47,8 @@ sources:
   - href: https://matrix-aida.com/feed/
   - href: https://methane.hatenablog.jp/rss
   - href: https://www.technologyreview.jp/feed/
-#  - href: http://blog.mobilehackerz.jp/feeds/posts/default
-#  - href: https://www.moguravr.com/feed/
+  - href: http://blog.mobilehackerz.jp/feeds/posts/default
+  - href: https://www.moguravr.com/feed/
 #  - href: https://ai-scholar.tech/feed/
 #  - href: http://blog.livedoor.jp/orcinus_/index.rdf
 #  - href: http://muse.mu/rss/gigs
