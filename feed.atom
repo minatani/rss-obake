@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T04:01:09.137Z</updated>
+    <updated>2023-01-03T04:11:05.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
@@ -1360,6 +1360,16 @@ F1は、新型コロナウイルスのパンデミックとその後の渡航制
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1/9成人の日「20歳」をテーマに特別番組を放送]]></title>
+        <id>https://www.j-wave.co.jp/holiday/20230109_20/</id>
+        <link href="https://www.j-wave.co.jp/holiday/20230109_20/"/>
+        <updated>2023-01-02T11:58:44.000Z</updated>
+        <summary type="html"><![CDATA[人生の大きな節目でもある「20歳」をテーマにお送りする2時間のプログラム]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前ローマ教皇の弔問始まる　信者ら別れ　サンピエトロ大聖堂で]]></title>
         <id>https://mainichi.jp/articles/20230102/k00/00m/030/153000c</id>
         <link href="https://mainichi.jp/articles/20230102/k00/00m/030/153000c"/>
@@ -2426,6 +2436,26 @@ F1は、新型コロナウイルスのパンデミックとその後の渡航制
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[J-meオリジナルポップアップスポンジを毎月50名様にプレゼント！]]></title>
+        <id>https://www.j-wave.co.jp/jlc/jme/entry/enquete/jmesponge2301</id>
+        <link href="https://www.j-wave.co.jp/jlc/jme/entry/enquete/jmesponge2301"/>
+        <updated>2023-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[J-meの形をした植物由来素材のキッチンスポンジをJ-me会員50名様にプレゼントします。]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キッザニア東京のチケット(3名様分)を毎月1組様にプレゼント]]></title>
+        <id>https://www.j-wave.co.jp/jlc/jme/entry/enquete/kidzania_2301</id>
+        <link href="https://www.j-wave.co.jp/jlc/jme/entry/enquete/kidzania_2301"/>
+        <updated>2023-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[J-WAVE J-me会員限定でキッザニア東京のチケット(3名様分)を毎月1組様にプレゼントいたします。]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[指をカメラに乗せるだけ——スマホで血中酸素飽和度を計測するAI技術を開発]]></title>
         <id>https://fabcross.jp/news/2023/20230101_blood-oxygen-levels.html</id>
         <link href="https://fabcross.jp/news/2023/20230101_blood-oxygen-levels.html"/>
@@ -2507,6 +2537,16 @@ F1は、新型コロナウイルスのパンデミックとその後の渡航制
         <summary type="html"><![CDATA[厚生労働省は12月31日、海外から国内の空港へ30日に到着した乗客のうち、検疫で新型コロナウイルス感染者92人が確認され、うち90人は中国に滞在歴があったと発表した。92人のうち78人が無症状で、残る14人はのどの痛み […]]]></summary>
         <author>
             <name>Tadayuki YOSHIKAWA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「JUN THE CULTURE」の特別番組、1/9放送]]></title>
+        <id>https://www.j-wave.co.jp/holiday/20230109_sp/</id>
+        <link href="https://www.j-wave.co.jp/holiday/20230109_sp/"/>
+        <updated>2022-12-31T11:58:35.000Z</updated>
+        <summary type="html"><![CDATA[クリエイター 藤原ヒロシが独自の視点でお届けする「JUN THE CULTURE」。そのDELUXE editionを2時間に渡ってオンエア。]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
         </author>
     </entry>
     <entry>
@@ -2954,6 +2994,16 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[春のキンプレライブ！最速特別価格で予約受付]]></title>
+        <id>https://www.j-wave.co.jp/topics/entry_kings23/</id>
+        <link href="https://www.j-wave.co.jp/topics/entry_kings23/"/>
+        <updated>2022-12-28T11:58:54.000Z</updated>
+        <summary type="html"><![CDATA[フォーリミ、ハルカミライ、Mr.ふぉるて出演！「J-WAVE THE KINGS PLACE LIVE 2023 SPRING」3/11（土）片柳アリーナで開催]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[サンステラ、Polymaker製軽量PLAフィラメント「PolyLite LW-PLA」発売]]></title>
         <id>https://fabcross.jp/news/2022/20221228_polymaker_polylite_lwpla.html</id>
         <link href="https://fabcross.jp/news/2022/20221228_polymaker_polylite_lwpla.html"/>
@@ -3333,6 +3383,16 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1月12日（木）エリック・クラプトン 先行予約実施]]></title>
+        <id>https://www.j-wave.co.jp/event/14684-202304.htm</id>
+        <link href="https://www.j-wave.co.jp/event/14684-202304.htm"/>
+        <updated>2022-12-27T18:18:28.000Z</updated>
+        <summary type="html"><![CDATA[J-WAVE がおすすめするライブ・イベント情報。 先行予約もあります。]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[月刊のん:宝物を手に入れた1年]]></title>
         <id>https://mainichi.jp/articles/20221228/ddm/012/070/099000c</id>
         <link href="https://mainichi.jp/articles/20221228/ddm/012/070/099000c"/>
@@ -3563,6 +3623,26 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[滝川クリステルと小野リサが音楽で世界各国を巡る旅にご案内]]></title>
+        <id>https://www.j-wave.co.jp/holiday/20230102_sp/</id>
+        <link href="https://www.j-wave.co.jp/holiday/20230102_sp/"/>
+        <updated>2022-12-26T17:12:34.000Z</updated>
+        <summary type="html"><![CDATA[2023年のブラジル音楽は？滝川クリステルが小野リサと一緒に音楽で世界各国を巡る旅に。放送35年目の新年を迎えてのスペシャル・プログラムを1/2に放送。]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1/9 ラジオで発信する1日限りのアートの大学、開校]]></title>
+        <id>https://www.j-wave.co.jp/holiday/20230109/</id>
+        <link href="https://www.j-wave.co.jp/holiday/20230109/"/>
+        <updated>2022-12-26T17:06:42.000Z</updated>
+        <summary type="html"><![CDATA[2023年1月9日9:00から放送。ラジオで発信する1日限りのアートの大学、開校！]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[芸術祭賞大賞に「忠臣蔵狂詩曲」　文化庁]]></title>
         <id>https://mainichi.jp/articles/20221227/ddm/012/200/056000c</id>
         <link href="https://mainichi.jp/articles/20221227/ddm/012/200/056000c"/>
@@ -3570,6 +3650,16 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         <summary type="html"><![CDATA[文化庁は26日、優れた芸術活動を表彰する2022年度芸術祭賞の受賞者を発表した。歌舞伎俳優の中村勘九郎さん主演の「忠臣蔵狂詩曲№5中村仲蔵出世階段」を制作したNHKがテレビ・ドラマ部門の大賞。「円熟した脚本と照明や美術などの職人技で、実在した江戸時代の歌舞伎役者を高い完成度で活写した」と評価した。]]></summary>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ギタージャンボリー！チケット販売中]]></title>
+        <id>https://www.j-wave.co.jp/special/guitarjamboree2023/?jw_ref=rgj23_jtop</id>
+        <link href="https://www.j-wave.co.jp/special/guitarjamboree2023/?jw_ref=rgj23_jtop"/>
+        <updated>2022-12-26T10:58:10.000Z</updated>
+        <summary type="html"><![CDATA[音楽花見「トーキョーギタージャンボリー」両国国技館で開催！土俵に見立てたセンターステージで極上のギター弾き語り。非日常空間をお楽しみください！]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
         </author>
     </entry>
     <entry>
@@ -3600,6 +3690,26 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         <summary type="html"><![CDATA[「エリクソンモビリティレポート」最新版によると、2028年末までに5G（第5世代移動通信）モバイル加入契約数は全世界で50億件を超え、固定無線アクセス（FWA）の接続数は3億件を超える見通しだ。]]></summary>
         <author>
             <name>EE Times Japan 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ジェファーソン・スターシップ」のビルボードライブ公演に各日J-me会員2組4名様をご招待！]]></title>
+        <id>https://www.j-wave.co.jp/jlc/jme/entry/enquete/jeffersonstarship</id>
+        <link href="https://www.j-wave.co.jp/jlc/jme/entry/enquete/jeffersonstarship"/>
+        <updated>2022-12-26T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカン・ロックが誇る伝説的バンド「ジェファーソン・スターシップ」のビルボードライブ公演に各日J-me会員2組4名様をご招待！]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ハンドメイドインジャパンフェス冬（2023）』にJ-me会員10組20名様をご招待！]]></title>
+        <id>https://www.j-wave.co.jp/jlc/jme/entry/enquete/handmadeinjapan2023_winter</id>
+        <link href="https://www.j-wave.co.jp/jlc/jme/entry/enquete/handmadeinjapan2023_winter"/>
+        <updated>2022-12-26T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本のものづくりの最先端が集結。日本最大級・クリエイターの祭典『ハンドメイドインジャパンフェス冬（2023）』]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
         </author>
     </entry>
     <entry>
@@ -3643,6 +3753,16 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[エシカルトラベルの魅力について語る公開収録を開催]]></title>
+        <id>https://www.j-wave.co.jp/topics/2301_ethical.htm</id>
+        <link href="https://www.j-wave.co.jp/topics/2301_ethical.htm"/>
+        <updated>2022-12-24T11:58:27.000Z</updated>
+        <summary type="html"><![CDATA[沖縄で体験してきたエシカルトラベルの魅力について語る公開収録の公開が決定！20名様をご招待]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deploying CSS Logical Properties On Web Apps]]></title>
         <id>https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/</id>
         <link href="https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/"/>
@@ -3650,6 +3770,16 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         <summary type="html"><![CDATA[You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nicolas Hoffmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12月30日 野村訓市が特別番組を放送]]></title>
+        <id>https://www.j-wave.co.jp/holiday/20221230_sp/</id>
+        <link href="https://www.j-wave.co.jp/holiday/20221230_sp/"/>
+        <updated>2022-12-23T11:58:49.000Z</updated>
+        <summary type="html"><![CDATA[野村訓市がゲストと共に今年一年を振り返り、出会った人々との物語、まもなくやってくる新しい一年のことを、音楽を肴に語ります。]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
         </author>
     </entry>
     <entry>
@@ -3853,6 +3983,16 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SUPER BEAVERとVaundyのライブ！チケット受付]]></title>
+        <id>https://www.j-wave.co.jp/topics/entry_kings22/</id>
+        <link href="https://www.j-wave.co.jp/topics/entry_kings22/"/>
+        <updated>2022-12-21T17:58:54.000Z</updated>
+        <summary type="html"><![CDATA[SUPER BEAVER、Vaundy,出演！「J-WAVE THE KINGS PLACE LIVE 2023 WINTER」1/26（木）KT Zepp Yokohamaで開催]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 Roundup of Web Research]]></title>
         <id>https://css-tricks.com/?p=375869</id>
         <link href="https://css-tricks.com/2022-roundup-of-web-research/"/>
@@ -3923,6 +4063,16 @@ Help choose the syntax for CSS Nesting originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Thomas Bohm)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1/2（月）2022年の年間チャート100曲を全てオンエア]]></title>
+        <id>https://www.j-wave.co.jp/holiday/20230102/</id>
+        <link href="https://www.j-wave.co.jp/holiday/20230102/"/>
+        <updated>2022-12-20T09:34:19.000Z</updated>
+        <summary type="html"><![CDATA[2022年と2023年をつなぐ“100曲”全部！　1月2日の朝から9時間かけて生放送カウントダウン！]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
         </author>
     </entry>
     <entry>
@@ -3999,6 +4149,16 @@ CSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[番組の感想をモニターとして報告！「中高生モニター」募集]]></title>
+        <id>https://www.j-wave.co.jp/topics/2212_bpomonitor.htm</id>
+        <link href="https://www.j-wave.co.jp/topics/2212_bpomonitor.htm"/>
+        <updated>2022-12-16T11:59:07.000Z</updated>
+        <summary type="html"><![CDATA[BPO・放送と青少年に関する委員会 2023年度「中高生モニター」募集]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Boosting Productivity For Designers With Efficient Tools]]></title>
         <id>https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/</id>
         <link href="https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/"/>
@@ -4048,6 +4208,16 @@ So, you’d like to animate the display property originally published on CSS-Tri
         <summary type="html"><![CDATA[Concerns over online privacy and security are nothing new. In this article, Suzanne Scacca explores how the right CSV importer can help businesses better prioritize user security.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Suzanne Scacca)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J-WAVE A SONG FOR LOVE CONCERT開催決定]]></title>
+        <id>https://www.j-wave.co.jp/topics/2301_sflc.htm</id>
+        <link href="https://www.j-wave.co.jp/topics/2301_sflc.htm"/>
+        <updated>2022-12-15T11:59:51.000Z</updated>
+        <summary type="html"><![CDATA[宇野実彩子（AAA）をフィーチャーしたライブ・イベントを2月5日（日）に開催！キャンペーンソングを初披露する一夜限りのコンサート。]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
         </author>
     </entry>
     <entry>
@@ -4257,6 +4427,26 @@ Saving Settings for a Custom WordPress Block in the Block Editor originally publ
         <summary type="html"><![CDATA[個人的にはなぜこのタイミングに達成基準そのものを削除する話が...と思っていると...]]></summary>
         <author>
             <name>ミツエーリンクス アクセシビリティBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CARNAVAL 2023　2/11（土祝）渋谷クラブクアトロで開催]]></title>
+        <id>https://www.j-wave.co.jp/topics/entry_saude2023/</id>
+        <link href="https://www.j-wave.co.jp/topics/entry_saude2023/"/>
+        <updated>2022-12-11T16:58:05.000Z</updated>
+        <summary type="html"><![CDATA[ブラジル・カーニバル・イベント「NX NIPPON EXPRESS SAÚDE! SAUDADE... CARNAVAL 2023」開催]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13年ぶりになるアバターとMEET AGAIN]]></title>
+        <id>https://www.j-wave.co.jp/topics/2212_avatar.htm</id>
+        <link href="https://www.j-wave.co.jp/topics/2212_avatar.htm"/>
+        <updated>2022-12-09T20:41:11.000Z</updated>
+        <summary type="html"><![CDATA[J-WAVEが映画『アバター：ウェイ・オブ・ウォーター』とコラボレーション！作品の魅力に迫っていきます]]></summary>
+        <author>
+            <name>J-WAVE Topics</name>
         </author>
     </entry>
     <entry>
