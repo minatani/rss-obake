@@ -1032,6 +1032,46 @@
       "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/030/161000c",
+          "author": null,
+          "description": "トルコ統計局が3日発表した2022年12月の消費者物価指数は、前年同月比で64・27％上昇した。伸び率は22年11月の84・39％から大幅に縮小した。縮小は2カ月連続。記録的な物価高が続き、エルドアン政権は最低賃金の引き上げなど、対応に追われている。",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/030/161000c",
+          "publishedOn": "2023-01-03T09:10:08.000Z",
+          "wordCount": 990,
+          "title": "トルコで物価64％上昇　22年12月　伸び率は2カ月連続縮小",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m030162000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/030/160000c",
+          "author": null,
+          "description": "韓国政府は3日、ソウルで昨年10月29日に起きた梨泰院（イテウォン）の雑踏事故の犠牲者数をこれまでの158人から159人に修正すると発表した。事故に巻き込まれて負傷した後に自殺した10代の男子高校生（当時）がおり、医療専門家らの意見を聴取した結果、事故との「因果関係が成立する死亡者と認められる」と",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/030/160000c",
+          "publishedOn": "2023-01-03T09:03:46.000Z",
+          "wordCount": 1081,
+          "title": "ソウル雑踏事故　犠牲者1人増え159人に",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2021/09/02/20210902k0000m030173000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/050/158000c",
+          "author": null,
+          "description": "全国高校ラグビー大会は3日、東大阪市花園ラグビー場で準々決勝があり、大阪桐蔭（大阪第2）は12―15で京都成章に敗れた。 　進化の途上で夢ついえた。フィジカルを前面に出した伝統のラグビーに、バックスの展開を組み合わせた新スタイルを追求してきた大阪桐蔭。確かにその強みを出すことはできたが、一歩及ばな",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/050/158000c",
+          "publishedOn": "2023-01-03T08:42:36.000Z",
+          "wordCount": 1154,
+          "title": "進化続けた大阪桐蔭　ニュースタイル発揮も惜敗　全国高校ラグビー",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/03/20230103k0000m050084000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230103/k00/00m/010/154000c",
+          "author": null,
+          "description": "岸田文雄首相は3日、文化放送のラジオ番組で、5月に広島市で行われる主要7カ国首脳会議（G7サミット）に合わせた各国首脳による原爆資料館の視察について「米以外にも英仏といった核保有国もあるので、どういったプログラムを組むのかこれから調整しなければならない」と語った。2023年中の衆院解散の可能性につ",
+          "link": "https://mainichi.jp/articles/20230103/k00/00m/010/154000c",
+          "publishedOn": "2023-01-03T08:10:49.000Z",
+          "wordCount": 986,
+          "title": "G7首脳の原爆資料館視察　岸田首相「これから調整」",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2021/10/04/20211004k0000m010080000p/0c10.jpg?1"
+        },
+        {
           "id": "https://mainichi.jp/articles/20221229/k00/00m/040/072000c",
           "author": null,
           "description": "親の信仰の影響を受けて育つ「宗教2世」。安倍晋三元首相の銃撃事件をきっかけに、多くの当事者がその体験を語り始めています。信仰とは、家族とは、生きるとは。寄せられた「声」をシリーズで届けます。",
@@ -3449,6 +3489,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230103-youtube-music-th-ch/",
+          "author": null,
+          "description": "YouTubeが公式に配布しているChromeアプリ版YouTube Musicとほぼ同じインターフェイスを実現し、広告ブロックやホットキー、ダウンロード、イントロ・アウトロのスキップなどさまざまなプラグインを利用可能な非公式デスクトップアプリが「youtube-music」です。導入から実際に使用してみるところまでを実際に試してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230103-youtube-music-th-ch/",
+          "publishedOn": "2023-01-03T09:00:00.000Z",
+          "wordCount": 2493,
+          "title": "YouTubeで広告ブロック・ダウンロード・SponsorBlockなどさまざまなプラグインを利用可能なデスクトップアプリ「youtube-music」レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/03/youtube-music-th-ch/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230103-apple-iphone-battery-replacement-raising/",
           "author": null,
           "description": "AppleはiPhone向けにバッテリーサービス(バッテリー交換)を提供していますが、このバッテリー交換費用が2023年3月から3000円値上げされることが発表されました。\n続きを読む...",
@@ -4163,6 +4213,16 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "http://madrona.ca/e/pdp11hack/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://madrona.ca/e/pdp11hack/index.html",
+          "publishedOn": "2023-01-03T08:08:57.000Z",
+          "wordCount": 1326,
+          "title": "PDP-11/Hack",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.ashbyhq.com/careers?utm_source=hn",
           "author": null,
           "description": "Comments",
@@ -4171,6 +4231,16 @@
           "wordCount": 907,
           "title": "Ashby (YC W19) is hiring product and design engineers",
           "imageUrl": "https://www.ashbyhq.comhttps://www.ashbyhq.com/images/careers/og_careers_image.png?v5"
+        },
+        {
+          "id": "https://matt.might.net/articles/26-languages-part2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://matt.might.net/articles/26-languages-part2/",
+          "publishedOn": "2023-01-03T05:37:17.000Z",
+          "wordCount": 1081,
+          "title": "26 programming languages in 25 days, Part 2: Reflections on language design",
+          "imageUrl": null
         },
         {
           "id": "https://flattened.net/",
@@ -4190,6 +4260,16 @@
           "publishedOn": "2023-01-03T04:42:02.000Z",
           "wordCount": 816,
           "title": "Python 2 removed from Debian",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.pepysdiary.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pepysdiary.com/",
+          "publishedOn": "2023-01-03T03:50:15.000Z",
+          "wordCount": 2997,
+          "title": "The Diary of Samuel Pepys",
           "imageUrl": null
         },
         {
@@ -6023,6 +6103,64 @@
       "feedUrl": "http://l0w.dev/posts/index.xml",
       "siteUrl": "https://l0w.dev/posts/",
       "articles": []
+    },
+    {
+      "title": "PROSHOP ARCHIVE BLOG",
+      "feedUrl": "http://shibuya-archery.com/blog_proshop/?feed=rss2",
+      "siteUrl": "https://www.shibuya-archery.com/blog_proshop",
+      "articles": []
+    },
+    {
+      "title": "Original Prusa 3D Printers",
+      "feedUrl": "https://blog.prusaprinters.org/feed/",
+      "siteUrl": "https://blog.prusa3d.com",
+      "articles": [
+        {
+          "id": "https://blog.prusa3d.com/?p=61600",
+          "author": "MattStultz",
+          "description": "We keep rolling with the flash contests so keep your eyes peeled on this page to see the current themes. Reminder, flash contests come weekly, every Friday, and only last 9 days. There is also only one main prize, 400 PrusaMeters...\nThe post Flash Contests Theme: Eyeglass Holders appeared first on Original Prusa 3D Printers.",
+          "link": "https://blog.prusa3d.com/introducing-flash-contests_61600/",
+          "publishedOn": "2022-12-29T23:00:10.000Z",
+          "wordCount": 12758,
+          "title": "Flash Contests Theme: Eyeglass Holders",
+          "enclosure": {
+            "url": "https://cdn.blog.prusa3d.com/wp-content/uploads/2022/04/2022FlashHero-698x325.jpg",
+            "length": "47474",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.blog.prusa3d.com/wp-content/uploads/2022/04/2022FlashHero-698x325.jpg"
+        },
+        {
+          "id": "https://blog.prusa3d.com/?p=73408",
+          "author": "Mikolas Zuza",
+          "description": "Wouldn’t it be great, if you could download official 3D printable files with replacement parts and accessories for your home appliances? Or an official fan model from your favorite game? Today, with our partners from various industries, we’re turning this into...\nThe post Starting a 3D Printing Revolution – Introducing Official Brand Profiles on Printables.com appeared first on Original Prusa 3D Printers.",
+          "link": "https://blog.prusa3d.com/starting-a-3d-printing-revolution-introducing-official-brand-profiles-on-printables-com_73408/",
+          "publishedOn": "2022-12-16T12:00:44.000Z",
+          "wordCount": 2820,
+          "title": "Starting a 3D Printing Revolution – Introducing Official Brand Profiles on Printables.com",
+          "enclosure": {
+            "url": "https://cdn.blog.prusa3d.com/wp-content/uploads/2022/12/nahledovka2-2-698x325.jpg",
+            "length": "42083",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.blog.prusa3d.com/wp-content/uploads/2022/12/nahledovka2-2-698x325.jpg"
+        },
+        {
+          "id": "https://blog.prusa3d.com/?p=73147",
+          "author": "Jakub Kmošek",
+          "description": "Škoda Auto is an important member of the Volkswagen Group and the biggest employer in Czechia. Škoda manufactured more than 800 000 cars in 2021 for customers all around the world. The company is not only a symbol of the Czech...\nThe post 3D printing in Automotive: How Škoda Auto made it appeared first on Original Prusa 3D Printers.",
+          "link": "https://blog.prusa3d.com/3d-printing-in-skoda-auto_73147/",
+          "publishedOn": "2022-12-09T17:01:23.000Z",
+          "wordCount": 2278,
+          "title": "3D printing in Automotive: How Škoda Auto made it",
+          "enclosure": {
+            "url": "https://cdn.blog.prusa3d.com/wp-content/uploads/2022/12/uvod-skoda-698x325.jpg",
+            "length": "35203",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.blog.prusa3d.com/wp-content/uploads/2022/12/uvod-skoda-698x325.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

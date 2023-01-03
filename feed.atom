@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T08:08:40.530Z</updated>
+    <updated>2023-01-03T09:14:41.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トルコで物価64％上昇　22年12月　伸び率は2カ月連続縮小]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/030/161000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/030/161000c"/>
+        <updated>2023-01-03T09:10:08.000Z</updated>
+        <summary type="html"><![CDATA[トルコ統計局が3日発表した2022年12月の消費者物価指数は、前年同月比で64・27％上昇した。伸び率は22年11月の84・39％から大幅に縮小した。縮小は2カ月連続。記録的な物価高が続き、エルドアン政権は最低賃金の引き上げなど、対応に追われている。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソウル雑踏事故　犠牲者1人増え159人に]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/030/160000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/030/160000c"/>
+        <updated>2023-01-03T09:03:46.000Z</updated>
+        <summary type="html"><![CDATA[韓国政府は3日、ソウルで昨年10月29日に起きた梨泰院（イテウォン）の雑踏事故の犠牲者数をこれまでの158人から159人に修正すると発表した。事故に巻き込まれて負傷した後に自殺した10代の男子高校生（当時）がおり、医療専門家らの意見を聴取した結果、事故との「因果関係が成立する死亡者と認められる」と]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTubeで広告ブロック・ダウンロード・SponsorBlockなどさまざまなプラグインを利用可能なデスクトップアプリ「youtube-music」レビュー]]></title>
+        <id>https://gigazine.net/news/20230103-youtube-music-th-ch/</id>
+        <link href="https://gigazine.net/news/20230103-youtube-music-th-ch/"/>
+        <updated>2023-01-03T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[YouTubeが公式に配布しているChromeアプリ版YouTube Musicとほぼ同じインターフェイスを実現し、広告ブロックやホットキー、ダウンロード、イントロ・アウトロのスキップなどさまざまなプラグインを利用可能な非公式デスクトップアプリが「youtube-music」です。導入から実際に使用してみるところまでを実際に試してみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[進化続けた大阪桐蔭　ニュースタイル発揮も惜敗　全国高校ラグビー]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/050/158000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/050/158000c"/>
+        <updated>2023-01-03T08:42:36.000Z</updated>
+        <summary type="html"><![CDATA[全国高校ラグビー大会は3日、東大阪市花園ラグビー場で準々決勝があり、大阪桐蔭（大阪第2）は12―15で京都成章に敗れた。 　進化の途上で夢ついえた。フィジカルを前面に出した伝統のラグビーに、バックスの展開を組み合わせた新スタイルを追求してきた大阪桐蔭。確かにその強みを出すことはできたが、一歩及ばな]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G7首脳の原爆資料館視察　岸田首相「これから調整」]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/010/154000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/010/154000c"/>
+        <updated>2023-01-03T08:10:49.000Z</updated>
+        <summary type="html"><![CDATA[岸田文雄首相は3日、文化放送のラジオ番組で、5月に広島市で行われる主要7カ国首脳会議（G7サミット）に合わせた各国首脳による原爆資料館の視察について「米以外にも英仏といった核保有国もあるので、どういったプログラムを組むのかこれから調整しなければならない」と語った。2023年中の衆院解散の可能性につ]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDP-11/Hack]]></title>
+        <id>http://madrona.ca/e/pdp11hack/index.html</id>
+        <link href="http://madrona.ca/e/pdp11hack/index.html"/>
+        <updated>2023-01-03T08:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[声を聞いて・宗教2世:「悔い改めますか」同性と交際、高3で追放　家族も故郷も失った日]]></title>
         <id>https://mainichi.jp/articles/20221229/k00/00m/040/072000c</id>
@@ -220,6 +281,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[26 programming languages in 25 days, Part 2: Reflections on language design]]></title>
+        <id>https://matt.might.net/articles/26-languages-part2/</id>
+        <link href="https://matt.might.net/articles/26-languages-part2/"/>
+        <updated>2023-01-03T05:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[budi 9in1 マルチファンクションアダプター － 変換アダプターも各種カード収納も何でもござれ、”あの”microSDカードアダプターの進化形が登場]]></title>
         <id>https://win-tab.net/?p=127562</id>
         <link href="https://win-tab.net/acc/budi_adapter_2301032/"/>
@@ -427,6 +498,16 @@
         <summary type="html"><![CDATA[時代劇が息を吹き返している。1950年代の日本映画黄金期には映画の半分が時代劇だったし、その後はテレビで安定の人気ジャンルとして君臨していた。近年はファンタジー調の大型活劇や経済ドラマ、はたまた歴史の新解釈と、新感覚の作品が次々と登場、若者たちに受けている。2023年も多彩な時代劇が並ぶ。注目作を]]></summary>
         <author>
             <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Diary of Samuel Pepys]]></title>
+        <id>https://www.pepysdiary.com/</id>
+        <link href="https://www.pepysdiary.com/"/>
+        <updated>2023-01-03T03:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -3782,6 +3863,17 @@ The post 今年心に残ったVTuber動画ピックアップ！【MoguLive VTube
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Flash Contests Theme: Eyeglass Holders]]></title>
+        <id>https://blog.prusa3d.com/?p=61600</id>
+        <link href="https://blog.prusa3d.com/introducing-flash-contests_61600/"/>
+        <updated>2022-12-29T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[We keep rolling with the flash contests so keep your eyes peeled on this page to see the current themes. Reminder, flash contests come weekly, every Friday, and only last 9 days. There is also only one main prize, 400 PrusaMeters...
+The post Flash Contests Theme: Eyeglass Holders appeared first on Original Prusa 3D Printers.]]></summary>
+        <author>
+            <name>MattStultz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[サイズ違いでモニターの見え方はどう変わる？23.8/27/31.5/37.5型の4機種で使い勝手を比較]]></title>
         <id>https://pc.watch.impress.co.jp/docs/topic/feature/1467726.html</id>
         <link href="https://pc.watch.impress.co.jp/docs/topic/feature/1467726.html"/>
@@ -5410,6 +5502,17 @@ CSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Starting a 3D Printing Revolution – Introducing Official Brand Profiles on Printables.com]]></title>
+        <id>https://blog.prusa3d.com/?p=73408</id>
+        <link href="https://blog.prusa3d.com/starting-a-3d-printing-revolution-introducing-official-brand-profiles-on-printables-com_73408/"/>
+        <updated>2022-12-16T12:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Wouldn’t it be great, if you could download official 3D printable files with replacement parts and accessories for your home appliances? Or an official fan model from your favorite game? Today, with our partners from various industries, we’re turning this into...
+The post Starting a 3D Printing Revolution – Introducing Official Brand Profiles on Printables.com appeared first on Original Prusa 3D Printers.]]></summary>
+        <author>
+            <name>Mikolas Zuza</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[番組の感想をモニターとして報告！「中高生モニター」募集]]></title>
         <id>https://www.j-wave.co.jp/topics/2212_bpomonitor.htm</id>
         <link href="https://www.j-wave.co.jp/topics/2212_bpomonitor.htm"/>
@@ -5796,6 +5899,17 @@ Saving Settings for a Custom WordPress Block in the Block Editor originally publ
         <summary type="html"><![CDATA[J-WAVEが映画『アバター：ウェイ・オブ・ウォーター』とコラボレーション！作品の魅力に迫っていきます]]></summary>
         <author>
             <name>J-WAVE Topics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D printing in Automotive: How Škoda Auto made it]]></title>
+        <id>https://blog.prusa3d.com/?p=73147</id>
+        <link href="https://blog.prusa3d.com/3d-printing-in-skoda-auto_73147/"/>
+        <updated>2022-12-09T17:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Škoda Auto is an important member of the Volkswagen Group and the biggest employer in Czechia. Škoda manufactured more than 800 000 cars in 2021 for customers all around the world. The company is not only a symbol of the Czech...
+The post 3D printing in Automotive: How Škoda Auto made it appeared first on Original Prusa 3D Printers.]]></summary>
+        <author>
+            <name>Jakub Kmošek</name>
         </author>
     </entry>
     <entry>
