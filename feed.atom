@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T05:46:12.583Z</updated>
+    <updated>2023-01-03T06:54:10.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニック・デ・フリース、F1固定カーナンバーに“21”を選択した背景]]></title>
+        <id>https://f1-gate.com/nyckdevries/f1_72740.html</id>
+        <link href="https://f1-gate.com/nyckdevries/f1_72740.html"/>
+        <updated>2023-01-03T06:52:02.000Z</updated>
+        <summary type="html"><![CDATA[ニック・デ・フリースが、2023年からスクーデリア・アルファタウリでスタートするF1キャリアで使用する固定カーナンバーに“21”を選択した背景について語った。
+
+2014年以降、すべてのドライバーは、F1キャリア全体で使用するレース番号を選択する必要がある。ニッ... 続きを読む]]></summary>
+        <author>
+            <name>F1-Gate.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インドの人口世界一に　中国抜き14億人超、格差など課題も]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/030/126000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/030/126000c"/>
+        <updated>2023-01-03T06:50:25.000Z</updated>
+        <summary type="html"><![CDATA[14億人超の人口を抱えるインドは今年、人口で中国を抜き、世界一になる見通しだ。国連のデータが残る1950年代以降続いた「中国が人口世界一」の時代は終わる。米国と中国の競争が激化する中、独自外交路線を堅持するインドは今年の20カ国・地域（G20）議長国。政治・経済両面でさらに存在感を増すことになるが]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平安装束あでやかに　3年ぶり「かるた始め式」　京都・八坂神社]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/040/118000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/040/118000c"/>
+        <updated>2023-01-03T06:46:32.000Z</updated>
+        <summary type="html"><![CDATA[京都市東山区の八坂神社で3日、新年恒例「かるた始め式」が3年ぶりに開催された。 　同神社の祭神、スサノオノミコトが三十一（みそひと）文字の和歌を詠んだという伝承にちなんだ行事だが、新型コロナウイルス感染拡大の影響を受けて2年連続で中止となっていた。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天理、18大会ぶりの4強　長崎北陽台を振り切る　高校ラグビー]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/050/108000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/050/108000c"/>
+        <updated>2023-01-03T06:44:03.000Z</updated>
+        <summary type="html"><![CDATA[第102回全国高校ラグビー大会は3日、東大阪市花園ラグビー場で準々決勝があり、第3試合はBシードの天理（奈良）が、同じBシードの長崎北陽台に8―5で勝ち、準決勝に進んだ。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[繁昌亭の総入場者200万人を達成　コロナ禍で来場者落ち込む]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/040/121000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/040/121000c"/>
+        <updated>2023-01-03T06:42:14.000Z</updated>
+        <summary type="html"><![CDATA[上方落語の定席、天満天神繁昌亭（大阪市北区）が3日、開場以来の総入場者200万人を達成した。200万人目となった広島県尾道市の山内理華子さん（34）に、上方落語協会の笑福亭仁智（じんち）会長から扇子や手ぬぐいなどの記念品が贈られた。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[駒沢大・大八木監督が退任表明　後任は教え子の藤田ヘッドコーチ]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/050/113000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/050/113000c"/>
+        <updated>2023-01-03T06:12:34.000Z</updated>
+        <summary type="html"><![CDATA[3日の第99回東京箱根間往復大学駅伝競走（箱根駅伝）で駒沢大を2年ぶり8回目の総合優勝に導いた大八木弘明監督（64）がレース後、2023年3月限りでの退任を表明した。「素晴らしいチームを率いることができた」と語った。後任は教え子で、マラソン元日本記録保持者の藤田敦史ヘッドコーチ（46）が就く。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[駒沢大・大八木監督「令和でも常勝軍団にしたい」　駅伝3冠達成]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/050/109000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/050/109000c"/>
+        <updated>2023-01-03T06:05:14.000Z</updated>
+        <summary type="html"><![CDATA[第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、往路優勝の駒沢大が復路も制し、2年ぶり8回目の総合優勝を果たした。駒沢大は今季の出雲全日本選抜、全日本も制しており、2016～17年の青山学院大以来5校目の「大学駅伝3冠」を達成し]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「青い旋風」に4強の壁　長崎北陽台が示した存在感　高校ラグビー]]></title>
+        <id>https://mainichi.jp/articles/20230103/k00/00m/050/038000c</id>
+        <link href="https://mainichi.jp/articles/20230103/k00/00m/050/038000c"/>
+        <updated>2023-01-03T05:47:06.000Z</updated>
+        <summary type="html"><![CDATA[第102回全国高校ラグビー大会は3日、準々決勝があり、長崎北陽台は同じBシードの天理（奈良）と対戦。15大会ぶり3回目の準決勝進出はならなかった。 　長崎北陽台が前回はね返された「4強の壁」で再び涙をのんだ。伝統校・天理の前に「青い旋風」は阻まれた。]]></summary>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[惜敗のシン・佐賀工　「三拍子」そろったFW奮闘　高校ラグビー]]></title>
         <id>https://mainichi.jp/articles/20230103/k00/00m/050/105000c</id>
@@ -24,6 +106,16 @@
         <summary type="html"><![CDATA[第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、往路20位の立教大は復路16位、総合18位だった。]]></summary>
         <author>
             <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bflat – a single ahead-of-time crosscompiler and runtime for C#]]></title>
+        <id>https://flattened.net/</id>
+        <link href="https://flattened.net/"/>
+        <updated>2023-01-03T05:10:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -104,6 +196,16 @@
         <summary type="html"><![CDATA[第99回東京箱根間往復大学駅伝競走（箱根駅伝）は3日、神奈川・箱根町―東京・大手町の復路5区間109・6キロで行われ、青山学院大は総合3位だった。2年連続7回目の総合優勝はならなかった。]]></summary>
         <author>
             <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 2 removed from Debian]]></title>
+        <id>https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1027108</id>
+        <link href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1027108"/>
+        <updated>2023-01-03T04:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -2271,6 +2373,16 @@ F1は、新型コロナウイルスのパンデミックとその後の渡航制
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Analysis and Design of Elementary MOS Amplifier Stages]]></title>
+        <id>https://github.com/bmurmann/Book-on-MOS-stages</id>
+        <link href="https://github.com/bmurmann/Book-on-MOS-stages"/>
+        <updated>2023-01-02T02:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[防衛省、中国の無人偵察機を初確認　WZ-7が沖縄飛来]]></title>
         <id>https://www.aviationwire.jp/?p=267981</id>
         <link href="https://www.aviationwire.jp/archives/267981"/>
@@ -2285,6 +2397,16 @@ F1は、新型コロナウイルスのパンデミックとその後の渡航制
         <id>https://idlewords.com/2023/1/why_not_mars.htm</id>
         <link href="https://idlewords.com/2023/1/why_not_mars.htm"/>
         <updated>2023-01-02T02:29:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The insane biology of the dragonfly (2021) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=iJi61NAIsjs</id>
+        <link href="https://www.youtube.com/watch?v=iJi61NAIsjs"/>
+        <updated>2023-01-02T01:42:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -2421,6 +2543,16 @@ F1は、新型コロナウイルスのパンデミックとその後の渡航制
         <id>https://www.nytimes.com/2022/12/30/opinion/new-york-harbor-clean-water-act.html</id>
         <link href="https://www.nytimes.com/2022/12/30/opinion/new-york-harbor-clean-water-act.html"/>
         <updated>2023-01-01T18:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the N + 1 queries problem]]></title>
+        <id>https://ananthakumaran.in/2023/01/01/solving_n_plus_1_queries_on_rails.html</id>
+        <link href="https://ananthakumaran.in/2023/01/01/solving_n_plus_1_queries_on_rails.html"/>
+        <updated>2023-01-01T16:52:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
