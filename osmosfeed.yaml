@@ -41,14 +41,15 @@ sources:
   - href: https://news.ycombinator.com/rss
 #  - href: http://masatuguharuki.moe.hm/blog/?feed=rss2
 #  - href: http://www.inclusiveandroid.com/rss.xml
-#  - href: http://juggly.cn/feed
-#  - href: http://www.j-wave.co.jp/rss/index.rdf
-#  - href: https://kmuto.jp/d/no_comments.rdf
-#  - href: https://matrix-aida.com/feed/
-#  - href: https://methane.hatenablog.jp/rss
-#  - href: https://www.technologyreview.jp/feed/
-#  - href: http://blog.mobilehackerz.jp/feeds/posts/default
-#  - href: https://www.moguravr.com/feed/
+  - href: http://juggly.cn/feed
+  - href: http://www.j-wave.co.jp/rss/index.rdf
+  - href: https://kmuto.jp/d/no_comments.rdf
+  - href: https://matrix-aida.com/feed/
+  - href: https://methane.hatenablog.jp/rss
+  - href: https://www.technologyreview.jp/feed/
+  - href: http://blog.mobilehackerz.jp/feeds/posts/default
+  - href: https://www.moguravr.com/feed/
+  - href: https://ai-scholar.tech/feed/
 #  - href: http://blog.livedoor.jp/orcinus_/index.rdf
 #  - href: http://muse.mu/rss/gigs
 #  - href: http://muse.mu/rss/news
