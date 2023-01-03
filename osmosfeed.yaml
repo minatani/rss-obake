@@ -54,10 +54,10 @@ sources:
 #  - href: http://muse.mu/rss/gigs
 #  - href: http://muse.mu/rss/news
   - href: https://proc-cpuinfo.fixstars.com/2019/06/nvidia-sdk-manager-on-docker/feed/
-#  - href: http://octoprint.org/feeds/all.xml
-#  - href: https://orbitseals.blogspot.com/feeds/posts/default?alt=rss
-#  - href: http://www.oreilly.co.jp/catalog/soon.xml
-#  - href: http://feeds.feedburner.com/osakanataro?format=xml
+  - href: http://octoprint.org/feeds/all.xml
+  - href: https://orbitseals.blogspot.com/feeds/posts/default?alt=rss
+  - href: http://www.oreilly.co.jp/catalog/soon.xml
+  - href: http://feeds.feedburner.com/osakanataro?format=xml
 #  - href: https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf
 #  - href: http://pc.watch.impress.co.jp/sublink/pc.rdf
 #  - href: https://win-tab.net/feed/
