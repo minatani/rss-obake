@@ -49,11 +49,11 @@ sources:
   - href: https://www.technologyreview.jp/feed/
   - href: http://blog.mobilehackerz.jp/feeds/posts/default
   - href: https://www.moguravr.com/feed/
-#  - href: https://ai-scholar.tech/feed/
+  - href: https://ai-scholar.tech/feed/
 #  - href: http://blog.livedoor.jp/orcinus_/index.rdf
-#  - href: http://muse.mu/rss/gigs
-#  - href: http://muse.mu/rss/news
-#  - href: https://proc-cpuinfo.fixstars.com/2019/06/nvidia-sdk-manager-on-docker/feed/
+  - href: http://muse.mu/rss/gigs
+  - href: http://muse.mu/rss/news
+  - href: https://proc-cpuinfo.fixstars.com/2019/06/nvidia-sdk-manager-on-docker/feed/
 #  - href: http://octoprint.org/feeds/all.xml
 #  - href: https://orbitseals.blogspot.com/feeds/posts/default?alt=rss
 #  - href: http://www.oreilly.co.jp/catalog/soon.xml
