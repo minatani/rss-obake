@@ -63,11 +63,11 @@ sources:
   - href: https://win-tab.net/feed/
   - href: https://politicaleconomyseminar.wordpress.com/feed/
   - href: http://l0w.dev/posts/index.xml
-#  - href: http://shibuya-archery.com/blog_proshop/?feed=rss2
-#  - href: https://www.prusa3d.com/feed/
-#  - href: https://blog.prusaprinters.org/feed/
+  - href: http://shibuya-archery.com/blog_proshop/?feed=rss2
+  - href: https://www.prusa3d.com/feed/
+  - href: https://blog.prusaprinters.org/feed/
 #  - href: https://rti-giken.jp/update/?page=feed_rdf
-#  - href: http://magazine.rubyist.net/atom.xml?format=xml
+  - href: http://magazine.rubyist.net/atom.xml?format=xml
 #  - href: http://scholarlyoa.com/feed/
 #  - href: http://shimajiro-mobiler.net/feed/
 #  - href: https://sinmoble.com/feed/
