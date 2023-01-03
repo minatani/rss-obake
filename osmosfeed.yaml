@@ -69,10 +69,10 @@ sources:
 #  - href: https://rti-giken.jp/update/?page=feed_rdf
   - href: http://magazine.rubyist.net/atom.xml?format=xml
 #  - href: http://scholarlyoa.com/feed/
-#  - href: http://shimajiro-mobiler.net/feed/
-#  - href: https://sinmoble.com/feed/
-#  - href: http://jp.sputniknews.com/export/rss2/archive/index.xml
-#  - href: http://tabilista.com/feed/
+  - href: http://shimajiro-mobiler.net/feed/
+  - href: https://sinmoble.com/feed/
+  - href: http://jp.sputniknews.com/export/rss2/archive/index.xml
+  - href: http://tabilista.com/feed/
 #  - href: https://blind.guru/feeds/all.atom.xml
 #  - href: http://japanese.ruvr.ru/rss/export_all.xml
 #  - href: http://tt-rss.org/forum/rss.php
