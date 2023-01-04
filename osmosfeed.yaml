@@ -94,10 +94,10 @@ sources:
 #  - href: http://chutoislam.blog.fc2.com/?xml
 #  - href: http://ikeuchisatoshi.com/feed
 #  - href: http://lineblog.me/ijuinhikaru/index.rdf
-#  - href: https://tomo-wait-for-it-yuki.hatenablog.com/rss
-#  - href: http://blog.university-staff.net/atom.xml
+  - href: https://tomo-wait-for-it-yuki.hatenablog.com/rss
+  - href: http://blog.university-staff.net/atom.xml
 #  - href: http://ocean.opal.ne.jp/blog/?feed=rss2
-#  - href: https://kaden.watch.impress.co.jp/data/rss/1.0/kdw/feed.rdf
+  - href: https://kaden.watch.impress.co.jp/data/rss/1.0/kdw/feed.rdf
 #  - href: http://kaden.watch.impress.co.jp/cda/rss/kaden.rdf
 #  - href: http://rss.rssad.jp/rss/kadenwatch/kaden.rdf
 #  - href: http://osoroshian.com/index.rdf
