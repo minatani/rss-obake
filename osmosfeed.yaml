@@ -103,11 +103,11 @@ sources:
   - href: http://osoroshian.com/index.rdf
   - href: http://blog.livedoor.jp/damekyoshi/index.rdf
   - href: https://www.kyobun.co.jp/feed/
-#  - href: http://nikkan-spa.jp/feed
+  - href: http://nikkan-spa.jp/feed
 #  - href: https://nikkan-spa.jp/feed
 #  - href: http://dailycult.blogspot.com/feeds/posts/default
-#  - href: http://cpplover.blogspot.com/feeds/posts/default
-#  - href: https://www.kgs-jpn.co.jp/index.php?cmd=rss
+  - href: http://cpplover.blogspot.com/feeds/posts/default
+  - href: https://www.kgs-jpn.co.jp/index.php?cmd=rss
 #  - href: http://shokai.org/blog/feed
 #  - href: https://komachi.hatenablog.com/feed
 #  - href: http://page2rss.com/rss/fe1a8b88fbae1f08d655fb7528999a70
