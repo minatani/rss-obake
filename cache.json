@@ -653,6 +653,26 @@
       "siteUrl": "https://eetimes.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://monoist.itmedia.co.jp/mn/articles/2212/28/news011.html",
+          "author": null,
+          "description": "2022年12月6～7日に開催されたオンラインセミナー「MONOist IoT Forum 2022 ～ビジネス価値につながるIoT活用とは～」（主催：MONOist編集部）に日本アイ・ビー・エム IBMコンサルティング事業本部 アソシエイト・パートナーの永田靖宏氏が登壇し「IoTデータの価値最大化に向けて」をテーマに講演。スマート工場におけるデータ活用の仕組みとその有効活用により経営価値を作り出していく方法について紹介した。",
+          "link": "https://monoist.itmedia.co.jp/mn/articles/2212/28/news011.html",
+          "publishedOn": "2023-01-05T01:00:00.000Z",
+          "wordCount": 1978,
+          "title": "PR: 現場データを経営価値に、国際標準準拠の「見える化」がもたらす新たな生産性",
+          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2212/28/cover_news011.jpg"
+        },
+        {
+          "id": "https://monoist.itmedia.co.jp/mn/articles/2212/28/news006.html",
+          "author": null,
+          "description": "ADASや自動運転システムを開発するには膨大な回数の試験が必要であり、もはや実車を用いた試験ではカバーしきれない。自動車業界において導入されている仮想環境を用いたシミュレーションを容易にするのが、MathWorksのソリューション「RoadRunner」と「RoadRunner Scenario」だ。",
+          "link": "https://monoist.itmedia.co.jp/mn/articles/2212/28/news006.html",
+          "publishedOn": "2023-01-05T01:00:00.000Z",
+          "wordCount": 1997,
+          "title": "PR: 自動運転技術の開発を加速するシミュレーション、仮想環境の構築はどうする",
+          "imageUrl": "https://image.itmedia.co.jp/mn/articles/2212/28/cover_news006.jpg"
+        },
+        {
           "id": "https://eetimes.itmedia.co.jp/ee/articles/2301/05/news058.html",
           "author": null,
           "description": "2022年11月4日、工学院大学は「地域のバイオマスを利用した省エネ型エビ養殖システム高度化実証研究」の実施者間による化学技術共同契約に署名したと発表した。",
@@ -1186,6 +1206,76 @@
       "feedUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "articles": [
+        {
+          "id": "https://mainichi.jp/articles/20230105/k00/00m/040/045000c",
+          "author": null,
+          "description": "世界平和統一家庭連合（旧統一教会）問題を受けた、悪質な寄付勧誘を規制する被害者救済法が5日、施行された。同法は議論となったマインドコントロール（洗脳）下の寄付について明確に規定していないが、政府は「取り消し権の対象」と説明している。実効性向上と周知が課題で、所管する消費者庁はQ＆A形式で規制の内容",
+          "link": "https://mainichi.jp/articles/20230105/k00/00m/040/045000c",
+          "publishedOn": "2023-01-05T01:42:15.000Z",
+          "wordCount": 1148,
+          "title": "被害者救済法が施行、悪質な寄付勧誘を規制　実効性と周知課題",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/09/03/20220903k0000m040124000p/9.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221229/k00/00m/050/102000c",
+          "author": null,
+          "description": "対戦型コンピューターゲームで勝敗を争うeスポーツは、今や子どもや若者の「遊び」ではない。獲得賞金やスポンサー収入で生計を立てるプロ選手が存在し、地域でチームを組んでプレーする高齢者も増加するなど市場が拡大。国際オリンピック委員会（IOC）も、2023年6月にシンガポールで第1回オリンピックeスポー",
+          "link": "https://mainichi.jp/articles/20221229/k00/00m/050/102000c",
+          "publishedOn": "2023-01-05T01:35:16.000Z",
+          "wordCount": 1176,
+          "title": "eスポーツとモデルの二刀流　大友美有さん「今年は時間を上手に」",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/29/20221229k0000m050107000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221229/k00/00m/050/109000c",
+          "author": null,
+          "description": "N高（沖縄）時代に全国高校eスポーツ選手権の「リーグ・オブレジェンド（LoL）」部門で2連覇し、現在はモデルとプロゲーマーの「二刀流」で活躍する大友美有さん（20）。eスポーツを楽しむ方法を聞くと、プロ選手による「コーチング」を勧められた。",
+          "link": "https://mainichi.jp/articles/20221229/k00/00m/050/109000c",
+          "publishedOn": "2023-01-05T01:34:24.000Z",
+          "wordCount": 1198,
+          "title": "勝負は「ガチ」　大友美有さんのLoL講座に記者ぼうぜん",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/12/29/20221229k0000m050166000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230105/k00/00m/020/063000c",
+          "author": null,
+          "description": "アイルランドのデータ保護委員会（DPC）は4日、米IT大手メタに3億9000万ユーロ（約550億円）の制裁金を科すと発表した。利用者の興味や関心に狙いを絞った「ターゲティング広告」に関して利用者の同意を取得する方法が不適切だったなどと判断し、欧州連合（EU）の一般データ保護規則（GDPR）に違反す",
+          "link": "https://mainichi.jp/articles/20230105/k00/00m/020/063000c",
+          "publishedOn": "2023-01-05T01:31:45.000Z",
+          "wordCount": 1069,
+          "title": "米メタさらに制裁550億円　「ターゲティング広告」同意取得不適切",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/11/07/20221107k0000m020106000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20221231/k00/00m/040/217000c",
+          "author": null,
+          "description": "事故を起こした東京電力福島第1原発の廃炉作業で最大の難関とされているのが、炉心から溶け落ちた核燃料（燃料デブリ）の取り出しだ。1～3号機で発生し、事故から12年近くたっても手付かずの状態が続いている。そんな中で、新たな取り出し方法が検討されている。造船で使われる工法を応用するのだという。実現可能性",
+          "link": "https://mainichi.jp/articles/20221231/k00/00m/040/217000c",
+          "publishedOn": "2023-01-05T01:30:15.000Z",
+          "wordCount": 1155,
+          "title": "福島原発の燃料デブリ、新たな取り出し方法浮上　造船技術を応用",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/01/20230101k0000m040010000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230105/k00/00m/020/062000c",
+          "author": null,
+          "description": "日本の自動車メーカー6社が4日発表した2022年の米新車販売台数は前年比17・9％減の計475万8614台だった。半導体不足による新車の供給制約が響き、全社が前年を下回った。全体のメーカー別では米ゼネラル・モーターズ（GM）が首位を奪還し、21年に初のトップに躍り出たトヨタ自動車は後退した。",
+          "link": "https://mainichi.jp/articles/20230105/k00/00m/020/062000c",
+          "publishedOn": "2023-01-05T01:23:55.000Z",
+          "wordCount": 1067,
+          "title": "日本車6社の米新車販売台数17.9％減　半導体不足が影響",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2021/06/07/20210607k0000m040057000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230105/k00/00m/030/043000c",
+          "author": null,
+          "description": "米通商代表部（USTR）は4日、日米両政府が国際的なサプライチェーン（供給網）での人権を促進するための作業部会を6日に発足させると発表した。中国新疆ウイグル自治区などを念頭に、強制労働によって作られた物品を排除する狙いがあるとみられる。",
+          "link": "https://mainichi.jp/articles/20230105/k00/00m/030/043000c",
+          "publishedOn": "2023-01-05T01:19:52.000Z",
+          "wordCount": 1070,
+          "title": "サプライチェーンから強制労働排除へ作業部会　日米、中国念頭か",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/07/26/20220726k0000m040094000p/0c10.jpg?2"
+        },
         {
           "id": "https://mainichi.jp/articles/20230105/k00/00m/040/048000c",
           "author": null,
@@ -3642,6 +3732,16 @@
       "siteUrl": "https://www.aviationwire.jp",
       "articles": [
         {
+          "id": "https://www.aviationwire.jp/?p=268073",
+          "author": "Tadayuki YOSHIKAWA",
+          "description": "IATA（国際航空運送協会）のウィリー・ウォルシュ事務総長は現地時間1月4日、中国本土での新型コロナウイルス感染症（COVID-19）の感染急拡大に伴い、各国で水際対策が強化されたことについて、「過去3年間で効果がない […]",
+          "link": "https://www.aviationwire.jp/archives/268073",
+          "publishedOn": "2023-01-05T01:29:51.000Z",
+          "wordCount": 367,
+          "title": "IATA事務総長、水際強化「感染ピークに大差なし」　科学的根拠ある対策求める",
+          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2022/12/221206_1350_iata-720.jpg"
+        },
+        {
           "id": "https://www.aviationwire.jp/?p=268068",
           "author": "Tadayuki YOSHIKAWA",
           "description": "日本航空（JAL/JL、9201）は、学問の神様として名高い太宰府天満宮（福岡県）の絵馬を鹿児島空港に設置している。1月31日までで、JALの整備士が廃材を再利用して手作りした。 　絵馬の設置は昨年に続き2回目。チャレ […]",
@@ -5095,6 +5195,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-amazon-lay-off-more-than-first-planned/",
+          "author": null,
+          "description": "Alexa事業の不振に苦しむAmazonが、1万7000人以上の従業員をレイオフすることが分かったと、Wall Street Journalが報じました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-amazon-lay-off-more-than-first-planned/",
+          "publishedOn": "2023-01-05T01:31:00.000Z",
+          "wordCount": 2430,
+          "title": "Amazonが1万7000人以上を解雇へ、近年のテクノロジー企業で最多",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/amazon-lay-off-more-than-first-planned/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230105-car-critical-vulnerabilities/",
+          "author": null,
+          "description": "近年販売されている自動車には多くの半導体が搭載されており、エンジン始動やヘッドライトの点灯、ロックの解錠などが電子制御されています。セキュリティ研究者のサム・カリー氏が率いる研究チームは、トヨタやホンダ、日産、BMW、メルセデス・ベンツといったメーカーの自動車を分析し、外部から車両を操作する手法を導き出しました。さらに、各自動車メーカーのウェブサイトを分析した結果、ユーザーの個人情報を抜き出せる脆弱(ぜいじゃく)性も発見されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-car-critical-vulnerabilities/",
+          "publishedOn": "2023-01-05T01:26:00.000Z",
+          "wordCount": 2428,
+          "title": "トヨタ・ホンダ・日産などの自動車で「遠隔ロック解除」「遠隔エンジン始動」「個人情報取得」が可能な脆弱性が発見される",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/critical-vulnerabilities-toyota/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-gigazine-manga/",
           "author": null,
           "description": "2023年もGIGAZINEマンガ大賞はマンガ・原作脚本・ポートフォリオによる作画担当・ネーム構成担当の応募も毎月締め切りで募集中です。2023年には最終回を迎える作品がある一方で、新連載＆連載再開も計画中ですので、ぜひそこに参加する作品の応募をお願いします。2022年はどのような応募傾向だったのか簡単にまとめてみましたので、その情報が見たい方は2022年マンガ大賞集計データをチェックお願いします。また、マンガの先行公開や過去の作品が読み放題の本棚、マンガ大賞審査への招待など特典盛りだくさんのGIGAZINEシークレットクラブ(GSC)も合わせてチェックしてみてください。\n続きを読む...",
@@ -6159,6 +6279,16 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*M6paTMFbk1CWGijweff9SQ.png"
         },
         {
+          "id": "https://thewalrus.ca/why-do-kids-hate-music-lessons/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thewalrus.ca/why-do-kids-hate-music-lessons/",
+          "publishedOn": "2023-01-04T20:08:00.000Z",
+          "wordCount": 5596,
+          "title": "Kids and music lessons: why do many promising players quit early?",
+          "imageUrl": "https://walrus-assets.s3.amazonaws.com/img/Patterson_MusicLessons_AlainPilon_1800x1550.jpg"
+        },
+        {
           "id": "https://neugierig.org/software/blog/2023/01/browser-crashes.html",
           "author": null,
           "description": "Comments",
@@ -6297,6 +6427,16 @@
           "wordCount": 7018,
           "title": "Salesforce will lay off 10% of staff as part of restructuring",
           "imageUrl": "https://images.mktw.net/im-266833/social"
+        },
+        {
+          "id": "https://twitter.com/bfcarlson/status/1609988081825751041",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/bfcarlson/status/1609988081825751041",
+          "publishedOn": "2023-01-04T13:17:16.000Z",
+          "wordCount": 470,
+          "title": "Marshall McLuhan on surveillance and identity in the electric age (1977) [video]",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/ARPSyndicate/awesome-intelligence",
@@ -10067,6 +10207,21 @@
       "feedUrl": "http://jp.sputniknews.com/export/rss2/archive/index.xml",
       "siteUrl": "https://sputniknews.jp",
       "articles": [
+        {
+          "id": "https://sputniknews.jp/20230105/14477361.html",
+          "author": null,
+          "description": "フランスのエマニュエル・マクロン大統領はウクライナのウォロディミル・ゼレンスキー大統領と電話会談を行い、軽戦車AMX-10RCの供与を約束した。AFP通信がフランス大統領府を引用して報じた。",
+          "link": "https://sputniknews.jp/20230105/14477361.html",
+          "publishedOn": "2023-01-05T01:25:00.000Z",
+          "wordCount": null,
+          "title": "マクロン大統領、ウクライナに軽戦車の供与を発表",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e6/05/09/11213138_0:82:3353:1968_600x0_80_0_0_a13c86824fb0aa397f4be46f3fb8425a.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e6/05/09/11213138_0:82:3353:1968_600x0_80_0_0_a13c86824fb0aa397f4be46f3fb8425a.jpg"
+        },
         {
           "id": "https://sputniknews.jp/20230105/14477205.html",
           "author": null,
