@@ -108,12 +108,12 @@ sources:
 #  - href: http://dailycult.blogspot.com/feeds/posts/default
   - href: http://cpplover.blogspot.com/feeds/posts/default
 #  - href: https://www.kgs-jpn.co.jp/index.php?cmd=rss
-#  - href: http://shokai.org/blog/feed
+  - href: http://shokai.org/blog/feed
 #  - href: https://komachi.hatenablog.com/feed
 #  - href: http://page2rss.com/rss/fe1a8b88fbae1f08d655fb7528999a70
-#  - href: http://blog.goo.ne.jp/t2com1230/rss2.xml
+  - href: http://blog.goo.ne.jp/t2com1230/rss2.xml
 #  - href: http://www.blackroad.net/blackroad/rss.xml
-#  - href: http://buy.livedoor.biz/index.rdf
+  - href: http://buy.livedoor.biz/index.rdf
 #  - href: https://ushiushix.hateblo.jp/rss
 #  - href: http://ir.u-shizuoka-ken.ac.jp/ishikawa/feed
 #  - href: http://www.gdm.or.jp/feed
