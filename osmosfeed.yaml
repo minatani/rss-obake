@@ -119,9 +119,9 @@ sources:
   - href: http://www.gdm.or.jp/feed
 #  - href: http://feedblog.ameba.jp/rss/ameblo/takamatsu-nana/rss20.xml
   - href: http://rssblog.ameba.jp/kekkon-monogatari/rss20.xml
-#  - href: http://archerreports.org/feed
-#  - href: http://wert44.blogspot.com/feeds/posts/default
-#  - href: http://www.drone-aerialshoot.com/feed/
+  - href: http://archerreports.org/feed
+  - href: http://wert44.blogspot.com/feeds/posts/default
+  - href: http://www.drone-aerialshoot.com/feed/
 #  - href: http://fujiwaram.hateblo.jp/feed?format=xml
 #  - href: http://www.meij.or.jp/rss/index.rdf
 #  - href: http://ssvvgg.net/rss
