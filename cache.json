@@ -377,21 +377,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.",
-          "link": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
-          "publishedOn": "2022-12-07T11:00:00.000Z",
-          "wordCount": 5382,
-          "title": "Advent Calendars For Web Designers And Developers (2022 Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png"
         }
       ]
     },
@@ -400,6 +385,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-a-file-in-linux-from-the-command-line-create-a-file-in-terminal/",
+          "author": "Zaira Hira",
+          "description": "Managing files from the command line is one of the most common tasks for a Linux user.  Files are created, edited, deleted, and used by many of the background OS processes. Files are also used by regular users to accomplish daily tasks such as taking notes, writing code, or",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-file-in-linux-from-the-command-line-create-a-file-in-terminal/",
+          "publishedOn": "2023-01-05T18:58:23.000Z",
+          "wordCount": 1176,
+          "title": "How to Make a File in Linux from the Command Line – Create a File in the Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Copy-of-Copy-of-read-write-files-python--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/perfect-html-input/",
+          "author": "Austin Gil",
+          "description": "Today I'm going to show you all the things to consider when building the perfect HTML input. Despite its seemingly simple nature, there's actually a lot that goes into it. How to Make the Control  Well, we need to start somewhere. Might as well start with the control itself.",
+          "link": "https://www.freecodecamp.org/news/perfect-html-input/",
+          "publishedOn": "2023-01-05T17:43:37.000Z",
+          "wordCount": 1915,
+          "title": "How to Build Great HTML Form Controls",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/HTML-Blog-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-file-exists-in-python/",
+          "author": "Dionysia Lemonaki",
+          "description": "When working with files in Python, there may be times when you need to check whether a file exists or not. But why should you check if a file exists in the first place? Confirming the existence of a specific file comes in handy when you want to perform particular",
+          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-file-exists-in-python/",
+          "publishedOn": "2023-01-05T17:23:20.000Z",
+          "wordCount": 1908,
+          "title": "How to Check if a File Exists in Python with isFile() and exists()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-francis-seura-802412.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-integer-to-string-in-java/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can convert variables from one data type to another in Java using different methods.  In this article, you'll learn how to convert integers to strings in Java in the following ways:  * Using the Integer.toString() method.   * Using the String.valueOf() method.   * Using",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-integer-to-string-in-java/",
+          "publishedOn": "2023-01-05T15:57:29.000Z",
+          "wordCount": 1416,
+          "title": "Int to String in Java – How to Convert an Integer into a String",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/marcel-eberle-rendLSpkDtY-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-set-vs-list/",
+          "author": "Kolade Chris",
+          "description": "In Python, set and list are both data structures for storing and organizing any values. Those values could be numbers, strings, and booleans. In this article, we'll look at the differences between set and list. But before that, let's take a look at what both set and list are. What",
+          "link": "https://www.freecodecamp.org/news/python-set-vs-list/",
+          "publishedOn": "2023-01-05T15:52:53.000Z",
+          "wordCount": 1279,
+          "title": "Python Set VS List – Sets and Lists in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/setvlist.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-produce-music-with-fl-studio/",
+          "author": "Beau Carnes",
+          "description": "FL Studio is a powerful digital audio workstation (DAW) used by music producers all over the world. It has a wide range of features that allow users to create, produce, and mix music with ease. Whether you are a beginner or an experienced producer, this course is designed to help",
+          "link": "https://www.freecodecamp.org/news/how-to-produce-music-with-fl-studio/",
+          "publishedOn": "2023-01-05T15:44:29.000Z",
+          "wordCount": 925,
+          "title": "How to Produce Music with FL Studio",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/flstudio.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-infinite-scroll-in-next-js/",
+          "author": "Divine Orji",
+          "description": "Creators and developers continually come up with new ways to enhance apps and provide value to users.  One feature that's useful for social media and ecommerce apps in particular is infinite scroll. It provides a seamless and intuitive browsing experience by reducing the time it takes to see new",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-infinite-scroll-in-next-js/",
+          "publishedOn": "2023-01-05T15:38:08.000Z",
+          "wordCount": 1624,
+          "title": "How to Implement Infinite Scroll in Next.js with Intersection Observer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-ahmed-aqtai-63572.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-python-for-web-development/",
+          "author": "Beau Carnes",
+          "description": "Python is a popular programming language that is widely used in the development of web applications. It is easy to learn, has a large and active community, and is supported by a wealth of libraries and frameworks. We just published a crash course on the freeCodeCamp.org YouTube channel that will",
+          "link": "https://www.freecodecamp.org/news/how-to-use-python-for-web-development/",
+          "publishedOn": "2023-01-05T15:33:56.000Z",
+          "wordCount": 938,
+          "title": "How to Use Python for Web Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pythonwebdev.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-clear-formatting-in-excel/",
           "author": "Eamonn Cottrell",
@@ -688,6 +753,16 @@
       "siteUrl": "https://eetimes.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2301/06/news027.html",
+          "author": null,
+          "description": "onsemiは2023年1月3日（米国時間）、SiC（炭化ケイ素）を用いたパワーデバイス製品群の名称を「EliteSiC」とすると発表した。",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2301/06/news027.html",
+          "publishedOn": "2023-01-06T00:30:00.000Z",
+          "wordCount": 2716,
+          "title": "onsemi、SiCファミリ「EliteSiC」を発表",
+          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2301/06/cover_news027.jpg"
+        },
+        {
           "id": "https://eetimes.itmedia.co.jp/ee/articles/2301/05/news083.html",
           "author": null,
           "description": "2023年1月4日、東北大は磁性材料、誘電材料の評価受託およびコンサルタントを行う新会社「Tohoku-TMIT（Tohoku Measuring Instrumentation Technologies）」を設立したと発表した。",
@@ -954,6 +1029,36 @@
       "feedUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
+        {
+          "id": "https://mainichi.jp/articles/20230106/ddm/012/040/081000c",
+          "author": null,
+          "description": "米寿を迎えて今なお、高座に上がり続けるアマチュア落語家がいる。寝床家道楽（ねどこやどうらく）（本名・中島邦雄）さん（88）だ。多感な少年時代に孤独を癒やしてくれた落語を自ら本格的に演じるようになって、半世紀近くになる。落語を通じて、一人でも多くの人に伝えたい思いがある。",
+          "link": "https://mainichi.jp/articles/20230106/ddm/012/040/081000c",
+          "publishedOn": "2023-01-06T01:39:30.000Z",
+          "wordCount": 1049,
+          "title": "落語に平和の願い込め　東京大空襲の戦災孤児　88歳アマ、高座へ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106ddm012040150000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/ddm/018/200/012000c",
+          "author": null,
+          "description": "初詣の神社は混雑しているから、静かなときに参拝したい。NHKBSプレミアムで6日放送の「美の壺スペシャル　神社」（午後7時半）は、各地の神社と周辺の「美」を4K映像で見せる「神社入門」だ。",
+          "link": "https://mainichi.jp/articles/20230106/ddm/018/200/012000c",
+          "publishedOn": "2023-01-05T17:01:27.000Z",
+          "wordCount": 1059,
+          "title": "ＢＳ未来館:美の世界からの神社入門",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/ddm/018/200/005000c",
+          "author": null,
+          "description": "◆メイドインジャパン！　日本のスゴイ！が世界をつなぐSP（TBS＝後7・0） 　日本製のモノや技術が海外でどう評価されるかを確かめるバラエティー特番。新型コロナウイルス禍のため、在日外国人の帰郷に密着できずに休止していたが、3年ぶりに復活した。",
+          "link": "https://mainichi.jp/articles/20230106/ddm/018/200/005000c",
+          "publishedOn": "2023-01-05T17:00:38.000Z",
+          "wordCount": 1064,
+          "title": "視聴室:メイドインジャパン！　日本のスゴイ！が世界をつなぐSP",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
         {
           "id": "https://mainichi.jp/articles/20230105/dde/018/200/017000c",
           "author": null,
@@ -1301,6 +1406,206 @@
       "feedUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "articles": [
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/040/047000c",
+          "author": null,
+          "description": "6日午前8時ごろ、茨城県笠間市のJR常磐線内原―友部間の踏切で列車と車が衝突した。JR東日本によると、列車の乗客約500人にけがはなく、車両から降ろして避難させている。笠間市消防本部が車の運転手らの救助を進めている。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/040/047000c",
+          "publishedOn": "2023-01-06T01:38:55.000Z",
+          "wordCount": 990,
+          "title": "常磐線踏切で列車と車が衝突　乗客500人は車両から避難",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2021/03/08/20210308k0000m040074000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/020/042000c",
+          "author": null,
+          "description": "財務省が6日発表した2月に発行する個人向け国債の10年変動金利型の利率は年0・33％と、2015年8月以来7年半ぶりの高水準となった。日銀の金融緩和修正で市場金利が上昇している影響を受けた。投資家の国債運用では恩恵があるが、国の利払い費が増え、財政負担となる懸念もある。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/020/042000c",
+          "publishedOn": "2023-01-06T01:37:17.000Z",
+          "wordCount": 1076,
+          "title": "個人向け国債利率0.33％　7年半ぶり高水準　財政負担の懸念も",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106k0000m020044000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/020/050000c",
+          "author": null,
+          "description": "KDDIは6日、同日午前7時半ごろからauPAY決済が利用しづらい状況になっていると発表した。原因などは調査中という。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/020/050000c",
+          "publishedOn": "2023-01-06T01:36:24.000Z",
+          "wordCount": 989,
+          "title": "auPAYが利用しづらい状況に 原因調査中　KDDIが発表",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2019/04/16/20190416k0000m020122000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230105/k00/00m/020/246000c",
+          "author": null,
+          "description": "鈍く輝く煙突が、空に突き刺さる。コンクリートと鉄が織りなす建物のシルエットは、巨大戦艦のようだ。フランス北西部、コタンタン半島にあるオラノ社（旧アレバ）ラアーグ再処理工場。1966年の設立以来、フランス国内のほか、日本を含めた外国からの使用済み核燃料を再処理し、原発で再利用するウラン・プルトニウム",
+          "link": "https://mainichi.jp/articles/20230105/k00/00m/020/246000c",
+          "publishedOn": "2023-01-06T01:30:22.000Z",
+          "wordCount": 1166,
+          "title": "気候革命:行き詰まる核燃サイクル　原発大国フランスの悲鳴",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/05/20230105k0000m020261000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/020/046000c",
+          "author": null,
+          "description": "西村康稔経済産業相は5日、米首都ワシントンでレモンド米商務長官と会談し、経済安全保障分野での協力拡大で一致した。中国やロシアへの対抗を念頭に、半導体に加え、バイオテクノロジーや人工知能（AI）、量子計算といった重要な新興技術全般で連携する。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/020/046000c",
+          "publishedOn": "2023-01-06T01:28:49.000Z",
+          "wordCount": 1073,
+          "title": "日米、経済安保で協力拡大　AIなどで連携、次世代半導体の国産化も",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106k0000m030041000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/040/016000c",
+          "author": null,
+          "description": "JR渋谷駅（東京都渋谷区）での線路切り替え工事に伴い、JR東日本は7、8日に山手線外回りの大崎―池袋間を終日運休とする。外回りの他の区間や内回りも運転本数を減らし、影響人員は約53万人を見込む。JR東は、振り替え輸送の利用や迂回（うかい）を呼びかけている。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/040/016000c",
+          "publishedOn": "2023-01-06T01:20:52.000Z",
+          "wordCount": 1028,
+          "title": "山手線外回り　7、8日に一部区間で運休　内回りも運転本数減",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2019/04/27/20190427k0000m040153000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/040/037000c",
+          "author": null,
+          "description": "長崎県の大石賢吾知事と長崎市の田上富久市長は5日、東京の在日米国大使館を訪れ、5月に広島市で開催される主要7カ国首脳会議（G7サミット）に合わせ、バイデン大統領が被爆地・長崎を訪問するよう要請した。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/040/037000c",
+          "publishedOn": "2023-01-06T01:20:40.000Z",
+          "wordCount": 991,
+          "title": "長崎知事と市長、米大統領の訪問求める　広島サミットにあわせ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106k0000m040032000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/030/039000c",
+          "author": null,
+          "description": "バイデン米大統領は5日、ロシアによるウクライナ侵攻について、ドイツのショルツ首相と電話協議した。両首脳は協議後に共同声明を発表し、米独がそれぞれ歩兵戦闘車をウクライナに提供することを明らかにした。ドイツは地上配備型迎撃ミサイル「パトリオット」も供与する。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/030/039000c",
+          "publishedOn": "2023-01-06T01:18:54.000Z",
+          "wordCount": 1094,
+          "title": "米独、ウクライナに歩兵戦闘車提供へ 操縦訓練も実施",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106k0000m030036000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/030/038000c",
+          "author": null,
+          "description": "ウクライナ政府は5日、2022年の国内総生産（GDP）が前年と比べ、速報ベースで30・4％減になったと発表した。ロシアの侵攻で社会や経済活動が大きな打撃を受け、ソ連崩壊に伴う1991年の独立以来、最大の落ち込みを記録した。ロイター通信が報じた。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/030/038000c",
+          "publishedOn": "2023-01-06T01:14:37.000Z",
+          "wordCount": 1143,
+          "title": "ウクライナ、GDP30％減　1991年の独立以来最大の落ち込み",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106k0000m030035000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/020/040000c",
+          "author": null,
+          "description": "厚生労働省が6日発表した2022年11月の毎月勤労統計調査（速報、従業員5人以上）によると、物価上昇を加味した実質賃金は前年同月比3・8％減で、8年6カ月ぶりの下落率となった。マイナスは8カ月連続。物価高に賃金の伸びが追い付いていない状況が深刻化している。今年の春闘での賃上げが焦点となる。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/020/040000c",
+          "publishedOn": "2023-01-06T01:14:01.000Z",
+          "wordCount": 1147,
+          "title": "実質賃金8年ぶりの下落率　11月3.8％減　物価上昇に追いつかず",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2019/04/05/20190405k0000m040186000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/050/010000c",
+          "author": null,
+          "description": "大相撲の横綱・照ノ富士が初場所（8日初日、東京・両国国技館）の休場を届け出た。6日に開かれた取組編成会議後に発表された幕内の初日の取組に、しこ名は入らなかった。2022年秋場所を途中休場後、古傷を抱える両膝の内視鏡手術を受けて九州場所も全休しており、21年名古屋場所後に横綱に昇進して以降、初めて3",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/050/010000c",
+          "publishedOn": "2023-01-06T01:11:39.000Z",
+          "wordCount": 1024,
+          "title": "横綱・照ノ富士が3場所連続休場　春巡業には参加意向　大相撲",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/11/11/20221111k0000m050042000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/040/031000c",
+          "author": null,
+          "description": "和歌山県白浜町椿の旧町立椿小学校で5日、2015年の卒業生が当時、挿し木から育て始めたツバキを観賞するため集まった。8年前の「20歳になったら一緒に見よう」との約束を果たし、感慨深げに赤い花を眺めていた。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/040/031000c",
+          "publishedOn": "2023-01-06T01:06:46.000Z",
+          "wordCount": 1021,
+          "title": "「20歳になったらツバキの前で」　閉校した小学校で卒業生再会",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106ddlk30040354000p/0c10.jpg?3"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/040/003000c",
+          "author": null,
+          "description": "将棋・名人戦のA級順位戦6回戦最初の▲稲葉陽八段―△菅井竜也八段（いずれも対局時3勝2敗）戦は、穴熊に囲い合う長期戦となった。力の籠もった応酬が200手近く続いた末に、菅井八段がただで取られるところに△6七飛を打ち込んで勝負を決め、挑戦者争いに踏みとどまった。終始人工知能（AI）とは意見が合わなか",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/040/003000c",
+          "publishedOn": "2023-01-06T01:00:15.000Z",
+          "wordCount": 1124,
+          "title": "200手近い「人間の戦い」　ただ捨ての飛車で決着　将棋A級順位戦",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106k0000m040019000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/030/015000c",
+          "author": null,
+          "description": "スナク英首相は4日の年頭演説で、イングランドの18歳までの全児童・生徒を対象に、今後は数学を必修化する方針を明らかにした。現代は「あらゆる職種」で数学的能力が求められているとして、人材育成の重要性を訴えた。導入時期など詳細は未定。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/030/015000c",
+          "publishedOn": "2023-01-06T00:28:36.000Z",
+          "wordCount": 1023,
+          "title": "18歳まで数学必修化　スナク英首相方針に「教師足りない」の声",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106k0000m030014000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/010/013000c",
+          "author": null,
+          "description": "新潟県柏崎市の桜井雅浩市長は5日の定例記者会見で、2022年末の大雪に伴う車の立ち往生を踏まえ、東京電力柏崎刈羽原発の事故など災害発生と重なった場合に北陸道と国道8号を同時閉鎖すれば「死活問題になる」と述べた。その上で国に「抜本的な方策」を求めていく考えを示した。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/010/013000c",
+          "publishedOn": "2023-01-06T00:16:07.000Z",
+          "wordCount": 1030,
+          "title": "大雪の交通障害、原発事故あれば「死活問題」　柏崎市長、対策求める",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106ddlk15010346000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/040/007000c",
+          "author": null,
+          "description": "東京電力ホールディングスの小林喜光会長と小早川智明社長が5日、福島県庁を訪れ内堀雅雄知事に年始のあいさつをした。小林会長は福島第1原発事故に触れ、「福島の復興と廃炉の両立を掲げ、福島への責任を貫徹していくことは変わらない。引き続き安全最優先で復興の一層の加速に向けて取り組んでいく」と述べた。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/040/007000c",
+          "publishedOn": "2023-01-06T00:14:52.000Z",
+          "wordCount": 1029,
+          "title": "東電「復興と廃炉の両立、責任を貫徹」　福島知事に年始あいさつ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106ddlk07040334000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/030/011000c",
+          "author": null,
+          "description": "バイデン米大統領は5日、ロシアのプーチン大統領がウクライナで36時間の戦闘行為の停止を指示したことについて「彼は息継ぎをしようとしているのだろう」と指摘した。ホワイトハウスで記者団に述べた。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/030/011000c",
+          "publishedOn": "2023-01-06T00:00:24.000Z",
+          "wordCount": 1058,
+          "title": "バイデン氏「息継ぎしたいのだろう」プーチン氏のクリスマス停戦指示",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/01/06/20230106k0000m030012000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/030/008000c",
+          "author": null,
+          "description": "米国防総省のライダー報道官は5日の記者会見で、日米の外務・防衛担当閣僚による安全保障協議委員会（2プラス2）を11日にワシントンの国務省で開くと発表した。日米両政府が2022年に新たな国家安全保障戦略を策定したことを踏まえて、今後の安保協力の方向性を議論し、13日にホワイトハウスで開かれる日米首脳",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/030/008000c",
+          "publishedOn": "2023-01-05T23:49:15.000Z",
+          "wordCount": 1099,
+          "title": "日米2プラス2、11日に開催　安保協力の方向性を議論",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/10/27/20221027k0000m030093000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/010/009000c",
+          "author": null,
+          "description": "西村康稔経済産業相は5日、米首都ワシントンのシンクタンク「戦略国際問題研究所」（CSIS）が主催するイベントに出席した。日本と米国が今年それぞれ議長国を務める主要7カ国（G7）とアジア太平洋経済協力会議（APEC）などの会合で、中国による貿易相手国に対する「経済的威圧」への対応などを議論する考えを",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/010/009000c",
+          "publishedOn": "2023-01-05T23:48:47.000Z",
+          "wordCount": 1027,
+          "title": "中国の「経済的威圧」　G7などで対応議論する考え　西村経産相",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/08/10/20220810k0000m010241000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230106/k00/00m/020/006000c",
+          "author": null,
+          "description": "5日のニューヨーク外国為替市場の円相場は午後5時現在、前日比79銭円安ドル高の1ドル＝133円36～46銭を付けた。ユーロは1ユーロ＝1・0516～26ドル、140円34～44銭。",
+          "link": "https://mainichi.jp/articles/20230106/k00/00m/020/006000c",
+          "publishedOn": "2023-01-05T23:09:47.000Z",
+          "wordCount": 988,
+          "title": "NY円、133円台前半　利上げ長期化の見方拡大でドル買い進む",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
+        },
         {
           "id": "https://mainichi.jp/articles/20230105/k00/00m/030/343000c",
           "author": null,
@@ -4227,6 +4532,26 @@
       "siteUrl": "https://www.aviationwire.jp",
       "articles": [
         {
+          "id": "https://www.aviationwire.jp/?p=268140",
+          "author": "Tadayuki YOSHIKAWA",
+          "description": "北九州空港利用促進連絡会は、同空港でレンタカーを利用すると最大5000円をキャッシュバックするキャンペーンを1月13日から始める。羽田発北九州行きを往復利用する人が対象となる。 　キャンペーンは事前登録が必要で、11日 […]",
+          "link": "https://www.aviationwire.jp/archives/268140",
+          "publishedOn": "2023-01-06T01:11:39.000Z",
+          "wordCount": 369,
+          "title": "北九州空港、レンタカー利用で最大5000円キャッシュバック　2月まで",
+          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2016/03/160316_0115_A320_sfj_rjfr-720.jpg"
+        },
+        {
+          "id": "https://www.aviationwire.jp/?p=268118",
+          "author": "Tadayuki YOSHIKAWA",
+          "description": "香港新興のグレーターベイ航空（HGB/HB）は、香港－成田線の就航計画を見直し、予定していた1月12日に就航する方針を固めた。日本政府が香港・マカオに対する水際対策を見直したため。 　グレーターベイ航空の成田線は、ボー […]",
+          "link": "https://www.aviationwire.jp/archives/268118",
+          "publishedOn": "2023-01-06T00:00:57.000Z",
+          "wordCount": 390,
+          "title": "香港新興グレーターベイ航空、成田1/12就航へ　水際対策見直し",
+          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2022/12/221202_737_hgb_01-720.jpg"
+        },
+        {
           "id": "https://www.aviationwire.jp/?p=268112",
           "author": "Tadayuki YOSHIKAWA",
           "description": "全日本空輸（ANA/NH）は1月5日、17日以降の香港発成田行きNH812便を一部復便すると発表した。2022年12月28日に運休を発表した運航日のうち、22日と24日、26日は運航する。 　見直し後も運休となるのは、 […]",
@@ -4513,6 +4838,76 @@
       "feedUrl": "http://av.watch.impress.co.jp/sublink/av.rdf",
       "siteUrl": "https://av.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1468372.html",
+          "author": null,
+          "description": "山下達郎が1976年～1982年までRCA/AIR YEARSにて発売した、アナログ盤、カセット、全8アイテムが、2023年最新リマスター&ヴァイナル・カッティングにて発売される。5月3日「FOR YOU」の発売を皮切りに、6月7日に「RIDE ON TIME」、7月5日に「MOONGLOW」と「GO AHEAD!」、8月2日に「SPACY」と「CIRCUS TOWN」、9月6日に「It's A Poppin Time」と「GREATEST HITS OF TATSURO YAMASHITA」が、5カ月連続で発売される。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1468372.html",
+          "publishedOn": "2023-01-06T01:22:44.000Z",
+          "wordCount": 4570,
+          "title": "山下達郎、RCA/AIR YEARSの名盤が最新リマスターでアナログ盤 + カセット発売",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1468/372/0607.jpg"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1467627.html",
+          "author": null,
+          "description": "ナスペックは、創業50年を迎えた英国Monitor Audioのアニバーサリーモデルとして、新しいフラッグシップスピーカー「Platinum Series 3G」を1月10日より発売する。価格は、フロア型の「Platinum 300 3G」が264万円(ペア)、「Platinum 200 3G」が198万円、ブックシェルフ型の「Platinum 100 3G」が99万円。センタースピーカーの「Platinum C250 3G」が93.5万円。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1467627.html",
+          "publishedOn": "2023-01-06T01:00:00.000Z",
+          "wordCount": 4378,
+          "title": "Monitor Audio、創業50年を記念したフラッグシップ「Platinum Series 3G」",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1467/627/m22.jpg"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1468262.html",
+          "author": null,
+          "description": "シャープは、約175gの超軽量ボディと高精細映像を実現した、スマートフォン接続型のVR(仮想現実)用ヘッドマウントディスプレイのプロトタイプを開発。8日まで米ラスベガスで開催中のテクノロジー見本市「CES 2023」に参考出展する。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1468262.html",
+          "publishedOn": "2023-01-05T18:00:00.000Z",
+          "wordCount": 4252,
+          "title": "シャープ初のスマホ接続型HMD。約175gで4K120Hz駆動",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1468/262/sh00.jpg"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1468232.html",
+          "author": null,
+          "description": "シャープは、8日まで開催中のテクノロジー見本市「CES 2023」(米ラスベガス)に出展。ミニLEDバックライトを搭載した次世代液晶テレビ「AQUOS XLED」シリーズをグローバル展開する、と発表した。米国を皮切りに、カナダやメキシコ、中国、台湾、ASEANおよび中近東諸国においても今春以降、順次発売する計画。米国市場においては、2015年にテレビ事業を一時撤退していたが、約8年ぶりに本格再参入する。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1468232.html",
+          "publishedOn": "2023-01-05T18:00:00.000Z",
+          "wordCount": 4269,
+          "title": "シャープAQUOS、再び世界へ。「AQUOS XLED」を’23年春よりグローバル展開",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1468/232/s00.jpg"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/series/rt/1467793.html",
+          "author": null,
+          "description": "今年、シャープはCESでメイン会場に展示を行わない。会場の外となるホテル内にプライベートブースを設け、そこでいくつかの新しい製品を発表する。",
+          "link": "https://av.watch.impress.co.jp/docs/series/rt/1467793.html",
+          "publishedOn": "2023-01-05T18:00:00.000Z",
+          "wordCount": 4287,
+          "title": "【西田宗千佳のRandomTracking】シャープが“軽い”HMDを自社開発、その中身に迫る",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1467/793/01.jpg"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1468225.html",
+          "author": null,
+          "description": "HARMAN Luxury Audio Groupは米現地時間1月4日、JBLブランドの「Classic」シリーズの新製品としてインテグレーテッド・アンプ「SA550 Classic」と、ストリーミングプレーヤー「MP350 Classic」、CDプレーヤー「CD350 Classic」、ターンテーブル「TT350 Classic」を発表した。いずれも現地1月5日にアメリカ・ラスベガスで開幕する「CES 2023」に出展される。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1468225.html",
+          "publishedOn": "2023-01-05T15:00:00.000Z",
+          "wordCount": 4281,
+          "title": "JBL「Classic」にアンプやCDプレーヤー、ターンテーブル",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1468/225/sa.jpg"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/topic/special/1465374.html",
+          "author": null,
+          "description": "PC用ディスプレイの世界では、今、HDRに対応した製品が続々と登場してきている。プロフェッショナル用途の動画・静止画のHDR制作をはじめ、HDR対応ゲームの増加、動画配信サービスで多数のHDR作品が配信されるようになった事も背景にある。こうした映像を、高画質に表示できるディスプレイが求められており、BenQが6日に発売した、MOBIUZシリーズで初めて有機ELパネルを採用した4Kディスプレイ「EX480UZ」も、そのひとつだ。",
+          "link": "https://av.watch.impress.co.jp/docs/topic/special/1465374.html",
+          "publishedOn": "2023-01-05T15:00:00.000Z",
+          "wordCount": 4352,
+          "title": "最強書斎モニタ!?“有機EL”搭載BenQ「EX480UZ」でゲームと映画を満喫[Sponsored]",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1465/374/DSC01349.jpg"
+        },
         {
           "id": "https://av.watch.impress.co.jp/docs/news/1468252.html",
           "author": null,
@@ -5034,6 +5429,56 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17133",
+          "author": null,
+          "description": "Pagesは、開発中のオンライン学習プラットフォーム「TomoCode」にて、初学者からでもPythonでデータサイエンスを学べるプログラムの一般申込み受付を1月3日から開始した。また、初夢キャンペーンとして1週間限定の早期割引キャンペーンを実施している。",
+          "link": "http://codezine.jp/article/detail/17133",
+          "publishedOn": "2023-01-06T01:00:00.000Z",
+          "wordCount": 4294,
+          "title": "「ピアラーニング」を採用したオンライン学習環境「TomoCode」、1月3日から申込み受付開始",
+          "imageUrl": "https://codezine.jp/static/images/article/17133/17133_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17134",
+          "author": null,
+          "description": "ボスアーキテクトは、同社が運営するフリーランスエンジニアやデザイナーのための求人・案件サイト「エンジニアスタイル東京」に掲載されたデータをもとに集計した「2022年のフリーランスエンジニアの言語別、フレームワーク別、開発環境別、職種別の平均単価データ」を発表した。",
+          "link": "http://codezine.jp/article/detail/17134",
+          "publishedOn": "2023-01-06T01:00:00.000Z",
+          "wordCount": 4295,
+          "title": "ボスアーキテクトが「2022年フリーランスエンジニアの言語別、フレームワーク別、開発環境別、職種別の平均単価データ」を発表",
+          "imageUrl": "https://codezine.jp/static/images/article/17134/17134_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17139",
+          "author": null,
+          "description": "米Meta Platformsは、モバイルアプリフレームワークReact Nativeの次世代版となる、「React Native 0.71」に加わった新機能について公式ブログの1月3日（現地時間）付け投稿で解説している。本稿公開時点で、React Nativeの最新安定版はバージョン0.70。次世代版のバージョン0.71については、リリース候補版（RC：Release Candidate）5が登場している。React Nativeは、MITライセンスで公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17139",
+          "publishedOn": "2023-01-06T00:00:00.000Z",
+          "wordCount": 4305,
+          "title": "「React Native 0.71」ではTypeScriptが事実上の標準言語に──Metaの新機能解説より",
+          "imageUrl": "https://codezine.jp/static/images/article/17139/14987_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17140",
+          "author": null,
+          "description": "スタンフォード大学の博士課程で学ぶ学生であるZiheng Wang氏は、Python向け高速分散クエリ・エンジン「Quokka」の最新版となる「バージョン0.1.4」を12月30日（現地時間）に公開した。QuokkaはApache License 2.0で公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17140",
+          "publishedOn": "2023-01-06T00:00:00.000Z",
+          "wordCount": 4299,
+          "title": "Python向け高速分散クエリ・エンジン「Quokka」のバージョン0.14が登場",
+          "imageUrl": "https://codezine.jp/static/common/images/czlogo4fb_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17131",
+          "author": null,
+          "description": "Linux Foundation傘下である、Pythonによる機械学習ライブラリPyTorch開発チームは、Linux向けのPyTorch-nightlyがセキュリティ侵害を受けた可能性があることから、2022年12月25日～30日（現地時間）の期間にpip経由でLinuxにPyTorch-nightlyをインストールしている場合、ただちにtorchtritonとともにアンインストールし、最新のnightlyバイナリを使用するよう求めている。",
+          "link": "http://codezine.jp/article/detail/17131",
+          "publishedOn": "2023-01-05T23:00:00.000Z",
+          "wordCount": 4318,
+          "title": "2022年12月25日～30日に、Linux向けPyTorch-nightlyに対するセキュリティ侵害が発生",
+          "imageUrl": "https://codezine.jp/static/images/article/17131/12729_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17132",
           "author": null,
           "description": "〇（まる）は、4月にHMDを利用したメタバース上でのみ授業を行う「メタバース情報工学大学」を開校する。",
@@ -5349,6 +5794,36 @@
       "feedUrl": "http://f1-gate.com/rss2.xml",
       "siteUrl": "https://f1-gate.com/",
       "articles": [
+        {
+          "id": "https://f1-gate.com/honda/f1_72767.html",
+          "author": null,
+          "description": "ホンダは、ゼネラルモーターズ（GM）がアンドレッティ・グローバルと提携してF1参戦を目指すキャデラック・レーシングにF1エンジンを供給する最も論理的な選択肢として浮上した。\r\n\r\nアンドレッティは1月5日（木）、FIA（国際自動車連盟）にできるだけ早くF1に参入す... 続きを読む",
+          "link": "https://f1-gate.com/honda/f1_72767.html",
+          "publishedOn": "2023-01-06T01:07:00.000Z",
+          "wordCount": 679,
+          "title": "ホンダ、アンドレッティ・キャデラックのF1エンジンサプライヤー候補に浮上",
+          "imageUrl": "https://f1-gate.com/media/img2023/20230106-honda-f1.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/andretti/f1_72766.html",
+          "author": null,
+          "description": "アンドレッティ・グローバルとゼネラルモーターズは、キャデラックとして今後数年間で新しいF1チームで参加する計画を発表した。\r\n\r\nアンドレッティは昨年2月、将来的にF1オペレーションを開始することを計画していることを明らかにし、2022年シーズンの多くを既存の... 続きを読む",
+          "link": "https://f1-gate.com/andretti/f1_72766.html",
+          "publishedOn": "2023-01-05T15:49:21.000Z",
+          "wordCount": 679,
+          "title": "アンドレッティとキャデラックがF1参戦を目指してタッグ結成！",
+          "imageUrl": "https://f1-gate.com/media/img2023/20230106-andretthi-cadillac-f1.jpg"
+        },
+        {
+          "id": "https://f1-gate.com/mclaren/f1_72765.html",
+          "author": null,
+          "description": "アーティストのフロリアン・ウェーバーは、完全に紙でできた他とは一線を画す見事なフルサイズのマクラーレンのF1マシンを制作した。\r\n\r\nPaperlegend というアーティスト名で活動するフロリアン・ウェーバーは、これまでペーパークラフトで非常に詳細な自動車の縮尺... 続きを読む",
+          "link": "https://f1-gate.com/mclaren/f1_72765.html",
+          "publishedOn": "2023-01-05T15:05:18.000Z",
+          "wordCount": 665,
+          "title": "ペーパークラフトで制作された実寸大のマクラーレンF1マシン",
+          "imageUrl": "https://f1-gate.com/media/img2023/20230105-mclaren.jpg"
+        },
         {
           "id": "https://f1-gate.com/f1car/f1_72763.html",
           "author": null,
@@ -5857,6 +6332,26 @@
       "siteUrl": "https://fabcross.jp",
       "articles": [
         {
+          "id": "https://fabcross.jp/news/2023/20230106_ProgrammingEducationInstitute.html",
+          "author": null,
+          "description": "小中学生向けの無料プログラミング教室を展開するプログラミング教育研究所は、東京都福祉保健財団が公募する「子供が輝く東京・応援事業」で令和4年度の採択団体となり、2023年1月から2025年3月まで助成事業を開始する。",
+          "link": "https://fabcross.jp/news/2023/20230106_ProgrammingEducationInstitute.html",
+          "publishedOn": "2023-01-05T22:30:00.000Z",
+          "wordCount": 1335,
+          "title": "東京都内のこども食堂やPCクラブなどに、無償でIT講師やmicro:bitなどを提供する事業を開始",
+          "imageUrl": "https://fabcross.jp/news/2023/dmln53000012xkvv-img/dmln53000012xkwo.png"
+        },
+        {
+          "id": "https://fabcross.jp/news/2023/20230106_wedusea.html",
+          "author": null,
+          "description": "波力エネルギーの大規模な商業化を目指す「WEDUSEA」プロジェクトが、2022年10月にスペインで開催された海洋エネルギーの国際会議で、その計画を発表した。",
+          "link": "https://fabcross.jp/news/2023/20230106_wedusea.html",
+          "publishedOn": "2023-01-05T22:00:00.000Z",
+          "wordCount": 1352,
+          "title": "世界最大の洋上波力発電施設、スコットランド沖で4年間の実証計画を開始",
+          "imageUrl": "https://fabcross.jp/news/2023/dmln53000012xkrb-img/dmln53000012xks4.jpg"
+        },
+        {
           "id": "https://fabcross.jp/news/2023/20230105_SK10K.html",
           "author": null,
           "description": "SK本舗が光造形式3Dプリンタ—向け新材料「SK10K水洗いレジン」を発売した。",
@@ -6039,6 +6534,66 @@
       "feedUrl": "http://gigazine.net/index.php?/news/rss_2.0",
       "siteUrl": "https://gigazine.net/",
       "articles": [
+        {
+          "id": "https://gigazine.net/news/20230106-sony-playstation-5-shortage-over/",
+          "author": null,
+          "description": "世界最大級の家電見本市であるCES 2023が2023年1月6日からスタートしています。この中でソニーがプレスカンファレンスを開催しており、PlayStationの開発・販売を行うソニー・インタラクティブエンタテインメント(SIE)のジム・ライアンCEOが、PlayStation 5(PS5)の世界的な在庫不足がついに解消されたと発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-sony-playstation-5-shortage-over/",
+          "publishedOn": "2023-01-06T01:30:00.000Z",
+          "wordCount": 2715,
+          "title": "PS5の在庫不足が解消されたとPlayStation公式が発表",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/sony-playstation-5-shortage-over/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-openai-tender-offer/",
+          "author": null,
+          "description": "チャットAI「ChatGPT」を開発した研究機関のOpenAIが、株式公開買付けによる既存株式の売却を交渉中であることがウォール・ストリート・ジャーナルにより報じられました。OpenAIの評価額は約290億ドル(約3兆9000億円)となり、株式売却額は少なくとも3億ドル(約400億円)になると見られています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-openai-tender-offer/",
+          "publishedOn": "2023-01-06T01:30:00.000Z",
+          "wordCount": 2411,
+          "title": "「ChatGPT」開発のOpenAIが約400億円で株式公開買付けを交渉中との報道",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/openai-tender-offer/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-huawei-moving-safe-zone/",
+          "author": null,
+          "description": "中国の大手テクノロジー企業であるHuaweiに対して、アメリカ政府はかねてから「国家安全保障上の脅威」として厳しい規制を行っています。Huaweiは規制の影響でビジネスに大打撃を受けていましたが、2022年の売上高は前年比で微増となり、底を脱したことが報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-huawei-moving-safe-zone/",
+          "publishedOn": "2023-01-06T00:00:00.000Z",
+          "wordCount": 2464,
+          "title": "アメリカ政府の規制で深刻な危機に陥ったHuaweiの年間売上高が前年比で微増となり「危機的状態を脱した」と宣言",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/huawei-moving-safe-zone/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-eufy-smart-scale-p2-pro-manage/",
+          "author": null,
+          "description": "Ankerのスマートホームブランド・Eufyから、初の体重体組成計となる「Eufy Smart Scale P2 Pro」が2022年8月30日に登場しました。Wi-FiやBluetooth接続に対応しており、スマートフォンにアクセスし、体重だけではなく心拍数や体脂肪率、BMI、筋肉量、水分量、基礎代謝量、内臓脂肪量、体脂肪量、除脂肪体重、骨量(kg)、タンパク質、体内年齢、骨格筋量、皮下脂肪率、体脂肪率、ボディタイプの全16項目を測定可能。スマートフォンのアプリ「EufyLife」と連携させることで自分の測定したデータを管理できるとのことで、実際に数日計測をしてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-eufy-smart-scale-p2-pro-manage/",
+          "publishedOn": "2023-01-05T23:00:00.000Z",
+          "wordCount": 2568,
+          "title": "16項目を測定できるAnker初のスマート体重体組成計「Eufy Smart Scale P2 Pro」で計測したデータをスマホで管理する方法",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/eufy-smart-scale-p2-pro-manage/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-new-york-repair-low/",
+          "author": null,
+          "description": "アメリカのニューヨーク州知事のキャシー・ホークル氏が、2022年12月28日に広い範囲の電子機器を対象にした「修理する権利」を認める「デジタル公正修理法」に署名しました。これにより同法が2023年7月1日から施行されることが決まりましたが、ホークル知事が署名した法案には、多くの条件や例外を伴う修正が含まれており、物議を醸しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-new-york-repair-low/",
+          "publishedOn": "2023-01-05T22:00:00.000Z",
+          "wordCount": 2471,
+          "title": "「修理する権利」を認める法律が法制化され2023年7月1日からニューヨークで有効に",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/new-york-repair-low/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-detained-romania-influencer-misogynist/",
+          "author": null,
+          "description": "女性差別的な発言でTwitterなど多くのソーシャルメディアから追放されていたインフルエンサーのアンドリュー・テイト容疑者が、兄弟らとともに人身売買やレイプなどの容疑で逮捕および勾留されたことが分かりました。テイト容疑者は、イーロン・マスク氏により凍結が解除されたTwitterアカウントで環境活動家のグレタ・トゥーンベリ氏と舌戦を繰り広げたことで一時海外のソーシャルメディア上で話題となっていました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-detained-romania-influencer-misogynist/",
+          "publishedOn": "2023-01-05T21:00:00.000Z",
+          "wordCount": 2627,
+          "title": "Twitterでグレタ・トゥーンベリに絡みに行った女性差別インフルエンサーが直後に人身売買の容疑で逮捕されてしまう",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/detained-romania-influencer-misogynist/00.jpg"
+        },
         {
           "id": "https://gigazine.net/news/20230105-ryushi-selling-twitter-400-million-users-data/",
           "author": null,
@@ -6877,6 +7432,26 @@
       "siteUrl": "https://gihyo.jp",
       "articles": [
         {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202301/06?utm_source=feed",
+          "author": null,
+          "description": "2022年には22.04 LTSがリリースされ、数多くのRISC-Vボードへの対応が進むなど、地味ではあるものの多くの変化が訪れた年でした。今回は、2023年にはどのようなことが起きうるのか、昨年の動きを元に考えていきます。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202301/06?utm_source=feed",
+          "publishedOn": "2023-01-06T00:54:00.000Z",
+          "wordCount": 264,
+          "title": "2023年のUbuntu",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2023/01/monthly-python-2301?utm_source=feed",
+          "author": null,
+          "description": "筒井@ryu22eです。2023年最初の「Python Monthly Topics」は、Python 3.11の新機能Data Class Transforms（PEP 681）について解説します。",
+          "link": "https://gihyo.jp/article/2023/01/monthly-python-2301?utm_source=feed",
+          "publishedOn": "2023-01-06T00:22:00.000Z",
+          "wordCount": 776,
+          "title": "O/Rマッパーの型チェックを強化できるPython 3.11の新機能 Data Class Transforms（PEP 681）",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1894_python-monthly.png"
+        },
+        {
           "id": "https://gihyo.jp/article/2023/01/daily-linux-230105?utm_source=feed",
           "author": null,
           "description": "Fedoraプロジェクトは現在、2023年4月に予定している次期リリース「Fedora Linux 38」に向けてさまざまなアップデートを計画しているが、とくにデスクトップ版において重要となる改善がユーザエクスペリエンス（UX）の向上である。そのひとつとして提案されているのがsystemdのタイムアウト処理を現在の2分から15秒に短縮するというものだ。",
@@ -7224,6 +7799,266 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=34269503",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34269503",
+          "publishedOn": "2023-01-06T01:01:26.000Z",
+          "wordCount": 168,
+          "title": "Generally Intelligent (YC S17) Is Hiring Simulation Engineers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://articles.roland.com/soaring-sound-meet-the-piano-of-the-future/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://articles.roland.com/soaring-sound-meet-the-piano-of-the-future/",
+          "publishedOn": "2023-01-05T23:47:58.000Z",
+          "wordCount": 4360,
+          "title": "Roland's 50th Anniversary Concept Piano makes use of drone speakers",
+          "imageUrl": "https://articles.roland.com/wp-content/uploads/2022/12/Shot_01-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.propublica.org/article/google-human-tissue-jpc-military",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.propublica.org/article/google-human-tissue-jpc-military",
+          "publishedOn": "2023-01-05T23:15:09.000Z",
+          "wordCount": 6878,
+          "title": "Google’s quest to digitize troops’ tissue samples",
+          "imageUrl": "https://img.assets-c3.propublica.org/images/articles/20221121-DOD-OG.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssets&q=90&w=1200&s=67f8733799fed94153f768dc4380be08"
+        },
+        {
+          "id": "https://lemire.me/blog/2023/01/05/transcoding-unicode-with-avx-512-amd-zen-4-vs-intel-ice-lake/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lemire.me/blog/2023/01/05/transcoding-unicode-with-avx-512-amd-zen-4-vs-intel-ice-lake/",
+          "publishedOn": "2023-01-05T22:38:30.000Z",
+          "wordCount": 3283,
+          "title": "Transcoding Unicode with AVX-512: AMD Zen 4 vs. Intel Ice Lake",
+          "imageUrl": "https://lemire.me/img/portrait2018facebook.jpg"
+        },
+        {
+          "id": "https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs",
+          "publishedOn": "2023-01-05T21:59:45.000Z",
+          "wordCount": 9012,
+          "title": "I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS",
+          "imageUrl": "https://kentcdodds.com/img/social?type=2&title=I+Migrated+from+a+Postgres+Cluster+to+Distributed+SQLite+with+LiteFS&preTitle=Check+out+this+article&img=unsplash%2Fphoto-1642134222020-cc21d2e39dd6&url=kentcdodds.com%2Fblog%2Fi-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs"
+        },
+        {
+          "id": "https://cpucycles.cr.yp.to/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cpucycles.cr.yp.to/",
+          "publishedOn": "2023-01-05T21:25:49.000Z",
+          "wordCount": 330,
+          "title": "Libcpucycles is a public-domain microlibrary for counting CPU cycles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alleninstitute.org/what-we-do/cell-science/news-press/articles/interior-design-our-cells",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alleninstitute.org/what-we-do/cell-science/news-press/articles/interior-design-our-cells",
+          "publishedOn": "2023-01-05T21:14:28.000Z",
+          "wordCount": 1352,
+          "title": "Database of 200k cell images yields new mathematical framework",
+          "imageUrl": "https://alleninstitute.org/media/filer_public/2f/6b/2f6b83c2-e38b-4a4a-8a0b-180f8d4dff30/variance_integratedcelltilted.jpeg"
+        },
+        {
+          "id": "https://posts.decontextualize.com/language-models-poetry/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://posts.decontextualize.com/language-models-poetry/",
+          "publishedOn": "2023-01-05T21:06:35.000Z",
+          "wordCount": 6593,
+          "title": "Language models and poetics (2020)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/",
+          "publishedOn": "2023-01-05T20:40:40.000Z",
+          "wordCount": 8361,
+          "title": "The physics principle of diffusion inspired modern AI art",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/DifussionModels-bySutterstock-SamuelVelasco-Social-1.webp"
+        },
+        {
+          "id": "https://ksltv.com/516749/why-are-antennas-popping-up-all-over-the-foothills-salt-lake-city-seeks-to-solve-mystery/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ksltv.com/516749/why-are-antennas-popping-up-all-over-the-foothills-salt-lake-city-seeks-to-solve-mystery/",
+          "publishedOn": "2023-01-05T20:35:48.000Z",
+          "wordCount": 3007,
+          "title": "Why are antennas popping up over the Salt Lake City foothills?",
+          "imageUrl": "https://ksltv.com/wp-content/uploads/2023/01/Why-are-antennas-popping-up-all-over-the-foothills-Salt-Lake-City-seeks-to-solve-mystery-010423.jpg"
+        },
+        {
+          "id": "https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/",
+          "publishedOn": "2023-01-05T20:29:08.000Z",
+          "wordCount": 1819,
+          "title": "Microfeatures I'd like to see in more languages",
+          "imageUrl": null
+        },
+        {
+          "id": "https://billychasen.medium.com/twilios-toll-fraud-problem-28b3aef39243",
+          "author": null,
+          "description": "Comments",
+          "link": "https://billychasen.medium.com/twilios-toll-fraud-problem-28b3aef39243",
+          "publishedOn": "2023-01-05T19:44:48.000Z",
+          "wordCount": 1944,
+          "title": "Twilio’s toll fraud problem",
+          "imageUrl": "https://miro.medium.com/max/1200/1*joZpCrT36nWFohQY-Ulo-g.png"
+        },
+        {
+          "id": "https://astronomy.stackexchange.com/questions/51501/is-it-possible-for-a-lunar-eclipse-to-occur-before-sunset",
+          "author": null,
+          "description": "Comments",
+          "link": "https://astronomy.stackexchange.com/questions/51501/is-it-possible-for-a-lunar-eclipse-to-occur-before-sunset",
+          "publishedOn": "2023-01-05T19:34:35.000Z",
+          "wordCount": 2609,
+          "title": "Is it possible for a lunar eclipse to occur before sunset?",
+          "imageUrl": "https://cdn.sstatic.net/Sites/astronomy/Img/apple-touch-icon@2.png?v=46633b7672b0"
+        },
+        {
+          "id": "https://litesync.io/en/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://litesync.io/en/index.html",
+          "publishedOn": "2023-01-05T19:34:16.000Z",
+          "wordCount": 192,
+          "title": "LiteSync – Easy synchronization of SQLite databases",
+          "imageUrl": null
+        },
+        {
+          "id": "https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local",
+          "author": null,
+          "description": "Comments",
+          "link": "https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local",
+          "publishedOn": "2023-01-05T19:30:48.000Z",
+          "wordCount": 11765,
+          "title": "Show HN: ClickHouse-local – a small tool for serverless data analytics",
+          "imageUrl": "https://clickhouse.com/uploads/clickhouse_local_754f4824bd.png"
+        },
+        {
+          "id": "https://www.goatcounter.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.goatcounter.com/",
+          "publishedOn": "2023-01-05T19:25:34.000Z",
+          "wordCount": 408,
+          "title": "GoatCounter: Open-source hosted/self-hosted web analytics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Owez/yark",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Owez/yark",
+          "publishedOn": "2023-01-05T18:45:19.000Z",
+          "wordCount": 981,
+          "title": "Yark: Advanced and easy YouTube archiver now stable",
+          "imageUrl": "https://opengraph.githubassets.com/8ecdcb4478a3f44484eeacab479bb5df34e50a71bb7f6e7693bae48dd2fdb1c7/Owez/yark"
+        },
+        {
+          "id": "https://shiftrobotics.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://shiftrobotics.io/",
+          "publishedOn": "2023-01-05T18:40:27.000Z",
+          "wordCount": 4030,
+          "title": "Moonwalkers: Shoes that make you walk faster (pre-order)",
+          "imageUrl": "http://cdn.shopify.com/s/files/1/0652/6238/7422/files/SHIFT_LOGO-2.png?height=628&pad_color=fff&v=1658395435&width=1200"
+        },
+        {
+          "id": "https://www.caltech.edu/about/news/caltech-to-launch-space-solar-power-technology-demo-into-orbit-in-january",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.caltech.edu/about/news/caltech-to-launch-space-solar-power-technology-demo-into-orbit-in-january",
+          "publishedOn": "2023-01-05T17:49:18.000Z",
+          "wordCount": 2295,
+          "title": "Caltech to launch space solar power technology demo into orbit",
+          "imageUrl": "https://caltech-prod.s3.amazonaws.com/main/images/SSPD-1440x1060pixels48.width-600.jpg"
+        },
+        {
+          "id": "https://www.vimonlineeditor.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vimonlineeditor.com/",
+          "publishedOn": "2023-01-05T17:02:04.000Z",
+          "wordCount": 1258,
+          "title": "Show HN: Vim online editor using WebAssembly, storing files using IndexedDB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.npr.org/2023/01/05/1142817339/america-needs-carpenters-and-plumbers-try-telling-that-to-gen-z",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.npr.org/2023/01/05/1142817339/america-needs-carpenters-and-plumbers-try-telling-that-to-gen-z",
+          "publishedOn": "2023-01-05T16:33:22.000Z",
+          "wordCount": 1838,
+          "title": "The skilled trades haven't caught as a career choice with Gen Z",
+          "imageUrl": "https://media.npr.org/assets/img/2022/12/16/ap21334817875512_wide-f7e32bff22d3625a8ddcae5f0d37480aed7d1d72-s1400-c100.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34262047",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34262047",
+          "publishedOn": "2023-01-05T16:18:39.000Z",
+          "wordCount": 1964,
+          "title": "Show HN: Ello (YC W20) – AI-reading tutor for kids that works with real books",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/blog/the-yc-founder-directory",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/blog/the-yc-founder-directory",
+          "publishedOn": "2023-01-05T16:00:52.000Z",
+          "wordCount": 9932,
+          "title": "The YC Founder Directory",
+          "imageUrl": "https://www.ycombinator.com/blog/content/images/2023/01/BlogTwitter-Image-Template-3.jpeg"
+        },
+        {
+          "id": "https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html",
+          "publishedOn": "2023-01-05T15:07:03.000Z",
+          "wordCount": 5917,
+          "title": "U.S. moves to bar noncompete agreements in labor contracts",
+          "imageUrl": "https://static01.nyt.com/images/2023/01/05/multimedia/05noncompete-1-1-173c/05noncompete-1-1-173c-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.anandtech.com/show/18709/amd-unveils-ryzen-9-7950x3d-7900x3d-and-ryzen-7-7800x3d-up-to-128-mb-of-l3-cache-and-5-7-ghz-boost",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anandtech.com/show/18709/amd-unveils-ryzen-9-7950x3d-7900x3d-and-ryzen-7-7800x3d-up-to-128-mb-of-l3-cache-and-5-7-ghz-boost",
+          "publishedOn": "2023-01-05T14:46:31.000Z",
+          "wordCount": 4986,
+          "title": "AMD Announces 7950X3D, 7900X3D Upto 128MB L3 Cache",
+          "imageUrl": "https://images.anandtech.com/doci/18709/7000X3D-Render-1_crop_678x452.jpg"
+        },
+        {
+          "id": "https://scottaaronson.blog/?p=6957",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scottaaronson.blog/?p=6957",
+          "publishedOn": "2023-01-05T14:38:56.000Z",
+          "wordCount": 2899,
+          "title": "Cargo Cult Quantum Factoring",
+          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
+        },
+        {
           "id": "https://www.cnn.com/2023/01/04/politics/iranian-drone-parts-13-us-companies-ukraine-russia/index.html",
           "author": null,
           "description": "Comments",
@@ -7312,6 +8147,16 @@
           "wordCount": 7403,
           "title": "The (Almost) Definitive 486DX/50 Article",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaxOTxjhnAFnAdTWsOhfh3qUJ0Rl0zDkiqd8ElpiJTCbyd3E5oVdkhglOxw1yU761-HBihnaUag79hNFbKrTHwINKAAaQb4u-uUBZPMl8CNylcR4oN3L_AofrU2Py3M8u-TTSLCbZqqrGpXmfTgydOW_44mkQME3-5NwiWEvSJmmkA_4XIcTpBa1Rf/w1200-h630-p-k-no-nu/broken.jpeg"
+        },
+        {
+          "id": "https://blog.the.al/2023/01/01/ds4-reverse-engineering.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.the.al/2023/01/01/ds4-reverse-engineering.html",
+          "publishedOn": "2023-01-05T10:09:47.000Z",
+          "wordCount": 1805,
+          "title": "Reverse Engineering the DualShock 4",
+          "imageUrl": null
         },
         {
           "id": "https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks",
@@ -7482,6 +8327,16 @@
           "wordCount": 683,
           "title": "Newsraft: feed reader with ncurses user interface",
           "imageUrl": "https://codeberg.org/avatars/0fc43f0dc9c58e826f0509fc39700bee"
+        },
+        {
+          "id": "https://www.tubesandmore.com/tech-articles/potentiometer-taper-modifications",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tubesandmore.com/tech-articles/potentiometer-taper-modifications",
+          "publishedOn": "2023-01-04T21:23:50.000Z",
+          "wordCount": null,
+          "title": "Potentiometers – Modifying Taper",
+          "imageUrl": null
         },
         {
           "id": "https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote",
@@ -7722,6 +8577,16 @@
           "wordCount": 18287,
           "title": "Parallel streaming in Haskell: Part 1 – Fast, efficient, and fun",
           "imageUrl": null
+        },
+        {
+          "id": "https://hypertextbook.com/chaos/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hypertextbook.com/chaos/",
+          "publishedOn": "2023-01-04T12:57:11.000Z",
+          "wordCount": 899,
+          "title": "Chaos Hypertextbook",
+          "imageUrl": "https://hypertextbook.com/chaos/og-image.jpg"
         },
         {
           "id": "https://www.theverge.com/2023/1/4/23538548/macbook-class-action-lawsuit-claims-faulty-butterfly-keyboard",
@@ -9411,6 +10276,26 @@
       "siteUrl": "https://juggly.cn",
       "articles": [
         {
+          "id": "https://juggly.cn/?p=245231",
+          "author": "juggly",
+          "description": "Xiaomi が Redmi Note 12 の製品ラインに 2 億画素カメラを備えた「Redmi Note 12 Pro+ 5G」を追加しました。インドで発表された Redmi Note 12 シリーズのうち、今回の  [...]",
+          "link": "https://juggly.cn/archives/245231.html",
+          "publishedOn": "2023-01-05T16:34:06.000Z",
+          "wordCount": 575,
+          "title": "Xiaomi、Redmiスマホに2億画素カメラを導入、Redmi Note 12 Pro+をインドで発売",
+          "imageUrl": null
+        },
+        {
+          "id": "https://juggly.cn/?p=245227",
+          "author": "juggly",
+          "description": "中国のスマホブランド Realme が同社のフラッシュ充電技術を紹介するカンファレンスを開催し、スマホの充電性能を 240W にまで引き上げた最新のフラシュ充電技術を発表しました。240W 充電は 2 月に発売予定の R [...]",
+          "link": "https://juggly.cn/archives/245227.html",
+          "publishedOn": "2023-01-05T14:42:52.000Z",
+          "wordCount": 553,
+          "title": "Realmeが240Wのフラッシュ充電技術を発表、2月発売のRealme GT Neo 5に導入",
+          "imageUrl": null
+        },
+        {
           "id": "https://juggly.cn/?p=245223",
           "author": "juggly",
           "description": "ASUS がクラウドゲームのために設計した全く新しいタイプの Chromebook 「ASUS Chromebook Vibe CX34 Flip」を CES 2023 で発表しました。 元々、Chromebook は  [...]",
@@ -9941,6 +10826,26 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=293619",
+          "author": "Melissa Heikkilä",
+          "description": "大規模言語モデルAIが生成した有害なテキストはインターネット中に広がり、別のAIを訓練するのに使われる。しかも、AIが生成したテキストであるかどうかを見分けるのは、非常に難しい。",
+          "link": "https://www.technologyreview.jp/s/293619/how-ai-generated-text-is-poisoning-the-internet/",
+          "publishedOn": "2023-01-06T01:39:05.000Z",
+          "wordCount": 1386,
+          "title": "AI生成コンテンツに汚染されるインターネット、その対策は？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/12/20193504/ai-pencils2-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=291593",
+          "author": "Lorenzo Franceschi-Bicchierai",
+          "description": "2022年もランサムウェアによる被害は絶えず、病院や学校、政府機関などが標的となった。ロシアによるウクライナ侵攻など、2022年のサイバーセキュリティ動向を振り返りながら、2023年の大きな動きを予測する。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/291593/whats-next-in-cybersecurity/",
+          "publishedOn": "2023-01-05T21:59:47.000Z",
+          "wordCount": 1217,
+          "title": "露ウクライナ侵攻で激動、 サイバーセキュリティは 2023年こうなる",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/11/28191504/infosec2a_1-1400x787.jpeg"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=294105",
           "author": "Jessica Hamzelou",
           "description": "最低でも1000万ドルを投資する用意がある人だけが参加できるという、抗老化（アンチエイジング）カンファレンスが2022年9月末にスイスで開かれた。学術的成果を挙げている科学者、誇大広告を振りかざす人物などが入り乱れた様子をレポートする。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
@@ -10163,6 +11068,26 @@
       "feedUrl": "https://www.moguravr.com/feed/",
       "siteUrl": "https://www.moguravr.com",
       "articles": [
+        {
+          "id": "https://www.moguravr.com/?p=209933",
+          "author": "浅田カズラ",
+          "description": "日本時間1月6日（金）3時、HTCは新型XRヘッドセット「VIVE XR Elite」を発表しました。価格は179,000円（税込）。事前予約は1月6日（金）から開始され、配送は2月下旬以降を予定しています。 「VIVE […]\nThe post HTC、新型XRヘッドセット「VIVE XR Elite」発表！ 価格は179,000円。MRにも対応する625gの小型軽量ヘッドセット appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/vive-xr-elite/",
+          "publishedOn": "2023-01-05T18:47:54.000Z",
+          "wordCount": 1011,
+          "title": "HTC、新型XRヘッドセット「VIVE XR Elite」発表！ 価格は179,000円。MRにも対応する625gの小型軽量ヘッドセット",
+          "imageUrl": "https://assets.moguravr.com/uploads/2023/01/VIVE-XR-Elite-full-kit-front-angle.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=209914",
+          "author": "西田宗千佳",
+          "description": "シャープがCESに合わせて、VR用HMDの試作品を公開した。発売時期などは未定。ディスプレイやレンズを含むほとんどの部品を自社で開発しており、今後のビジネス展開拡大を目指す。詳細がわかったのでお伝えする。 なお、本記事は […]\nThe post シャープがCESで公開した新HMDをいち早くチェック、軽量・薄型で視度調整やカラーカメラも内蔵 appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/sharp-new-hmd-report/",
+          "publishedOn": "2023-01-05T18:00:04.000Z",
+          "wordCount": 1023,
+          "title": "シャープがCESで公開した新HMDをいち早くチェック、軽量・薄型で視度調整やカラーカメラも内蔵",
+          "imageUrl": "https://assets.moguravr.com/uploads/2023/01/202301051633971000.jpg"
+        },
         {
           "id": "https://www.moguravr.com/?p=209929",
           "author": "浅田カズラ",
@@ -10754,6 +11679,126 @@
       "feedUrl": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
       "siteUrl": "https://pc.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1468370.html",
+          "author": null,
+          "description": "1月3日から7日にかけて開催されているAmazon初売りセールにおいて、内蔵型SSDがお買い得だ。キオクシア「EXCERIA G2 NVMe SSD」シリーズの場合、500GB版が1,000円引きの4,480円、1TB版が1,900円引きの8,080円で購入できる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1468370.html",
+          "publishedOn": "2023-01-06T01:18:59.000Z",
+          "wordCount": 5250,
+          "title": "本日みつけたお買い得品キオクシアのNVMe SSD 1TB版が1,900円オフ。Amazon初売り",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1468/370/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1468364.html",
+          "author": null,
+          "description": "1月7日まで開催中のAmazon初売りセールにおいて、ポータブル電源が割り引き価格で販売中だ。Anker「535 Portable Power Station」は、1万6,000円の値引きで、4万8,900円にて購入できる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1468364.html",
+          "publishedOn": "2023-01-06T01:06:19.000Z",
+          "wordCount": 5231,
+          "title": "本日みつけたお買い得品Ankerの512Whポータブル電源が1万6千円オフ。Amazon初売り",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1468/364/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1468363.html",
+          "author": null,
+          "description": "Amazonで1月7日まで開催されている初売りセールにおいて、電源タップ機能付きのUSB充電器が安くなっている。Anker「521 Power Strip」の場合、15%オフにあたる598円引きにより、3,392円にて購入可能だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1468363.html",
+          "publishedOn": "2023-01-06T00:52:15.000Z",
+          "wordCount": 5241,
+          "title": "本日みつけたお買い得品Ankerの電源タップ付きUSB充電器が15%オフ。Amazon初売り",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1468/363/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/nishikawa/1468283.html",
+          "author": null,
+          "description": "長らくWindowsのLinux環境としてWSL(Windows Subsystem for Linux)が使われていたものの、Microsoftストア版が正式リリースされたのは昨年(2022年)11月。そこで、リアルLinuxにどこまで迫る環境になったのか、Mastodonを非Dockerで動かしてみたい。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/1468283.html",
+          "publishedOn": "2023-01-05T21:35:00.000Z",
+          "wordCount": 5702,
+          "title": "【西川和久の不定期コラム】Ubuntu 22.04を使ってMastodon(非Docker)を動かす！正式リリースされたストア版WSL2で起動",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1468/283/00.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/event/1468340.html",
+          "author": null,
+          "description": "NVIDIAは1月3日午前(米国時間)に、CESのデジタル・プラットフォームを利用して記者会見を行ない、GeForce RTX 40シリーズの現時点の最廉価モデルとなる「GeForce RTX 4070 Ti」およびノートPC向けの「GeForce RTX 40シリーズ」を発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/event/1468340.html",
+          "publishedOn": "2023-01-05T21:13:00.000Z",
+          "wordCount": 5427,
+          "title": "NVIDIA、GeForce RTX 4070 TiのAICボードとRTX 40シリーズ搭載ノートPCを展示",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1468/340/001.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/dekirunet/1468258.html",
+          "author": null,
+          "description": "Microsoft Teams（マイクロソフト・チームズ）では、チャットをスレッド形式でまとめることができます。他の人のメッセージに返信するときは、スレッド形式であることを意識して投稿すると、あとから一連の会話を時系列で追いやすくなります。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/dekirunet/1468258.html",
+          "publishedOn": "2023-01-05T21:00:00.000Z",
+          "wordCount": 5194,
+          "title": "【本日のできるネット】Teamsでのメッセージ返信時には「スレッド」を活用！ 話題ごとに会話を整理して振り返りをラクに【Teams踏み込み活用術】",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1468/258/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/event/1466934.html",
+          "author": null,
+          "description": "Lenovoは5日(米国時間)、表にOLED、裏にカラーE Inkディスプレイを搭載し、デュアルヒンジによりどちらもキーボード側から見えるノート「ThinkBook Plus Twist」を発表した。6月に発売予定で、価格は1,649ドルより。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/event/1466934.html",
+          "publishedOn": "2023-01-05T16:00:00.000Z",
+          "wordCount": 5305,
+          "title": "表はOLED、裏はカラーE Ink。ツイストデザインの「ThinkBook Plus Twist」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1466/934/1.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/event/1466898.html",
+          "author": null,
+          "description": "Lenovoは5日(米国時間)、深度センサーにより全身の動きをトラッキングできるPCのコンセプトモデル「Project Chronos」を発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/event/1466898.html",
+          "publishedOn": "2023-01-05T16:00:00.000Z",
+          "wordCount": 5207,
+          "title": "VTuber向け？深度カメラで全身の動きをトラッキングできるPC「Project Chronos」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1466/898/1.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/event/1466878.html",
+          "author": null,
+          "description": "Lenovoは5日(米国時間)、14.5型の大画面OLEDを採用したAndroidタブレット「Tab Extreme」を発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/event/1466878.html",
+          "publishedOn": "2023-01-05T16:00:00.000Z",
+          "wordCount": 5244,
+          "title": "Lenovo、アプリを10個同時起動できる14.5型Androidタブレット「Tab Extreme」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1466/878/2.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/event/1466819.html",
+          "author": null,
+          "description": "Lenovoは5日(米国時間)、フルサイズOLEDを2画面採用したノートPC「Yoga Book 9i」を発表した。6月発売予定で、価格は2,099.99ドルより。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/event/1466819.html",
+          "publishedOn": "2023-01-05T16:00:00.000Z",
+          "wordCount": 5283,
+          "title": "Lenovo、2画面見開きを縦にも横にもできるノート「Yoga Book 9i」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1466/819/1.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/event/1466794.html",
+          "author": null,
+          "description": "Lenovoは5日(米国時間)、CPUに第13世代CoreまたはRyzen 7000シリーズを搭載し、GPUにGeForce RTX 4090を搭載可能な16型ゲーミングノート「Legion Pro 7i(16\",8)」(Intel)、「Legion Pro 7(16\",8)」(AMD)を発表した。前者は3月、後者は4月より発売開始となる見込みで、価格は1,999.99ドルより。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/event/1466794.html",
+          "publishedOn": "2023-01-05T16:00:00.000Z",
+          "wordCount": 5287,
+          "title": "GeForce RTX 4090搭載のゲーミングノートがLenovoから",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1466/794/1.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/event/1466770.html",
+          "author": null,
+          "description": "Lenovo傘下のMotorolaは5日(米国時間)、ビジネス向けのスマートフォン「ThinkPhone by Motorola」を発表した。ThinkPad生誕30周年を記念するモデルとなっており、ThinkPadの流れを汲むブラック&レッドのデザインがチャームポイントとなっている。米国、ヨーロッパ、南米、中東、オーストラリアおよびアジアのいくつかの国で数カ月以内に販売を開始する予定。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/event/1466770.html",
+          "publishedOn": "2023-01-05T16:00:00.000Z",
+          "wordCount": 5221,
+          "title": "「ThinkPhone」誕生。ThinkPadの堅牢性をスマホに",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1466/770/1.jpg"
+        },
         {
           "id": "https://pc.watch.impress.co.jp/docs/news/news_flash/1468287.html",
           "author": null,
@@ -11522,6 +12567,16 @@
       "siteUrl": "https://win-tab.net",
       "articles": [
         {
+          "id": "https://win-tab.net/?p=127647",
+          "author": "かのあゆ",
+          "description": "ZTE傘下のNubiaがゲーミングスマートフォン、REDMAGIC 8 Pro/8 Pro+を発表しました。CPUに最新のSnapdragon 8 Gen 2を搭載する、現時点で最高の性能を持ち合わせた端末です。 1.R...",
+          "link": "https://win-tab.net/android/redmagic_8_pro_2301061/",
+          "publishedOn": "2023-01-05T23:05:08.000Z",
+          "wordCount": 1893,
+          "title": "REDMAGIC 8 Proシリーズ － Snapdragon 8 Gen 2搭載、現時点で最強のゲーミングスマホ、日本国内での発売も決定！",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2023/01/nubia_redmagic_8_pro_top.jpg"
+        },
+        {
           "id": "https://win-tab.net/?p=127664",
           "author": "wintab",
           "description": "ASUSがCES2023の開催に合わせて海外で発表したニューモデルから、今回はデタッチャブル2 in 1タイプのゲーミングPC「ROG Flow Z13（2023）」をご紹介します。ASUSには「ROG Flow Z13...",
@@ -11759,6 +12814,36 @@
       "siteUrl": "http://shimajiro-mobiler.net",
       "articles": [
         {
+          "id": "http://shimajiro-mobiler.net/?p=78722",
+          "author": "shimajiro",
+          "description": "ドコモは、他社から乗り換え（MNP）でiPhone 12シリーズ、13シリーズ、iPhone SE（第3世代）を購入すると、「5G WELCOME割」として20,000ポイントを還元している。 ポイント還元の対象は、20...",
+          "link": "http://shimajiro-mobiler.net/2023/01/06/post78722/?utm_source=rss&utm_medium=rss&utm_campaign=post-78722",
+          "publishedOn": "2023-01-06T01:42:48.000Z",
+          "wordCount": 2264,
+          "title": "【ドコモ】iPhone 12/13シリーズをMNP購入で20,000pt還元、対象を30歳以下→22歳以下に限定",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2020/03/200317_docomo_OLS.jpg"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78718",
+          "author": "shimajiro",
+          "description": "ドコモは、5G SAに対応するモバイルWi-Fiルーター「Wi-Fi STATION SH-54C」を2023年1月16日に発売する。ドコモオンラインショップでの販売価格は96,800円で、36回の分割支払時は2,688...",
+          "link": "http://shimajiro-mobiler.net/2023/01/06/post78718/?utm_source=rss&utm_medium=rss&utm_campaign=post-78718",
+          "publishedOn": "2023-01-06T01:12:09.000Z",
+          "wordCount": 2358,
+          "title": "ドコモ「Wi-Fi STATION SH-54C」は直販価格96,800円、1月16日発売",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2022/10/221006_SH54C.jpg"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=78716",
+          "author": "shimajiro",
+          "description": "音声通話やオーディオ再生に対応するメガネ型デバイス「HUAWEI Eyewear」を購入してみた。 ■「HUAWEI Eyewear」 メガネ型で音楽再生などなどに対応するデバイスは、これまでにもいくつかのメーカーから発...",
+          "link": "http://shimajiro-mobiler.net/2023/01/06/post78716/?utm_source=rss&utm_medium=rss&utm_campaign=post-78716",
+          "publishedOn": "2023-01-05T23:35:57.000Z",
+          "wordCount": 2203,
+          "title": "度入りのメガネが作れる「HUAWEI Eyewear」を購入してみた",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2023/01/230106_HUAWEI_Eyewear.jpg"
+        },
+        {
           "id": "http://shimajiro-mobiler.net/?p=78711",
           "author": "shimajiro",
           "description": "Google Oneの2TB以上のプランの契約者向けに、WindowsやMacでもGoogle One VPNサービスが利用可能となったので試してみた。 手元のMacBook Air（M1 / 2020）で試してみたとこ...",
@@ -11972,6 +13057,98 @@
       "feedUrl": "http://jp.sputniknews.com/export/rss2/archive/index.xml",
       "siteUrl": "https://sputniknews.jp",
       "articles": [
+        {
+          "id": "https://sputniknews.jp/20230106/14486614.html",
+          "author": null,
+          "description": "ジョージ・ブッシュ大統領には国務省で特使を務め、ドナルド・トランプ大統領政権では上級顧問を務めた外交専門家のクリスチャン・ウィットン氏が、雑誌「ナショナル・インタレスト」に寄稿し、米国はこれ以上、東欧に対して労力を注ぎ、注意を向けることはできないとして、ロシアと協議を実施すべきときがきたとの考えを明らかにした。",
+          "link": "https://sputniknews.jp/20230106/14486614.html",
+          "publishedOn": "2023-01-06T01:30:00.000Z",
+          "wordCount": null,
+          "title": "米国はウクライナの運命についてロシアと直接協議すべき＝米外交専門家",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn1.img.sputniknews.jp/img/07e5/06/10/8465855_0:108:3006:1799_600x0_80_0_0_b59d693d2390d2ca4d95badc7d2283da.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn1.img.sputniknews.jp/img/07e5/06/10/8465855_0:108:3006:1799_600x0_80_0_0_b59d693d2390d2ca4d95badc7d2283da.jpg"
+        },
+        {
+          "id": "https://sputniknews.jp/20230106/14486400.html",
+          "author": null,
+          "description": "米ツイッターのイーロン・マスクCEO（最高経営責任者）は、自身のツイッターで政治に関与すべきかどうかアンケートを行った。",
+          "link": "https://sputniknews.jp/20230106/14486400.html",
+          "publishedOn": "2023-01-06T00:38:31.000Z",
+          "wordCount": null,
+          "title": "マスク氏が新たにアンケート実施　「政治に関わるべきかどうか」",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230106/14486195.html",
+          "author": null,
+          "description": "ウクライナのウォロディミル・ゼレンスキー大統領は、現地時間1月5日夜の演説で、前線におけるロシアの立場を強化するための「隠れ蓑」だとして、ロシアが提案したクリスマス停戦を拒絶した。",
+          "link": "https://sputniknews.jp/20230106/14486195.html",
+          "publishedOn": "2023-01-05T23:49:18.000Z",
+          "wordCount": null,
+          "title": "ゼレンスキー氏、ロシアが提案したクリスマス停戦を拒絶",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230106/30-14485773.html",
+          "author": null,
+          "description": "米国のウクライナに対する新たな軍事支援は約30億ドル（約3970億円）に及び、最大規模になるとされている。新たな軍事支援については、現地時間1月6日に公表される。AP通信が米政府関係者の話として報じた。",
+          "link": "https://sputniknews.jp/20230106/30-14485773.html",
+          "publishedOn": "2023-01-05T22:56:43.000Z",
+          "wordCount": null,
+          "title": "米国　ウクライナに対する新たな軍事支援、最大規模の約30億ドルに",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230106/2022-14483093.html",
+          "author": null,
+          "description": "昨年2022年は医療分野で多くの成果が成し遂げられた。その中から、がんを早期に発見する検査や心臓の血管を治療するための幹細胞を配合したジェル、腸から危険な物体を取り出すことができるナメクジロボットなど最も重要な成果についてNTDチャンネルが伝えている。",
+          "link": "https://sputniknews.jp/20230106/2022-14483093.html",
+          "publishedOn": "2023-01-05T21:25:00.000Z",
+          "wordCount": null,
+          "title": "2022年の最も重要な医療分野の成果　ナメクジロボット、がんを早期発見する検査など",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230106/14485006.html",
+          "author": null,
+          "description": "インド外務省のバグチ報道官は5日、インドが首都ニューデリーで9月に開催するG20サミット（首脳会合）の招待国にウクライナは含まれていないと表明した。",
+          "link": "https://sputniknews.jp/20230106/14485006.html",
+          "publishedOn": "2023-01-05T18:57:00.000Z",
+          "wordCount": null,
+          "title": "インド外務省、G20サミットにウクライナを招待せず",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230106/14485578.html",
+          "author": null,
+          "description": "ロシアのプーチン大統領は、同国のショイグ国防相に対し、1月6日12時から1月7日24時までウクライナで停戦体制を導入するよう命じた。ロシア大統領府広報室が発表した。",
+          "link": "https://sputniknews.jp/20230106/14485578.html",
+          "publishedOn": "2023-01-05T15:44:36.000Z",
+          "wordCount": null,
+          "title": "プーチン大統領、1月6日から7日まで停戦体制の導入を命じる",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://sputniknews.jp/20230106/14484422.html",
+          "author": null,
+          "description": "ソニーとホンダは、米国で開催のテクノロジー見本市「CES2023」で共同ブランド「アフィーラ（AFEELA）」を発表し、その電気自動車（EV）の試作車を初披露した。ロイター通信が報じた。",
+          "link": "https://sputniknews.jp/20230106/14484422.html",
+          "publishedOn": "2023-01-05T15:30:00.000Z",
+          "wordCount": null,
+          "title": "ソニーとホンダ、共同ブランド「アフィーラ」発表",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://sputniknews.jp/20230105/14483712.html",
           "author": null,
@@ -13966,6 +15143,26 @@
       "siteUrl": "https://discourse.tt-rss.org",
       "articles": [
         {
+          "id": "discourse.tt-rss.org-post-19753",
+          "author": "@fox",
+          "description": "sesquipedalianman:\nIs there a fix for this if you aren’t using docker?\ni have no idea how would one become affected by an issue in a container startup script while not using the container.\n\n sesquipedalianman:\nI use git (old school) and am seeing the similar error.\nhttps://dev.tt-rss.org/tt-rss/tt-rss/src/branch/master/classes/diskcache.php#L201\nhttps://dev.tt-rss.org/tt-rss/tt-rss/src/branch/master/classes/article.php#L450\nwhatever you use, you obviously can’t maintain properly.",
+          "link": "https://discourse.tt-rss.org/t/latest-commits-regarding-caching-break-things/5695#post_11",
+          "publishedOn": "2023-01-05T18:29:23.000Z",
+          "wordCount": 645,
+          "title": "Latest commits regarding caching break things",
+          "imageUrl": "https://discourse.tt-rss.org/uploads/default/original/1X/18a2e96275d1fffb21cce225d30a87be4544db60.png"
+        },
+        {
+          "id": "discourse.tt-rss.org-post-19752",
+          "author": "@sesquipedalianman Me",
+          "description": "Is there a fix for this if you aren’t using docker? I use git (old school) and am seeing the similar error.",
+          "link": "https://discourse.tt-rss.org/t/latest-commits-regarding-caching-break-things/5695#post_10",
+          "publishedOn": "2023-01-05T17:57:51.000Z",
+          "wordCount": 645,
+          "title": "Latest commits regarding caching break things",
+          "imageUrl": "https://discourse.tt-rss.org/uploads/default/original/1X/18a2e96275d1fffb21cce225d30a87be4544db60.png"
+        },
+        {
           "id": "discourse.tt-rss.org-post-19750",
           "author": "@wn_name",
           "description": "Look at setting the header in your nginx reverse proxy config.  This has nothing to do with tt-rss.",
@@ -14389,6 +15586,56 @@
       "feedUrl": "https://www.traicy.com/feed",
       "siteUrl": "https://www.traicy.com/",
       "articles": [
+        {
+          "id": "https://www.traicy.com/?p=258776",
+          "author": "編集部",
+          "description": "ハワイアン航空は、ボーイング787-9型機2機を追加発注した。 2018年7月に締結した購入契約に基づくもので、ボーイング787-9型機の確定発注は12機に拡大した。 さらに、2022年第4四半期に開始を予定していた、ボ […]\n投稿 ハワイアン航空、ボーイング787-9型機を2機追加発注　受領開始延期も は TRAICY（トライシー） に最初に表示されました。",
+          "link": "https://www.traicy.com/posts/20230106258776/",
+          "publishedOn": "2023-01-06T01:15:04.000Z",
+          "wordCount": 10948,
+          "title": "ハワイアン航空、ボーイング787-9型機を2機追加発注　受領開始延期も",
+          "imageUrl": "https://www.traicy.com/wp-content/uploads/2018/03/HA789.jpg"
+        },
+        {
+          "id": "https://www.traicy.com/?p=258766",
+          "author": "編集部",
+          "description": "キャセイパシフィック航空は、中国の水際措置の緩和に伴い、運航便数を2倍以上に増やす。 1月8日から、主要路線である香港〜北京線を週10往復、香港〜上海/浦東線を週21往復を運航する。さらに、1月14日から香港〜成都線を週 […]\n投稿 キャセイパシフィック航空、中国本土の水際措置緩和で増便　週61往復に は TRAICY（トライシー） に最初に表示されました。",
+          "link": "https://www.traicy.com/posts/20230106258766/",
+          "publishedOn": "2023-01-06T00:15:00.000Z",
+          "wordCount": 10967,
+          "title": "キャセイパシフィック航空、中国本土の水際措置緩和で増便　週61往復に",
+          "imageUrl": "https://www.traicy.com/wp-content/uploads/2021/08/CX.jpg"
+        },
+        {
+          "id": "https://www.traicy.com/?p=258767",
+          "author": "編集部",
+          "description": "香港エクスプレス航空は、日本政府による水際措置の見直しに伴い、一部便の欠航を取りやめると発表した。 香港発東京/成田・大阪/関西行きの各2便、香港発名古屋/中部行きの4便、香港発福岡行きの8便の計16便を運航する。これに […]\n投稿 香港エクスプレス航空、日本4路線一部便の欠航取りやめ は TRAICY（トライシー） に最初に表示されました。",
+          "link": "https://www.traicy.com/posts/20230106258767/",
+          "publishedOn": "2023-01-05T23:15:01.000Z",
+          "wordCount": 10962,
+          "title": "香港エクスプレス航空、日本4路線一部便の欠航取りやめ",
+          "imageUrl": "https://www.traicy.com/wp-content/uploads/2019/03/UO-3.jpg"
+        },
+        {
+          "id": "https://www.traicy.com/?p=258765",
+          "author": "編集部",
+          "description": "ターキッシュ・エアラインズは、UEFAチャンピオンズリーグの塗装を施した、特別塗装機の運航を開始した。 機体はエアバスA330-300型機（機体記号：TC-JNM）。初便はイスタンブール発パリ/シャルル・ド・ゴール行きの […]\n投稿 ターキッシュ・エアラインズ、UEFAチャンピオンズリーグの特別塗装機運航開始 は TRAICY（トライシー） に最初に表示されました。",
+          "link": "https://www.traicy.com/posts/20230106258765/",
+          "publishedOn": "2023-01-05T22:45:59.000Z",
+          "wordCount": 10959,
+          "title": "ターキッシュ・エアラインズ、UEFAチャンピオンズリーグの特別塗装機運航開始",
+          "imageUrl": "https://www.traicy.com/wp-content/uploads/2023/01/TK-1.jpg"
+        },
+        {
+          "id": "https://www.traicy.com/?p=258764",
+          "author": "編集部",
+          "description": "政府は1月8日から、香港とマカオから日本への直行旅客便の到着空港を4空港に限定する措置や増便制限を緩和する。 12月30日から、香港、マカオから日本への直行旅客便の到着空港を、羽田空港と成田空港、中部国際空港、関西国際空 […]\n投稿 香港とマカオからの直行旅客便の乗り入れ制限を緩和　増便制限も は TRAICY（トライシー） に最初に表示されました。",
+          "link": "https://www.traicy.com/posts/20230106258764/",
+          "publishedOn": "2023-01-05T22:15:57.000Z",
+          "wordCount": 10952,
+          "title": "香港とマカオからの直行旅客便の乗り入れ制限を緩和　増便制限も",
+          "imageUrl": "https://www.traicy.com/wp-content/uploads/2020/07/quarantine.jpg"
+        },
         {
           "id": "https://www.traicy.com/?p=258762",
           "author": "編集部",
@@ -14937,6 +16184,16 @@
       "siteUrl": "https://www.japanjournals.com/uk-today.html",
       "articles": [
         {
+          "id": "https://www.japanjournals.com/uk-today/17569-230105-2.html",
+          "author": "minako@japanjournals.com (WebDesigner)",
+          "description": "<!--\r\nimg {\r\n\t\tmax-width: 100%;\r\n\t}\r\n\t\r\n\t.ukText {\r\n\t\twidth: 59%;\r\n\t\tfloat: left;\r\n\t}\r\n\t\r\n\t.ukImg {\r\n\t\tmargin: 0 0 2% 1%;\r\n\t\twidth: 40%;\r\n\t\tfloat: right;\r\n\t}\r\n\t\r\n\t.content_box {\r\n\t\tmargin-bottom: 20px;\r\n\t}\r\n\t\r\n\t.content_box::after {\r\n\t\tcontent: \" \";\r\n\t\tdisplay: block;\r\n\t\tclear: both;\r\n\t}\r\n-->\r\n<!--\r\n@media screen and (max-width:480px) {\r\n\t\t.ukText {\r\n\t\t\twidth: 100%;\r\n\t\t\tfloat: none;\r\n\t\t}\r\n\t\t.ukImg {\r\n\t\t\tmargin: 0 auto;\r\n\t\t\twidth: 100%;\r\n\t\t\tfloat: none;\r\n\t\t\tdisplay: block;\r\n\t\t}\r\n\t}\r\n-->\r\n\r\n© Twitter-->\r\n■ ビジネス、施設、サービス等の動向を調査する「Ordnance Survey」社の記録をBBCが分析した結果、英国のハイストリートに大きな変化が生じていることが分かった。BBCが報じた。\n\r\n\r\n\n\n\n\t<!--\n\r\nイギリスで作る美味しい料理の数々 | 日本語レシピサイト“クックバズ” \n\r\nロンドンでの就活なら。見逃せないイベント情報なら「パンドーラ」\n\r\n日本食材なら何でも揃う | TKトレーディング\n\r\n-->\r\n\r\n\r\n<!--\r\n.bg_g{\r\n\tborder: 6px solid #eaeaea;\r\n\tbackground: rgba(0, 0, 0, 0) url(/images/stories/common/article/bg-stripe.png) repeat scroll 0 0;\r\n\tpadding:10px;\r\n\tmargin:10px auto;\r\n\t\t}\t\r\n.clm img{\r\n\twidth:100%;\r\n\t}\r\n.clm {\r\n\twidth: calc(100% / 4);\r\n\tfloat: left;\r\n\tpadding:5px 5px 10px;\r\n\tfont-size: 0.9rem;\r\n}\r\nh4 small{\r\n\tmargin-right:5px;\r\n\tpadding:2px;\r\n\t display:inline-block;\r\n\tborder: solid 1px #000;\r\n\tborder-radius:3px;\r\n\tcolor: #000;\r\n\t}\t\r\n.bg_g::after {\r\n\tdisplay: block;\r\n\tcontent: \"\";\r\n\tclear: both;\r\n}\r\n-->\r\n\r\n\r\n<!--\r\n@media (max-width: 480px) {\r\n.clm {\r\n\twidth: 100%;\r\n\tdisplay:block;\r\n\tpadding:10px;\r\n\t}\r\n}\r\n-->\r\n\r\n<!--\n\r\n\t\nPRひとりメシ：簡単に作れる＆美味しい＆低予算のレシピの記事はこちらから\n\r\n\t\n 簡単過ぎる麻婆春雨\n\r\n\t\nキュウリのQちゃん\n\r\n\t\n超絶美味!!ムール貝のカルドソ\n\r\n\t\nスパニッシュ・オムレツ\n\r\n\t\n本物のカルボナーラ\n\r\n\t\nタンドーリ風チキン\n\r\n\t\n絶対美味しいペペロンチーノ\n\r\n-->\r\n\n\r\nパンデミック以降、買い物客は店舗からオンラインでの買い物に切り替えたため、2020年３月時点と比べて小売店が9300店もハイストリート（目抜き通り）から姿を消したという。とくにデパートは13.4％も減少しており、服飾店も8.5％減。オンラインバンキングが一般化したことから銀行も8.1％減となっている\n\r\n一方で勢いがあるのが美容系。タトゥー＆ピアス・スタジオは8.2％増加、ヘアサロンやネイルケア店も5.7％増えていた。またナイトクラブが9.4％減少したのに対し、ファストフード店やテイクアウェイ専門店、カフェ、パブやバーは合わせて約14％増。ハイストリートがショッピングを楽しむ場所ではなく、ネイルをしたり、友人とコーヒーやカクテルを飲んだりする場所へと変化していることをBBCは伝えている。\n\r\nBy 週刊ジャーニー (Japan Journals Ltd London)",
+          "link": "https://www.japanjournals.com/uk-today/17569-230105-2.html",
+          "publishedOn": "2023-01-05T17:00:00.000Z",
+          "wordCount": 1469,
+          "title": "通りから銀行消え…代わりにすごい勢いで増えているのは？",
+          "imageUrl": "https://www.japanjournals.com/images/stories/uk_today/2301/0105_2.jpg"
+        },
+        {
           "id": "https://www.japanjournals.com/uk-today/17566-230105-1.html",
           "author": "minako@japanjournals.com (WebDesigner)",
           "description": "<!--\r\nimg {\r\n\t\tmax-width: 100%;\r\n\t}\r\n\t\r\n\t.ukText {\r\n\t\twidth: 59%;\r\n\t\tfloat: left;\r\n\t}\r\n\t\r\n\t.ukImg {\r\n\t\tmargin: 0 0 2% 1%;\r\n\t\twidth: 40%;\r\n\t\tfloat: right;\r\n\t}\r\n\t\r\n\t.content_box {\r\n\t\tmargin-bottom: 20px;\r\n\t}\r\n\t\r\n\t.content_box::after {\r\n\t\tcontent: \" \";\r\n\t\tdisplay: block;\r\n\t\tclear: both;\r\n\t}\r\n-->\r\n<!--\r\n@media screen and (max-width:480px) {\r\n\t\t.ukText {\r\n\t\t\twidth: 100%;\r\n\t\t\tfloat: none;\r\n\t\t}\r\n\t\t.ukImg {\r\n\t\t\tmargin: 0 auto;\r\n\t\t\twidth: 100%;\r\n\t\t\tfloat: none;\r\n\t\t\tdisplay: block;\r\n\t\t}\r\n\t}\r\n-->\r\n\r\n© Twitter-->\r\n来週に発売が予定されているハリー王子の自伝『スペア（Spare:予備）』。その中で米女優メガン・マルケルさんとの結婚前、ハリー王子が兄ウィリアム王子（現在は皇太子）から暴力を受け、兄弟の関係が著しく悪化したと語っているという。「ガーディアン」紙（電子版）が報じた。\n\r\n\r\n\n\n\n\t<!--\n\r\nイギリスで作る美味しい料理の数々 | 日本語レシピサイト“クックバズ” \n\r\nロンドンでの就活なら。見逃せないイベント情報なら「パンドーラ」\n\r\n日本食材なら何でも揃う | TKトレーディング\n\r\n-->\r\n\r\n\r\n<!--\r\n.bg_g{\r\n\tborder: 6px solid #eaeaea;\r\n\tbackground: rgba(0, 0, 0, 0) url(/images/stories/common/article/bg-stripe.png) repeat scroll 0 0;\r\n\tpadding:10px;\r\n\tmargin:10px auto;\r\n\t\t}\t\r\n.clm img{\r\n\twidth:100%;\r\n\t}\r\n.clm {\r\n\twidth: calc(100% / 4);\r\n\tfloat: left;\r\n\tpadding:5px 5px 10px;\r\n\tfont-size: 0.9rem;\r\n}\r\nh4 small{\r\n\tmargin-right:5px;\r\n\tpadding:2px;\r\n\t display:inline-block;\r\n\tborder: solid 1px #000;\r\n\tborder-radius:3px;\r\n\tcolor: #000;\r\n\t}\t\r\n.bg_g::after {\r\n\tdisplay: block;\r\n\tcontent: \"\";\r\n\tclear: both;\r\n}\r\n-->\r\n\r\n\r\n<!--\r\n@media (max-width: 480px) {\r\n.clm {\r\n\twidth: 100%;\r\n\tdisplay:block;\r\n\tpadding:10px;\r\n\t}\r\n}\r\n-->\r\n\r\n<!--\n\r\n\t\nPRひとりメシ：簡単に作れる＆美味しい＆低予算のレシピの記事はこちらから\n\r\n\t\n 簡単過ぎる麻婆春雨\n\r\n\t\nキュウリのQちゃん\n\r\n\t\n超絶美味!!ムール貝のカルドソ\n\r\n\t\nスパニッシュ・オムレツ\n\r\n\t\n本物のカルボナーラ\n\r\n\t\nタンドーリ風チキン\n\r\n\t\n絶対美味しいペペロンチーノ\n\r\n-->\r\n\n\r\n自伝では2019年、ロンドンの自宅でウィリアム王子がメディアの表現を繰り返すように、メガンさんのことを「気難しい（difficult）」「rude（無作法）」「abrasive（不快）」だと非難したという。\n\r\nやがて口論はエスカレート。ウィリアム王子がハリー王子の襟首をつかんでネックレスをひきちぎり、ハリー王子は床に倒され、背中を負傷したという。この異常な光景は同著の中に登場する１シーンであり、来週世界中で同時発売されることで英王室に深刻な影響を及ぼす可能性が高い。同著は発売まで内容が極秘扱いだったが、事前にサンプル紙を入手した「ガーディアン」紙が発売に先行して一部をすっぱ抜いた形だ。\n\r\nBy 週刊ジャーニー (Japan Journals Ltd London)",
@@ -15337,6 +16594,56 @@
       "siteUrl": "https://kaden.watch.impress.co.jp",
       "articles": [
         {
+          "id": "https://kaden.watch.impress.co.jp/docs/news/1467253.html",
+          "author": null,
+          "description": "アピックスインターナショナルは、韓国風の焼肉が手軽に作れる電気グリル「グリルマイスター AGP-350」を1月29日に発売する。価格はオープンプライスで、店頭予想価格は11,000円。",
+          "link": "https://kaden.watch.impress.co.jp/docs/news/1467253.html",
+          "publishedOn": "2023-01-06T01:00:00.000Z",
+          "wordCount": 4328,
+          "title": "お店の韓国風焼肉が家で簡単! チーズやキムチも同時に焼けるグリル",
+          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1467/253/1.jpg"
+        },
+        {
+          "id": "https://kaden.watch.impress.co.jp/docs/news/1468109.html",
+          "author": null,
+          "description": "河淳は、「KEYUCA(ケユカ)」ブランドから、“浮かせる収納”アイテムとして、浴室の壁に取り付けられる「マグネットミニシェルフ」を1月下旬に発売する。価格は1,999円。",
+          "link": "https://kaden.watch.impress.co.jp/docs/news/1468109.html",
+          "publishedOn": "2023-01-06T00:05:00.000Z",
+          "wordCount": 4321,
+          "title": "KEYUCA、浴室の石けんをぬめらず置けるマグネットミニシェルフ",
+          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1468/109/00.jpg"
+        },
+        {
+          "id": "https://kaden.watch.impress.co.jp/docs/column_review/kaden/1466123.html",
+          "author": null,
+          "description": "2022年の11月25日から12月1日まで、Amazonで毎年恒例のブラックフライデーが開催された。今年は特に何か買うつもりはなかったのだが、ある記事でEcoFlow Technology Japan(エコフロー)のポータブル電源「RIVER 2」がセール価格になっており、さらに5,000円引きクーポンも適用されて20,000円以下で買えるという情報を目にしたので、ついうっかり買ってしまった。加えて、110Wソーラーパネルも25,000円以下になっていたので、これもセットで購入。通常価格はRIVER 2が29,900円で、ソーラーパネルが33,000円だ。",
+          "link": "https://kaden.watch.impress.co.jp/docs/column_review/kaden/1466123.html",
+          "publishedOn": "2023-01-05T23:05:00.000Z",
+          "wordCount": 4419,
+          "title": "【家電レビュー】エコフローのポータブル電源とソーラーパネルでお仕事電源はタダ!?",
+          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1466/123/01.jpg"
+        },
+        {
+          "id": "https://kaden.watch.impress.co.jp/docs/column/puko/1468181.html",
+          "author": null,
+          "description": "新年明けましておめでとうございます。今年はカレンダーと私の相性があまり良くなくて、ただの土日(大晦日と正月)&振替休日(2日)&1日休み(3日)の4日間の休みだった。特に何をしたというわけでもないけれど、それでも結構充実してのんびりと休みらしい休みを過ごした我が家。今年は珍しく三が日の間に三社参りなども済ませた。三社参りは福岡を中心とした西日本の方の文化らしく、初詣には3つの神社に詣でるのだ。",
+          "link": "https://kaden.watch.impress.co.jp/docs/column/puko/1468181.html",
+          "publishedOn": "2023-01-05T22:05:00.000Z",
+          "wordCount": 4332,
+          "title": "カレーはもはや正月のメイン料理。正月カレーが最高!",
+          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1468/181/002.jpg"
+        },
+        {
+          "id": "https://kaden.watch.impress.co.jp/docs/news/1468025.html",
+          "author": null,
+          "description": "ユカイ工学は、呼吸するクッション「fufuly(フフリー)」を、1月5日から米国ラスベガスで開催中のイベント「CES 2023」で発表した。1月時点で販売価格は未定。",
+          "link": "https://kaden.watch.impress.co.jp/docs/news/1468025.html",
+          "publishedOn": "2023-01-05T21:30:00.000Z",
+          "wordCount": 4324,
+          "title": "呼吸するロボットクッション「fufuly」抱いてリラックス",
+          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1468/025/00.jpg"
+        },
+        {
           "id": "https://kaden.watch.impress.co.jp/docs/news/1467623.html",
           "author": null,
           "description": "工機ホールディングスは、電動工具ブランド「HiKOKI(ハイコーキ)」ブランドから、「コードレスランタン UB 18DF」を12月21日に発売した。バッテリーは別売で、価格は8,800円(税別)。",
@@ -15553,6 +16860,36 @@
       "feedUrl": "http://blog.livedoor.jp/damekyoshi/index.rdf",
       "siteUrl": "http://blog.livedoor.jp/damekyoshi/",
       "articles": [
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2414659.html",
+          "author": "damekyoshi",
+          "description": "教科書選定の関係者名漏えい、元校長「１４年から毎回」…接待も１０年間\n読売新聞オンライン　2023/1/5(木) 5:00配信\n\n\n　大阪府藤井寺市で２０２０年に実施された中学校の教科書選定を巡る汚職事件で、加重収賄罪などで在宅起訴された元校長（６１）が１４年以降にあった全...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2414659.html",
+          "publishedOn": "2023-01-06T01:00:22.000Z",
+          "wordCount": 1939,
+          "title": "教科書選定の関係者名漏えい、元校長「１４年から毎回」…接待も１０年間",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2414653.html",
+          "author": "damekyoshi",
+          "description": "保育園での“園児虐待”発覚に富山市長「誠に遺憾」人権擁護の意識啓発など再発防止に取り組む考え示す\n富山テレビ　2023/1/4(水) 20:14配信\n\n\n先月、発覚した富山市の認定こども園の園児への虐待問題を受け、藤井市長は各施設への人権擁護の意識啓発など、再発防止に向け取...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2414653.html",
+          "publishedOn": "2023-01-06T00:00:41.000Z",
+          "wordCount": 1931,
+          "title": "保育園での“園児虐待”発覚に富山市長「誠に遺憾」人権擁護の意識啓発など再発防止に取り組む考え示す",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2414652.html",
+          "author": "damekyoshi",
+          "description": "「いじめで適応障害になった」高校女子生徒が県や部活動の先輩らを提訴\nテレビユー山形　2023/1/5(木) 16:08配信\n\n\n山形県立山形中央高校の女子生徒が、所属する部活の先輩らによるいじめで適応障害になったとして、損害賠償を求める訴えを起こしたことが分かりました。\n\n訴...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2414652.html",
+          "publishedOn": "2023-01-05T23:00:45.000Z",
+          "wordCount": 1931,
+          "title": "「いじめで適応障害になった」高校女子生徒が県や部活動の先輩らを提訴",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
         {
           "id": "http://blog.livedoor.jp/damekyoshi/archives/2414646.html",
           "author": "damekyoshi",
@@ -15907,6 +17244,66 @@
       "feedUrl": "http://nikkan-spa.jp/feed",
       "siteUrl": "https://nikkan-spa.jp",
       "articles": [
+        {
+          "id": "https://nikkan-spa.jp/?p=1879310",
+          "author": null,
+          "description": "株式会社バイアンドホールド 代表取締役社長の山口貴大と申します。YouTubeやSNSでは「ライオン兄さん」名義でお金にまつわる情報を発信しておりますので、すでに私のことをご存知の方は、そちらのほうが馴染みがあるかもし […]",
+          "link": "https://nikkan-spa.jp/1879310",
+          "publishedOn": "2023-01-05T23:54:03.000Z",
+          "wordCount": 665,
+          "title": "8000万円を米国株に一括投資した直後に暴落、地獄から逆転FIRE達成した50歳男性",
+          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2022/12/fire-06.jpg"
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1881413",
+          "author": null,
+          "description": "こんにちは、日本のデブ諸氏の笑顔製造マシンとして日夜活動している「心もカラダもビッグサイズな男たち」のためのファッション＆ライフスタイル情報を配信するWebマガジン「Mr.Babe」編集長の倉科典仁です。 　私を含め、 […]",
+          "link": "https://nikkan-spa.jp/1881413",
+          "publishedOn": "2023-01-05T23:53:46.000Z",
+          "wordCount": 656,
+          "title": "「太っているから汗かき」とは限らない。汗が発する病気の危険信号",
+          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2022/12/dbase-01.jpg"
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1876831",
+          "author": null,
+          "description": "昨年4月からSPA!Dokanto!応援アイドルに就任し、「最大12億円が当たるくじ感覚の競輪車券」Dokanto!の魅力をPRしてファンを増やす使命を受けたちとせよしのちゃん。3か月ごとに出されるミッションをクリアす […]",
+          "link": "https://nikkan-spa.jp/1876831",
+          "publishedOn": "2023-01-05T23:52:25.000Z",
+          "wordCount": 303,
+          "title": "ちとせよしの、肉体派グラドルの名誉にかけて最後のPRミッションに挑戦",
+          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2022/12/Dokanto_04_thumbnail01.jpg"
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1875909",
+          "author": null,
+          "description": "心と体をととのえるサウナは働く男にとって、呼吸と同じぐらい重要である。サウナーで俳優の橋本祥平が最終回に訪れたのは東京・東久留米の「スパジアムジャポン」だ。 屋外テラスのテントサウナで絶景のととのい 東久留米のスパジアム […]",
+          "link": "https://nikkan-spa.jp/1875909",
+          "publishedOn": "2023-01-05T23:51:09.000Z",
+          "wordCount": 676,
+          "title": "ガチサウナーにこそオススメ！屋外テラスのテントサウナで絶景のととのい",
+          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2022/12/22120513.jpg"
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1879768",
+          "author": null,
+          "description": "2022年、日刊SPA！で反響の大きかった記事からジャンル別にトップ10を発表。恋愛・結婚に関する記事より、男女が出会ったあと「いかに嫌われないか」に注目。ずっと好きでいてもらうヒントが詰まった「気遣い」部門の第8位は、 […]",
+          "link": "https://nikkan-spa.jp/1879768",
+          "publishedOn": "2023-01-05T23:45:08.000Z",
+          "wordCount": 652,
+          "title": "「美人と結婚した男性」は幸せなのか…結婚相談所は知っている“シビアな現実”――恋愛トップ10",
+          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2022/10/AdobeStock_183753277-1-scaled.jpg"
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1875732",
+          "author": null,
+          "description": "2022年、日刊SPA！で反響の大きかった記事からジャンル別にトップ10を発表。働く人たちの悲鳴が聞こえてくる「仕事」部門の第1位は、こちら！（集計期間は2022年1月～11月まで。初公開日2022年5月25日　記事は取 […]",
+          "link": "https://nikkan-spa.jp/1875732",
+          "publishedOn": "2023-01-05T23:44:48.000Z",
+          "wordCount": 664,
+          "title": "福岡県の山奥に移住、外国人女性と暮らす日本人男性「月15万円あれば妻と子供を養える」――仕事トップ10",
+          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2022/05/sakamoto-01.jpg"
+        },
         {
           "id": "https://nikkan-spa.jp/?p=1880032",
           "author": null,
@@ -16339,16 +17736,6 @@
           "wordCount": 11,
           "title": "古いclient jsで動いているwindowを自動リロードする - 橋本商会 - Scrapbox",
           "imageUrl": "https://scrapbox.io/assets/img/content-logo.png"
-        },
-        {
-          "id": "https://scrapbox.io/shokai/x-assets-version_header",
-          "author": null,
-          "description": "ScrapboxのHTTP Header\n 全てのAPI responseにassets-versionが付いている\n ServiceWorkerでこのヘッダをチェックする\n 現在ローカルに持っているバージョンと違う場合、assets cacheを更新する\n  ただし、他の通信が行われている場合はちょっと待つ。低速回線環境への対策として",
-          "link": "https://scrapbox.io/shokai/x-assets-version_header",
-          "publishedOn": "2022-12-07T10:12:00.000Z",
-          "wordCount": 8,
-          "title": "x-assets-version header - 橋本商会 - Scrapbox",
-          "imageUrl": "https://scrapbox.io/assets/img/content-logo.png"
         }
       ]
     },
@@ -16357,6 +17744,86 @@
       "feedUrl": "http://buy.livedoor.biz/index.rdf",
       "siteUrl": "http://buy.livedoor.biz/",
       "articles": [
+        {
+          "id": "http://buy.livedoor.biz/archives/51643539.html",
+          "author": "talesofnamco",
+          "description": "山善のハイブリッド式加湿器 MZH-A553 グレーが税込5,980円→3,980円の激安超特価。送料も無料。他店最安値は5,980円[価格比較サイトで相場チェック]。特選タイムセール価格＆リンク先画面内の2,000円OFFクーポン適用価格。エントリー＆期間中1万円以上購入で最大10,000ポイ...",
+          "link": "http://buy.livedoor.biz/archives/51643539.html",
+          "publishedOn": "2023-01-05T21:30:19.000Z",
+          "wordCount": 766,
+          "title": "山善 ハイブリッド式加湿器 MZH-A553(H) 送料込3,980円【#Amazonの初売り】",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/6/2/625b2b5a.jpg"
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51643541.html",
+          "author": "buy",
+          "description": "Amazon.co.jpでは1月7日24時まで111時間のビッグセール「初売り」を開催中。今回もエントリー＆合計10,000円以上のお買い物で最大10％還元の特典つきで、お買い得品をもっとおトクにゲットできる大チャンス。\n\nAmazonの初売り 三日目(1月5日)に売れた商品を売れた順番にご紹...",
+          "link": "http://buy.livedoor.biz/archives/51643541.html",
+          "publishedOn": "2023-01-05T20:47:46.000Z",
+          "wordCount": 992,
+          "title": "【みんな買ってる】#Amazonの初売り 三日目・5日に売れた商品ベスト20",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/e/6/e6df3e89.jpg"
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51643536.html",
+          "author": "kotori5000",
+          "description": "ドトールコーヒーのリキッドコーヒー無糖 1000ml×6箱が税込2,151円→1,434円(239円/本)の激安超特価。送料も無料(プライム会員でない方は送料がかかる場合があります)。リンク先画面内の30％OFFクーポン適用＆定期おトク便10％割引適用価格(定期おトク便は出荷完了後に、い...",
+          "link": "http://buy.livedoor.biz/archives/51643536.html",
+          "publishedOn": "2023-01-05T15:22:14.000Z",
+          "wordCount": 765,
+          "title": "ドトールコーヒー リキッドコーヒー無糖 1000ml×6箱 送料込1,434円(239円/本)",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/f/6/f6273b2e.jpg"
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51643535.html",
+          "author": "kotori5000",
+          "description": "ポッカサッポロのじっくりコトコト濃厚コーンポタージュ 3袋入×5個＋ゆずはちソーダ410ml×24本が税込3,397円→1,698円の激安超特価。送料も無料。リンク先画面内の50％OFFクーポン適用価格。エントリー＆期間中1万円以上購入で最大10,000ポイント還元ポイントアップキャン...",
+          "link": "http://buy.livedoor.biz/archives/51643535.html",
+          "publishedOn": "2023-01-05T15:15:31.000Z",
+          "wordCount": 766,
+          "title": "ポッカサッポロ じっくりコトコト濃厚コーンポタージュ 3袋入×5個＋ゆずはちソーダ410ml×24本 送料込1,698円",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/9/9/9993d03d.jpg"
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51643194a.html",
+          "author": "kotori5000",
+          "description": "ポッカサッポロの微炭酸飲料、リラクシーレモネード 500ml×24本が税込2,299円→1,149円(47.9円/本)の激安超特価。送料も無料。リンク先画面内の50％OFFクーポン適用価格。エントリー＆期間中1万円以上購入で最大10,000ポイント還元ポイントアップキャンペーンも実施中。10日...",
+          "link": "http://buy.livedoor.biz/archives/51643194a.html",
+          "publishedOn": "2023-01-05T15:04:34.000Z",
+          "wordCount": 772,
+          "title": "ポッカサッポロ リラクシーレモネード 500ml×24本 送料込1,149円(47.9円/本)",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/4/4/44ad8ca2.jpg"
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51642740a.html",
+          "author": "kotori5000",
+          "description": "江崎グリコのバランスオンminiケーキ チーズケーキ 20個が税込835円→752円(定期おトク便3種で710円・35.5円/個)、チョコブラウニー 20個も税込926円→833円(定期おトク便3種で787円・39.4円/個)の激安超特価。送料も無料。特選タイムセール価格＆定期おトク便10％割引適用価...",
+          "link": "http://buy.livedoor.biz/archives/51642740a.html",
+          "publishedOn": "2023-01-05T14:54:11.000Z",
+          "wordCount": 777,
+          "title": "江崎グリコ バランスオンminiケーキ チーズケーキ 20個 送料込752円(おトク便3種で710円・35.5円/個)ほか【#Amazonの初売り】",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/a/2/a2474f0a.jpg"
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51643533.html",
+          "author": "buy",
+          "description": "アース製薬の家中のG駆除剤、ブラックキャップ 12個入が税込374円の激安超特価。Amazonプライム会員(無料体験中でもOK)または2,000円以上購入で送料も無料。エントリー＆期間中1万円以上購入で最大10,000ポイント還元ポイントアップキャンペーンも実施中。7日までのセール品...",
+          "link": "http://buy.livedoor.biz/archives/51643533.html",
+          "publishedOn": "2023-01-05T14:52:28.000Z",
+          "wordCount": 768,
+          "title": "【防除用医薬部外品】アース製薬 ブラックキャップ 12個入 税込374円 プライム会員送料無料【#Amazonの初売り】",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/e/d/edf89a34.jpg"
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51643531.html",
+          "author": "kotori5000",
+          "description": "花王のハンドクリーム、アトリックスビューティーチャージ はちみつ＆ゆずの香り 80g×3個が税込750円→675円(定期おトク便3種15%割引適用で638円・212.7円/個)の激安超特価。無香料 80g×3個も同価格。送料も無料(プライム会員でない方は送料がかかる場合があります)。特選...",
+          "link": "http://buy.livedoor.biz/archives/51643531.html",
+          "publishedOn": "2023-01-05T14:38:21.000Z",
+          "wordCount": 779,
+          "title": "花王 アトリックスビューティーチャージ はちみつ＆ゆずの香り 80g×3個・無香料 80g×3個 各送料込675円(おトク便3種で638円・212.7円/個)【#Amazonの初売り】",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/c/b/cb62797a.jpg"
+        },
         {
           "id": "http://buy.livedoor.biz/archives/51625515g.html",
           "author": "buy",
@@ -16660,6 +18127,106 @@
       "feedUrl": "http://www.gdm.or.jp/feed",
       "siteUrl": "https://www.gdm.or.jp",
       "articles": [
+        {
+          "id": "https://www.gdm.or.jp/?p=471778&post_type=crew",
+          "author": null,
+          "description": "IPX55の防水仕様。バッテリライフは最大15時間 骨伝導タイプのワイヤレスイヤホンとしては最安クラスの低価格モデル「SZ-23KOHED」シリーズがあきばお～弐號店に入荷。販売価格は税込3,000円で、カラーはブラック […]",
+          "link": "https://www.gdm.or.jp/crew/2023/0106/471778",
+          "publishedOn": "2023-01-06T01:22:24.000Z",
+          "wordCount": 528,
+          "title": "最安クラスの骨伝導イヤホンが入荷。ノーブランド扱いで価格は3,000円",
+          "imageUrl": "https://www.gdm.or.jp/wp-content/uploads/2023/01/06/SZ_23KOHED_1024x768a.jpg"
+        },
+        {
+          "id": "https://www.gdm.or.jp/?p=471779&post_type=pressrelease",
+          "author": null,
+          "description": "ASUSオリジナルベイパーチャンバーを採用 ASUSTeK Computer Inc.（本社：台湾）は2023年1月5日（現地時間）、Noctua製120mmファンを搭載したオリジナルVGAクーラーを採用するGeForc […]",
+          "link": "https://www.gdm.or.jp/pressrelease/2023/0106/471779",
+          "publishedOn": "2023-01-06T00:59:07.000Z",
+          "wordCount": 556,
+          "title": "ASUS、Noctua製120mmファンを搭載した「GeForce RTX 4080 Noctua Edition」発表",
+          "imageUrl": "https://www.gdm.or.jp/wp-content/uploads/2023/01/06/rtx4080_o16g_noctua_1024x768.jpg"
+        },
+        {
+          "id": "https://www.gdm.or.jp/?p=72",
+          "author": null,
+          "description": "",
+          "link": "http://www.gdm.or.jp/price/hdd/",
+          "publishedOn": "2023-01-05T23:40:43.000Z",
+          "wordCount": 372,
+          "title": "【1月5日取材分】SSD/HDD価格表更新",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.gdm.or.jp/?p=471048&post_type=review",
+          "author": null,
+          "description": "MSI「MAG B760M MORTAR WIFI」　市場想定売価税込35,000～37,000円（2023年1月下旬発売） 製品情報（MSI） 信頼性・耐久性を重視した「MAG MORTAR」シリーズ最新作 今回の撮っ […]",
+          "link": "https://www.gdm.or.jp/review/2023/0106/471048",
+          "publishedOn": "2023-01-05T23:00:10.000Z",
+          "wordCount": 589,
+          "title": "CPU性能を最大限に引き出す堅牢電源が魅力のMicroATXゲーミングマザー、MSI「MAG B760M MORTAR WIFI」",
+          "imageUrl": "https://www.gdm.or.jp/wp-content/uploads/2022/12/31/mag_b760m_mortar_wifi_04.jpg"
+        },
+        {
+          "id": "https://www.gdm.or.jp/?p=471756&post_type=specialprice",
+          "author": null,
+          "description": "実際に秋葉原で記者が見た、ショップ店頭の特価品情報をタイムリーにキャッチアップ！",
+          "link": "https://www.gdm.or.jp/specialprice/",
+          "publishedOn": "2023-01-05T16:21:23.000Z",
+          "wordCount": 475,
+          "title": "リフレッシュレート360Hz対応のZOWIE製液晶が早くも中古特価で登場",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.gdm.or.jp/?p=471753&post_type=specialprice",
+          "author": null,
+          "description": "実際に秋葉原で記者が見た、ショップ店頭の特価品情報をタイムリーにキャッチアップ！",
+          "link": "https://www.gdm.or.jp/specialprice/",
+          "publishedOn": "2023-01-05T16:20:01.000Z",
+          "wordCount": 475,
+          "title": "1月6日（金）から始まる目玉特価一覧",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.gdm.or.jp/?p=471759&post_type=specialprice",
+          "author": null,
+          "description": "実際に秋葉原で記者が見た、ショップ店頭の特価品情報をタイムリーにキャッチアップ！",
+          "link": "https://www.gdm.or.jp/specialprice/",
+          "publishedOn": "2023-01-05T16:19:06.000Z",
+          "wordCount": 475,
+          "title": "年始のストレージ特価やパーツの目玉特価など",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.gdm.or.jp/?p=471769&post_type=specialprice",
+          "author": null,
+          "description": "実際に秋葉原で記者が見た、ショップ店頭の特価品情報をタイムリーにキャッチアップ！",
+          "link": "https://www.gdm.or.jp/specialprice/",
+          "publishedOn": "2023-01-05T16:17:31.000Z",
+          "wordCount": 475,
+          "title": "ASUSゲーミングキーボードやAntecのGOLD電源が安い",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.gdm.or.jp/?p=471746&post_type=specialprice",
+          "author": null,
+          "description": "実際に秋葉原で記者が見た、ショップ店頭の特価品情報をタイムリーにキャッチアップ！",
+          "link": "https://www.gdm.or.jp/specialprice/",
+          "publishedOn": "2023-01-05T16:16:44.000Z",
+          "wordCount": 475,
+          "title": "新年のHDD、SSD限定特価",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.gdm.or.jp/?p=471765&post_type=specialprice",
+          "author": null,
+          "description": "実際に秋葉原で記者が見た、ショップ店頭の特価品情報をタイムリーにキャッチアップ！",
+          "link": "https://www.gdm.or.jp/specialprice/",
+          "publishedOn": "2023-01-05T16:15:05.000Z",
+          "wordCount": 475,
+          "title": "今週も限定特価パーツがいろいろあり",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.gdm.or.jp/?p=471717&post_type=pressrelease",
           "author": null,
