@@ -2,10 +2,814 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://minatani.github.io/rss-obake/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T01:41:10.691Z</updated>
+    <updated>2023-05-08T01:27:20.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://minatani.github.io/rss-obake/index.html"/>
     <link rel="self" href="https://minatani.github.io/rss-obake/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[玄界灘に沈む夕日　あかね色の棚田、まるで影絵　長崎・土谷棚田]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/040/025000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/040/025000c"/>
+        <updated>2023-05-08T01:24:05.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[タンデム自転車で太平洋岸1100キロ完走　視覚障害者ら交流の旅]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/040/026000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/040/026000c"/>
+        <updated>2023-05-08T01:22:39.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MINISFORUM、N100とCore i3-N305を搭載したミニPC]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1498484.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1498484.html"/>
+        <updated>2023-05-08T01:19:23.000Z</updated>
+        <summary type="html"><![CDATA[MINISFORUMは、Alder Lake-NことIntel Processor N100またはCore i3-N305を採用したミニPC「UN100」、「UN305」を発表した。出荷は5月下旬を予定している。予約価格はUN100が2万6,380円から、UN305が3万9,180円から。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コーヒー豆が均一に挽けるFellowのグラインダー。31段階の細かい調整]]></title>
+        <id>https://kaden.watch.impress.co.jp/docs/news/1496699.html</id>
+        <link href="https://kaden.watch.impress.co.jp/docs/news/1496699.html"/>
+        <updated>2023-05-08T01:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Kurasuは、サンフランシスコ発のコーヒー器具ブランド・Fellow(フェロー)の正規代理店として、ドリップ向けに特化した家庭用コーヒーグラインダー「Ode Brew Grinder Gen2(オード ブリュー グラインダー ジェン2)」を、4月26日にKiguオンラインショップで先行発売した。価格は61,600円。予定販売数は各色200台で、商品の発送は5月初旬～中旬を予定する。]]></summary>
+        <author>
+            <name>家電 Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本日みつけたお買い得品Razerのゲーミングキーボードが2千円引き。Amazonセール]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/todays_sales/1498491.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/todays_sales/1498491.html"/>
+        <updated>2023-05-08T00:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazonにおいて、Razerのゲーミングキーボードが特価となっている。「BlackWidow V3」の場合、以前の価格からの2,000円引きにより、1万2,980円で購入可能だ。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「かすかな違和感」が身を守る　新入生狙うカルト、阪大で対策講義]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/040/018000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/040/018000c"/>
+        <updated>2023-05-08T00:44:45.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ツツジ30種3万株見ごろ「飽きません」　長野・岡谷の鶴峯公園]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/040/017000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/040/017000c"/>
+        <updated>2023-05-08T00:40:53.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保護した犬猫7割、多頭飼育崩壊が原因　神奈川は殺処分ゼロ継続]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/040/016000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/040/016000c"/>
+        <updated>2023-05-08T00:36:33.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本日みつけたお買い得品MS Office付き120Hz液晶ノートが約3万3千円オフ。Amazonセール]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/todays_sales/1498485.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/todays_sales/1498485.html"/>
+        <updated>2023-05-08T00:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazonにおいて、15.6型のデル「Inspiron 15 3520」が直近価格から3万2,818円引きにより、13万6,182円で購入可能となっている。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人生終わるぞ！漫画「ブラックジャックによろしく」で闇バイトに警告]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/040/014000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/040/014000c"/>
+        <updated>2023-05-08T00:24:52.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR西、始発から在来線一部区間で運転見合わせ　大雨や強風影響]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/040/015000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/040/015000c"/>
+        <updated>2023-05-08T00:22:11.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient Earth Globe]]></title>
+        <id>https://dinosaurpictures.org/ancient-earth/#470</id>
+        <link href="https://dinosaurpictures.org/ancient-earth/#470"/>
+        <updated>2023-05-08T00:14:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アイリス、片付けやすい薄型ホットプレート。丸洗いできる]]></title>
+        <id>https://kaden.watch.impress.co.jp/docs/news/1497908.html</id>
+        <link href="https://kaden.watch.impress.co.jp/docs/news/1497908.html"/>
+        <updated>2023-05-08T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA[アイリスオーヤマは、まな板スタンドに立てかけられる「薄型ホットプレート IHU-A10」を5月10日に、インターネットサイトを中心に販売する。価格はオープンプライス、公式オンラインストアでの販売価格は14,080円。]]></summary>
+        <author>
+            <name>家電 Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[茨城・常名神社が全焼　御朱印ブームで「隠れた人気スポット」]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/040/013000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/040/013000c"/>
+        <updated>2023-05-08T00:04:06.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「古里の壊滅は時間の問題」　元和歌山県職員が漫画で伝えたい危機感]]></title>
+        <id>https://mainichi.jp/articles/20230506/k00/00m/040/204000c</id>
+        <link href="https://mainichi.jp/articles/20230506/k00/00m/040/204000c"/>
+        <updated>2023-05-08T00:00:16.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシアによる子ども連れ去りに停止勧告　OSCE、人道法違反も指摘]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/030/012000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/030/012000c"/>
+        <updated>2023-05-07T23:58:44.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セルティックが2連覇　古橋亨梧は今季30ゴール目]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/050/011000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/050/011000c"/>
+        <updated>2023-05-07T23:55:19.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GW明けに辞めた新入社員の不満。ゴミ出しに行ったまま姿を消して…]]></title>
+        <id>https://nikkan-spa.jp/?p=1906850</id>
+        <link href="https://nikkan-spa.jp/1906850"/>
+        <updated>2023-05-07T23:54:11.000Z</updated>
+        <summary type="html"><![CDATA[多くの企業が新入社員を迎え入れる春。新卒はもちろん、転職してきた人たちで職場の空気は一変する。だが、業務内容や職場環境など、人により理由はさまざまだが、せっかく就職したにもかかわらず、すぐに退職してしまう人もいる。 　 […]]]></summary>
+        <author>
+            <name>日刊SPA!日刊SPA!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“酸素カプセル”には何の効果もなかった…医師は「呼吸以上に酸素を摂取しても特にいいことはない」]]></title>
+        <id>https://nikkan-spa.jp/?p=1907037</id>
+        <link href="https://nikkan-spa.jp/1907037"/>
+        <updated>2023-05-07T23:53:54.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの流行で、改めて「健康」が問い直されている。しかし、あなたが“体にいい”と思っていることが、まったくのウソだったとしたら……。SNS時代にはびこる健康法、ダイエット、治療に関して名医たちが「〇」「△」「 […]]]></summary>
+        <author>
+            <name>日刊SPA!日刊SPA!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワールドラグビー、日本を強豪グループ加入へ　W杯実績など評価]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/050/010000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/050/010000c"/>
+        <updated>2023-05-07T23:52:54.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元本ゼロでも7年で1000万円に到達可能？知られざる「東欧の高金利通貨」で稼ぐ]]></title>
+        <id>https://nikkan-spa.jp/?p=1900275</id>
+        <link href="https://nikkan-spa.jp/1900275"/>
+        <updated>2023-05-07T23:52:13.000Z</updated>
+        <summary type="html"><![CDATA[厚生労働省によると、実質賃金は昨年と比べ4.1％減。物価上昇に賃金の伸びが追い付かないならば、“カネを使わずに貯金する”という選択が堅実だ。たとえ収入が少なくとも貯蓄はできる。節約、副業、投資を軸に世帯年収300万円台で […]]]></summary>
+        <author>
+            <name>日刊SPA!日刊SPA!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「送迎ができず、子どもの習い事を諦めざるを得ない…」共働き親の悩みに塾経営の人気芸人が答える]]></title>
+        <id>https://nikkan-spa.jp/?p=1898682</id>
+        <link href="https://nikkan-spa.jp/1898682"/>
+        <updated>2023-05-07T23:51:02.000Z</updated>
+        <summary type="html"><![CDATA[9年連続でM-1の決勝ラウンドに進出し、’10年にM-1王者に輝いた実力派芸人、笑い飯の哲夫。小・中学生向け学習塾の経営者としての顔も持つ彼が、令和ニッポンの教育について考え、悩める親たちの相談に答えていく。 共働きゆ […]]]></summary>
+        <author>
+            <name>日刊SPA!日刊SPA!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイデン氏、銃規制強化に向け声明　「あらゆること必要」]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/030/009000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/030/009000c"/>
+        <updated>2023-05-07T23:41:00.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナ5類移行　望まぬ「共存」のスタート]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/040/007000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/040/007000c"/>
+        <updated>2023-05-07T23:34:15.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米テキサス州で道路脇に車突っ込み、7人死亡　ほかに負傷者も]]></title>
+        <id>https://mainichi.jp/articles/20230508/k00/00m/030/006000c</id>
+        <link href="https://mainichi.jp/articles/20230508/k00/00m/030/006000c"/>
+        <updated>2023-05-07T23:19:44.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セリアの温泉たまご器なら失敗しない! 電子レンジ使わず簡単【今日のいいね！】]]></title>
+        <id>https://kaden.watch.impress.co.jp/docs/column/iine/1496425.html</id>
+        <link href="https://kaden.watch.impress.co.jp/docs/column/iine/1496425.html"/>
+        <updated>2023-05-07T23:05:00.000Z</updated>
+        <summary type="html"><![CDATA[みなさんはどのように温泉たまごを作るでしょうか。鍋に沸かしたお湯で温める方法や、電子レンジで加熱する方法が代表的かと思いますが、うっかり鍋にたまごを放置すればたちまちゆでたまごになってしまいますし、たまごに穴を開け忘れて電子レンジ調理をすれば、爆発してしまうかもしれません。どちらも筆者のようなズボラ人間には、ちょっとハードルが高いんですよね。]]></summary>
+        <author>
+            <name>家電 Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ホロライブ」のカバー、業績予想を上方修正、Metaのメタバース部門、2023年1Q売上は前年同期比51%減 ー 週間振り返りXRニュース]]></title>
+        <id>https://www.moguravr.com/?p=223499</id>
+        <link href="https://www.moguravr.com/vr-ar-mr-weekly-news-23-5-1/"/>
+        <updated>2023-05-07T23:00:50.000Z</updated>
+        <summary type="html"><![CDATA[「週間振り返りXRニュース」では、Mogura VR News / MoguLiveで掲載したニュースの中から見逃せない注目記事をピックアップ。読者の皆さんに、VRやAR、MR、そしてメタバースに関する最新情報をギュッと […]
+The post 「ホロライブ」のカバー、業績予想を上方修正、Metaのメタバース部門、2023年1Q売上は前年同期比51%減 ー 週間振り返りXRニュース appeared first on Mogura VR.]]></summary>
+        <author>
+            <name>Ayuko Haitsuka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲタ気付かず「つらかった」　A級順位戦　広瀬章人八段ー永瀬拓矢王座]]></title>
+        <id>https://mainichi.jp/articles/20230504/k00/00m/040/039000c</id>
+        <link href="https://mainichi.jp/articles/20230504/k00/00m/040/039000c"/>
+        <updated>2023-05-07T23:00:13.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視界が揺れ、身動きとれず…能登旅行中の記者が遭遇した震度6強]]></title>
+        <id>https://mainichi.jp/articles/20230507/k00/00m/040/172000c</id>
+        <link href="https://mainichi.jp/articles/20230507/k00/00m/040/172000c"/>
+        <updated>2023-05-07T22:30:13.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独BMW、米NVIDIAの「Omniverse」を用いて新工場でバーチャル生産を開始]]></title>
+        <id>https://fabcross.jp/news/2023/20230508_omniverse.html</id>
+        <link href="https://fabcross.jp/news/2023/20230508_omniverse.html"/>
+        <updated>2023-05-07T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[独BMWは2023年3月21日、米NVIDIAの「Omniverse」を使用して、新工場での生産が開始される2年以上前の今、バーチャル生産を開始したと発表した。]]></summary>
+        <author>
+            <name>fabcross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナ5類移行で行政支援縮小「対応できるか？」高齢者施設に危機感]]></title>
+        <id>https://mainichi.jp/articles/20230506/k00/00m/040/311000c</id>
+        <link href="https://mainichi.jp/articles/20230506/k00/00m/040/311000c"/>
+        <updated>2023-05-07T22:15:25.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラーメンと一緒に「佐野餃子」を　ご当地グルメ、市がSNSでPR]]></title>
+        <id>https://mainichi.jp/articles/20230507/k00/00m/040/096000c</id>
+        <link href="https://mainichi.jp/articles/20230507/k00/00m/040/096000c"/>
+        <updated>2023-05-07T22:15:10.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三菱、炭でできた釜の最上位炊飯器。圧力かけず高火力で粒感しっかり]]></title>
+        <id>https://kaden.watch.impress.co.jp/docs/news/1497386.html</id>
+        <link href="https://kaden.watch.impress.co.jp/docs/news/1497386.html"/>
+        <updated>2023-05-07T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[三菱電機は、同社炊飯器の最上位モデルとなる「本炭釜 紬(つむぎ) NJ-BW10F」を、5月21日に発売する。価格はオープンプライス。店頭予想価格は132,000円前後。]]></summary>
+        <author>
+            <name>家電 Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小学生も使えるオンラインエディター——Raspberry Pi財団、初学者向けにテキストベースの「Code Editor」ベータ版をリリース]]></title>
+        <id>https://fabcross.jp/news/2023/20230508_raspberrypi_codeeditorforyoungpeoplebeta.html</id>
+        <link href="https://fabcross.jp/news/2023/20230508_raspberrypi_codeeditorforyoungpeoplebeta.html"/>
+        <updated>2023-05-07T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Raspberry Pi財団は、「Code Editor」のベータ版をリリースした。ブラウザー上にPythonコードを書ける直感的なインターフェースで、より多くの学習者が手軽に利用できるよう開発を進めている。]]></summary>
+        <author>
+            <name>fabcross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Group Is Its Own Worst Enemy [pdf] (2005)]]></title>
+        <id>https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf</id>
+        <link href="https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf"/>
+        <updated>2023-05-07T21:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジェフリー・ヒントン独白 「深層学習の父」はなぜ、 AIを恐れているのか？]]></title>
+        <id>https://www.technologyreview.jp/?p=306240</id>
+        <link href="https://www.technologyreview.jp/s/306240/geoffrey-hinton-tells-us-why-hes-now-scared-of-the-tech-he-helped-build/"/>
+        <updated>2023-05-07T21:54:43.000Z</updated>
+        <summary type="html"><![CDATA[【期間限定無料公開】深層学習の父と呼ばれるジェフリー・ヒントンが本誌の取材に応じ、グーグルを退社した理由を語った。グーグルを辞めて話たい「AIの問題」とは何か？]]></summary>
+        <author>
+            <name>Will Douglas Heaven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beginner&#x27;s Guide to eBPF]]></title>
+        <id>https://github.com/lizrice/ebpf-beginners</id>
+        <link href="https://github.com/lizrice/ebpf-beginners"/>
+        <updated>2023-05-07T21:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改善加速へ歩み寄る日韓　岸田首相、ギリギリの徴用工「痛む」発言]]></title>
+        <id>https://mainichi.jp/articles/20230507/k00/00m/010/166000c</id>
+        <link href="https://mainichi.jp/articles/20230507/k00/00m/010/166000c"/>
+        <updated>2023-05-07T21:30:11.000Z</updated>
+        <author>
+            <name>毎日新聞「社説・解説・コラム」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バージョンが重要！今ゲーミングモニターを買うならHDMI 2.1かDP 1.4対応が絶対でしょ [Sponsored]]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/topic/special/1493877.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/topic/special/1493877.html"/>
+        <updated>2023-05-07T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[PCやゲーム機でより豊かなプレイ体験を楽しむために、新しいハードウェアに買い換えたとしても、ゲーミングモニターが旧世代のままでは、実は最新世代のゲーム映像体験の一部しか享受できていない可能性がある。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【福田昭のセミコン業界最前線】国際メモリワークショップ、高密度化の限界に挑む3D NANDフラッシュ技術]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/column/semicon/1498469.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/column/semicon/1498469.html"/>
+        <updated>2023-05-07T21:27:00.000Z</updated>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neil Postman: A civilized man in a century of barbarism (2003)]]></title>
+        <id>https://www.salon.com/2003/10/10/postman/</id>
+        <link href="https://www.salon.com/2003/10/10/postman/"/>
+        <updated>2023-05-07T21:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アップグレード後の性能が知りたい！】GeForce RTX 2070→4070に買い替え！2世代分の進化でどうなる？節電も可能か!?]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/column/upgrade/1498383.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/column/upgrade/1498383.html"/>
+        <updated>2023-05-07T21:16:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年4月13日よりGeForce RTX 4070搭載ビデオカードが各社から発売された。高いパフォーマンスと低い消費電力が特徴のミドルハイGPUということで、電源ユニットを買い換えるなどの追加投資を避けられる可能性があり、クリエイターやゲーマーには狙い目のモデルと言えるだろう。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【本日のできるネット】Teamsのビデオ会議で参加者を「強制退出」させる方法【Teams踏み込み活用術】]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/column/dekirunet/1498182.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/column/dekirunet/1498182.html"/>
+        <updated>2023-05-07T21:00:00.000Z</updated>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some early praise for using drgn for poking into Linux kernel internals]]></title>
+        <id>https://utcc.utoronto.ca/~cks/space/blog/linux/DrgnKernelPokingPraise</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/linux/DrgnKernelPokingPraise"/>
+        <updated>2023-05-07T20:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: What do you think about my metasearch engine?]]></title>
+        <id>https://svmetasearch.eu.org/</id>
+        <link href="https://svmetasearch.eu.org/"/>
+        <updated>2023-05-07T20:44:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prolog for Data Science]]></title>
+        <id>https://emiruz.com/post/2023-04-30-prolog-for-data-science/</id>
+        <link href="https://emiruz.com/post/2023-04-30-prolog-for-data-science/"/>
+        <updated>2023-05-07T20:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turbo Rascal Syntax Error]]></title>
+        <id>https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/</id>
+        <link href="https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/"/>
+        <updated>2023-05-07T19:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[209,779 works in the Public Domain, searchable]]></title>
+        <id>https://digital.staatsbibliothek-berlin.de/</id>
+        <link href="https://digital.staatsbibliothek-berlin.de/"/>
+        <updated>2023-05-07T19:36:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk 2077’s Path Tracing Update]]></title>
+        <id>https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/</id>
+        <link href="https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/"/>
+        <updated>2023-05-07T19:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passkeys: A Loss of User Control?]]></title>
+        <id>https://lapcatsoftware.com/articles/2023/5/1.html</id>
+        <link href="https://lapcatsoftware.com/articles/2023/5/1.html"/>
+        <updated>2023-05-07T18:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make smaller C and C++ binaries]]></title>
+        <id>http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html</id>
+        <link href="http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html"/>
+        <updated>2023-05-07T17:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first planetarium projector was unveiled 100 years ago]]></title>
+        <id>https://planetarium100.org/</id>
+        <link href="https://planetarium100.org/"/>
+        <updated>2023-05-07T17:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Makeitfrom.com – Material Properties Database]]></title>
+        <id>https://www.makeitfrom.com/</id>
+        <link href="https://www.makeitfrom.com/"/>
+        <updated>2023-05-07T17:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[影山貴彦のテレビ燦々:小芝＆北村の魅力大「波よ聞いてくれ」　トークの輝きとラジオの気概描く]]></title>
+        <id>https://mainichi.jp/articles/20230508/ddm/018/200/029000c</id>
+        <link href="https://mainichi.jp/articles/20230508/ddm/018/200/029000c"/>
+        <updated>2023-05-07T17:00:52.000Z</updated>
+        <author>
+            <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lamest Edit Wars]]></title>
+        <id>https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars</id>
+        <link href="https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars"/>
+        <updated>2023-05-07T16:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Prime Video microservices to monolith story]]></title>
+        <id>https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4</id>
+        <link href="https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4"/>
+        <updated>2023-05-07T16:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Books: The best books on everything]]></title>
+        <id>https://fivebooks.com/</id>
+        <link href="https://fivebooks.com/"/>
+        <updated>2023-05-07T16:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HP Victus 16（2023, r0000 / s0000）－ ビジネスシーンでも使いやすいゲーミングノート、CPUとGPUが最新世代になり、外観も変わりました]]></title>
+        <id>https://win-tab.net/?p=133401</id>
+        <link href="https://win-tab.net/hp/victus_16_2023_2305081/"/>
+        <updated>2023-05-07T16:06:41.000Z</updated>
+        <summary type="html"><![CDATA[HPがゲーミングノート「Victus 16」のニューモデル（Intel版：r0000、AMD版：s0000）を発売します。CPUとGPUの型番が新しくなっただけでなく、筐体も変更されています。HPのゲーミングPCとしては...]]></summary>
+        <author>
+            <name>wintab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Lisp?]]></title>
+        <id>https://nyxt.atlas.engineer/article/why-lisp.org</id>
+        <link href="https://nyxt.atlas.engineer/article/why-lisp.org"/>
+        <updated>2023-05-07T15:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JALの777-200ER、GW定期便終了も退役未定　フルフラットのクラスJ]]></title>
+        <id>https://www.aviationwire.jp/?p=276413</id>
+        <link href="https://www.aviationwire.jp/archives/276413"/>
+        <updated>2023-05-07T15:11:44.000Z</updated>
+        <summary type="html"><![CDATA[今年度上期で全機退役する日本航空（JAL/JL、9201）のボーイング777-200ER型機が5月7日夜、4月28日から投入されたゴールデンウイークの定期便運用を終えた。現在3機保有しているが定期便に投入可能な機体は1 […]]]></summary>
+        <author>
+            <name>Tadayuki YOSHIKAWA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel phones are sold with bootloader unlocking disabled]]></title>
+        <id>https://www.fitzsim.org/blog/?p=545</id>
+        <link href="https://www.fitzsim.org/blog/?p=545"/>
+        <updated>2023-05-07T15:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blackview OSCAL PowerMAX700 － タフネススマホのBlackviewがポータブル電源に参入！日本のAmazonで安く購入できます]]></title>
+        <id>https://win-tab.net/?p=133419</id>
+        <link href="https://win-tab.net/acc/oscal_powermax_700_2305073/"/>
+        <updated>2023-05-07T14:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Blackviewのサブブランド「OSCAL」から、ポータブル電源「PowerMAX700」が発売されました。ウインタブでよくご紹介しているタフネススマホメーカーでは他にOUKITELもポータブル電源を手掛けていますが、...]]></summary>
+        <author>
+            <name>wintab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rocky Horror Coffin Clock]]></title>
+        <id>https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/</id>
+        <link href="https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/"/>
+        <updated>2023-05-07T13:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【夏対策】第13世代i7に安価な強力な空冷CPUクーラーを取り付けました。【熱暴走防止】]]></title>
+        <id>https://sinmoble.com/?p=11025</id>
+        <link href="https://sinmoble.com/2023/05/07/post-11025/"/>
+        <updated>2023-05-07T13:10:05.000Z</updated>
+        <summary type="html"><![CDATA[13世代i7 13700搭載のPCを購入して3ヶ月経過 13世代i7を搭載したPCを今年の2月に購入していたのですが、純正品CPUクーラーをつけたままでした。王道で行けば簡易水冷のCPUクーラーを取り付けるべきだと思いま […]
+The post 【夏対策】第13世代i7に安価な強力な空冷CPUクーラーを取り付けました。【熱暴走防止】 first appeared on モバイルやIT機器を活用するSINのモバイル修行3rd 復活編.]]></summary>
+        <author>
+            <name>sinmoble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From XON&#x2F;XOFF to Forward Incremental Search (2022)]]></title>
+        <id>https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html</id>
+        <link href="https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html"/>
+        <updated>2023-05-07T12:22:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「メカニズムは壊れるもの」故障対策も万全！JAL整備士お手製の足踏み式消毒噴霧器]]></title>
+        <id>https://www.aviationwire.jp/?p=276390</id>
+        <link href="https://www.aviationwire.jp/archives/276390"/>
+        <updated>2023-05-07T11:15:50.000Z</updated>
+        <summary type="html"><![CDATA[感染症法上の「2類相当」と分類されている新型コロナウイルス感染症（COVID-19）が、5月8日から季節性インフルエンザ並みの「5類」へ移行する。これに伴い、空港に設置されているカウンターの飛散防止フィルムや消毒液など […]]]></summary>
+        <author>
+            <name>Tadayuki YOSHIKAWA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contrast Rebellion]]></title>
+        <id>https://contrastrebellion.com/</id>
+        <link href="https://contrastrebellion.com/"/>
+        <updated>2023-05-07T10:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRサバイバルFPS「Into The Radius」の続編開発が発表―今週の気になるVRゲームニュースまとめ（4月30日～5月6日）]]></title>
+        <id>https://www.moguravr.com/?p=223485</id>
+        <link href="https://www.moguravr.com/vr-game-news-pickup-23-5-1/"/>
+        <updated>2023-05-07T10:30:10.000Z</updated>
+        <summary type="html"><![CDATA[「気になるVRゲームニュースまとめ」では、一週間の内に報じられたVRゲーム関連ニュースの中から気になる新作、アップデート情報などをまとめてお届けします。今回は4月30日～5月6日の関連ニュースが対象です。 目次 1. V […]
+The post VRサバイバルFPS「Into The Radius」の続編開発が発表―今週の気になるVRゲームニュースまとめ（4月30日～5月6日） appeared first on Mogura VR.]]></summary>
+        <author>
+            <name>シェループ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Meta Quest 2】2023年5月第1週の新作＆注目のVRゲーム・アプリ]]></title>
+        <id>https://www.moguravr.com/?p=223472</id>
+        <link href="https://www.moguravr.com/meta-quest-quest-new-release-23-5-1/"/>
+        <updated>2023-05-07T10:00:21.000Z</updated>
+        <summary type="html"><![CDATA[5月第1週はMeta Quest 2（メタクエスト2）向けに有料アプリ4個がリリースされました。 今週のピックアップ 「Propagation: Paradise Hotel」 人間を凶暴なクリーチャーへと変貌させる謎の […]
+The post 【Meta Quest 2】2023年5月第1週の新作＆注目のVRゲーム・アプリ appeared first on Mogura VR.]]></summary>
+        <author>
+            <name>シェループ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘He epitomised the dazzling 60s and then was gone’: Rolling Stone Brian Jones]]></title>
+        <id>https://www.theguardian.com/music/2023/may/07/nick-broomfield-brian-jones-rolling-stones-arena-documentary-interview</id>
+        <link href="https://www.theguardian.com/music/2023/may/07/nick-broomfield-brian-jones-rolling-stones-arena-documentary-interview"/>
+        <updated>2023-05-07T09:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャバ嬢にドン引きされてしまう“ラブホに誘う口実”3選]]></title>
+        <id>https://nikkan-spa.jp/?p=1908862</id>
+        <link href="https://nikkan-spa.jp/1908862"/>
+        <updated>2023-05-07T06:54:40.000Z</updated>
+        <summary type="html"><![CDATA[大人の社交場・銀座のクラブにホステスとして勤めているみずえちゃんと申します。雑誌『小悪魔ageha』の読者モデル・愛沢えみりちゃんに憧れてキャバ嬢デビューしたのが22歳の頃でした。あれから10数年が過ぎ、北新地や銀座の […]]]></summary>
+        <author>
+            <name>日刊SPA!日刊SPA!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中古外車オーナーが苦心する「愛車のメンテナンス」。その一部始終]]></title>
+        <id>https://nikkan-spa.jp/?p=1904391</id>
+        <link href="https://nikkan-spa.jp/1904391"/>
+        <updated>2023-05-07T06:53:51.000Z</updated>
+        <summary type="html"><![CDATA[クルマが「ちょっと具合悪いかも」から良くなった事例 　腕時計投資家の斉藤由貴生です。 　 　私は、腕時計とクルマが好きなのですが、それらにはメンテナンスが必要となります。腕時計の場合は、なにか問題があってもオーバーホール […]]]></summary>
+        <author>
+            <name>日刊SPA!日刊SPA!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もしも“間違った情報”で自分が炎上してしまったらどうする？大前提は「相手に反応しないこと」]]></title>
+        <id>https://nikkan-spa.jp/?p=1901594</id>
+        <link href="https://nikkan-spa.jp/1901594"/>
+        <updated>2023-05-07T06:52:32.000Z</updated>
+        <summary type="html"><![CDATA[’22年に発生した炎上事件は1570件（『デジタル・クライシス白書2023』より）。一日平均4.3件。今日もどこかで誰かが燃えている。特に、回転寿司チェーン「スシロー」での迷惑動画がSNSで拡散されたことが記 […]]]></summary>
+        <author>
+            <name>日刊SPA!日刊SPA!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「デブなのに、なぜか美人を連れている男」に共通している3つの特徴――大反響・総合トップ10]]></title>
+        <id>https://nikkan-spa.jp/?p=1906386</id>
+        <link href="https://nikkan-spa.jp/1906386"/>
+        <updated>2023-05-07T06:45:39.000Z</updated>
+        <summary type="html"><![CDATA[日刊SPA！で反響の大きかった2022年の記事をジャンル別に発表してきたが、今回は総合トップ10。初回とランキング発表時の反響をあわせて集計、本当にスゴかった記事を発表する。惜しくもトップ10に届かなかった次点はこちら！ […]]]></summary>
+        <author>
+            <name>日刊SPA!日刊SPA!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring the HP 11720A Pulse Modulator and Coax Cables]]></title>
+        <id>https://tomverbeure.github.io/2023/05/06/HP-11720A-Pulse-Modulator.html</id>
+        <link href="https://tomverbeure.github.io/2023/05/06/HP-11720A-Pulse-Modulator.html"/>
+        <updated>2023-05-07T05:42:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Internals]]></title>
+        <id>https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f</id>
+        <link href="https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f"/>
+        <updated>2023-05-07T03:41:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUS ROG Flow X13 GV302 レビュー － 13.4インチ、コンバーチブル2 in 1タイプの「モバイル・ゲーミングノート」、ディスプレイ品質も最高！]]></title>
+        <id>https://win-tab.net/?p=133245</id>
+        <link href="https://win-tab.net/asus/asus_rog_flow_gv302_review_2305072/"/>
+        <updated>2023-05-07T03:39:18.000Z</updated>
+        <summary type="html"><![CDATA[ASUS ROG Flow X13 GV302の実機レビューです。ディスプレイサイズ13.4インチ、最小重量1.32 kg、コンバーチブル2 in 1筐体と、世にも珍しいw 「ゲーミング・モバイルノート」ですね。GPDや...]]></summary>
+        <author>
+            <name>wintab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［雑誌］「南国リゾートへGo！」航空旅行 vol.45]]></title>
+        <id>https://www.aviationwire.jp/?p=276384</id>
+        <link href="https://www.aviationwire.jp/archives/276384"/>
+        <updated>2023-05-07T03:10:47.000Z</updated>
+        <summary type="html"><![CDATA[航空旅行（イカロス出版）のvol.45（2023 SPRING）が発売中。1870円（税込。Kindle版も同額）。 〔第1特集〕 明るく心地よいエアラインで飛ぶ 南国リゾートへGo！ 「思うように渡航できなかったコロ […]]]></summary>
+        <author>
+            <name>Aviation Wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRゲーム「Echo VR」Oculus Rift版限定の有料DLCが無料化 8月のサービス終了まで]]></title>
+        <id>https://www.moguravr.com/?p=223463</id>
+        <link href="https://www.moguravr.com/echo-combat-free-charge/"/>
+        <updated>2023-05-07T03:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Oculus Rift（Rift S）向けVRゲーム「Echo VR」の有料追加コンテンツ、「Echo Combat」が5月2日より無料となりました。8月1日のサービス終了まで、「Echo VR」所持者であれば自由にダウ […]
+The post VRゲーム「Echo VR」Oculus Rift版限定の有料DLCが無料化 8月のサービス終了まで appeared first on Mogura VR.]]></summary>
+        <author>
+            <name>MoguLive編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気レースゲーム最新作「F1 23」発表 PC版はVRに対応]]></title>
+        <id>https://www.moguravr.com/?p=223452</id>
+        <link href="https://www.moguravr.com/f1-23/"/>
+        <updated>2023-05-07T02:30:54.000Z</updated>
+        <summary type="html"><![CDATA[フォーミュラ1（F1）を題材にした人気レースゲームのシリーズ最新作、「F1 23」が発表されました。 6月16日にPlayStation 5・PlayStation 4、Xbox Series X|S・Xbox One、 […]
+The post 人気レースゲーム最新作「F1 23」発表 PC版はVRに対応 appeared first on Mogura VR.]]></summary>
+        <author>
+            <name>MoguLive編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAL767貨物機の導入解説が1位　先週の注目記事23年4月30日-5月6日]]></title>
+        <id>https://www.aviationwire.jp/?p=276377</id>
+        <link href="https://www.aviationwire.jp/archives/276377"/>
+        <updated>2023-05-07T02:30:32.000Z</updated>
+        <summary type="html"><![CDATA[4月30日から5月6日までによく読まれた記事をまとめました。一番読まれたものは、日本航空（JAL/JL、9201）が2日導入を発表した13年ぶりの貨物専用機に関する解説記事でした。 第1位 JALはなぜ”禁じ手”貨物機 […]]]></summary>
+        <author>
+            <name>Tadayuki YOSHIKAWA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視聴者が刺客を送り込める！？ 全編ハンドトラッキングで遊ぶVRゲーム「Rogue Ascent VR」発売]]></title>
+        <id>https://www.moguravr.com/?p=223447</id>
+        <link href="https://www.moguravr.com/rogue-ascent-vr/"/>
+        <updated>2023-05-07T02:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Meta Quest 2（Quest Pro）向け新作VRゲーム「Rogue Ascent VR」が5月5日より、Meta Quest Storeにて販売開始となりました。価格は税込2,490円。日本語には未対応です。  […]
+The post 視聴者が刺客を送り込める！？ 全編ハンドトラッキングで遊ぶVRゲーム「Rogue Ascent VR」発売 appeared first on Mogura VR.]]></summary>
+        <author>
+            <name>MoguLive編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レアルが9季ぶり20度目V　サッカーのスペイン国王杯]]></title>
         <id>https://mainichi.jp/articles/20230507/k00/00m/050/022000c</id>
@@ -422,6 +1226,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Using predictions from arbitrary models to get tighter confidence intervals]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/"/>
+        <updated>2023-05-06T19:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Solid, a spec that lets people store their data securely in decentralized Pods]]></title>
         <id>https://solidproject.org/</id>
         <link href="https://solidproject.org/"/>
@@ -448,6 +1262,16 @@
         <updated>2023-05-06T18:47:04.000Z</updated>
         <author>
             <name>毎日新聞 「エンタメ」RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing Value Speculation in OCaml]]></title>
+        <id>https://www.lortex.org/articles/value-speculation-ocaml/</id>
+        <link href="https://www.lortex.org/articles/value-speculation-ocaml/"/>
+        <updated>2023-05-06T18:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -636,6 +1460,16 @@ BIUと良縁ネットでも成婚者輩出中。
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Language of Democracy]]></title>
+        <id>https://www.dissentmagazine.org/online_articles/language-democracy-christopher-lasch-plain-style</id>
+        <link href="https://www.dissentmagazine.org/online_articles/language-democracy-christopher-lasch-plain-style"/>
+        <updated>2023-05-06T14:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【24時まで・＋791円で颯24本追加可能】アサヒ飲料 香る香る緑茶 颯 620ml×24本＋ウィルキンソン タンサン ラベルレスボトル 500ml×24本 送料込2,411円(50.2円/本)【お茶・水も組み合わせ可】]]></title>
         <id>http://buy.livedoor.biz/archives/51648577.html</id>
         <link href="http://buy.livedoor.biz/archives/51648577.html"/>
@@ -741,6 +1575,16 @@ ELLE DIGITAL　2023/4/30(日) 20:40配信
         <summary type="html"><![CDATA[TeclastがAndroidタブレット「T40S」を日本のAmazonで発売しました。TeclastはたくさんのAndroidタブレットを手掛けていますが、「Tシリーズ」はその中でも最上位に位置しますので、同社製品とし...]]></summary>
         <author>
             <name>wintab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classic Sesame Street – Computer Trouble]]></title>
+        <id>https://www.youtube.com/watch?v=tCHKIdup5Lo</id>
+        <link href="https://www.youtube.com/watch?v=tCHKIdup5Lo"/>
+        <updated>2023-05-06T06:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -917,6 +1761,16 @@ ELLE DIGITAL　2023/4/30(日) 20:40配信
         <summary type="html"><![CDATA[デルタ航空（DAL/DL）は、米国の航空会社に割り当てられている羽田空港の発着枠について、3年間に限り米国内のどこからでも羽田へ乗り入れられる制度「羽田ゲートウェイフレキシビリティ」を米国運輸省（DOT）に提案した。2 […]]]></summary>
         <author>
             <name>Tadayuki YOSHIKAWA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secd: A silly implementation of the SECD machine]]></title>
+        <id>https://github.com/zachallaun/secd</id>
+        <link href="https://github.com/zachallaun/secd"/>
+        <updated>2023-05-06T03:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -54310,26 +55164,6 @@ Twitterに流れた下記の記事をきっかけに、結婚物語を知りま�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[サンワサプライ SKB-BT35 / SKB-WL35 － キーピッチ約19 mmを確保し、コンパクトに折り畳めるフルキーボード]]></title>
-        <id>https://win-tab.net/?p=131639</id>
-        <link href="https://win-tab.net/acc/sanwa_skb_bt35_skb_wl35_2304083/"/>
-        <updated>2023-04-08T13:02:51.000Z</updated>
-        <summary type="html"><![CDATA[サンワサプライが折りたたみ式のキーボード「SKB-BT35BK（Bluetooth, ブラック）」「SKB-BT35W（Bluetooth, ホワイト）」「SKB-WL35BK（USB無線, ブラック）」「SKB-WL3...]]></summary>
-        <author>
-            <name>wintab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why human societies developed so little during 300k years]]></title>
-        <id>https://woodfromeden.substack.com/p/violent-enough-to-stand-still</id>
-        <link href="https://woodfromeden.substack.com/p/violent-enough-to-stand-still"/>
-        <updated>2023-04-08T12:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[努力は無駄？　数学的能力が遺伝子レベルで決まっている可能性＝中国研究]]></title>
         <id>https://sputniknews.jp/20230408/15606990.html</id>
         <link href="https://sputniknews.jp/20230408/15606990.html"/>
@@ -54337,16 +55171,6 @@ Twitterに流れた下記の記事をきっかけに、結婚物語を知りま�
         <summary type="html"><![CDATA[子供時代、算数や数学が不得意で悩んだ人は多いことだろう。一方で計算や幾何学が大好きでテストでは毎回満点だったという天才肌の人もいるかもしれない。中国の研究者はこのごろ、様々な数学的な才能が遺伝子レベルで決定づけられている可能性があるとする研究結果を発表した。論文の詳細は科学誌「Genes, Brain and Behavior」に掲載されている。]]></summary>
         <author>
             <name>スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Garbage Collection Handbook, 2nd Edition]]></title>
-        <id>https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038</id>
-        <link href="https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038"/>
-        <updated>2023-04-08T11:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -54371,16 +55195,6 @@ Twitterに流れた下記の記事をきっかけに、結婚物語を知りま�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IIJ障害による回線解約、イオンモバイルなどにも影響]]></title>
-        <id>http://shimajiro-mobiler.net/?p=79735</id>
-        <link href="http://shimajiro-mobiler.net/2023/04/08/post79735/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=post-79735"/>
-        <updated>2023-04-08T10:52:45.000Z</updated>
-        <summary type="html"><![CDATA[イオンモバイルは、2023年4月7日23時頃から、ドコモ回線を利用するサービスでMNP予約番号を取得した契約者が、転出に伴う解約手続きを完了していないにも関わらず、回線が解約される場合がある障害が発生していることを発表し...]]></summary>
-        <author>
-            <name>shimajiro</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ニコ・ヒュルケンベルグのMGU-Kの故障でフェラーリF1のPUの懸念増大]]></title>
         <id>https://f1-gate.com/hulkenberg/f1_74324.html</id>
         <link href="https://f1-gate.com/hulkenberg/f1_74324.html"/>
@@ -54390,26 +55204,6 @@ Twitterに流れた下記の記事をきっかけに、結婚物語を知りま�
 ここ数日、ハースF1チームはVF-23がなぜパワ... 続きを読む]]></summary>
         <author>
             <name>F1-Gate.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why computer modeling should become a popular hobby (1996)]]></title>
-        <id>https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm</id>
-        <link href="https://www.qrg.northwestern.edu/papers/files/simhobby-local.htm"/>
-        <updated>2023-04-08T10:42:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FPGエアサービス、ホンダジェット整備責任者募集　24年就航]]></title>
-        <id>https://www.aviationwire.jp/?p=274215</id>
-        <link href="https://www.aviationwire.jp/archives/274215"/>
-        <updated>2023-04-08T10:38:18.000Z</updated>
-        <summary type="html"><![CDATA[FPG（7148）傘下のFPGエアサービス（旧北日本航空）は、小型ビジネスジェット機「HondaJet（ホンダジェット）」の整備部門責任者を募集している。2024年4-6月ごろをめどに、プライベートジェット事業として最 […]]]></summary>
-        <author>
-            <name>Tadayuki YOSHIKAWA</name>
         </author>
     </entry>
     <entry>
@@ -54425,20 +55219,6 @@ Twitterに流れた下記の記事をきっかけに、結婚物語を知りま�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[茨城大付属小でいじめ不登校　「重大」認定も1年以上調査・報告せず]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428421.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428421.html"/>
-        <updated>2023-04-08T10:03:22.000Z</updated>
-        <summary type="html"><![CDATA[茨城大付属小でいじめ不登校　「重大」認定も1年以上調査・報告せず
-毎日新聞　2023/4/6(木) 21:00配信
-
-
-　茨城大教育学部付属小学校（水戸市）が2021年11月、当時4年生の女児がいじめを理由に不登校が続く「重大事態」と認定しながら約1年3カ月にわたり文部科学省に報告せ...]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AUKUSは核不拡散体制を崩壊させる＝北朝鮮専門家]]></title>
         <id>https://sputniknews.jp/20230408/aukus-15606252.html</id>
         <link href="https://sputniknews.jp/20230408/aukus-15606252.html"/>
@@ -54446,113 +55226,6 @@ Twitterに流れた下記の記事をきっかけに、結婚物語を知りま�
         <summary type="html"><![CDATA[米英豪の軍事協力の枠組み「AUKUS（オーカス）」は新冷戦の産物であり、国際的な核不拡散体制を破壊し軍拡競争を加速させる。こうした考えを北朝鮮メディア「朝鮮中央通信」のリ・チョンス論説委員が示している。]]></summary>
         <author>
             <name>スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「優秀な成績収めた」　長崎県教委、体罰した部活顧問の名前挙げ表彰]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428427.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428427.html"/>
-        <updated>2023-04-08T09:59:12.000Z</updated>
-        <summary type="html"><![CDATA[「優秀な成績収めた」　長崎県教委、体罰した部活顧問の名前挙げ表彰
-朝日新聞デジタル　2023/4/6(木) 20:30配信
-
-
-　部員への体罰が明らかになった長崎市の私立瓊浦（けいほ）高校男子バドミントン部について、長崎県教育委員会は2月の県スポーツ表彰の際、体罰をした顧問の...]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユナイテッド航空、100機目の737MAX受領]]></title>
-        <id>https://www.aviationwire.jp/?p=274202</id>
-        <link href="https://www.aviationwire.jp/archives/274202"/>
-        <updated>2023-04-08T09:56:40.000Z</updated>
-        <summary type="html"><![CDATA[ボーイングは現地時間4月7日（日本時間8日）、ユナイテッド航空（UAL/UA）向け737 MAXの100機目となる機体（737-8、登録記号N17301）が離陸する様子をTwitterに投稿した。 　N17301は3月 […]]]></summary>
-        <author>
-            <name>Tadayuki YOSHIKAWA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「生活費に充てるためだった」PTA雇用職員が着服…単年度で334万円…そもそもPTA雇用職員とは?]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428424.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428424.html"/>
-        <updated>2023-04-08T09:51:48.000Z</updated>
-        <summary type="html"><![CDATA[「生活費に充てるためだった」PTA雇用職員が着服…単年度で334万円…そもそもPTA雇用職員とは?
-BSS山陰放送　2023/4/6(木) 17:08配信
-
-
-6日、鳥取市教育委員会は、市立中学校のPTAが雇用していた50代の女性事務職員がPTAの運営費や教材費など、少なくとも334万円を着服してい...]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[２０年間で２５９０万円横領か　九州ルーテル学院大学同窓会の会計担当60代女性を刑事告訴へ【熊本】]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428423.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428423.html"/>
-        <updated>2023-04-08T09:48:54.000Z</updated>
-        <summary type="html"><![CDATA[２０年間で２５９０万円横領か　九州ルーテル学院大学同窓会の会計担当60代女性を刑事告訴へ【熊本】
-TKUテレビ熊本　2023/4/6(木) 19:44配信
-
-
-九州ルーテル学院大学同窓会で会計担当の６０代女性が会費を横領していたとして、告訴状が提出されました。
-
-６日付で告訴状を提...]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ばか」「使えない」日常的に部員に暴言　野球部監督を指導停止に＝静岡・掛川工業高校]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428420.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428420.html"/>
-        <updated>2023-04-08T09:37:47.000Z</updated>
-        <summary type="html"><![CDATA[「ばか」「使えない」日常的に部員に暴言　野球部監督を指導停止に＝静岡・掛川工業高校
-静岡放送（SBS）　2023/4/7(金) 16:42配信
-
-
-静岡県立掛川工業高校野球部の監督が部員に対し暴言を発したとして、学校側が監督の指導を停止したことが分かりました。
-
-指導停止の処分を...]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ユーアーシャラップ！」日本語学校元理事長が説明会でウクライナ避難民に暴言連発！ なぜ支援金問題が勃発したのか。政府の無策のせいで支援金詐欺をするグループも]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428417.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428417.html"/>
-        <updated>2023-04-08T09:17:55.000Z</updated>
-        <summary type="html"><![CDATA[「ユーアーシャラップ！」日本語学校元理事長が説明会でウクライナ避難民に暴言連発！ なぜ支援金問題が勃発したのか。政府の無策のせいで支援金詐欺をするグループも
-集英社オンライン　2023/4/2(日) 8:02配信
-
-「当初、前橋市は（授業料・教材などに関する補助金を）30万...]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウクライナ避難民への“難民貴族”発言で炎上の日本語学校元理事がまたしても暴言。「ウクライナモンスターになる」…あきれた演説の音声を入手！その内容とは？]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428418.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428418.html"/>
-        <updated>2023-04-08T09:16:50.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナ避難民への“難民貴族”発言で炎上の日本語学校元理事がまたしても暴言。「ウクライナモンスターになる」…あきれた演説の音声を入手！その内容とは？
-集英社オンライン　2023/4/2(日) 8:02配信
-
-
-ウクライナ避難民を支援している団体関係者によると、これまでニ...]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo Yoga 7i Gen 8 14 － 大人気の有機ELディスプレイ搭載2 in 1がニューモデルになりました]]></title>
-        <id>https://win-tab.net/?p=131627</id>
-        <link href="https://win-tab.net/lenovo/yoga_7i_gen_8_14_2304082/"/>
-        <updated>2023-04-08T09:11:01.000Z</updated>
-        <summary type="html"><![CDATA[レノボがコンバーチブル2 in 1 PC「Yoga 7i Gen 8 14」を発売しました。2022年に発売され、個人向けPCとして魅力的なスペックを備えつつもコストパフォーマンスが非常に高かった「Yoga 770i 1...]]></summary>
-        <author>
-            <name>wintab</name>
         </author>
     </entry>
     <entry>
@@ -54589,16 +55262,6 @@ F1スプリントは、2021年に3つのレースで初めてトライアウト�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Database in the 2020s]]></title>
-        <id>https://me.0xffff.me/build-database-in-2020s.html</id>
-        <link href="https://me.0xffff.me/build-database-in-2020s.html"/>
-        <updated>2023-04-08T08:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OPECプラスの減産　最も大きな影響受けるのは日本経済か]]></title>
         <id>https://sputniknews.jp/20230408/opec-15605898.html</id>
         <link href="https://sputniknews.jp/20230408/opec-15605898.html"/>
@@ -54606,20 +55269,6 @@ F1スプリントは、2021年に3つのレースで初めてトライアウト�
         <summary type="html"><![CDATA[OPEC（石油輸出国機構）加盟国やロシアなどその他の産油国でつくるOPECプラスの諸国が、石油の自主的な追加減産を発表したことで、市場では先行き不安が渦巻いており、年末には1バレル＝100ドルまで値上がりするのとの観測も一部であがっている。実際にそうなった場合、どの国が最も影響を受けるのか、トルコ紙「Dunya」が専門家の分析をもとに伝えている。]]></summary>
         <author>
             <name>スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中3生234人の個人情報、校務員が無断でコピーし生徒に見せる]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428413.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428413.html"/>
-        <updated>2023-04-08T08:46:53.000Z</updated>
-        <summary type="html"><![CDATA[中3生234人の個人情報、校務員が無断でコピーし生徒に見せる
-朝日新聞デジタル　2023/4/7(金) 16:15配信
-
-
-　箕面市教育委員会は7日、市立第一中学校で新3年生の家庭状況や就学援助の状況など個人情報に関する資料が生徒側に流出したと発表した。男性校務員（50）が教職員の...]]></summary>
-        <author>
-            <name>damekyoshi</name>
         </author>
     </entry>
     <entry>
@@ -54655,17 +55304,6 @@ F1スプリントは、2021年に3つのレースで初めてトライアウト�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RIOT MUSIC全体ライブ YouTubeで全編無料配信決定【VTuberデイリーニュース2023 4/7号】]]></title>
-        <id>https://www.moguravr.com/?p=220547</id>
-        <link href="https://www.moguravr.com/vtuber-daily-news-518/"/>
-        <updated>2023-04-08T07:17:05.000Z</updated>
-        <summary type="html"><![CDATA[「VTuberデイリーニュース」では、その日に起きた注目のVTuberニュースをピックアップ。読者の皆さんにVTuberの最新情報をまとめてお届けします。 RIOT MUSIC全体ライブ YouTubeで全編無料配信決定 […]
-The post RIOT MUSIC全体ライブ YouTubeで全編無料配信決定【VTuberデイリーニュース2023 4/7号】 appeared first on Mogura VR.]]></summary>
-        <author>
-            <name>佐藤ホームズ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ピーチ、上海発着路線の受託手荷物料金を大幅引き上げ　1個最大9,800円]]></title>
         <id>https://www.traicy.com/?p=266310</id>
         <link href="https://www.traicy.com/posts/20230408266310/"/>
@@ -54674,26 +55312,6 @@ The post RIOT MUSIC全体ライブ YouTubeで全編無料配信決定【VTuber�
 投稿 ピーチ、上海発着路線の受託手荷物料金を大幅引き上げ　1個最大9,800円 は TRAICY（トライシー） に最初に表示されました。]]></summary>
         <author>
             <name>編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weber–Fechner Law]]></title>
-        <id>https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law</id>
-        <link href="https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law"/>
-        <updated>2023-04-08T07:12:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mainboards supported by coreboot]]></title>
-        <id>https://coreboot.org/status/board-status.html</id>
-        <link href="https://coreboot.org/status/board-status.html"/>
-        <updated>2023-04-08T07:09:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -54718,36 +55336,6 @@ The post RIOT MUSIC全体ライブ YouTubeで全編無料配信決定【VTuber�
 iPhoneとApple Watch、Ai...]]></summary>
         <author>
             <name>talesofnamco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonフレッシュ、初回注文で全品が40%割引になるキャンペーン（4月8日まで）]]></title>
-        <id>http://shimajiro-mobiler.net/?p=79731</id>
-        <link href="http://shimajiro-mobiler.net/2023/04/08/post79731/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=post-79731"/>
-        <updated>2023-04-08T06:57:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazonは、ネットスーパー「Amazonフレッシュ」を初めて注文すると、アルコールを除く全品が40%となるキャンペーンを開催している。適用条件はAmazonフレッシュが販売する商品を合計4,000円以上購入する場合に...]]></summary>
-        <author>
-            <name>shimajiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元セクシー女優が「業界のヤラセ事情」を暴露。“素人女子大生”に変身して出演したことも]]></title>
-        <id>https://nikkan-spa.jp/?p=1902304</id>
-        <link href="https://nikkan-spa.jp/1902304"/>
-        <updated>2023-04-08T06:54:21.000Z</updated>
-        <summary type="html"><![CDATA[素人、大学生、ナンパ企画……業界の「ヤラセ」はどこまで本当か？ 　エンタメ業界にヤラセはつきものだ。あらかじめ定められた設定や筋書きがあるからこそ大衆の“ツボ”を狙いやすく、タレントや裏方の全員が動きやすい。もちろんすべ […]]]></summary>
-        <author>
-            <name>日刊SPA!日刊SPA!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“自称カウンセラー”が増加中？当事者を狙う「発達障害ビジネス」の闇]]></title>
-        <id>https://nikkan-spa.jp/?p=1890190</id>
-        <link href="https://nikkan-spa.jp/1890190"/>
-        <updated>2023-04-08T06:53:27.000Z</updated>
-        <summary type="html"><![CDATA[発達障害の認知度が年々高まっている。従来は子供の問題だと思われてきたが、実は一定数の割合で「大人にも発達障害の人がいる」という事実が知られるようになった。それによって「自分もそうかもしれない」と疑う人が増え、職場では混乱 […]]]></summary>
-        <author>
-            <name>日刊SPA!日刊SPA!</name>
         </author>
     </entry>
     <entry>
@@ -54811,36 +55399,6 @@ iPhoneとApple Watch、Ai...]]></summary>
         <summary type="html"><![CDATA[ウクライナ軍は2022年10月、ロシア支配下にあるザポロジエ（ザポリージャ）原子力発電所の奪還を試みたが、失敗していたという。英紙タイムズが報じた。]]></summary>
         <author>
             <name>スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「刀剣乱舞」映画第2弾　舞台は東京、継承からの「挑戦」　主演・鈴木拡樹さん]]></title>
-        <id>https://mainichi.jp/articles/20230408/dde/007/200/022000c</id>
-        <link href="https://mainichi.jp/articles/20230408/dde/007/200/022000c"/>
-        <updated>2023-04-08T04:30:11.000Z</updated>
-        <summary type="html"><![CDATA[人気コンテンツ「刀剣乱舞」の実写映画第2弾「映画刀剣乱舞－黎明－」（耶雲哉治監督）が3月31日に公開された。戦国時代の「本能寺の変」を題材にした2019年の前作「映画刀剣乱舞－継承－」から一転し、今回の舞台は現代の東京。主演の鈴木拡樹（ひろき）さんは「挑戦」を今作のキーワードに挙げた。【安藤龍朗】]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[木村拓哉、連ドラで意気込み]]></title>
-        <id>https://mainichi.jp/articles/20230408/dde/018/200/008000c</id>
-        <link href="https://mainichi.jp/articles/20230408/dde/018/200/008000c"/>
-        <updated>2023-04-08T04:29:09.000Z</updated>
-        <summary type="html"><![CDATA[10日にスタートするフジテレビ系連続ドラマ「風間公親―教場0―」（毎週月曜午後9時、初回は30分拡大）の完成披露舞台あいさつが3日、東京都港区であった。主人公の風間公親を演じる木村拓哉らが登壇。木村は「今一緒に壇上にいるすてきな共演者と、スタッフと全員で力を合わせて、現場でワンカットワンカットを積]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIJmio、意図せず回線解約が行われる障害が発生]]></title>
-        <id>http://shimajiro-mobiler.net/?p=79726</id>
-        <link href="http://shimajiro-mobiler.net/2023/04/08/post79726/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=post-79726"/>
-        <updated>2023-04-08T04:17:12.000Z</updated>
-        <summary type="html"><![CDATA[2023.4.8 16:00 追記 IIJから第2報として「端末の再起動で改善する場合がある。」という旨の案内が出されたため追記。 →ユーザーからは解約しているように見えても、実際には解約処理は行われておらず端末再起動で...]]></summary>
-        <author>
-            <name>shimajiro</name>
         </author>
     </entry>
     <entry>
@@ -55011,17 +55569,6 @@ iPhoneとApple Watch、Ai...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VRChatへいつでも気軽に学びに行こう。学習・追体験系ワールド7選]]></title>
-        <id>https://www.moguravr.com/?p=220530</id>
-        <link href="https://www.moguravr.com/vrchat-learning-world-selection/"/>
-        <updated>2023-04-08T03:00:31.000Z</updated>
-        <summary type="html"><![CDATA[ソーシャルVR「VRChat」には、数え切れないほどのワールドが日々公開されています。居心地のよいもの、エンタメを楽しめるものが多いですが、中には外国語や科学を学んだり、過去の歴史的事件を追体験できるような、なにかしらの […]
-The post VRChatへいつでも気軽に学びに行こう。学習・追体験系ワールド7選 appeared first on Mogura VR.]]></summary>
-        <author>
-            <name>浅田カズラ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[凍ったペットボトルをブチ込んで体をヒエヒエにできる山善の「水冷服 DIRECT COOL」はどんな代物なのか？]]></title>
         <id>https://gigazine.net/news/20230408-yamazen-direct-cool-overview/</id>
         <link href="https://gigazine.net/news/20230408-yamazen-direct-cool-overview/"/>
@@ -55064,27 +55611,6 @@ The post VRChatへいつでも気軽に学びに行こう。学習・追体験�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ThinkPad X13 Gen 3が13万円台から！人気モデルの後継機、Yoga 7i Gen 8も発売されました！Lenovo クーポン、セール情報]]></title>
-        <id>https://win-tab.net/?p=131619</id>
-        <link href="https://win-tab.net/sale/lenovo_sale_2304081/"/>
-        <updated>2023-04-08T02:53:38.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、ウインタブ（@WTab8）です。レノボ直販サイトの週末セール情報です。今週も「春の新生活応援フェア」が開催中です。また、4月7日に「Yoga 7i Gen 8(16, Intel)」と「Yoga 9i Gen...]]></summary>
-        <author>
-            <name>wintab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鳩のメタバース「ハトバース」が1周年記念アップデートを公開 黒いにわとりがでかくなる]]></title>
-        <id>https://www.moguravr.com/?p=220465</id>
-        <link href="https://www.moguravr.com/hatoverse-2/"/>
-        <updated>2023-04-08T02:45:22.000Z</updated>
-        <summary type="html"><![CDATA[鳩のメタバース「ハトバース」が1周年記念アップデートを公開しました。あわせて、ハトバースの一年を振り返る動画を公開しています。 ハトバースはスマートフォンに配信されている、鳩になって複数のハトとリアルタイムに交流できるア […]
-The post 鳩のメタバース「ハトバース」が1周年記念アップデートを公開 黒いにわとりがでかくなる appeared first on Mogura VR.]]></summary>
-        <author>
-            <name>MoguLive編集部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HIS、「全国旅行支援」販売追加　奈良県対象、再販も]]></title>
         <id>https://www.traicy.com/?p=266308</id>
         <link href="https://www.traicy.com/posts/20230408266308/"/>
@@ -55104,38 +55630,6 @@ The post 鳩のメタバース「ハトバース」が1周年記念アップデ�
 投稿 一休、「全国旅行支援」販売開始　滋賀県対象 は TRAICY（トライシー） に最初に表示されました。]]></summary>
         <author>
             <name>編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「OpenXR Toolkit」がQuest Pro向けのフォービエイテッド・レンダリングに対応 対象のVRゲームのパフォーマンスが向上]]></title>
-        <id>https://www.moguravr.com/?p=220460</id>
-        <link href="https://www.moguravr.com/openxr-toolkit/"/>
-        <updated>2023-04-08T02:30:53.000Z</updated>
-        <summary type="html"><![CDATA[VR/ARの標準仕様「OpenXR」設定ツール「OpenXR Toolkit」が、Meta Quest Pro向けのフォービエイテッド・レンダリング機能のサポートを開始しました。「Microsoft Flight Sim […]
-The post 「OpenXR Toolkit」がQuest Pro向けのフォービエイテッド・レンダリングに対応 対象のVRゲームのパフォーマンスが向上 appeared first on Mogura VR.]]></summary>
-        <author>
-            <name>井文</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホをかざすと、渋谷のハチ公の銅像が風神・雷神に変身 「スナップチャット」にARレンズが登場]]></title>
-        <id>https://www.moguravr.com/?p=220538</id>
-        <link href="https://www.moguravr.com/snapchat-25/"/>
-        <updated>2023-04-08T02:21:15.000Z</updated>
-        <summary type="html"><![CDATA[ARを活用した写真SNS「スナップチャット」にて、“忠犬ハチ公”の誕生100周年を記念したARレンズが登場しました。ARレンズを通して渋谷のハチ公像を撮影すると、ハチ公が躍動感溢れるAR雷神・風神に変身します。小さなハチ […]
-The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷神に変身 「スナップチャット」にARレンズが登場 appeared first on Mogura VR.]]></summary>
-        <author>
-            <name>井文</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QSL Card]]></title>
-        <id>https://en.wikipedia.org/wiki/QSL_card</id>
-        <link href="https://en.wikipedia.org/wiki/QSL_card"/>
-        <updated>2023-04-08T02:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -55159,16 +55653,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[館内巡りバーチャルで　唐古・鍵考古学ミュージアム、収蔵品3D化]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/040/036000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/040/036000c"/>
-        <updated>2023-04-08T01:16:08.000Z</updated>
-        <summary type="html"><![CDATA[奈良県田原本町唐古・鍵考古学ミュージアム（同町阪手）は、パソコン画面に館内をストリートビューのように表示させて巡回する「バーチャルミュージアム」をインターネット上に開設した。主な展示品をクリックすれば3D画像に変換され、立体的に鑑賞できる。考古学の遺物の3Dデータ化は奈良文化財研究所などが進めてい]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[米国、ウクライナと中国に関する新たな機密文書が流出との報道]]></title>
         <id>https://sputniknews.jp/20230408/15600437.html</id>
         <link href="https://sputniknews.jp/20230408/15600437.html"/>
@@ -55176,36 +55660,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
         <summary type="html"><![CDATA[米紙ニューヨーク・タイムズは、ウクライナ、中国、中東に関する米国の機密文書が新たに流出したとされると報じた。]]></summary>
         <author>
             <name>スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福岡県、九州電力を6カ月間の指名停止　関西電力とカルテル]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/020/035000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/020/035000c"/>
-        <updated>2023-04-08T01:01:51.000Z</updated>
-        <summary type="html"><![CDATA[福岡県は7日、県の発注事業で10月6日までの6カ月間、九州電力の指名を停止したと発表した。公正取引委員会が3月、事業者向けの電力販売でカルテルを関西電力と結んだとして、独禁法違反で課徴金納付命令を出したことを受けた措置。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昨夏の甲子園バッテリー　新たな道へ　投手はプロ、捕手はグラブ職人]]></title>
-        <id>https://mainichi.jp/articles/20230407/k00/00m/050/255000c</id>
-        <link href="https://mainichi.jp/articles/20230407/k00/00m/050/255000c"/>
-        <updated>2023-04-08T01:00:13.000Z</updated>
-        <summary type="html"><![CDATA[多くの若者が社会人としてのスタートを切る中、昨夏の甲子園に出場したバッテリーが新たな一歩を踏み出した。ピッチャーはプロ野球へ、キャッチャーはグラブ職人に。歩む道は違うが、野球を通して支え合う関係はこれからも続く。【一宮俊介】]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウマ女十番勝負:（4）桜花賞　春の嵐を起こすのは　コナコースト]]></title>
-        <id>https://mainichi.jp/articles/20230407/k00/00m/050/123000c</id>
-        <link href="https://mainichi.jp/articles/20230407/k00/00m/050/123000c"/>
-        <updated>2023-04-08T01:00:11.000Z</updated>
-        <summary type="html"><![CDATA[デジタル報道グループの「真希バオー」こと中嶋真希記者が、上半期のGⅠ計12戦を予想します。第4弾は、「桜の女王」を決める桜花賞（阪神1600メートル、9日午後3時40分発走）。新馬戦で31秒4の末脚を繰り出し、2歳女王の座に輝いたリバティアイランドは、スーパースターホースの仲間入りができるでしょう]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
         </author>
     </entry>
     <entry>
@@ -55220,76 +55674,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[金沢大「泉学寮」ついに廃止　延長期間終え、最後の学生8人退去]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/040/032000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/040/032000c"/>
-        <updated>2023-04-08T00:57:12.000Z</updated>
-        <summary type="html"><![CDATA[金沢大の男子寮「泉学寮」（金沢市野町5）が7日、1週間の延長期間を終え、廃止された。新型コロナウイルス禍などの影響で経済的に困窮する学生が増える中、寮生らが寮の存続を求めて署名活動を展開。国会や県議会でも取り上げられたが、大学側の廃止方針は変わらなかった。大学側に要望を続け、転出先を決めていなかっ]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[犯罪的と非難された「3人の親」不妊治療が再注目される理由]]></title>
-        <id>https://www.technologyreview.jp/?p=300658</id>
-        <link href="https://www.technologyreview.jp/s/300658/the-idea-of-using-a-three-parent-baby-technique-for-infertility-just-got-a-boost/"/>
-        <updated>2023-04-08T00:55:14.000Z</updated>
-        <summary type="html"><![CDATA[重篤な遺伝性疾患を防ぐための「3人の遺伝的親を持つ赤ちゃん」の手法を不妊治療に用いることは、科学者から批判を浴びてきた。だが、最近の臨床試験によって風向きは変わりつつある。]]></summary>
-        <author>
-            <name>Jessica Hamzelou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[松山英樹、暫定18位　ウッズは50位　ゴルフ・マスターズ第2R]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/050/033000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/050/033000c"/>
-        <updated>2023-04-08T00:52:19.000Z</updated>
-        <summary type="html"><![CDATA[男子ゴルフのメジャー第1戦、マスターズ・トーナメントは7日、米ジョージア州オーガスタのオーガスタ・ナショナルGC（パー72）で第2ラウンドが行われたが、悪天候でサスペンデッドとなり、2年ぶりの優勝を目指す松山英樹は8番を終えてボギーなしの2バーディーで、通算3アンダーの暫定18位となった。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米最高裁判事に豪華接待スキャンダル　共和党支持者の資産家から]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/030/028000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/030/028000c"/>
-        <updated>2023-04-08T00:51:50.000Z</updated>
-        <summary type="html"><![CDATA[米連邦最高裁の保守派クラレンス・トーマス判事が、共和党支持者の資産家から豪華な旅行などの接待を受けた疑惑が浮上している。トーマス氏は7日に声明を出し「親しい友人からのもてなしで、開示の必要がないと助言された」と釈明。最高裁判事は米国の倫理や価値観に大きな影響を及ぼす憲法判断を下す立場のため、民主党]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chasing Rainbows: Designing for Colorblindness]]></title>
-        <id>https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle</id>
-        <link href="https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle"/>
-        <updated>2023-04-08T00:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目的は女性接待付き旅行？　消防団員の報酬、団が勝手に引き出し]]></title>
-        <id>https://mainichi.jp/articles/20230407/k00/00m/040/167000c</id>
-        <link href="https://mainichi.jp/articles/20230407/k00/00m/040/167000c"/>
-        <updated>2023-04-08T00:48:40.000Z</updated>
-        <summary type="html"><![CDATA[「自分に振り込まれている報酬なのに、自分で引き出すことができない」。ある消防団員の男性から、こんな訴えが情報提供窓口「つながる毎日新聞」に寄せられた。取材を進めると、団員手当として自治体から支払われる報酬が事実上、消防団に没収され、女性コンパニオンの接待付きの「研修旅行」などに使われていた。【金森]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウクライナ軍の機密流出?政府は否定　欧米メディア「一部本物か」]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/030/031000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/030/031000c"/>
-        <updated>2023-04-08T00:47:53.000Z</updated>
-        <summary type="html"><![CDATA[ロシアの侵攻を受けるウクライナ軍の反撃などに関する米国と北大西洋条約機構（NATO）の機密資料とみられる複数の文書がSNS（ネット交流サービス）上に投稿され、波紋を広げている。ウクライナ政府は7日、「ロシアによる情報戦略の一環だ」として、機密情報の流出を否定したが、米欧主要メディアは一部は本物との]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[アイスランド航空、エアバスA321XLR型機を最大25機導入]]></title>
         <id>https://www.traicy.com/?p=266290</id>
         <link href="https://www.traicy.com/posts/20230408266290/"/>
@@ -55298,36 +55682,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
 投稿 アイスランド航空、エアバスA321XLR型機を最大25機導入 は TRAICY（トライシー） に最初に表示されました。]]></summary>
         <author>
             <name>編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porting the Slint UI Toolkit to a Microcontroller with 264K RAM]]></title>
-        <id>https://slint-ui.com/blog/porting-slint-to-microcontrollers.html</id>
-        <link href="https://slint-ui.com/blog/porting-slint-to-microcontrollers.html"/>
-        <updated>2023-04-08T00:44:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[山奥でサーモン養殖　「森の中の魚屋さん」元県職員、挑戦の日々]]></title>
-        <id>https://mainichi.jp/articles/20230407/k00/00m/040/133000c</id>
-        <link href="https://mainichi.jp/articles/20230407/k00/00m/040/133000c"/>
-        <updated>2023-04-08T00:30:13.000Z</updated>
-        <summary type="html"><![CDATA[高知県いの町にある深い森に囲まれ、1人でサーモン養殖に取り組む男性がいる。土本隆司さん（62）。元は高知県職員だったが、55歳で退職した後、アメゴ（アマゴ）の養殖家に転身し、2019年からサーモンの淡水養殖に挑戦。コロナ禍や円安など逆風が続く中、「いろいろと大変やけど、面白くて、好きでやるきね」と]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go port of SQLite without CGo]]></title>
-        <id>https://gitlab.com/cznic/sqlite</id>
-        <link href="https://gitlab.com/cznic/sqlite"/>
-        <updated>2023-04-08T00:22:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -55352,36 +55706,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[名刺として使える切符　銚子電鉄が発売　知名度アップ狙う]]></title>
-        <id>https://mainichi.jp/articles/20230407/k00/00m/040/141000c</id>
-        <link href="https://mainichi.jp/articles/20230407/k00/00m/040/141000c"/>
-        <updated>2023-04-08T00:11:16.000Z</updated>
-        <summary type="html"><![CDATA[千葉県銚子市を走るローカル鉄道「銚子電鉄」が4月から、名刺として使える切符を売り出した。乗車してもらった後、取引先などに配ってもらい、同社の知名度アップを狙う。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮また実験　海中の核爆発で津波起こす「核無人水中攻撃艇」]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/030/021000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/030/021000c"/>
-        <updated>2023-04-08T00:02:54.000Z</updated>
-        <summary type="html"><![CDATA[北朝鮮国営の朝鮮中央通信は8日、今月4～7日に水中戦略兵器システムの実験を行ったと報じた。海中で核弾頭を爆発させて津波を発生させ、敵の艦船や港を破壊する「核無人水中攻撃艇」が投入されたとしている。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週末パズル:脳も喜ぶ？違い探し　「新1年生」]]></title>
-        <id>https://mainichi.jp/articles/20230329/k00/00m/100/093000c</id>
-        <link href="https://mainichi.jp/articles/20230329/k00/00m/100/093000c"/>
-        <updated>2023-04-08T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[週末にパズルを楽しんでみてはいかがでしょうか。 　2枚の絵には、違っているところが7カ所あります。分かりますか？ 　正解はこちらです。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「心理学研究に応募する人の傾向」によって実験結果にバイアスがかかってしまう可能性]]></title>
         <id>https://gigazine.net/news/20230408-psychology-studies-self-selection-biases/</id>
         <link href="https://gigazine.net/news/20230408-psychology-studies-self-selection-biases/"/>
@@ -55390,136 +55714,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4 Takes a New Midterm and Gets an A]]></title>
-        <id>https://betonit.substack.com/p/gpt-4-takes-a-new-midterm-and-gets</id>
-        <link href="https://betonit.substack.com/p/gpt-4-takes-a-new-midterm-and-gets"/>
-        <updated>2023-04-07T23:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米バージニア州知事、来日へ　台湾と韓国も訪問　貿易促進を図る]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/030/025000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/030/025000c"/>
-        <updated>2023-04-07T23:58:07.000Z</updated>
-        <summary type="html"><![CDATA[米南部バージニア州のヤンキン知事（共和党）は7日までに、24～29日の日程で台湾、日本、韓国を訪問すると明らかにした。経済代表団を率いてバージニア州との貿易促進を図る。台湾では蔡英文総統と会談する。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[連合「労働者に公正な賃金を」　G7労働者サミットで声明文]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/020/019000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/020/019000c"/>
-        <updated>2023-04-07T23:55:42.000Z</updated>
-        <summary type="html"><![CDATA[連合は7日、主要7カ国首脳会議（G7広島サミット）を前に、参加国の労働者代表を集めた「レーバーサミット」を東京都内で開いた。全ての労働者が「公正な賃金」を受け取れるよう求める声明文を採択。芳野友子会長らが官邸で岸田文雄首相に手渡し、G7での政策論議に反映するよう要請した。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「障害者手帳の不正利用」で炎上した“レンタル障がい者”当人を直撃、その思惑は]]></title>
-        <id>https://nikkan-spa.jp/?p=1901556</id>
-        <link href="https://nikkan-spa.jp/1901556"/>
-        <updated>2023-04-07T23:54:52.000Z</updated>
-        <summary type="html"><![CDATA[「障害者手帳の不正利用」などの批判で炎上 　今年1月上旬、ツイッターに投稿された「レンタル障がい者」というサービスが話題を呼んだ。投稿には「美術館や博物館などの施設で『障がい者を介助したいシーン』でご利用ください。かかっ […]]]></summary>
-        <author>
-            <name>日刊SPA!日刊SPA!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アパート2棟、太陽光4基を所有する大家芸人・たきうえ。“不仲”と話題の相方・ちゅうえいの反応は]]></title>
-        <id>https://nikkan-spa.jp/?p=1900985</id>
-        <link href="https://nikkan-spa.jp/1900985"/>
-        <updated>2023-04-07T23:53:25.000Z</updated>
-        <summary type="html"><![CDATA[かつてはテレビタレントとして売れれば安泰だった芸能界だが、昨今ではかつてほど稼げなくなったという声をよく耳にする。そんななか芸能人の多くは、ブランドプロデュースや飲食店経営、さらにはYouTube進出など活動の幅を広げ […]]]></summary>
-        <author>
-            <name>日刊SPA!日刊SPA!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[交渉の終盤に相手がゴネ始めたらどうする？あなたの「交渉力」をはかる5つの問題]]></title>
-        <id>https://nikkan-spa.jp/?p=1887199</id>
-        <link href="https://nikkan-spa.jp/1887199"/>
-        <updated>2023-04-07T23:52:01.000Z</updated>
-        <summary type="html"><![CDATA[商談、トラブルの解決、家庭内での家事分担、男女の駆け引きに至るまで、日常はあらゆる交渉の連続だ。しかし、日本人は“お人よしの交渉ベタ”で主張を押し通せないこともしばしば……。そこで、SPA!は百戦錬磨の交渉のプロが監修し […]]]></summary>
-        <author>
-            <name>日刊SPA!日刊SPA!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那須川天心vs武尊、武藤敬司引退etc.盛況だった「格闘技×PPV」で高額ファイトマネーの新時代は訪れるのか]]></title>
-        <id>https://nikkan-spa.jp/?p=1901798</id>
-        <link href="https://nikkan-spa.jp/1901798"/>
-        <updated>2023-04-07T23:51:31.000Z</updated>
-        <summary type="html"><![CDATA[「THE MATCH 2022（那須川天心VS武尊）」「超RIZIN（フロイド・メイウェザーVS朝倉未来）」「武藤敬司引退試合」など、プロレスを含む格闘業界では2022年から今年にかけて、さまざまなビッグイベントが開催さ […]]]></summary>
-        <author>
-            <name>日刊SPA!日刊SPA!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カーリング日本、1次リーグ敗退　イタリアに敗れる　男子世界選手権]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/050/017000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/050/017000c"/>
-        <updated>2023-04-07T23:51:13.000Z</updated>
-        <summary type="html"><![CDATA[カーリングの男子世界選手権第7日は7日、オタワで1次リーグが行われ、日本代表のSC軽井沢クはイタリアに5―12で敗れ、1次リーグ敗退が決まった。5勝6敗となって7位以下が確定し、上位6チームによるプレーオフに進めなかった。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入社3か月で辞めた新入社員、退職の挨拶に持参したのは“菓子折り”ではなく… ――大反響トップ10]]></title>
-        <id>https://nikkan-spa.jp/?p=1902049</id>
-        <link href="https://nikkan-spa.jp/1902049"/>
-        <updated>2023-04-07T23:45:49.000Z</updated>
-        <summary type="html"><![CDATA[4月、新入社員が今年もやってきました。そこで日刊SPA！では「すぐ辞めた新入社員」の記事の中から、反響の大きかったトップ10を発表。驚きの行動をとった第1位はこちら！（初公開2020年8月7日　集計期間は2018年4月～ […]]]></summary>
-        <author>
-            <name>日刊SPA!日刊SPA!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なでしこジャパン、ポルトガルに逆転勝ち　サッカー女子親善試合]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/050/018000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/050/018000c"/>
-        <updated>2023-04-07T23:33:38.000Z</updated>
-        <summary type="html"><![CDATA[サッカー女子日本代表「なでしこジャパン」は7日、ポルトガルのギマランイスでポルトガル代表との国際親善試合に臨み、2―1と逆転勝ちした。 　先制を許した日本は前半に長谷川（マンチェスター・シティー）の得点で追い付き、後半に長谷川のパスで抜け出した田中美（INAC神戸）が勝ち越し点を奪った。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[64店舗のパチンコ店から出禁のパチプロ。勝ちすぎて「店長から恫喝された事件」を暴露]]></title>
-        <id>https://nikkan-spa.jp/?p=1902209</id>
-        <link href="https://nikkan-spa.jp/1902209"/>
-        <updated>2023-04-07T23:29:44.000Z</updated>
-        <summary type="html"><![CDATA[パチプロは肩身の狭い存在 　この世界で食っていくのなら、パチンコ台のハンドルを握るたびに覚悟しなければならないのが出入禁止と出玉没収。雑誌やインターネットでも打ち方の情報が手に入る「止め打ち（※1）」「捻り打ち（※2）」 […]]]></summary>
-        <author>
-            <name>日刊SPA!日刊SPA!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[話題沸騰中の「スマスロ北斗の拳」。伝説の‟初代北斗”を継承したスペックと演出を徹底解説]]></title>
-        <id>https://nikkan-spa.jp/?p=1902419</id>
-        <link href="https://nikkan-spa.jp/1902419"/>
-        <updated>2023-04-07T23:28:44.000Z</updated>
-        <summary type="html"><![CDATA[初代の興奮がスマスロでよみがえる サミー(製造･タイヨーエレック) スマスロ北斗の拳　バトルに負けない限り継続する大当り、小役よって刻々と移行するモードを推測する通常時と、画期的なシステムで大ヒット。パチスロ業界の覇王と […]]]></summary>
-        <author>
-            <name>日刊SPA!日刊SPA!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[競馬クラシックレースの法則。過去の穴馬から見えてきた「4つの激走パターン」]]></title>
-        <id>https://nikkan-spa.jp/?p=1902389</id>
-        <link href="https://nikkan-spa.jp/1902389"/>
-        <updated>2023-04-07T23:23:43.000Z</updated>
-        <summary type="html"><![CDATA[人気＝実力とはならない、それが春のクラシック 　今年も競馬が盛り上がる春のクラシックシーズンが近づいてまいりました。今週末の桜花賞を皮切りに、皐月賞、オークス、そして3歳の頂点を決める日本ダービーへと続くビッグレース。も […]]]></summary>
-        <author>
-            <name>日刊SPA!日刊SPA!</name>
         </author>
     </entry>
     <entry>
@@ -55533,62 +55727,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NY外為市場、1ドル＝132円台前半　円売りドル買いが優勢]]></title>
-        <id>https://mainichi.jp/articles/20230408/k00/00m/020/016000c</id>
-        <link href="https://mainichi.jp/articles/20230408/k00/00m/020/016000c"/>
-        <updated>2023-04-07T23:15:02.000Z</updated>
-        <summary type="html"><![CDATA[7日のニューヨーク外国為替市場の円相場は午後5時現在、前日比37銭円安ドル高の1ドル＝132円09～19銭を付けた。ユーロは1ユーロ＝1・0892～0902ドル、143円75～85銭。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Compress GPT-4 Prompts]]></title>
-        <id>https://www.promptreducer.com/</id>
-        <link href="https://www.promptreducer.com/"/>
-        <updated>2023-04-07T23:09:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元教師が不起訴処分に 調べには容疑認める]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428344.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428344.html"/>
-        <updated>2023-04-07T23:00:51.000Z</updated>
-        <summary type="html"><![CDATA[元教師が不起訴処分に 調べには容疑認める
-東海テレビ　2023/4/7(金) 17:31配信
-
-
-　勤務先の小学校に通う女子児童に、わいせつ行為をしたとして書類送検された元教師の男性について、名古屋地検は不起訴処分としました。
-
-　愛知県犬山市の市立小学校に勤務していた元教師の...]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[織田信長の死が教訓に？　批判あっても世襲政治家が当選するワケ]]></title>
-        <id>https://mainichi.jp/articles/20230406/k00/00m/010/208000c</id>
-        <link href="https://mainichi.jp/articles/20230406/k00/00m/010/208000c"/>
-        <updated>2023-04-07T23:00:15.000Z</updated>
-        <summary type="html"><![CDATA[国会議員の世襲が批判されるようになって久しい。それでも2世、3世の政治家が当選する。なぜなのか。理由を探ると、二つのキーワードが挙がった。日本人の国民性と候補者選び、だという。【金森崇之】]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【インプレスeスポーツ部女子レトロゲーム班】黒田瑞貴、「ロードス島戦記」最終回。バグでクリアする前にエンディングを見せられる]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/column/retro-game-joshi/1492067.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/column/retro-game-joshi/1492067.html"/>
-        <updated>2023-04-07T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、黒田瑞貴です! 今回も1995年に角川(現KADOKAWA)から発売された「ロードス島戦記」を前回の続きからプレイしていきます! 昔からのファンも多い「ロードス島戦記」ですが、ファンになったきっかけは小説の方が多いのではないでしょうか。小説のほかにも、アニメ、ゲームと幅広い「ロードス島戦記」の魅力を、今回もゲームを通して掘り下げていきたいと思います!]]></summary>
-        <author>
-            <name>PC Watch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[イスラエルで車が群衆に突入するテロ　1人死亡　死傷者は全員外国人観光客]]></title>
         <id>https://sputniknews.jp/20230408/1-15599651.html</id>
         <link href="https://sputniknews.jp/20230408/1-15599651.html"/>
@@ -55599,76 +55737,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models]]></title>
-        <id>https://arxiv.org/abs/2304.03208</id>
-        <link href="https://arxiv.org/abs/2304.03208"/>
-        <updated>2023-04-07T22:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DPReview Will Remain Available as an Archive After It Closes]]></title>
-        <id>https://petapixel.com/2023/04/07/dpreview-will-remain-available-as-an-archive-after-it-closes/</id>
-        <link href="https://petapixel.com/2023/04/07/dpreview-will-remain-available-as-an-archive-after-it-closes/"/>
-        <updated>2023-04-07T22:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高速バスが割安になる「WEB回数券」を使ってみた]]></title>
-        <id>http://shimajiro-mobiler.net/?p=79722</id>
-        <link href="http://shimajiro-mobiler.net/2023/04/08/post79722/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=post-79722"/>
-        <updated>2023-04-07T22:05:44.000Z</updated>
-        <summary type="html"><![CDATA[福岡から別府（大分県）へのバス移動の際に、高速バスの予約サイトハイウェイバスドットコムで販売されている「WEB回数券」を使ってみた。 ハイウェイバスドットコムのWebサイトでの「WEB回数券」の紹介は以下にて。 高速バス...]]></summary>
-        <author>
-            <name>shimajiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マサチューセッツ大、疾患を嗅ぎ分けるナノワイヤー製「電子鼻」を開発]]></title>
-        <id>https://fabcross.jp/news/2023/20230408_geobacter-sulfurreducens.html</id>
-        <link href="https://fabcross.jp/news/2023/20230408_geobacter-sulfurreducens.html"/>
-        <updated>2023-04-07T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[マサチューセッツ大学アマースト校の研究チームは、特定の化学物質を選択的に識別できる、髪の毛の1万分の1の細さのナノワイヤーを発明したと発表した。]]></summary>
-        <author>
-            <name>fabcross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The company behind Stable Diffusion appears to be at risk of going under]]></title>
-        <id>https://futurism.com/the-byte/stable-diffusion-stability-ai-risk-going-under</id>
-        <link href="https://futurism.com/the-byte/stable-diffusion-stability-ai-risk-going-under"/>
-        <updated>2023-04-07T21:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Case Study on the Uber Alumni Network]]></title>
-        <id>https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study</id>
-        <link href="https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study"/>
-        <updated>2023-04-07T21:37:25.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A minimal job board for signal processing engineers]]></title>
-        <id>https://signalprocessingjobs.com/</id>
-        <link href="https://signalprocessingjobs.com/"/>
-        <updated>2023-04-07T21:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[仮想通貨の「億り人」　1年で資産の75％を失う]]></title>
         <id>https://sputniknews.jp/20230408/175-15599160.html</id>
         <link href="https://sputniknews.jp/20230408/175-15599160.html"/>
@@ -55676,66 +55744,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
         <summary type="html"><![CDATA[仮想通貨取引などで財を成した世界の富裕層上位19人が、この1年で資産の75パーセント、額にして1100億ドル（14.5兆円）を失ったことが明らかになった。「フォーブスUSA」が伝えている。]]></summary>
         <author>
             <name>スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家族の被爆体験語る人にも委嘱書　23年度から、広島で交付式]]></title>
-        <id>https://mainichi.jp/articles/20230407/k00/00m/040/195000c</id>
-        <link href="https://mainichi.jp/articles/20230407/k00/00m/040/195000c"/>
-        <updated>2023-04-07T21:30:09.000Z</updated>
-        <summary type="html"><![CDATA[広島市中区の原爆資料館で7日、被爆体験を語る「被爆体験証言者」らの委嘱書交付式があった。今年度から、家族の被爆証言を伝える「家族伝承者」の活動も新たに始まり、東区の尾形健斗さん（32）らに広島平和文化センターの香川剛広理事長から委嘱書が手渡された。]]></summary>
-        <author>
-            <name>毎日新聞「社説・解説・コラム」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【山田祥平のRe:config.sys】急がば回るな的ショートカット]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/column/config/1491796.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/column/config/1491796.html"/>
-        <updated>2023-04-07T21:27:00.000Z</updated>
-        <summary type="html"><![CDATA[定番ワープロアプリWordのデフォルトショートカットキーの内容が見直されているそうだ。由緒あるアプリであるだけに、カンタンには変えられない。その反応を見るべく、Microsoft 365 Insiderでのテストが開始されている。]]></summary>
-        <author>
-            <name>PC Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estes Rockets Model Scale 1:100 Replica of SpaceX Falcon 9]]></title>
-        <id>https://estesrockets.com/spacex-falcon-9/</id>
-        <link href="https://estesrockets.com/spacex-falcon-9/"/>
-        <updated>2023-04-07T21:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Direct evidence of the use of multiple drugs in Bronze Age from human hair test]]></title>
-        <id>https://www.nature.com/articles/s41598-023-31064-2</id>
-        <link href="https://www.nature.com/articles/s41598-023-31064-2"/>
-        <updated>2023-04-07T20:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル契約者特典、パ・リーグ全試合ライブ配信・見逃し配信が追加料金なしで視聴可能に]]></title>
-        <id>http://shimajiro-mobiler.net/?p=79717</id>
-        <link href="http://shimajiro-mobiler.net/2023/04/08/post79717/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=post-79717"/>
-        <updated>2023-04-07T20:53:23.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルは、「Rakuten UN-LIMIT Ⅶ」契約者を対象に、プロ野球パシフィック・リーグ主催の全試合が追加料金なしで視聴できる「Rakuten パ・リーグ Special for 楽天モバイル」と、プロバスケ...]]></summary>
-        <author>
-            <name>shimajiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Data Analytics with New Advanced Certifications from Google]]></title>
-        <id>https://www.freecodecamp.org/news/starting-and-excelling-in-data-analytics/</id>
-        <link href="https://www.freecodecamp.org/news/starting-and-excelling-in-data-analytics/"/>
-        <updated>2023-04-07T20:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Google has been growing a list of certifications for the past few years. And they've just added some advanced coursework to the repertoire.  In this article, I'll introduce you to the Google Certifications and detail what's new. I'll focus on the Data Analytics pathway, but will include resources to]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
         </author>
     </entry>
     <entry>
@@ -55759,76 +55767,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LOLDrivers – Living Off the Land Drivers]]></title>
-        <id>https://www.loldrivers.io/</id>
-        <link href="https://www.loldrivers.io/"/>
-        <updated>2023-04-07T19:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is CI/CD? Learn Continuous Integration/Continuous Deployment by Building a Project]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-ci-cd/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-ci-cd/"/>
-        <updated>2023-04-07T19:31:18.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article you're going to learn about CI/CD (continuous integration and continuous deployment).  We're going to review what this practice is about, how it compares to the previous approach in the software development industry, and finally see a practical example of how we can implement it]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Docker Compose? How to Use it with an Example]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-docker-compose-how-to-use-it/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-docker-compose-how-to-use-it/"/>
-        <updated>2023-04-07T19:29:48.000Z</updated>
-        <summary type="html"><![CDATA[Docker helps you setup a development environment on your machine quickly. It only takes a couple of minutes to go through the entire process.  But let's assume you were assigned on a project which requires at least 10 different services in a running state to run your project. For]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画「仕掛人・藤枝梅安2」舞台あいさつ]]></title>
-        <id>https://mainichi.jp/articles/20230408/ddm/012/200/073000c</id>
-        <link href="https://mainichi.jp/articles/20230408/ddm/012/200/073000c"/>
-        <updated>2023-04-07T19:01:08.000Z</updated>
-        <summary type="html"><![CDATA[池波正太郎の人気時代小説を映画化した「仕掛人・藤枝梅安2」（河毛俊作監督）が7日、全国公開され、東京都千代田区の丸の内ピカデリーで、主演の豊川悦司さんらが舞台あいさつを行った＝写真・松田嘉徳撮影。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Creative Squiggle]]></title>
-        <id>https://koliber.com/articles/the-creative-squiggle</id>
-        <link href="https://koliber.com/articles/the-creative-squiggle"/>
-        <updated>2023-04-07T18:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask Wirecutter: Can you recommend a not-smart TV for me?]]></title>
-        <id>https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/</id>
-        <link href="https://www.nytimes.com/wirecutter/blog/ask-wirecutter-dumb-tvs/"/>
-        <updated>2023-04-07T17:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[くらしナビ・ライフスタイル:「いないいないばあっ！」うーたん卒業／下　いろんな役割担う新キャラクター]]></title>
-        <id>https://mainichi.jp/articles/20230408/ddm/013/200/027000c</id>
-        <link href="https://mainichi.jp/articles/20230408/ddm/013/200/027000c"/>
-        <updated>2023-04-07T17:38:45.000Z</updated>
-        <summary type="html"><![CDATA[3月末、0～2歳児向けのNHK・Eテレ番組「いないいないばあっ！」（月～金曜午前8時10分）で、20年間出演した人気キャラクター「うーたん」が“卒業”した。4月からの番組リニューアルに伴うもので、最後の出演後、子育て経験者を中心にネットなどで感謝の声が広がった。卒業の背景などを探った。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[バンク・オブ・アメリカがオンライン会議中止　ゼレンスキー批判で非難囂々]]></title>
         <id>https://sputniknews.jp/20230408/15598581.html</id>
         <link href="https://sputniknews.jp/20230408/15598581.html"/>
@@ -55836,117 +55774,6 @@ The post スマホをかざすと、渋谷のハチ公の銅像が風神・雷�
         <summary type="html"><![CDATA[世界最大の金融機関のひとつ、バンク・オブ・アメリカは、地政学上の問題についてのオンライン会議でウクライナやウラジーミル・ゼレンスキー大統領に対する批判が出たために、開催を中止した。フィナンシャルタイムズ紙のジョナサン・ウィットリー評論員が報じている。]]></summary>
         <author>
             <name>スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴室:新番組・グランマの憂鬱]]></title>
-        <id>https://mainichi.jp/articles/20230408/ddm/018/200/014000c</id>
-        <link href="https://mainichi.jp/articles/20230408/ddm/018/200/014000c"/>
-        <updated>2023-04-07T17:00:49.000Z</updated>
-        <summary type="html"><![CDATA[◆新番組・グランマの憂鬱（フジ＝後11・40） 　身近で切実な問題を主人公のグランマ・百目鬼（どうめき）ミキ（萬田久子）が解決するドラマの初回。東海テレビ制作で、原作は高口里純の同名コミック。]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=35483975</id>
-        <link href="https://news.ycombinator.com/item?id=35483975"/>
-        <updated>2023-04-07T17:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視聴率:3月27日～4月2日]]></title>
-        <id>https://mainichi.jp/articles/20230408/ddm/018/200/028000c</id>
-        <link href="https://mainichi.jp/articles/20230408/ddm/018/200/028000c"/>
-        <updated>2023-04-07T17:00:45.000Z</updated>
-        <summary type="html"><![CDATA[■教育・教養・実用　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　個人　　　世帯 （1）真相報道バンキシャ！　　　　　　　　　　　　　　　　　　　　　　　　　　日テレ　7．1　12．1　日]]></summary>
-        <author>
-            <name>毎日新聞 「エンタメ」RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ChatGDB – GPT-Powered GDB Assistant]]></title>
-        <id>https://github.com/pgosar/ChatGDB</id>
-        <link href="https://github.com/pgosar/ChatGDB"/>
-        <updated>2023-04-07T16:56:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We need to tell people ChatGPT will lie to them, not debate linguistics]]></title>
-        <id>https://simonwillison.net/2023/Apr/7/chatgpt-lies/</id>
-        <link href="https://simonwillison.net/2023/Apr/7/chatgpt-lies/"/>
-        <updated>2023-04-07T16:48:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vertical communities]]></title>
-        <id>https://noahpinion.substack.com/p/vertical-communities</id>
-        <link href="https://noahpinion.substack.com/p/vertical-communities"/>
-        <updated>2023-04-07T16:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The machines of Tatjana van Vark]]></title>
-        <id>https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/</id>
-        <link href="https://craftsmanshipmuseum.com/artisan/tatjana-van-vark/"/>
-        <updated>2023-04-07T16:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高専職員が１０代女性に乱暴　準強制性交容疑で宮崎県警逮捕]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428343.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428343.html"/>
-        <updated>2023-04-07T16:15:22.000Z</updated>
-        <summary type="html"><![CDATA[高専職員が１０代女性に乱暴　準強制性交容疑で宮崎県警逮捕
-宮崎日日新聞　2023/4/7(金) 9:55配信
-
-　抵抗できない女性に乱暴したとして、県警捜査１課は６日、準強制性交等の疑いで都城市、独立行政法人国立高等専門学校の技術職員の男（５８）を逮捕した。]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米東部カトリック教会の児童虐待、60年で600人超が被害]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428342.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428342.html"/>
-        <updated>2023-04-07T16:12:35.000Z</updated>
-        <summary type="html"><![CDATA[米東部カトリック教会の児童虐待、60年で600人超が被害
-ＡＦＰ＝時事　2023/4/6(木) 18:07配信
-
-
-【AFP＝時事】米東部メリーランド州で過去60年にわたり、600人を超える子どもがカトリック教会の聖職者ら156人から虐待を受けていたことが、5日公表の報告書で明らかになった。...]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「俺の女にしてやる」早稲田大学教授からセクハラ発言　元大学院生が訴えた裁判で教授側に賠償命じる判決　東京地裁]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428339.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428339.html"/>
-        <updated>2023-04-07T15:49:27.000Z</updated>
-        <summary type="html"><![CDATA[「俺の女にしてやる」早稲田大学教授からセクハラ発言　元大学院生が訴えた裁判で教授側に賠償命じる判決　東京地裁
-TBS NEWS DIG Powered by JNN　2023/4/6(木) 18:45配信
-
-
-「俺の女にしてやる」。早稲田大学の指導教授だった男性からこのようなセクハラ発言を受けたと元大...]]></summary>
-        <author>
-            <name>damekyoshi</name>
         </author>
     </entry>
     <entry>
@@ -55959,30 +55786,6 @@ TBS NEWS DIG Powered by JNN　2023/4/6(木) 18:45配信
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「同じ性癖を持つ者同士仲良くなりたかった」児童ポルノデータを送信 48歳男が供述「バイト先のスイミングスクールで撮影した」]]></title>
-        <id>http://blog.livedoor.jp/damekyoshi/archives/2428336.html</id>
-        <link href="http://blog.livedoor.jp/damekyoshi/archives/2428336.html"/>
-        <updated>2023-04-07T15:40:15.000Z</updated>
-        <summary type="html"><![CDATA[「同じ性癖を持つ者同士仲良くなりたかった」児童ポルノデータを送信 48歳男が供述「バイト先のスイミングスクールで撮影した」
-CBCテレビ　2023/4/6(木) 17:43配信
-
-
-6歳から12歳くらいの女の子が着替えをしている児童ポルノのデータを男に送ったとして、兵庫県の48歳の男が...]]></summary>
-        <author>
-            <name>damekyoshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Building musical synthesizers with SQL queries]]></title>
-        <id>https://github.com/ClickHouse/NoiSQL</id>
-        <link href="https://github.com/ClickHouse/NoiSQL"/>
-        <updated>2023-04-07T15:29:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4/13(木) マネスキン来日公演J-WAVEチケット先行予約受付]]></title>
         <id>https://www.j-wave.co.jp/event/14878-202312.htm</id>
         <link href="https://www.j-wave.co.jp/event/14878-202312.htm"/>
@@ -55990,16 +55793,6 @@ CBCテレビ　2023/4/6(木) 17:43配信
         <summary type="html"><![CDATA[J-WAVE がおすすめするライブ・イベント情報。 先行予約もあります。]]></summary>
         <author>
             <name>J-WAVE Topics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Age of Invention: How the Dutch Did It Better]]></title>
-        <id>https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did</id>
-        <link href="https://antonhowes.substack.com/p/age-of-invention-how-the-dutch-did"/>
-        <updated>2023-04-07T15:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -56099,16 +55892,6 @@ CBCテレビ　2023/4/6(木) 17:43配信
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[エア・ドゥとソラシド、航空券や宿泊券当たるSNS共同キャンペーン]]></title>
-        <id>https://www.aviationwire.jp/?p=274197</id>
-        <link href="https://www.aviationwire.jp/archives/274197"/>
-        <updated>2023-04-07T14:59:37.000Z</updated>
-        <summary type="html"><![CDATA[エア・ドゥ（ADO/HD）とソラシドエア（SNJ/6J）は、「ふたつの翼から春のプレゼント！SNSキャンペーン」を共同で4月6日から始めた。14日まで。 　期間中に2社いずれかの公式SNS（Twitter・Instag […]]]></summary>
-        <author>
-            <name>Tadayuki YOSHIKAWA</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【指定医薬部外品】PHARMA CHOICE 整腸薬 550錠 送料込889円(おトク便3種で840円・4.6円/3錠)]]></title>
         <id>http://buy.livedoor.biz/archives/51631455f.html</id>
         <link href="http://buy.livedoor.biz/archives/51631455f.html"/>
@@ -56128,26 +55911,6 @@ CBCテレビ　2023/4/6(木) 17:43配信
         <summary type="html"><![CDATA[長崎大核兵器廃絶研究センター（RECNA）はこのごろ、北東アジアで核戦争が起きた場合の死者数を試算し、報告書でまとめた。米国が北朝鮮に核兵器を先制使用し、中国にも飛び火するシナリオでは、210万人の死者が出るとする結論に至った。]]></summary>
         <author>
             <name>スプートニク日本ニュース｜経済、科学技術、ビジネス、政治ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. and China wage war beneath the waves over internet cables]]></title>
-        <id>https://www.reuters.com/investigates/special-report/us-china-tech-cables/</id>
-        <link href="https://www.reuters.com/investigates/special-report/us-china-tech-cables/"/>
-        <updated>2023-04-07T14:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トキエア、路線訓練飛行の計画変更　初日は新潟－丘珠2往復]]></title>
-        <id>https://www.aviationwire.jp/?p=274186</id>
-        <link href="https://www.aviationwire.jp/archives/274186"/>
-        <updated>2023-04-07T14:00:48.000Z</updated>
-        <summary type="html"><![CDATA[新潟空港を拠点に就航を目指す「TOKI AIR（トキエア）」は4月7日、札幌の丘珠空港で9日から始める路線訓練飛行のスケジュールを変更したと発表した。9日から15日までは新潟と丘珠の2空港で実施し、16日以降は函館空港 […]]]></summary>
-        <author>
-            <name>Tadayuki YOSHIKAWA</name>
         </author>
     </entry>
     <entry>
