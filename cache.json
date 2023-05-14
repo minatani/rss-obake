@@ -1593,76 +1593,6 @@
           "wordCount": 1952,
           "title": "How to Initialize a Java List – List of String Initialization in Java",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-How-to-Initialize-a-Java-List---List-of-String-Initialization-in-Java.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/",
-          "author": "Rajdeep Singh",
-          "description": "Ghost CMS is a popular content management system that many devs and companies use to host their blogs.  It has many features and an editor that's highly optimized for writing. You can even build different themes using handlebars.js [https://handlebarsjs.com/]. But if you don't know Handlebars, learning it can be",
-          "link": "https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/",
-          "publishedOn": "2023-04-13T21:14:46.000Z",
-          "wordCount": 9282,
-          "title": "How to Build a Blog with the Ghost API and Next.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Ghost-API-and-Nextjs--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/",
-          "author": "Dillion Megida",
-          "description": "In JavaScript, there are two types of functions. You have normal functions and arrow functions. Let's explore the difference between them in this article. Arrow functions was introduced in ES6. And it introduced a simple and shorter way to create functions. Here's how to create a normal function, with arguments,",
-          "link": "https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/",
-          "publishedOn": "2023-04-13T21:04:00.000Z",
-          "wordCount": 2569,
-          "title": "The difference between Arrow functions and Normal functions in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/25-arrow-normal-functions.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/",
-          "author": "Mihail Gaberov",
-          "description": "Welcome to yet another tutorial [https://www.mihailgaberov.com/] where you will learn how to build a ⚽ scoreboard app in React. This time we will use Vite as our next generation frontend tooling [https://vitejs.dev/] and Vitest [https://vitest.dev/] as a Vite-native unit testing framework.  You will also learn how to leverage React",
-          "link": "https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/",
-          "publishedOn": "2023-04-13T20:41:33.000Z",
-          "wordCount": 4303,
-          "title": "How to Create a Live Football Scoreboard in React with Vite and Vitest",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-sheets-advanced-functions-by-building-a-zelda-dashboard/",
-          "author": "Eamonn Cottrell",
-          "description": "In this article we'll build a dashboard inspired by the recipes in Zelda: Breath of the Wild.  Our dashboard will have multiple data validation dropdown selections for us to choose ingredients. By using a =Query() function, we'll then display the recipes that contain any combination of the selected ingredients.",
-          "link": "https://www.freecodecamp.org/news/google-sheets-advanced-functions-by-building-a-zelda-dashboard/",
-          "publishedOn": "2023-04-13T17:31:52.000Z",
-          "wordCount": 2212,
-          "title": "Google Sheets – Learn Advanced Functions by Building a Zelda Dashboard",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Zelda-Walkthrough.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/",
-          "author": "Beau Carnes",
-          "description": "Are you interested in learning how to create a social networking site like LinkedIn using React and Firebase? We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to build a LinkedIn clone from start to finish, using the popular front-end library React and",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/",
-          "publishedOn": "2023-04-13T17:24:40.000Z",
-          "wordCount": 944,
-          "title": "How to Create a LinkedIn Clone",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/linkedinclone.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-become-a-software-engineer-2023-roadmap/",
-          "author": "Dionysia Lemonaki",
-          "description": "Software engineers are in high demand these days. They generally command comfortable salaries, and can have a good work-life balance. But what do software engineers do? And how can you become one yourself? In this article, I will explain the tasks and responsibilities of software engineers, and I will go",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-software-engineer-2023-roadmap/",
-          "publishedOn": "2023-04-13T16:15:24.000Z",
-          "wordCount": 3531,
-          "title": "How to Become a Software Engineer – 2023 Roadmap",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-christina-morillo-1181675.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/call-vs-put-vs-post-http-request-methods-explained/",
-          "author": "Joel Olawanle",
-          "description": "The HTTP (Hypertext Transfer Protocol) is the foundation of communication between clients (such as web browsers) and servers (such as web servers) on the World Wide Web. One crucial aspect of HTTP is the request method, which indicates the type of operation the client wants to perform on a resource.",
-          "link": "https://www.freecodecamp.org/news/call-vs-put-vs-post-http-request-methods-explained/",
-          "publishedOn": "2023-04-13T14:59:18.000Z",
-          "wordCount": 1944,
-          "title": "Call vs Put vs Post – HTTP Request Methods Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--7-.png"
         }
       ]
     },
@@ -2460,56 +2390,6 @@
           "wordCount": 2529,
           "title": "アルプスアルパイン仙台開発センターにR＆D新棟完成",
           "imageUrl": "https://image.itmedia.co.jp/ee/articles/2304/17/tm_230417alps01.jpg"
-        },
-        {
-          "id": "https://eetimes.itmedia.co.jp/ee/articles/2304/13/news089.html",
-          "author": null,
-          "description": "群馬大学は2023年4月10日、トウモロコシなどの食品廃棄部位から、光学的特性に優れ、ケミカルリサイクルが可能な有機ケイ素高分子の開発に成功したと発表した。今後、電子材料などへの応用が期待される。",
-          "link": "https://eetimes.itmedia.co.jp/ee/articles/2304/13/news089.html",
-          "publishedOn": "2023-04-14T03:30:00.000Z",
-          "wordCount": 2545,
-          "title": "食品廃棄部位から有機ケイ素高分子を開発、群馬大",
-          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2304/13/cover_news089.jpg"
-        },
-        {
-          "id": "https://eetimes.itmedia.co.jp/ee/articles/2304/14/news055.html",
-          "author": null,
-          "description": "田中貴金属工業は、半導体の検査工程で用いるプローブカードやテストソケットのプローブピンに向けた新合金「TK-FS」を発表した。",
-          "link": "https://eetimes.itmedia.co.jp/ee/articles/2304/14/news055.html",
-          "publishedOn": "2023-04-14T03:00:00.000Z",
-          "wordCount": 2534,
-          "title": "田中貴金属工業、プローブピン向け新合金を発表",
-          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2304/14/l_tm_230414tanaka02_w290.jpg"
-        },
-        {
-          "id": "https://eetimes.itmedia.co.jp/ee/articles/2304/14/news085.html",
-          "author": null,
-          "description": "STMicroelectronicsは、自動車部品大手ZF Friedrichshafenが2025年に量産開始予定の車載インバーター向けに、数千万個単位のSiCデバイスを供給する。2023年4月13日、両社がSiCデバイスの複数年供給契約を締結したと発表した。",
-          "link": "https://eetimes.itmedia.co.jp/ee/articles/2304/14/news085.html",
-          "publishedOn": "2023-04-14T02:30:00.000Z",
-          "wordCount": 2555,
-          "title": "ST、自動車部品大手ZFとSiC供給の複数年契約を締結",
-          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2304/14/cover_news085.jpg"
-        },
-        {
-          "id": "https://eetimes.itmedia.co.jp/ee/articles/2304/14/news067.html",
-          "author": null,
-          "description": "Intel Foundry ServicesとArmは2023年4月、Armの顧客が、Intel 18Aプロセス技術で低消費電力SoC（System on Chip）を開発できるようにする複数世代契約を締結したと発表した。",
-          "link": "https://eetimes.itmedia.co.jp/ee/articles/2304/14/news067.html",
-          "publishedOn": "2023-04-14T01:30:00.000Z",
-          "wordCount": 2590,
-          "title": "Intel 18AでArmベースSoCを製造可能に、両社が協業",
-          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2304/14/cover_news067.jpg"
-        },
-        {
-          "id": "https://eetimes.itmedia.co.jp/ee/articles/2304/14/news054.html",
-          "author": null,
-          "description": "ロームは、高い電源効率を実現できる耐圧40～150VのNチャネルMOSFET「RS6xxxxBx／RH6xxxxBxシリーズ」を発表した。産業機器用電源や各種モーター駆動の用途に向ける。",
-          "link": "https://eetimes.itmedia.co.jp/ee/articles/2304/14/news054.html",
-          "publishedOn": "2023-04-14T00:30:00.000Z",
-          "wordCount": 2528,
-          "title": "ローム、低オン抵抗のNチャネルMOSFETを発表",
-          "imageUrl": "https://image.itmedia.co.jp/ee/articles/2304/14/tm_230414rohm01.jpg"
         }
       ]
     },
@@ -2518,6 +2398,46 @@
       "feedUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "siteUrl": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
       "articles": [
+        {
+          "id": "https://mainichi.jp/articles/20230514/ddm/041/040/068000c",
+          "author": null,
+          "description": "ジャニーズ事務所のジャニー喜多川前社長（2019年死去）から性被害を受けていたと訴えている歌手のカウアン・オカモトさん（26）が13日夜、自身の動画配信チャンネルを更新し、藤島ジュリー景子社長と面会し謝罪を受けたと明らかにした。",
+          "link": "https://mainichi.jp/articles/20230514/ddm/041/040/068000c",
+          "publishedOn": "2023-05-13T17:38:38.000Z",
+          "wordCount": 1052,
+          "title": "性被害「ジャニーズ社長が謝罪」　オカモトさん公表",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514ddm041040168000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/ddm/018/200/017000c",
+          "author": null,
+          "description": "西村寿恵子（浜辺美波）は叔母・笠崎みえ（宮沢エマ）に、鹿鳴館の開館に向けてダンスを習わないかと誘われる。母の西村まつ（牧瀬里穂）は反対するが、寿恵子はまだ見ぬ世界に憧れを抱く。",
+          "link": "https://mainichi.jp/articles/20230514/ddm/018/200/017000c",
+          "publishedOn": "2023-05-13T17:01:23.000Z",
+          "wordCount": 1064,
+          "title": "今週のＮＨＫ連続テレビ小説:らんまん",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2020/11/27/20201127hrc00m070002000q/0c8.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/ddm/018/200/015000c",
+          "author": null,
+          "description": "4月30日スタートの「日曜の夜ぐらいは．．．」（テレビ朝日系）が魅力的だ。同系列に新設された日曜午後10時のドラマ枠の放送で、制作はABCテレビが担う。「彼女たちの時代」（フジテレビ系）、「ちゅらさん」（NHK総合）、「最後から二番目の恋」（フジテレビ系）、「ひよっこ」（NHK総合）などで知られる",
+          "link": "https://mainichi.jp/articles/20230514/ddm/018/200/015000c",
+          "publishedOn": "2023-05-13T17:01:07.000Z",
+          "wordCount": 1071,
+          "title": "影山貴彦のテレビ燦々:心温まる秀作「日曜の夜ぐらいは．．．」　ラジオが結ぶ女性3人の友情",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2021/06/29/20210629hpr00m040003000q/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230513/dde/018/200/016000c",
+          "author": null,
+          "description": "いっぷう変わったドキュメンタリー番組がある。NHK総合で放送中の「100カメ」（毎週火曜午後11時）だ。100台ものカメラを固定し、人々の生態を観察するというユニークなもの。例えば、新たな生命を取り上げる産科病院や、大河ドラマの制作現場などだ。先月第3シーズンが始まり、認知度が高まりつつある。そも",
+          "link": "https://mainichi.jp/articles/20230513/dde/018/200/016000c",
+          "publishedOn": "2023-05-13T04:47:43.000Z",
+          "wordCount": 1055,
+          "title": "NHK「100カメ」、第3シーズン開始　省エネ撮影が思わぬ効果　現場や人の自然な姿浮かぶ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/13/20230513dde018200034000p/0c10.jpg?1"
+        },
         {
           "id": "https://mainichi.jp/articles/20230513/ddm/018/200/032000c",
           "author": null,
@@ -3757,76 +3677,6 @@
           "wordCount": 1082,
           "title": "視聴率:3～9日",
           "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/dde/018/070/010000c",
-          "author": null,
-          "description": "恋人を失った心の傷を抱え、過食による肥満となり、引きこもり生活をしている教師のチャーリー（ブレンダン・フレイザー）。自らの姿を隠してオンライン授業を行う彼の部屋には看護師のリズ（ホン・チャウ）が訪れ、面倒を見ていた。死期が迫っていることを悟った彼は、離婚以来、音信不通の17歳の娘（セイディー・シン",
-          "link": "https://mainichi.jp/articles/20230414/dde/018/070/010000c",
-          "publishedOn": "2023-04-14T05:26:08.000Z",
-          "wordCount": 1070,
-          "title": "シネマの週末・トピックス:ザ・ホエール",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414dde018070049000p/0c10.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/dde/018/070/018000c",
-          "author": null,
-          "description": "「ゲット・アウト」「ニューオーダー」など、ジャンル映画にメッセージを託した秀作が続く。本作は「ボーダー　二つの世界」でファンタジー調のホラーに差別を描いたイラン出身のアリ・アッバシ監督による、実話を基にしたスリラー。女性主人公に迫る恐怖と息詰まる緊迫感で物語に引き込みつつ、イスラム社会の男性支配の",
-          "link": "https://mainichi.jp/articles/20230414/dde/018/070/018000c",
-          "publishedOn": "2023-04-14T05:23:36.000Z",
-          "wordCount": 1074,
-          "title": "シネマの週末・この１本:聖地には蜘蛛が巣を張る　イスラム社会のスリラー",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414dde018070046000p/0c10.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/dde/018/070/014000c",
-          "author": null,
-          "description": "タイトルは仰々しいが、実際は殺人事件の現場を舞台にしたコメディー映画。2019年の第1作を経て、先月末に続編の配信が始まった。 　銃の扱いがド下手な警察官、ニック（アダム・サンドラー）とミステリー小説好きの美容師、オードリー（ジェニファー・アニストン）の夫婦。豪華船上パーティーで起こった事件を鮮や",
-          "link": "https://mainichi.jp/articles/20230414/dde/018/070/014000c",
-          "publishedOn": "2023-04-14T05:22:45.000Z",
-          "wordCount": 1073,
-          "title": "シネマの週末・配信チェック:マーダー・ミステリー2　バカバカしいことを真剣に",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414dde018070047000p/0c10.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/dde/018/070/011000c",
-          "author": null,
-          "description": "19世紀前半。田舎の青年リュシアン（バンジャマン・ボワザン）が詩人を志し、愛する貴族の人妻ルイーズ（セシル・ド・フランス）と駆け落ちする形でパリに行く。社交界の人々に冷笑され、生活苦にあえぐリュシアンは、新聞社で働き始めるが……。",
-          "link": "https://mainichi.jp/articles/20230414/dde/018/070/011000c",
-          "publishedOn": "2023-04-14T05:22:06.000Z",
-          "wordCount": 1068,
-          "title": "シネマの週末・トピックス:幻滅",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414dde018070048000p/0c10.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/dde/018/070/007000c",
-          "author": null,
-          "description": "待っていた。だが、順位は上がらない。これほど面白い作品が、なぜなのか。「仕掛人・藤枝梅安2」だ。前作同様に、見事な出来栄えを見せた。梅安と彦さんが、京の都に向かう。彦さんが恨みをもつ人物への新たな仕掛け、さらに別の仕掛人がからむ。梅安と彦さんの過去が、背後に黒々と横たわる寸法だ。",
-          "link": "https://mainichi.jp/articles/20230414/dde/018/070/007000c",
-          "publishedOn": "2023-04-14T03:59:54.000Z",
-          "wordCount": 1067,
-          "title": "シネマの週末・チャートの裏側:面白いと感じる人が減る？",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/ddm/018/200/003000c",
-          "author": null,
-          "description": "歌手で俳優の今井翼が、タイを鉄道で旅する「今井翼　タイ縦断鉄道の旅」（BS日テレ、日曜午後9時）が16日、スタートする。 　普段から国内外を旅行するのが大好きという今井。出演のオファーを受けた理由について、「首都のバンコクだけでなく、北のチェンマイから南方まで、約1600キロを鉄道で下ります。こう",
-          "link": "https://mainichi.jp/articles/20230414/ddm/018/200/003000c",
-          "publishedOn": "2023-04-13T17:01:58.000Z",
-          "wordCount": 1067,
-          "title": "特選ＢＳ通信:タイを鉄道で堪能",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/ddm/012/200/034000c",
-          "author": null,
-          "description": "5月に開かれる第76回カンヌ国際映画祭の出品作品が13日発表され、最高賞パルムドールなどを競うコンペティション部門に、是枝裕和監督の日本映画「怪物」と、ビム・ベンダース監督が役所広司さんを主演に日本で撮影した「パーフェクトデイズ」が選ばれた。",
-          "link": "https://mainichi.jp/articles/20230414/ddm/012/200/034000c",
-          "publishedOn": "2023-04-13T17:00:55.000Z",
-          "wordCount": 1046,
-          "title": "カンヌ映画祭に是枝監督の「怪物」",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
         }
       ]
     },
@@ -3835,6 +3685,206 @@
       "feedUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "siteUrl": "https://mainichi.jp/rss/etc/opinion.rss",
       "articles": [
+        {
+          "id": "https://mainichi.jp/articles/20230514/k00/00m/040/034000c",
+          "author": null,
+          "description": "横転炎上中の車内から女性を救助したとして、宇部署は宇部市西岐波の左官業、槇田昇さん（44）と長男で従業員の玲士さん（23）に感謝状を贈った。2人は自らの命の危険を感じつつも、火の手が上がる車内に閉じ込められ、自力で脱出できない女性の命を見事に救ってみせた。",
+          "link": "https://mainichi.jp/articles/20230514/k00/00m/040/034000c",
+          "publishedOn": "2023-05-14T01:35:30.000Z",
+          "wordCount": 1050,
+          "title": "横転、出火の車から「助けて」　仕事帰りの2人が救助　その10分後…",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514ddlk35040247000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/k00/00m/040/026000c",
+          "author": null,
+          "description": "子どもの声に対する苦情がきっかけで長野市の公園「青木島遊園地」が4月末に廃止されたことを受け、荻原健司市長は13日、近くの青木島小学校の施設を利用して新しい遊び場を確保する計画案を明らかにした。【高橋秀明】",
+          "link": "https://mainichi.jp/articles/20230514/k00/00m/040/026000c",
+          "publishedOn": "2023-05-14T01:21:22.000Z",
+          "wordCount": 1109,
+          "title": "「子供の声うるさい」で公園廃止　新たな遊び場案に心配の声　長野",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514ddlk20040245000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/k00/00m/040/031000c",
+          "author": null,
+          "description": "将棋界の最高位とされる「名人」の称号を争う七番勝負が繰り広げられる名人戦は第81期、永世名人王手の渡辺明名人と、谷川浩司十七世名人の持つ最年少名人記録（21歳2カ月）更新と7冠が懸かる藤井聡太王将の熱戦が注目されている。毎日新聞は5月13～14日の第3局を控えた10日、名人3期の佐藤天彦九段と第1",
+          "link": "https://mainichi.jp/articles/20230514/k00/00m/040/031000c",
+          "publishedOn": "2023-05-14T01:13:53.000Z",
+          "wordCount": 1185,
+          "title": "「第3局が分水嶺」　佐藤天彦九段と三枚堂達也七段が読み解く名人戦",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514k0000m040029000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/k00/00m/040/028000c",
+          "author": null,
+          "description": "13日午前6時ごろ、警視庁新宿警察署（東京都新宿区）の駐輪場の脇で男性が倒れているのを通行人が発見した。男性は同署地域課の30代巡査長で、病院に運ばれたが死亡が確認された。同署は、現場の状況から巡査長が自殺を図ったとみて調べている。",
+          "link": "https://mainichi.jp/articles/20230514/k00/00m/040/028000c",
+          "publishedOn": "2023-05-14T01:05:17.000Z",
+          "wordCount": 1101,
+          "title": "新宿署で30代の警察官が死亡、自殺か　警視庁",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2020/02/28/20200228k0000m040148000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/k00/00m/040/027000c",
+          "author": null,
+          "description": "大阪府高槻市の高槻城公園芸術文化劇場で行われている第81期名人戦七番勝負の第3局（毎日新聞社、朝日新聞社主催、大和証券グループ協賛、高槻市など地元主催）で14日午前10時、両対局者におやつが出された。",
+          "link": "https://mainichi.jp/articles/20230514/k00/00m/040/027000c",
+          "publishedOn": "2023-05-14T01:02:46.000Z",
+          "wordCount": 1108,
+          "title": "渡辺はショートケーキ、藤井はアイアシェッケ注文　名人戦午前おやつ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514mpj00m090021000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230513/k00/00m/040/189000c",
+          "author": null,
+          "description": "「多くのファンは『性暴力は許せないけど、タレントは応援したい』という気持ちで板挟みになっている」 　ジャニーズ事務所の元所属タレントがジャニー喜多川前社長から性被害を受けていたと訴えた問題を巡り、「PENLIGHT（ペンライト）　ジャニーズ事務所の性加害を明らかにする会」が11日に東京都内で開いた",
+          "link": "https://mainichi.jp/articles/20230513/k00/00m/040/189000c",
+          "publishedOn": "2023-05-14T00:51:46.000Z",
+          "wordCount": 1076,
+          "title": "「ジャニーズ性被害」に動き出すファン　「目背けてきた」後悔や怒り",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514k0000m040024000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230512/k00/00m/040/202000c",
+          "author": null,
+          "description": "徳島の夏の阿波踊りは、祭りか、興行か――。県内で最も盛り上がる徳島市の阿波踊りで今夏、有料演舞場に過去最高額の1万5000円の観覧指定席が新設される。新型コロナウイルスの感染症法上の5類移行を受け、主催者は人出が戻ると見込んで強気の価格設定にかじを切った。興行化に拍車がかかる現状を、地元の人たちは",
+          "link": "https://mainichi.jp/articles/20230512/k00/00m/040/202000c",
+          "publishedOn": "2023-05-14T00:44:21.000Z",
+          "wordCount": 1081,
+          "title": "阿波踊り、1万5000円「VIP席」物議　主催者「赤字化避けた」",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/12/20230512k0000m040242000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/k00/00m/030/022000c",
+          "author": null,
+          "description": "米ニューヨーク・マンハッタンにあるセントラルパーク西側の大通りで13日、和太鼓や踊り、人気漫画のキャラクターなどを通じて日本文化を紹介する「ジャパンパレード」が開催された。周辺にはラーメンやお好み焼きなど日本食の出店も並び、好天の下、大勢のニューヨーカーらでにぎわった。",
+          "link": "https://mainichi.jp/articles/20230514/k00/00m/030/022000c",
+          "publishedOn": "2023-05-14T00:27:42.000Z",
+          "wordCount": 1008,
+          "title": "NY大通りでジャパンパレード　日本文化発信、お好み焼き店も",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514k0000m030021000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/k00/00m/040/012000c",
+          "author": null,
+          "description": "渡辺明名人（39）に藤井聡太王将（20）が挑戦し、藤井王将の2連勝で迎えた第81期名人戦七番勝負の第3局（毎日新聞社、朝日新聞社主催、大和証券グループ協賛、大阪府高槻市など地元主催）は14日午前9時、高槻市の高槻城公園芸術文化劇場で2日目の戦いが始まった。",
+          "link": "https://mainichi.jp/articles/20230514/k00/00m/040/012000c",
+          "publishedOn": "2023-05-14T00:17:48.000Z",
+          "wordCount": 1108,
+          "title": "渡辺明名人の封じ手は2四歩　名人戦第3局、2日目始まる",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514k0000m040018000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/k00/00m/030/017000c",
+          "author": null,
+          "description": "イスラエルとパレスチナ自治区ガザ地区のイスラム過激派「イスラム聖戦」は13日、エジプトの仲介で停戦に合意し、同日夜に停戦が発効した。ロイター通信などが報じた。だが、発効前後にイスラエルに向けてロケット弾が発射されたとの情報もあり、事態が沈静化するかは予断を許さない状況だ。",
+          "link": "https://mainichi.jp/articles/20230514/k00/00m/030/017000c",
+          "publishedOn": "2023-05-14T00:13:25.000Z",
+          "wordCount": 1051,
+          "title": "イスラエルとパレスチナ過激派が停戦合意　発効前後に攻撃情報も",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514k0000m030015000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/k00/00m/040/011000c",
+          "author": null,
+          "description": "東京都台東区の風俗店で、女性従業員が刃物で刺され死亡した事件で、警視庁浅草署は13日、足立区関原2の契約社員、今井裕容疑者（32）を殺人容疑で逮捕した。 　逮捕容疑は5日午前10時から同11時20分ごろ、台東区千束4の風俗店内で、従業員の女性（38）の首や腹などをサバイバルナイフで刺して殺害したと",
+          "link": "https://mainichi.jp/articles/20230514/k00/00m/040/011000c",
+          "publishedOn": "2023-05-14T00:10:41.000Z",
+          "wordCount": 1046,
+          "title": "吉原の風俗店で女性従業員刺殺疑い　知人?の32歳逮捕　逆恨みか",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2020/04/08/20200408k0000m040347000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230511/k00/00m/100/086000c",
+          "author": null,
+          "description": "四文字の熟語の、漢字の一部が消えてしまいました。残っている部分をヒントにして、四つの言葉を復元してください。（出題/今井洋輔） 　正解はこちらです。",
+          "link": "https://mainichi.jp/articles/20230511/k00/00m/100/086000c",
+          "publishedOn": "2023-05-14T00:00:18.000Z",
+          "wordCount": 1025,
+          "title": "週末パズル:虫食い四字熟語　四つの言葉を当ててください",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/11/20230511k0000m100081000p/0c10.jpg?2"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230513/k00/00m/040/235000c",
+          "author": null,
+          "description": "渡辺明名人（39）に藤井聡太王将（20）が挑戦し、藤井王将の2連勝で迎えた第81期名人戦七番勝負の第3局（毎日新聞社、朝日新聞社主催、大和証券グループ協賛、大阪府高槻市など地元主催）は13日午後6時半、先手番の渡辺名人が41手目を封じて1日目の対局を終えた。副立会の出口若武（わかむ）六段は「2日目",
+          "link": "https://mainichi.jp/articles/20230513/k00/00m/040/235000c",
+          "publishedOn": "2023-05-14T00:00:10.000Z",
+          "wordCount": 1173,
+          "title": "名人戦第3局「2日目は一気に差開く可能性も」　副立会の出口六段",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/13/20230513k0000m040232000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/k00/00m/030/008000c",
+          "author": null,
+          "description": "ウクライナのゼレンスキー大統領が14日、ベルリンを訪問する。独DPA通信が政府関係者の話として伝えた。ゼレンスキー氏のドイツ訪問は、昨年2月にロシアがウクライナ侵攻を開始してから初めてとなる。",
+          "link": "https://mainichi.jp/articles/20230514/k00/00m/030/008000c",
+          "publishedOn": "2023-05-13T23:32:01.000Z",
+          "wordCount": 1116,
+          "title": "ゼレンスキー大統領、ドイツ訪問へ　バチカンでローマ教皇と会談",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514k0000m030007000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230512/k00/00m/040/044000c",
+          "author": null,
+          "description": "プラスチックごみのリサイクル拡大を目指す法律に基づき、2022年度から容器包装を含むプラごみを一括回収できるようになった。住民の分別の手間も減るはず……と思いきや、一括回収を始めた自治体では住民から戸惑いの声も寄せられているという。",
+          "link": "https://mainichi.jp/articles/20230512/k00/00m/040/044000c",
+          "publishedOn": "2023-05-13T23:00:09.000Z",
+          "wordCount": 1096,
+          "title": "リサイクル進めたいけれど…「プラ資源」家庭で分別の難しさ",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/13/20230513k0000m040145000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230511/k00/00m/040/277000c",
+          "author": null,
+          "description": "認知症と診断されたとたんに、周囲が気を使って本人に何もさせなくなることがあります。本人はどう感じているのでしょうか。元オリンピック選手でアルツハイマー型認知症となった柿下秋男さん（69）＝東京都品川区＝は自ら希望して包丁を握り、バッターボックスにも立ちます。【銭場裕司】",
+          "link": "https://mainichi.jp/articles/20230511/k00/00m/040/277000c",
+          "publishedOn": "2023-05-13T22:00:17.000Z",
+          "wordCount": 1121,
+          "title": "オリンピアン、認知症になる:料理もソフトボールも「直球勝負」　人生を取り戻す／6",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/13/20230513k0000m040159000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230513/k00/00m/040/125000c",
+          "author": null,
+          "description": "主要7カ国首脳会議（G7サミット）が19～21日、広島市で開かれる。日本を拠点にそれぞれの分野で活躍する人たちに、各国の指導者に求めることを聞いた。【聞き手・岩本一希】",
+          "link": "https://mainichi.jp/articles/20230513/k00/00m/040/125000c",
+          "publishedOn": "2023-05-13T22:00:10.000Z",
+          "wordCount": 1158,
+          "title": "私からG7へ:核軍縮と核廃絶の議論、今こそ　被爆地でのG7　抑止論の次の一歩を",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/13/20230513k0000m040203000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230513/k00/00m/040/082000c",
+          "author": null,
+          "description": "暗い。入り口こそ出入りが容易な大きさだが、少し奥に行けばたちまち日の光は届かなくなり、自分の輪郭もわからないほどの暗闇に包まれる。78年前、沖縄県読谷（よみたん）村にある「チビチリガマ」と呼ばれる自然洞窟で、地元住民約140人が米軍から身を隠していた。「デテキナサイ。コロシマセン」。投降の呼びかけ",
+          "link": "https://mainichi.jp/articles/20230513/k00/00m/040/082000c",
+          "publishedOn": "2023-05-13T21:00:16.000Z",
+          "wordCount": 1181,
+          "title": "24色のペン:語れなかった戦争＝喜屋武真之介（写真部兼那覇支局）",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/13/20230513k0000m040128000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230510/k00/00m/100/250000c",
+          "author": null,
+          "description": "第774回の解答 サツキトメイハゴガツウマレダヨ（サツキとメイは5月生まれだよ）",
+          "link": "https://mainichi.jp/articles/20230510/k00/00m/100/250000c",
+          "publishedOn": "2023-05-13T20:00:12.000Z",
+          "wordCount": 1074,
+          "title": "クロスワード　第774回の解答",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/10/20230510org00m100006000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20230514/ddm/001/050/132000c",
+          "author": null,
+          "description": "コートに転がったボールを選手が自分で拾い、1人の線審が移動しながら複数のラインを判定する。大阪市で4月、新設の国際女子テニス大会「大東建託オープン」が開かれた。プロテニスツアーの下部大会という位置付けなので、この光景は珍しくない。変わっているのは大会に込められたメッセージだ。「心地悪い大会なので選",
+          "link": "https://mainichi.jp/articles/20230514/ddm/001/050/132000c",
+          "publishedOn": "2023-05-13T17:06:52.000Z",
+          "wordCount": 1067,
+          "title": "迫る:テニス・伊達公子さんの夢（その1）　「天才」次世代育成に熱",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/05/14/20230514ddm001040134000p/0c10.jpg?1"
+        },
         {
           "id": "https://mainichi.jp/articles/20230513/k00/00m/040/019000c",
           "author": null,
@@ -9434,206 +9484,6 @@
           "wordCount": 994,
           "title": "NY円、133円台後半　米長期金利上昇で円売り優勢",
           "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/020/047000c",
-          "author": null,
-          "description": "米通商代表部（USTR）は13日、タイ代表が19～20日に東京を訪れ、西村康稔経済産業相らと会談すると発表した。日米など14カ国が参加する新経済圏構想「インド太平洋経済枠組み（IPEF）」や、日米の貿易関係の強化について協議する。",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/020/047000c",
-          "publishedOn": "2023-04-14T01:24:57.000Z",
-          "wordCount": 1080,
-          "title": "米通商代表、訪日へ　19、20日　IPEFや防衛強化を協議",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414k0000m020046000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/030/041000c",
-          "author": null,
-          "description": "北朝鮮国営の朝鮮中央通信は14日、新型大陸間弾道ミサイル（ICBM）「火星18」の試験発射が13日に行われ、金正恩（キムジョンウン）朝鮮労働党総書記が現地指導したと報じた。13日に平壌付近から発射された弾道ミサイルを指すとみられる。3段式の固体燃料型としており、金氏は「戦略的抑止力を大きく再編させ",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/030/041000c",
-          "publishedOn": "2023-04-14T01:20:42.000Z",
-          "wordCount": 1034,
-          "title": "北朝鮮、固体燃料型のICBM「火星18」を発射と報道",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414k0000m030042000p/0c10.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/040/043000c",
-          "author": null,
-          "description": "自宅で大麻を所持していたとして、愛知県警は14日、音楽グループ「変態紳士クラブ」のメンバーで「VIGORMAN」として活動する北浦翔暉（しょうき）容疑者（25）を大麻取締法違反（営利目的所持）の疑いで逮捕したと発表した。",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/040/043000c",
-          "publishedOn": "2023-04-14T01:16:52.000Z",
-          "wordCount": 998,
-          "title": "「変態紳士クラブ」のメンバーを大麻所持の疑いで逮捕　愛知県警",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2021/01/28/20210128k0000m040220000p/0c10.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/040/035000c",
-          "author": null,
-          "description": "ドローン（小型無人機）の活用拡大に向けた動きが四国でも急ピッチで進んでいる。ドローン利用に関する法律が2022年12月に改正され、最も高度な「レベル4」の飛行が解禁され、目視をしなくても有人地帯で飛ばせるように。人口減少が進む中山間地域を多く持つ四国でも防災や物流などの地域課題の解決に大きな後押し",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/040/035000c",
-          "publishedOn": "2023-04-14T01:12:43.000Z",
-          "wordCount": 1093,
-          "title": "ドローン「レベル4」解禁、四国で高まる期待　中山間地域で活用は",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414k0000m040040000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/010/021000c",
-          "author": null,
-          "description": "政府は14日、花粉症に関する関係閣僚会議の初会合を首相官邸で開いた。岸田文雄首相は、6月に予定する経済財政運営の指針「骨太の方針」の取りまとめまでに、花粉症対策の全体像をまとめるよう指示した。",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/010/021000c",
-          "publishedOn": "2023-04-14T01:09:16.000Z",
-          "wordCount": 994,
-          "title": "花粉症対策、6月までに全体像取りまとめ　首相「我が国の社会問題」",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414k0000m010038000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/020/037000c",
-          "author": null,
-          "description": "ウクライナ統計局は12日、2022年の国内総生産（GDP）が前年と比べ29・1％減少したと発表した。ロイター通信が13日伝えた。同年2月に始まったロシアによる侵攻で、経済活動が大きな影響を受けた。ウクライナ東部や南部ではロシアの一方的な併合が続いている。",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/020/037000c",
-          "publishedOn": "2023-04-14T01:07:55.000Z",
-          "wordCount": 1163,
-          "title": "ウクライナ、GDP29％減　2022年、ロシアによる侵攻が影響",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/06/09/20220609k0000m030023000p/0c10.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/040/036000c",
-          "author": null,
-          "description": "沖縄県の宮古島周辺で陸上自衛隊員10人が乗ったヘリコプターが消息を絶った事故で、複数の隊員らしき人影やヘリの機体主要部分とみられる物体が海底で見つかったことが、政府関係者への取材で判明した。一方、浜田靖一防衛相は14日午前の閣議後記者会見で、「捜索による新たな発見についてはお知らせできる段階にはな",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/040/036000c",
-          "publishedOn": "2023-04-14T01:02:03.000Z",
-          "wordCount": 997,
-          "title": "陸自ヘリ不明、海底で複数の人影発見　隊員か　機体らしき物体も",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/13/20230413k0000m040354000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/020/034000c",
-          "author": null,
-          "description": "米首都ワシントンで開かれていた主要20カ国・地域（G20）財務相・中央銀行総裁会議が13日、2日間の討議を終え閉幕した。全ての参加国・地域の承認が必要な共同声明は今回も取りまとめられなかった。議長国インドによる議長総括の発表も見送られた。",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/020/034000c",
-          "publishedOn": "2023-04-14T00:52:59.000Z",
-          "wordCount": 1041,
-          "title": "G20財務相会議閉幕　共同声明見送り　ロシア批判に中露が反発",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414k0000m020033000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/030/028000c",
-          "author": null,
-          "description": "米国の機密資料がネット交流サービス（SNS）上に流出した問題で、米国が国連のグテレス事務総長の通信を傍受していたと英BBCが伝えた。流出文書の一つは、黒海を通じたウクライナ産穀物の輸出合意を維持するために、グテレス氏がロシアの利益を優先しすぎていると批判的に報告していたという。",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/030/028000c",
-          "publishedOn": "2023-04-14T00:36:29.000Z",
-          "wordCount": 1039,
-          "title": "アメリカ、国連事務総長の通信傍受　穀物合意めぐる姿勢を批判",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414k0000m030027000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/040/025000c",
-          "author": null,
-          "description": "世界の太陽光と風力による発電量が2022年は前年から20％近く伸び、全体の発電量に占める割合も拡大して12・1％となったとの報告書を英シンクタンクのエンバーが12日、公表した。今後も伸びると予測し「化石燃料による発電が増加するのは22年が最後かもしれない」と分析した。日本は太陽光の割合が比較的高い",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/040/025000c",
-          "publishedOn": "2023-04-14T00:32:00.000Z",
-          "wordCount": 1157,
-          "title": "世界の発電量、太陽光と風力が12％に拡大　日本は欧米や中国に遅れ",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/13/20230413ddm005070152000p/0c10.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/020/022000c",
-          "author": null,
-          "description": "岸田文雄首相は14日のカジノを含む統合型リゾート（IR）推進本部会合で、大阪府・市の整備計画を認定することを明らかにした。斉藤鉄夫国土交通相が正式に認定する。今後、カジノ免許付与などの手続きが進めば、日本で初めてのIRが誕生する。大阪府・市は2029年秋～冬の開業を目指している。同じく認定の申請を",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/020/022000c",
-          "publishedOn": "2023-04-14T00:08:01.000Z",
-          "wordCount": 1033,
-          "title": "政府、大阪のIR整備計画を認定　全国初　長崎は継続審査に",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/14/20230414k0000m020023000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/040/020000c",
-          "author": null,
-          "description": "沖縄県の宮古島周辺で陸上自衛隊員10人が乗ったヘリコプターが消息を絶った事故で、13日に見つかったヘリの機体主要部分とみられる物体は水深100メートル前後の海底にあることが、政府関係者への取材で判明した。",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/040/020000c",
-          "publishedOn": "2023-04-13T23:47:44.000Z",
-          "wordCount": 992,
-          "title": "陸自ヘリの機体らしき物体と人影、見つかったのは水深100mの海底",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/13/20230413k0000m040354000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/020/019000c",
-          "author": null,
-          "description": "13日のニューヨーク株式市場のダウ工業株30種平均は反発し、前日比383・19ドル高の3万4029・69ドルで取引を終えた。FRBが利上げを近く停止するとの観測が広がり、景気の先行き期待から買い注文が膨らんだ。ほぼ全面高となり、前日終値からの上げ幅は一時400ドルを超えた。",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/020/019000c",
-          "publishedOn": "2023-04-13T23:31:46.000Z",
-          "wordCount": 997,
-          "title": "NY株反発、383ドル高　景気の先行き期待、買い注文膨らむ",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/030/017000c",
-          "author": null,
-          "description": "フランスで100歳以上の高齢者が3万人を超え、1960年代の30倍以上の水準に達した。8割以上が女性で、男女とも大学卒業以上の人が占める割合が高かった。 　フランス国立統計経済研究所（INSEE）が5日発表した統計によると、3万人のうち女性が2万5700人で85％を占めた。男女合わせた100歳以上",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/030/017000c",
-          "publishedOn": "2023-04-13T23:26:33.000Z",
-          "wordCount": 1043,
-          "title": "フランス、100歳以上の高齢者が3万人超　欧州で最多",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/05/13/20220513k0000m030051000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230414/k00/00m/020/018000c",
-          "author": null,
-          "description": "13日のニューヨーク外国為替市場の円相場は午後5時現在、前日比61銭円高ドル安の1ドル＝132円53～63銭を付けた。ユーロは1ユーロ＝1・1043～53ドル、146円37～47銭。",
-          "link": "https://mainichi.jp/articles/20230414/k00/00m/020/018000c",
-          "publishedOn": "2023-04-13T23:22:26.000Z",
-          "wordCount": 996,
-          "title": "NY円、132円台後半　FRB利上げ停止の見方広がり円買い強まる",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/03/30/20230330k0000m020005000p/0c10.jpg?2"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230413/k00/00m/200/240000c",
-          "author": null,
-          "description": "恋人ごっこ、夫婦ごっこ、友達ごっこ――。小説家でAV女優の紗倉まなさんが、自身の恋愛を振り返りながら書いた三つの小説「ごっこ」「見知らぬ人」「はこのなか」を一冊にした「ごっこ」が、2月に講談社から出版された。どれも、曖昧で着地点のない恋愛をする女たちが主人公だ。前作の小説集「春、死なん」（同社）の",
-          "link": "https://mainichi.jp/articles/20230413/k00/00m/200/240000c",
-          "publishedOn": "2023-04-13T23:00:24.000Z",
-          "wordCount": 1099,
-          "title": "「ごっこ」で自分の毒を抜く　AV女優・作家の紗倉まなさんが新刊",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/13/20230413k0000m200320000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230412/k00/00m/030/060000c",
-          "author": null,
-          "description": "中国による台湾侵攻に関する議論が米国で熱を帯びている。台湾を巡る軍事的なバランスはどうなっているのか。中国軍の関心はどこにあるのか。米国の中国軍研究者である「戦略予算評価センター（CSBA）」のトシ・ヨシハラ上級研究員に聞いた。【聞き手・ワシントン西田進一郎】",
-          "link": "https://mainichi.jp/articles/20230412/k00/00m/030/060000c",
-          "publishedOn": "2023-04-13T22:00:13.000Z",
-          "wordCount": 1167,
-          "title": "太平洋戦争を研究する中国　台湾を巡る軍事バランスと戦略は",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/13/20230413k0000m030310000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230412/k00/00m/020/067000c",
-          "author": null,
-          "description": "岸田文雄政権の「原発回帰」に後押しされ、再稼働する原発は今後も相次ぎそうだ。そこで改めて直面する課題が運転によって生じる使用済み核燃料の行方。再稼働した原発が最多の関西電力は、その保管先となる「中間貯蔵施設」の候補地を2023年末までに決めると表明している。それは不祥事の続く関電が抱えるもう一つの",
-          "link": "https://mainichi.jp/articles/20230412/k00/00m/020/067000c",
-          "publishedOn": "2023-04-13T21:00:18.000Z",
-          "wordCount": 1093,
-          "title": "関電が抱えるもう一つの難題　「中間貯蔵施設」とは何か",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/12/20230412k0000m020085000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230413/k00/00m/040/108000c",
-          "author": null,
-          "description": "故郷の沖縄に帰ってきてはや2年。子供のころに見慣れた風景が大人になると違って見えるというのはよく聞く話だが、「内地」（「本土」や「大和」とも言うが、私にとって最も馴染（なじ）みのあるこの呼び方で統一したい）での暮らしが長い私にはなおさらだ。",
-          "link": "https://mainichi.jp/articles/20230413/k00/00m/040/108000c",
-          "publishedOn": "2023-04-13T21:00:16.000Z",
-          "wordCount": 1091,
-          "title": "24色のペン:「沖縄」を撮るということ＝喜屋武真之介（写真部兼那覇支局）",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/13/20230413k0000m040101000p/0c10.jpg?1"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20230413/k00/00m/040/173000c",
-          "author": null,
-          "description": "毎日新聞彦根通信部に単身赴任中の私（61）はステージⅢbの直腸がんと診断され、昨年11月に患部を切除手術した。12月からは再発を防ぐための抗がん剤治療をスタート。しかし、手や喉のしびれ、倦怠（けんたい）感、味覚や消化器異常などに次々と襲われた。医師用ガイドラインでは6カ月治療を「強く推奨」している",
-          "link": "https://mainichi.jp/articles/20230413/k00/00m/040/173000c",
-          "publishedOn": "2023-04-13T20:30:18.000Z",
-          "wordCount": 1137,
-          "title": "抗がん剤投与を途中で打ち切った訳　61歳記者の闘病生活",
-          "imageUrl": "https://cdn.mainichi.jp/vol1/2023/04/13/20230413k0000m040229000p/0c10.jpg?1"
         }
       ]
     },
@@ -9709,6 +9559,26 @@
       "feedUrl": "https://www.aviationwire.jp/feed",
       "siteUrl": "https://www.aviationwire.jp",
       "articles": [
+        {
+          "id": "https://www.aviationwire.jp/?p=276889",
+          "author": "Tadayuki YOSHIKAWA",
+          "description": "5月7日から13日までによく読まれた記事をまとめました。一番読まれたものは、エアバスの大型輸送機A300-600ST「ベルーガST（Beluga ST）」の神戸空港到着に関する記事でした。 第1位 神戸にエアバス「ベル […]",
+          "link": "https://www.aviationwire.jp/archives/276889",
+          "publishedOn": "2023-05-14T01:05:04.000Z",
+          "wordCount": 491,
+          "title": "神戸にエアバス「ベルーガ」到着が1位　先週の注目記事23年5月7日-13日",
+          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2023/05/230510_td0001_beluga_bga_rjbe-720r1.jpg"
+        },
+        {
+          "id": "https://www.aviationwire.jp/?p=276880",
+          "author": "Tadayuki YOSHIKAWA",
+          "description": "米軍横田基地は、5月20日と21日に開催される「日米友好祭2023」の地上展示予定航空機を12日に発表した。基地所属機のほか、F-35戦闘機「ライトニングII」や旅客機DC-10を母体とするKC-10空中給油・輸送機「 […]",
+          "link": "https://www.aviationwire.jp/archives/276880",
+          "publishedOn": "2023-05-13T13:22:55.000Z",
+          "wordCount": 479,
+          "title": "横田基地祭、F-35やKC-10飛来　空自機はF-15やC-2、民間はホンダジェットも",
+          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2023/05/230512_yokota_01-720.jpg"
+        },
         {
           "id": "https://www.aviationwire.jp/?p=276862",
           "author": "Tadayuki YOSHIKAWA",
@@ -11368,76 +11238,6 @@
           "wordCount": 502,
           "title": "737MAX、納入を一部停止　スピリット製部品の品質問題",
           "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2016/08/160712_2095_737M_boe-720.jpg"
-        },
-        {
-          "id": "https://www.aviationwire.jp/?p=274860",
-          "author": "Yusuke KOHASE",
-          "description": "日本航空（JAL/JL、9201）は4月14日、国際線旅客が航空券購入時に支払う燃油特別付加運賃（燃油サーチャージ）について、6-7月発券分を引き下げると発表した。往復の場合、欧米は6万6800円、ハワイは4万2600 […]",
-          "link": "https://www.aviationwire.jp/archives/274860",
-          "publishedOn": "2023-04-14T09:00:28.000Z",
-          "wordCount": 472,
-          "title": "JAL、6-7月サーチャージ引き下げ　欧米往復6.6万円、ハワイ4.2万円に",
-          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2021/04/210424_0040_7879_jal-720.jpg"
-        },
-        {
-          "id": "https://www.aviationwire.jp/?p=274852",
-          "author": "Tadayuki YOSHIKAWA",
-          "description": "日本航空（JAL/JL、9201）は、25歳以下を対象にした国内線運賃「スカイメイト」のリニューアルキャンペーンを実施している。学生を主な対象にした運賃で従来は予約不可だったが、出発4時間前から予約できるようにした。  […]",
-          "link": "https://www.aviationwire.jp/archives/274852",
-          "publishedOn": "2023-04-14T08:23:42.000Z",
-          "wordCount": 465,
-          "title": "JAL、スカイメイト刷新でマイル2倍キャンペーン　出発4時間前から予約可",
-          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2022/01/220128_0148_A350_jal_logo-720.jpg"
-        },
-        {
-          "id": "https://www.aviationwire.jp/?p=274850",
-          "author": "Yusuke KOHASE",
-          "description": "スターフライヤー（SFJ/7G、9206）は4月14日、北九州－羽田線が30日間乗り放題となる定額制サービス「STAR PASS」を始めると発表した。期間中は平日・週末を問わず何度でも搭乗できる。同日から受け付け、数量 […]",
-          "link": "https://www.aviationwire.jp/archives/274850",
-          "publishedOn": "2023-04-14T08:20:08.000Z",
-          "wordCount": 521,
-          "title": "スターフライヤー、羽田－北九州30日間乗り放題パス　数量限定、抽選販売",
-          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2021/11/211101_0530_A320_sfj_rjfr-720.jpg"
-        },
-        {
-          "id": "https://www.aviationwire.jp/?p=274840",
-          "author": "Yusuke KOHASE",
-          "description": "大阪・豊中市と池田市、兵庫・伊丹市の3市と日本航空（JAL/JL、9201）大阪空港支店は、ふるさと納税の返礼品に3市にまたがる大阪国際空港（伊丹空港）の見学ツアーを提供する。ツアー実施日は6月24日で、4月14日から […]",
-          "link": "https://www.aviationwire.jp/archives/274840",
-          "publishedOn": "2023-04-14T02:55:52.000Z",
-          "wordCount": 470,
-          "title": "伊丹空港周辺3市、ふるさと納税でJAL格納庫見学ツアー　航空教室・CA体験も",
-          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2018/03/180310_0327_E170_jal_jar-720.jpg"
-        },
-        {
-          "id": "https://www.aviationwire.jp/?p=274798",
-          "author": "Tadayuki YOSHIKAWA",
-          "description": "ZIPAIR（ジップエア、TZP/ZG）は4月13日、同社初の特別塗装機（ボーイング787-8型機、登録記号JA850J）を就航させた。同日業務提携を発表したサザビーリーグ（東京・渋谷区）が展開するセレクトショップブラ […]",
-          "link": "https://www.aviationwire.jp/archives/274798",
-          "publishedOn": "2023-04-14T01:30:04.000Z",
-          "wordCount": 610,
-          "title": "ZIPAIR、初の特別塗装機就航　ロンハーマンとハワイの自然保護訴求",
-          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2023/04/230413_1883_787_tzp-720.jpg"
-        },
-        {
-          "id": "https://www.aviationwire.jp/?p=274793",
-          "author": "Yusuke KOHASE",
-          "description": "ボーイングの2023年3月の引き渡しは、前年同月比23機増の64機、受注は7機増の60機だった。競合のエアバスは3月に61機（前年同月63機）を引き渡し、20機（同104機）を受注した（関連記事）。 —記事の概要— ・ […]",
-          "link": "https://www.aviationwire.jp/archives/274793",
-          "publishedOn": "2023-04-13T21:00:18.000Z",
-          "wordCount": 490,
-          "title": "737MAX、JALから21機受注　ZIPAIRに787新造機＝ボーイング3月実績",
-          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2023/03/230323_737M8_jal_02-720.jpg"
-        },
-        {
-          "id": "https://www.aviationwire.jp/?p=274791",
-          "author": "Yusuke KOHASE",
-          "description": "エアバスの2023年3月の引き渡しは、前年同月比2機減の61機、受注は84機減の20機だった。競合のボーイングは3月に64機（前年同月41機）を引き渡し、60機（同53機）を受注した（関連記事）。 —記事の […]",
-          "link": "https://www.aviationwire.jp/archives/274791",
-          "publishedOn": "2023-04-13T20:55:15.000Z",
-          "wordCount": 479,
-          "title": "A350-1000、ルフトハンザから初受注　納入微減61機＝エアバス3月実績",
-          "imageUrl": "https://www.aviationwire.jp/wp-content/uploads/2023/03/230302_A35K_dlh_01-720.jpg"
         }
       ]
     },
@@ -11932,16 +11732,6 @@
           "wordCount": null,
           "title": "Web Designing 2023年4月号の記事「Webアクセシビリティに向き合う理由」がWeb上で公開",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.mitsue.co.jp/knowledge/blog/a11y/202304/14_0959.html",
-          "author": null,
-          "description": "W3Cからアナウンスがあったように、EPUB Accessibility 1.1...",
-          "link": "https://www.mitsue.co.jp/knowledge/blog/a11y/202304/14_0959.html",
-          "publishedOn": "2023-04-14T00:59:12.000Z",
-          "wordCount": 131,
-          "title": "EPUB Accessibility 1.1が勧告案に",
-          "imageUrl": "https://www.mitsue.co.jp/assets/img/og/img-default.png"
         }
       ]
     },
@@ -14059,6 +13849,16 @@
       "siteUrl": "https://fabcross.jp",
       "articles": [
         {
+          "id": "https://fabcross.jp/news/2023/20230514_segment-anything-model.html",
+          "author": null,
+          "description": "米Metaは2023年4月5日、画像や映像内のオブジェクトを識別する、画像セグメンテーションモデル「Segment Anything Model (SAM) 」と、過去最大のセグメンテーションデータセットである「Segment Anything 1-Billion mask dataset（SA-1B）」を公開した。",
+          "link": "https://fabcross.jp/news/2023/20230514_segment-anything-model.html",
+          "publishedOn": "2023-05-13T22:00:00.000Z",
+          "wordCount": null,
+          "title": "米Meta、画像や映像内のオブジェクトを識別する画像セグメンテーションモデルを公開",
+          "imageUrl": null
+        },
+        {
           "id": "https://fabcross.jp/news/2023/20230513_robotic-honeycomb.html",
           "author": null,
           "description": "スイス連邦工科大学ローザンヌ校（EPFL）とオーストリアのグラーツ大学の研究チームは、飼育シートにカモフラージュしたロボットシステムを巣箱に組み込み、セイヨウミツバチの集団行動を観察し、行動変容を促すことに成功した。",
@@ -14837,46 +14637,6 @@
           "wordCount": 1388,
           "title": "Hailo、新しいスマートカメラ向けAIチップを発表——従来の5倍以上の性能を同等の価格帯で",
           "imageUrl": "https://fabcross.jp/news/2023/dmln530000158v2e-img/dmln530000158v37.png"
-        },
-        {
-          "id": "https://fabcross.jp/news/2023/20230414_tomorobo.html",
-          "author": null,
-          "description": "建ロボテックが人間の代わりに結束作業を実行する「鉄筋結束トモロボ」について、米国の規制に対応したモデルを発表。カバーやケーブル、充電器などの交換や英語表記対応などのアップデートを実施した。",
-          "link": "https://fabcross.jp/news/2023/20230414_tomorobo.html",
-          "publishedOn": "2023-04-14T07:00:00.000Z",
-          "wordCount": 1351,
-          "title": "建ロボテックが「鉄筋結束トモロボ」の米国規制対応モデルを発表",
-          "imageUrl": "https://fabcross.jp/news/2023/dmln53000015atsf-img/dmln53000015att8.jpg"
-        },
-        {
-          "id": "https://fabcross.jp/news/2023/20230414_teplo_tea.html",
-          "author": null,
-          "description": "スマートティーポット「teploティーポット プロ」が法人向けサービスを開始。2020年8月に一般発売を開始した初期モデル「teploティーポット」の新型モデルで、業務用の幅広いニーズに応えるため機能や仕様をアップデートしている。",
-          "link": "https://fabcross.jp/news/2023/20230414_teplo_tea.html",
-          "publishedOn": "2023-04-14T03:00:00.000Z",
-          "wordCount": 1353,
-          "title": "スマートティーポット「teploティーポット プロ」が法人向けサービスを開始",
-          "imageUrl": "https://fabcross.jp/news/2023/dmln53000015akug-img/dmln53000015akv9.jpg"
-        },
-        {
-          "id": "https://fabcross.jp/news/2023/20230414_Node-RED_book.html",
-          "author": null,
-          "description": "プログラミング開発ツール「Node-RED MCU Edition」の導入から工作例までを解説する「はじめてのNode-RED MCU Edition ビジュアルプログラミングでマイコンを動かそう！」が工学社から発売される。",
-          "link": "https://fabcross.jp/news/2023/20230414_Node-RED_book.html",
-          "publishedOn": "2023-04-13T22:30:00.000Z",
-          "wordCount": 1369,
-          "title": "Node-RED MCU Editionによる電子工作の入門書が発売",
-          "imageUrl": "https://fabcross.jp/news/2023/dmln530000159usb-img/dmln530000159ut4.jpg"
-        },
-        {
-          "id": "https://fabcross.jp/news/2023/20230414_soft-material.html",
-          "author": null,
-          "description": "カーネギーメロン大学（CMU）の研究チームが、自己修復能と金属のような導電性を併せ持つソフトマテリアルを開発した。",
-          "link": "https://fabcross.jp/news/2023/20230414_soft-material.html",
-          "publishedOn": "2023-04-13T22:00:00.000Z",
-          "wordCount": 1378,
-          "title": "自己修復能と金属のような導電性を併せ持つソフトマテリアルを開発",
-          "imageUrl": "https://fabcross.jp/news/2023/dmln530000158uzc-img/dmln530000158v05.png"
         }
       ]
     },
@@ -16056,6 +15816,296 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence",
+          "publishedOn": "2023-05-14T01:32:17.000Z",
+          "wordCount": 2488,
+          "title": "Three Companies Impersonated Millions to Influence Internet Policy",
+          "imageUrl": "https://ag.ny.gov/sites/default/files/2023-01/oag-social-preview.png"
+        },
+        {
+          "id": "https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose",
+          "author": null,
+          "description": "Comments",
+          "link": "https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose",
+          "publishedOn": "2023-05-14T01:01:52.000Z",
+          "wordCount": 5803,
+          "title": "Instead of your Life&#x27;s Purpose (2021)",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f0b3340-cbc8-47ab-a4dc-d472a46a3b3d_1050x591.jpeg"
+        },
+        {
+          "id": "https://www.news.ucsb.edu/2023/021037/researchers-discover-way-improve-nonviral-gene-editing-well-new-type-dna-repair",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.news.ucsb.edu/2023/021037/researchers-discover-way-improve-nonviral-gene-editing-well-new-type-dna-repair",
+          "publishedOn": "2023-05-14T00:51:53.000Z",
+          "wordCount": 2536,
+          "title": "Researchers improve nonviral gene editing and a new type of DNA repair",
+          "imageUrl": "https://www.news.ucsb.edu/sites/default/files/styles/large_2340x1212/public/2023-05/gene-editing-istock-uc-santa-barbara-small.jpg?itok=u5aFabpo"
+        },
+        {
+          "id": "https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/",
+          "publishedOn": "2023-05-14T00:23:23.000Z",
+          "wordCount": 1642,
+          "title": "Metal-filtering sponge removes lead from water",
+          "imageUrl": "https://news.northwestern.edu/assets/Stories/2023/05/shindel1940__FocusFillWzEyMDAsNjMwLCJ5Iiw4N10.jpg"
+        },
+        {
+          "id": "https://hackaday.io/page/6176-why-is-there-no-open-source-firmware-for-laser-or-inkjet-printers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hackaday.io/page/6176-why-is-there-no-open-source-firmware-for-laser-or-inkjet-printers",
+          "publishedOn": "2023-05-13T23:02:50.000Z",
+          "wordCount": null,
+          "title": "Why is there no open source firmware for laser or inkjet printers? (2019)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/basnijholt/rsync-time-machine.py",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/basnijholt/rsync-time-machine.py",
+          "publishedOn": "2023-05-13T22:04:04.000Z",
+          "wordCount": null,
+          "title": "Python Port of 600 Line Bash Script: rsync-time-machine.py for Rsync Backups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/canonical/matter-pi-gpio-commander",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/canonical/matter-pi-gpio-commander",
+          "publishedOn": "2023-05-13T20:56:34.000Z",
+          "wordCount": null,
+          "title": "Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html",
+          "publishedOn": "2023-05-13T20:52:14.000Z",
+          "wordCount": 192,
+          "title": "Micro.blog Reclaiming Usernames Policy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto/",
+          "publishedOn": "2023-05-13T20:46:15.000Z",
+          "wordCount": 1893,
+          "title": "How An Obscure OTC-Traded Derivative From The 80s Took Over Crypto",
+          "imageUrl": "https://blog.everstrike.io/content/images/2023/05/Screenshot-from-2023-05-05-23-56-21-2.png"
+        },
+        {
+          "id": "https://github.com/hperaza/RSX280",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hperaza/RSX280",
+          "publishedOn": "2023-05-13T20:12:07.000Z",
+          "wordCount": null,
+          "title": "Dec&#x27;s OS-like RSX-11M for the Z280 CPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dailyscandinavian.com/energy-saving-road-lighting-norway/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dailyscandinavian.com/energy-saving-road-lighting-norway/",
+          "publishedOn": "2023-05-13T19:59:00.000Z",
+          "wordCount": null,
+          "title": "Energy Saving Road Lighting in Norway",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.leshenko.net/p/ugit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.leshenko.net/p/ugit/",
+          "publishedOn": "2023-05-13T19:55:04.000Z",
+          "wordCount": 55,
+          "title": "DIY Git in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anvaka.github.io/map-of-github/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://anvaka.github.io/map-of-github/",
+          "publishedOn": "2023-05-13T18:47:16.000Z",
+          "wordCount": 211,
+          "title": "Hundreds of millions of stars turned into a map of GitHub projects",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.os2museum.com/wp/idle-dr-dos/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.os2museum.com/wp/idle-dr-dos/",
+          "publishedOn": "2023-05-13T18:43:49.000Z",
+          "wordCount": 3146,
+          "title": "Idle DR-DOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/",
+          "publishedOn": "2023-05-13T17:24:11.000Z",
+          "wordCount": 1898,
+          "title": "HP disables customers’ printers if they use ink cartridges from cheaper rivals",
+          "imageUrl": "https://www.telegraph.co.uk/content/dam/money/2023/05/11/TELEMMGLPICT000207035295_1_trans_NvBQzQNjv4BqH8g0IxmZhOOFzRvM6k8ERpnDQzwgRmiqFHqV_gtIbpc.jpeg?impolicy=logo-overlay"
+        },
+        {
+          "id": "https://www.colorado.edu/today/2023/05/12/how-old-are-saturns-rings-far-younger-once-thought-according-new-study",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.colorado.edu/today/2023/05/12/how-old-are-saturns-rings-far-younger-once-thought-according-new-study",
+          "publishedOn": "2023-05-13T16:16:25.000Z",
+          "wordCount": null,
+          "title": "Saturn&#x27;s rings are far younger than once thought",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.indiehackers.com/post/how-to-hack-hacker-news-and-consistently-hit-the-front-page-56b4a04e12",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.indiehackers.com/post/how-to-hack-hacker-news-and-consistently-hit-the-front-page-56b4a04e12",
+          "publishedOn": "2023-05-13T16:13:43.000Z",
+          "wordCount": 2014,
+          "title": "How we hack Hacker News and consistently hit the front page",
+          "imageUrl": "https://storage.googleapis.com/indie-hackers.appspot.com/shareable-images/posts/56b4a04e12"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41587-022-01618-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41587-022-01618-2",
+          "publishedOn": "2023-05-13T15:36:11.000Z",
+          "wordCount": null,
+          "title": "Large language models generate functional protein sequences across families",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5",
+          "publishedOn": "2023-05-13T15:33:04.000Z",
+          "wordCount": 3919,
+          "title": "TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges",
+          "imageUrl": "https://i.insider.com/631bb04489d2b30018947cdd?width=1200&format=jpeg"
+        },
+        {
+          "id": "https://www.maa.org/external_archive/devlin/LockhartsLament.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.maa.org/external_archive/devlin/LockhartsLament.pdf",
+          "publishedOn": "2023-05-13T15:31:42.000Z",
+          "wordCount": 11746,
+          "title": "A Mathematician&#x27;s Lament [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
+          "publishedOn": "2023-05-13T15:11:11.000Z",
+          "wordCount": 2630,
+          "title": "Prompt injection explained, with video, slides, and a transcript",
+          "imageUrl": "https://static.simonwillison.net/static/2023/langchain-webinar-may/prompt-injection.015.jpeg"
+        },
+        {
+          "id": "https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/",
+          "publishedOn": "2023-05-13T13:59:59.000Z",
+          "wordCount": 5576,
+          "title": "Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy",
+          "imageUrl": "https://mercurialtrends.com/wp-content/uploads/2023/04/agrivoltaics.jpg"
+        },
+        {
+          "id": "http://vimcasts.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://vimcasts.org/",
+          "publishedOn": "2023-05-13T13:26:30.000Z",
+          "wordCount": 400,
+          "title": "Vimcasts – Free screencasts about the text editor Vim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s42004-023-00885-7",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s42004-023-00885-7",
+          "publishedOn": "2023-05-13T12:59:13.000Z",
+          "wordCount": null,
+          "title": "Boron-assisted abiotic polypeptide synthesis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/laudspeaker/laudspeaker/tree/Hiring",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/laudspeaker/laudspeaker/tree/Hiring",
+          "publishedOn": "2023-05-13T12:01:01.000Z",
+          "wordCount": null,
+          "title": "Laudspeaker hiring engineer to build open source customer journey software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hails.org/@hailey/110360791283096989",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hails.org/@hailey/110360791283096989",
+          "publishedOn": "2023-05-13T11:50:23.000Z",
+          "wordCount": null,
+          "title": "Rust hello world app for Windows 95, cross-compiled from Linux, no MSVC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "publishedOn": "2023-05-13T10:40:40.000Z",
+          "wordCount": 2556,
+          "title": "The Wrong Abstraction (2016)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/autorope/donkeycar",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/autorope/donkeycar",
+          "publishedOn": "2023-05-13T09:56:35.000Z",
+          "wordCount": 855,
+          "title": "Donkeycar: A Python self driving library",
+          "imageUrl": "https://repository-images.githubusercontent.com/76095264/d3e8ee00-9257-11eb-8fb8-f2087ede6e1d"
+        },
+        {
+          "id": "https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html",
+          "publishedOn": "2023-05-13T01:20:43.000Z",
+          "wordCount": 2078,
+          "title": "RNA repair mechanism discovered in humans",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2023/hidden-rna-repair-mech.jpg"
+        },
+        {
           "id": "https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/",
           "author": null,
           "description": "Comments",
@@ -16384,6 +16434,16 @@
           "wordCount": 14937,
           "title": "YouTuber who staged plane crash faces up to 20 years jail",
           "imageUrl": "https://media.zenfs.com/en/afp.com/e8ba95a7b6c6ab3dfb7ec3da18365eb1"
+        },
+        {
+          "id": "https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/",
+          "publishedOn": "2023-05-11T21:28:29.000Z",
+          "wordCount": 5981,
+          "title": "Gamedev from Scratch 1: Scaffolding",
+          "imageUrl": null
         },
         {
           "id": "https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/",
@@ -24244,316 +24304,6 @@
           "wordCount": 1745,
           "title": "AMD Details OpenSIL for Advancing Open-Source System Firmware",
           "imageUrl": null
-        },
-        {
-          "id": "https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2023-04-decade-long-prehistoric-timeline-africa-million.html",
-          "publishedOn": "2023-04-14T12:01:28.000Z",
-          "wordCount": 2607,
-          "title": "Prehistoric timeline in Africa pushed back by more than 10M years",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/2023/decade-long-project-pu.jpg"
-        },
-        {
-          "id": "https://www.matrixcalculus.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.matrixcalculus.org/",
-          "publishedOn": "2023-04-14T11:38:59.000Z",
-          "wordCount": 317,
-          "title": "Matrix Calculus: Calculate derivatives of matrices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Brandolini%27s_law",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Brandolini%27s_law",
-          "publishedOn": "2023-04-14T10:47:48.000Z",
-          "wordCount": 1191,
-          "title": "Brandolini&#x27;s Law",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=35567822",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=35567822",
-          "publishedOn": "2023-04-14T10:35:03.000Z",
-          "wordCount": 12451,
-          "title": "Ask HN: Side project of more than $2k monthly revenue? what&#x27;s your project?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.elbruz.org/special-projects/islands-and-lakes/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.elbruz.org/special-projects/islands-and-lakes/",
-          "publishedOn": "2023-04-14T08:38:28.000Z",
-          "wordCount": 762,
-          "title": "Largest island in a lake on an island in a lake on an island (2007)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thenation.com/article/culture/leonard-cohen-ballet-lepers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.thenation.com/article/culture/leonard-cohen-ballet-lepers/",
-          "publishedOn": "2023-04-14T05:03:10.000Z",
-          "wordCount": 9653,
-          "title": "A Portrait of Leonard Cohen as a Young Artist",
-          "imageUrl": "https://www.thenation.com/wp-content/uploads/2023/03/GettyImages-1082473558.jpg"
-        },
-        {
-          "id": "https://www.jpl.nasa.gov/news/nasa-study-helps-explain-limit-breaking-ultra-luminous-x-ray-sources",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jpl.nasa.gov/news/nasa-study-helps-explain-limit-breaking-ultra-luminous-x-ray-sources",
-          "publishedOn": "2023-04-14T02:21:05.000Z",
-          "wordCount": 3585,
-          "title": "NASA study helps explain limit-breaking ultra-luminous x-ray sources",
-          "imageUrl": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA25781-Magnetic-Fields-1600.jpg"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global",
-          "publishedOn": "2023-04-14T01:00:06.000Z",
-          "wordCount": 2827,
-          "title": "Atlas (YC W22) Is Hiring for a Demand Gen Manager (International)",
-          "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/b58e14160e5495f9ec89220a2d667064b1488468.png?1635402296"
-        },
-        {
-          "id": "https://www.eff.org/deeplinks/2023/04/update-tornado-cash",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eff.org/deeplinks/2023/04/update-tornado-cash",
-          "publishedOn": "2023-04-13T23:41:57.000Z",
-          "wordCount": 2223,
-          "title": "An Update on Tornado Cash",
-          "imageUrl": "https://www.eff.org/files/banner_library/icons-dweb-2.png"
-        },
-        {
-          "id": "https://www.buzzfeednews.com/article/davidmack/bob-lee-murder-suspect-arrested-cash-app-san-francisco",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.buzzfeednews.com/article/davidmack/bob-lee-murder-suspect-arrested-cash-app-san-francisco",
-          "publishedOn": "2023-04-13T22:22:33.000Z",
-          "wordCount": 12886,
-          "title": "Police Arrested a Tech Executive over the Stabbing Death of Bob Lee",
-          "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2023-04/13/17/campaign_images/55b89a28e908/police-reportedly-arrested-a-tech-executive-over--3-1058-1681408196-0_dblbig.jpg"
-        },
-        {
-          "id": "https://twitter.com/id_aa_carmack/status/1646634954703421441",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/id_aa_carmack/status/1646634954703421441",
-          "publishedOn": "2023-04-13T22:10:20.000Z",
-          "wordCount": 509,
-          "title": "When you combine two things that are close, but not the same",
-          "imageUrl": null
-        },
-        {
-          "id": "http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new",
-          "author": null,
-          "description": "Comments",
-          "link": "http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new",
-          "publishedOn": "2023-04-13T21:37:26.000Z",
-          "wordCount": 2320,
-          "title": "SQL: 2023 is finished: Here is what&#x27;s new",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf",
-          "publishedOn": "2023-04-13T21:32:03.000Z",
-          "wordCount": 14263,
-          "title": "Shifting the Balance of Cybersecurity Risk: Security-by-Design and -Default [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://consentomatic.au.dk/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://consentomatic.au.dk/",
-          "publishedOn": "2023-04-13T21:22:40.000Z",
-          "wordCount": 795,
-          "title": "Consent-O-Matic: Automatic cookie management",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/",
-          "publishedOn": "2023-04-13T20:56:02.000Z",
-          "wordCount": 3543,
-          "title": "Camus&#x27;s New York Diary (1946)",
-          "imageUrl": "https://www.theparisreview.org/blog/wp-content/uploads/2023/03/camus-camel.jpg"
-        },
-        {
-          "id": "https://news.lettersofnote.com/p/i-hope-you-will-never-see-this-letter",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.lettersofnote.com/p/i-hope-you-will-never-see-this-letter",
-          "publishedOn": "2023-04-13T20:55:22.000Z",
-          "wordCount": 2395,
-          "title": "I hope you will never see this letter (1961)",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f646923-45fd-43c5-a5f5-5dcd01c4ccc4_1024x769.jpeg"
-        },
-        {
-          "id": "https://daily.jstor.org/chess-unlike-war-is-a-game-of-perfect-information/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://daily.jstor.org/chess-unlike-war-is-a-game-of-perfect-information/",
-          "publishedOn": "2023-04-13T20:54:40.000Z",
-          "wordCount": 3732,
-          "title": "Chess, unlike war, is a game of perfect information",
-          "imageUrl": "https://daily.jstor.org/wp-content/uploads/2023/04/games_of_perfect_information_1050x700-1.jpg"
-        },
-        {
-          "id": "https://www.commonwealmagazine.org/end-life-dreams",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.commonwealmagazine.org/end-life-dreams",
-          "publishedOn": "2023-04-13T20:46:06.000Z",
-          "wordCount": 5497,
-          "title": "End-of-Life Dreams",
-          "imageUrl": "https://www.commonwealmagazine.org/sites/default/files/Lauritzen_9.jpg"
-        },
-        {
-          "id": "https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-generation-capabilities",
-          "author": null,
-          "description": "Comments",
-          "link": "https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-generation-capabilities",
-          "publishedOn": "2023-04-13T20:40:25.000Z",
-          "wordCount": 472,
-          "title": "GPT Unicorn: A Daily Exploration of GPT-4&#x27;s Image Generation Capabilities",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html",
-          "publishedOn": "2023-04-13T20:15:48.000Z",
-          "wordCount": 27446,
-          "title": "Sorting waste and recyclables with a fleet of robots",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYhP7IrTnpGC_qxqzY9xaShL-JjOujpoWIEqWf-tccTefAx7xKsoD_74wwMq07kbZvvwAgiNPydbCAPMtbDYXz5roJaemUzqPc8AspgjV4lxB0Bln1YSLzzwgxNUT0EA7QDS0SDuwofleEqOgzF_5bIgb_rNnyMWKMTHhYH1OI0W5lDEym8wsP1G44A/w1200-h630-p-k-no-nu/Robotic%20RL%20hero.jpeg"
-        },
-        {
-          "id": "https://fairanimateddrawings.com/site/home",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fairanimateddrawings.com/site/home",
-          "publishedOn": "2023-04-13T19:51:37.000Z",
-          "wordCount": 1454,
-          "title": "Animated Drawings",
-          "imageUrl": "/site/assets/thumbnail.png"
-        },
-        {
-          "id": "https://www.ctrl.blog/entry/append-only-social.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ctrl.blog/entry/append-only-social.html",
-          "publishedOn": "2023-04-13T19:10:18.000Z",
-          "wordCount": 865,
-          "title": "Don’t record your social life on an append-only social network (2022)",
-          "imageUrl": "https://www.ctrl.blog/media/hero/message-bubbles-padlocked-blockchain.1280x720.jpeg"
-        },
-        {
-          "id": "https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/",
-          "publishedOn": "2023-04-13T18:29:04.000Z",
-          "wordCount": 1492,
-          "title": "Elixir and Rust is a good mix",
-          "imageUrl": "https://fly.io/phoenix-files/2023-04-11/elixir-rust-thumb.webp"
-        },
-        {
-          "id": "https://tailscale.com/blog/more-throughput/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tailscale.com/blog/more-throughput/",
-          "publishedOn": "2023-04-13T18:11:30.000Z",
-          "wordCount": 4202,
-          "title": "Surpassing 10Gb&#x2F;S over Tailscale",
-          "imageUrl": "https://tailscale.com/blog/more-throughput/social.png"
-        },
-        {
-          "id": "https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/",
-          "publishedOn": "2023-04-13T17:38:22.000Z",
-          "wordCount": 1793,
-          "title": "Warm liquid from Oregon seafloor comes from Cascadia fault",
-          "imageUrl": "https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2023/04/10151548/sciadv.add6688-f2-750x423.jpg"
-        },
-        {
-          "id": "https://tailscale.dev/blog/darwin-spelunking",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tailscale.dev/blog/darwin-spelunking",
-          "publishedOn": "2023-04-13T17:36:39.000Z",
-          "wordCount": 3987,
-          "title": "Improving Tailscale via Apple’s open source",
-          "imageUrl": "https://tailscale.dev/images/darwin-spelunking/social.png"
-        },
-        {
-          "id": "https://www.latent.space/p/segment-anything-roboflow#details",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.latent.space/p/segment-anything-roboflow#details",
-          "publishedOn": "2023-04-13T17:01:24.000Z",
-          "wordCount": 38142,
-          "title": "Segment Anything Model and the hard problems of computer vision",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69f54996-fc68-4906-b103-755e7914a3e6_2146x1602.jpeg"
-        },
-        {
-          "id": "https://lwn.net/SubscriberLink/928581/841b747332791ac4/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lwn.net/SubscriberLink/928581/841b747332791ac4/",
-          "publishedOn": "2023-04-13T16:19:26.000Z",
-          "wordCount": 3903,
-          "title": "The early days of Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nypost.com/2023/04/13/mary-quant-designer-who-invented-the-miniskirt-dead-at-93/",
-          "publishedOn": "2023-04-13T16:07:45.000Z",
-          "wordCount": 11015,
-          "title": "Mary Quant, ’60s designer who invented the miniskirt, has died at 93",
-          "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26570873-1681390686412.jpg?quality=75&strip=all&1681376328&w=1024"
-        },
-        {
-          "id": "https://sqrtminusone.xyz/posts/2023-04-13-emacs/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sqrtminusone.xyz/posts/2023-04-13-emacs/",
-          "publishedOn": "2023-04-13T13:53:20.000Z",
-          "wordCount": 1803,
-          "title": "916 Days of Emacs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html",
-          "publishedOn": "2023-04-13T13:53:11.000Z",
-          "wordCount": 1876,
-          "title": "Mac Keyboard with Hidutil",
-          "imageUrl": null
         }
       ]
     },
@@ -25821,36 +25571,6 @@
           "wordCount": null,
           "title": "現存する最古のメタバース、 ウルティマオンラインの教訓",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2023/04/12/303869/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2023/04/14/303869/",
-          "publishedOn": "2023-04-13T22:56:34.000Z",
-          "wordCount": 695,
-          "title": "京大、霊長類の多能性幹細胞から卵母細胞の誘導に成功",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=303710",
-          "author": "Casey Crownhart",
-          "description": "化石燃料を使って製造プロセスで使う熱を生成する重工業は、温室効果ガスを大量に排出している。クリーン電力で生成した熱を貯蔵して使うことで、化石燃料の使用を減らす試みが始まっている。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
-          "link": "https://www.technologyreview.jp/s/303710/the-hottest-new-climate-technology-is-bricks/",
-          "publishedOn": "2023-04-13T21:54:46.000Z",
-          "wordCount": 1217,
-          "title": "最先端は「レンガ」、熱貯蔵は脱炭素の切り札になるか？",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2023/04/10203504/hot-bricks-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=299498",
-          "author": "Soo Youn",
-          "description": "BTSのファン集団「BTSアーミー」に代表されるK-POPファンは、巨大な影響力と「推し活」で習得した戦術を使って、世界の市民運動を変えようとしている。政治にも影響を与えつつある彼らの姿を追った。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
-          "link": "https://www.technologyreview.jp/s/299498/how-k-pop-fans-are-shaping-elections-around-the-globe/",
-          "publishedOn": "2023-04-13T21:39:25.000Z",
-          "wordCount": 1230,
-          "title": "「推し活」で世界を変える BTSアーミーの熱狂力",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2023/02/16193005/AP22314487357999-crop-1400x787.jpeg"
         }
       ]
     },
@@ -25865,6 +25585,56 @@
       "feedUrl": "https://www.moguravr.com/feed/",
       "siteUrl": "https://www.moguravr.com/",
       "articles": [
+        {
+          "id": "https://www.moguravr.com/?p=224172",
+          "author": "井文",
+          "description": "スマートフォン向けARゲーム「Pikmin Bloom（ピクミン ブルーム）」で、5月の「コミュニティ・デイ」が開催されています。 5月の「コミュニティ・デイ」の開催期間は、5月13日（土）0:00から5月14日（日）  […]\nThe post 【ピクミン ブルーム】5月の「コミュニティ・デイ」開幕！特別なお題チケットも販売中 appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/pikmin-bloom-134/",
+          "publishedOn": "2023-05-13T09:00:32.000Z",
+          "wordCount": 1011,
+          "title": "【ピクミン ブルーム】5月の「コミュニティ・デイ」開幕！特別なお題チケットも販売中",
+          "imageUrl": "https://assets.moguravr.com/uploads/2023/05/202305131758156000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=224165",
+          "author": "佐藤ホームズ",
+          "description": "「VTuberデイリーニュース」では、その日に起きた注目のVTuberニュースをピックアップ。読者の皆さんにVTuberの最新情報をまとめてお届けします。 MonsterZ MATE 1st EP「VIVA MATE」リ […]\nThe post MonsterZ MATE 1st EP「VIVA MATE」リリース決定【VTuberデイリーニュース2023 5/12号】 appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/vtuber-daily-news-534/",
+          "publishedOn": "2023-05-13T06:43:09.000Z",
+          "wordCount": null,
+          "title": "MonsterZ MATE 1st EP「VIVA MATE」リリース決定【VTuberデイリーニュース2023 5/12号】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.moguravr.com/?p=224156",
+          "author": "笠井康平",
+          "description": "ソニーが27インチ型の空間再現ディスプレイ『ELF-SR2』を6月12日に発売します。画面は現行型の約1.7倍で表現性能も向上。業務用アプリ検索サイトも開設するとのことです。 （出所：ソニー） ソニー株式会社が27インチ […]\nThe post ソニーが27型3DCGディスプレイ『ELF-SR2』を発売、事例検索サイトも appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/elf-sr2/",
+          "publishedOn": "2023-05-13T04:28:18.000Z",
+          "wordCount": 939,
+          "title": "ソニーが27型3DCGディスプレイ『ELF-SR2』を発売、事例検索サイトも",
+          "imageUrl": "https://assets.moguravr.com/uploads/2023/05/202305131324591000.jpg"
+        },
+        {
+          "id": "https://www.moguravr.com/?p=224150",
+          "author": "ノンジャンル人生",
+          "description": "ラジオコントロールカー（RCカー）の操作にあわせて映像・動きを疑似体験できる『「タミヤRCカー」シンクロドライビング』が、イベント「RCカーフェスティバル in ホビーのまち静岡」にて5月12日（金）〜5月14日（日）に […]\nThe post 自分がラジコンカーに乗ったような感覚になる？ VRを活用したコンテンツが登場 静岡のホビーイベントで体験会が開催 appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/tamiya-rc-car-synchro-driving/",
+          "publishedOn": "2023-05-13T02:30:52.000Z",
+          "wordCount": null,
+          "title": "自分がラジコンカーに乗ったような感覚になる？ VRを活用したコンテンツが登場 静岡のホビーイベントで体験会が開催",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.moguravr.com/?p=224139",
+          "author": "井文",
+          "description": "PlayStation.Blogで、2023年4月のPS Storeダウンロードランキングが公開されました。VRゲーム（PlayStation VR2部門）では、「Kayak VR: Mirage」が、国内ランキング第1 […]\nThe post 4月のPSVR2ダウンロードランキングが公開 国内の第1位はVRカヤック体験ゲーム「Kayak VR: Mirage」 appeared first on Mogura VR.",
+          "link": "https://www.moguravr.com/psvr2-download-ranking-2/",
+          "publishedOn": "2023-05-13T02:00:45.000Z",
+          "wordCount": 1105,
+          "title": "4月のPSVR2ダウンロードランキングが公開 国内の第1位はVRカヤック体験ゲーム「Kayak VR: Mirage」",
+          "imageUrl": "https://assets.moguravr.com/uploads/2023/05/202305130140719000.jpg"
+        },
         {
           "id": "https://www.moguravr.com/?p=224134",
           "author": "ノンジャンル人生",
@@ -28004,106 +27774,6 @@
           "wordCount": null,
           "title": "【ピクミン ブルーム】4月の「コミュニティ・デイ」開幕！ 特別お題チケットがショップに登場",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.moguravr.com/?p=221184",
-          "author": "ノンジャンル人生",
-          "description": "アイドルマスターシリーズによる新規アイドルプロジェクト「PROJECT IM@S vα-liv（ヴイアライヴ）」の発表会が4月14日（金）に行われ、アイドル候補生3名がお披露目されました。 発表会ではバンダイナムコエンタ […]\nThe post アイマスの新プロジェクト「vα-liv（ヴイアライヴ）」は、視聴者の投票で存続の運命が決まる appeared first on Mogura VR.",
-          "link": "https://www.moguravr.com/idolmaster-va-liv/",
-          "publishedOn": "2023-04-14T12:35:31.000Z",
-          "wordCount": 1261,
-          "title": "アイマスの新プロジェクト「vα-liv（ヴイアライヴ）」は、視聴者の投票で存続の運命が決まる",
-          "imageUrl": "https://assets.moguravr.com/uploads/2023/04/202304142132047000.jpg"
-        },
-        {
-          "id": "https://www.moguravr.com/?p=221162",
-          "author": "田和チサト",
-          "description": "3月27日、マイクロソフトは「Avators for Microsoft Teams」のプレビュー版を提供開始しました。同社のオンライン会議ツール「Teams」の会議に、3Dアバターで参加できるようになります。 なお、「 […]\nThe post マイクロソフトの「Teams」がアバター機能を提供開始 appeared first on Mogura VR.",
-          "link": "https://www.moguravr.com/avators-for-microsoft-teams-preview-version/",
-          "publishedOn": "2023-04-14T11:00:22.000Z",
-          "wordCount": 921,
-          "title": "マイクロソフトの「Teams」がアバター機能を提供開始",
-          "imageUrl": "https://assets.moguravr.com/uploads/2023/04/202304141959518000.jpg"
-        },
-        {
-          "id": "https://www.moguravr.com/?p=221123",
-          "author": "東雲りん",
-          "description": "4月12日、VRChatにてホビージャパンの公式ワールド「ホビージャパン駅前商店街」が公開されました。ホビージャパンは、「月刊ホビージャパン」などのホビー誌をはじめ、プラモデル、ボードゲームなどさまざまな事業を手掛けてい […]\nThe post プラモデルや塗装の楽しみをVRでも！ ホビージャパンの公式VRChatワールド「ホビージャパン駅前商店街」が公開 appeared first on Mogura VR.",
-          "link": "https://www.moguravr.com/hobby-japan-station-shopping-arcade/",
-          "publishedOn": "2023-04-14T10:30:22.000Z",
-          "wordCount": 1212,
-          "title": "プラモデルや塗装の楽しみをVRでも！ ホビージャパンの公式VRChatワールド「ホビージャパン駅前商店街」が公開",
-          "imageUrl": "https://assets.moguravr.com/uploads/2023/04/202304141648356000.jpg"
-        },
-        {
-          "id": "https://www.moguravr.com/?p=221101",
-          "author": "浅田カズラ",
-          "description": "Dentsu Lab Tokyoと株式会社stuは、AI生成技術を活用したユーザー参加型バーチャルライブツール「LAIV」の開発を発表しました。現在はプロトタイプ段階であり、試験運用第一弾として、VSingerのhaju […]\nThe post バーチャルライブを画像生成AIで盛り上げるツール「LAIV」発表。ユーザーの生成した画像が会場を彩る appeared first on Mogura VR.",
-          "link": "https://www.moguravr.com/virtual-live-tool-laiv/",
-          "publishedOn": "2023-04-14T10:00:26.000Z",
-          "wordCount": 1126,
-          "title": "バーチャルライブを画像生成AIで盛り上げるツール「LAIV」発表。ユーザーの生成した画像が会場を彩る",
-          "imageUrl": "https://assets.moguravr.com/uploads/2023/04/202304141648422000.jpg"
-        },
-        {
-          "id": "https://www.moguravr.com/?p=221153",
-          "author": "MoguLive編集部",
-          "description": "VTuberプロダクション「.LIVE」を運営する株式会社アップランドが、MBSグループの傘下（MBSイノベーションドライブの子会社化）となったことを発表しました。 .LIVEは、電脳少女シロさんや旧・アイドル部のVTu […]\nThe post VTuberプロダクション「.LIVE」運営のアップランドがMBSグループ傘下に 電脳少女シロなど所属 appeared first on Mogura VR.",
-          "link": "https://www.moguravr.com/appland-part-of-mbs-group/",
-          "publishedOn": "2023-04-14T09:55:39.000Z",
-          "wordCount": 975,
-          "title": "VTuberプロダクション「.LIVE」運営のアップランドがMBSグループ傘下に 電脳少女シロなど所属",
-          "imageUrl": "https://assets.moguravr.com/uploads/2023/04/202304141848417000.jpg"
-        },
-        {
-          "id": "https://www.moguravr.com/?p=221140",
-          "author": "井文",
-          "description": "人気バトルロイヤルTPS「フォートナイト」で、アメリカ最大級の野外音楽フェスティバル「コーチェラ・フェスティバル」とのコラボイベント「フォートナイト x Coachella」が開催されています。 「フォートナイト x C […]\nThe post 【フォートナイト】アメリカ最大級の野外音楽フェス「コーチェラ」とのコラボイベント開催！ 専用のカスタムマップが登場 appeared first on Mogura VR.",
-          "link": "https://www.moguravr.com/fortnite-coachella/",
-          "publishedOn": "2023-04-14T09:45:24.000Z",
-          "wordCount": 1109,
-          "title": "【フォートナイト】アメリカ最大級の野外音楽フェス「コーチェラ」とのコラボイベント開催！ 専用のカスタムマップが登場",
-          "imageUrl": "https://assets.moguravr.com/uploads/2023/04/202304141826346000.jpg"
-        },
-        {
-          "id": "https://www.moguravr.com/?p=221134",
-          "author": "MoguLive編集部",
-          "description": "ドワンゴが開催する大型イベント「ニコニコ超会議2023」の企画発表の第3弾が公開され、様々なバーチャル企画が発表されました。 （プレスリリース第一弾より） 「ニコニコ超会議2023」は2023年4月22日（土）～30日（ […]\nThe post ニコニコ超会議2023でバーチャル関連の企画が多数開催 VRで異世界転生を体験するイベントも実施 appeared first on Mogura VR.",
-          "link": "https://www.moguravr.com/niconico-chokaigi-virtual-related-projects/",
-          "publishedOn": "2023-04-14T09:40:23.000Z",
-          "wordCount": 1141,
-          "title": "ニコニコ超会議2023でバーチャル関連の企画が多数開催 VRで異世界転生を体験するイベントも実施",
-          "imageUrl": "https://assets.moguravr.com/uploads/2023/04/202304141826345000.jpg"
-        },
-        {
-          "id": "https://www.moguravr.com/?p=221093",
-          "author": "パンみみこ",
-          "description": "Snapは、オランダのARスタートアップ・Th3rdを2022年第2四半期に買収していた旨を明らかにしました。本買収の一環として、Th3rdのチームメンバー4人がSnapに合流したとのことです。なお、買収金額等の詳細は公 […]\nThe post SnapがARスタートアップTh3rdの買収を明らかに。新サービスに技術を応用か appeared first on Mogura VR.",
-          "link": "https://www.moguravr.com/snap-th3rd-buyout/",
-          "publishedOn": "2023-04-14T07:50:16.000Z",
-          "wordCount": 970,
-          "title": "SnapがARスタートアップTh3rdの買収を明らかに。新サービスに技術を応用か",
-          "imageUrl": "https://assets.moguravr.com/uploads/2023/04/202304141644409000.jpg"
-        },
-        {
-          "id": "https://www.moguravr.com/?p=221087",
-          "author": "ノンジャンル人生",
-          "description": "東急歌舞伎町タワーに「namco TOKYO」が、4月14日（金）オープンしました。 「namco TOKYO」は、「エンターテイメントシティ歌舞伎町」に相応しいアミューズメント、フード、イベントなどが融合するアミューズ […]\nThe post 東急歌舞伎町タワー「namco TOKYO」がオープン パックマンや電音部がAIのDJとして登場 appeared first on Mogura VR.",
-          "link": "https://www.moguravr.com/namco-tokyo-open/",
-          "publishedOn": "2023-04-14T07:35:56.000Z",
-          "wordCount": 1054,
-          "title": "東急歌舞伎町タワー「namco TOKYO」がオープン パックマンや電音部がAIのDJとして登場",
-          "imageUrl": "https://assets.moguravr.com/uploads/2023/04/202304141627826000.jpg"
-        },
-        {
-          "id": "https://www.moguravr.com/?p=221082",
-          "author": "佐藤ホームズ",
-          "description": "「VTuberデイリーニュース」では、その日に起きた注目のVTuberニュースをピックアップ。読者の皆さんにVTuberの最新情報をまとめてお届けします。 ホロライブ「holoXカフェ」開催 ホロライブが、秘密結社hol […]\nThe post ホロライブ「holoXカフェ」開催、ななしいんく 3D無料ライブ開催決定【VTuberデイリーニュース2023 4/13号】 appeared first on Mogura VR.",
-          "link": "https://www.moguravr.com/vtuber-daily-news-521/",
-          "publishedOn": "2023-04-14T07:30:59.000Z",
-          "wordCount": 1167,
-          "title": "ホロライブ「holoXカフェ」開催、ななしいんく 3D無料ライブ開催決定【VTuberデイリーニュース2023 4/13号】",
-          "imageUrl": "https://assets.moguravr.com/uploads/2023/04/202304141623466000.jpg"
         }
       ]
     },
@@ -31964,246 +31634,6 @@
           "wordCount": 5393,
           "title": "【山田祥平のRe:config.sys】画面の縦横比と55gの憂鬱",
           "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/614/1.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/news_flash/1493791.html",
-          "author": null,
-          "description": "株式会社アスクは、筐体をホワイトにカラーリングしたPNY製GeForce RTX 4070 Ti搭載ビデオカード「PNY GeForce RTX 4070 Ti 12GB VERTO LED 3FAN White Edition」を発売した。実売価格は14万1,800円前後。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/news_flash/1493791.html",
-          "publishedOn": "2023-04-14T08:54:10.000Z",
-          "wordCount": 5412,
-          "title": "【ニュース・フラッシュ】PNYからホワイトのGeForce RTX 4070 Tiカードが登場",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/791/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493782.html",
-          "author": null,
-          "description": "パソコン工房は、GPUにGeForce RTX 4070を搭載したゲーミングPCおよびクリエイター向けPCを発売した。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493782.html",
-          "publishedOn": "2023-04-14T08:48:08.000Z",
-          "wordCount": 5417,
-          "title": "パソコン工房、GeForce RTX 4070搭載ゲーミング/クリエイターPC",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/782/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493764.html",
-          "author": null,
-          "description": "Stability AIは、画像生成AI「Stable Diffusion」の上位モデルとなる「Stable Diffusion XL(SDXL)」のベータ版を一般公開した。前身のStable Diffusion 2.1と比べ、より詳細な画像や構図の生成が可能になったとする。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493764.html",
-          "publishedOn": "2023-04-14T08:31:14.000Z",
-          "wordCount": 5378,
-          "title": "Stable Diffusionの上位モデル「XL」ベータ版公開。画像の補完なども可能に",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/764/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493766.html",
-          "author": null,
-          "description": "既報のとおりRazerは、第13世代CoreとGeForce RTX 40シリーズを搭載したハイエンドゲーミングノート「Blade 16」および「Blade 18」を発表した。それにあわせて、報道向けの説明会が開催されたので、実機の写真とともにその特徴などを紹介する。製品のスペックなどについては、既報を参照されたい。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493766.html",
-          "publishedOn": "2023-04-14T08:17:29.000Z",
-          "wordCount": 5403,
-          "title": "Razerの新ゲーミングノートは、フルHD/240Hzと4K/120Hzを切り替えられる初のミニLEDパネル搭載機",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/766/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1493747.html",
-          "author": null,
-          "description": "Amazonにて、Jlink製の液晶モニターが特価にて販売されている。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1493747.html",
-          "publishedOn": "2023-04-14T07:44:56.000Z",
-          "wordCount": 5353,
-          "title": "本日みつけたお買い得品165Hz対応の24型フルHD IPS液晶が1万7,452円、Amazonでセール中",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/747/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/news_flash/1493752.html",
-          "author": null,
-          "description": "エムエスアイコンピュータージャパン株式会社(MSI)は、対象のビデオカード購入とMSIオンライン製品登録センターへの登録で、最大50米ドル分のSteamウォレットコードをプレゼントする「春の新生活 応援キャンペーン グラフィックスカード編」を実施している。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/news_flash/1493752.html",
-          "publishedOn": "2023-04-14T07:38:43.000Z",
-          "wordCount": 5357,
-          "title": "【ニュース・フラッシュ】MSI、ビデオカード購入で最大50米ドル分のSteamコードをプレゼント",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/752/1.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/news_flash/1493734.html",
-          "author": null,
-          "description": "NZXTは、フルカバーでデザイン性を高めたIntel Z790マザーボード「N7 Z790」、AMD B650Eマザーボード「N7 B650E」、RGBファン「F RGB DUO」シリーズ、および1,200W電源「C1200 Gold」を日本向けに21日に発売する。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/news_flash/1493734.html",
-          "publishedOn": "2023-04-14T07:13:15.000Z",
-          "wordCount": 5393,
-          "title": "【ニュース・フラッシュ】NZXTのフルカバーデザインZ790/B650Eマザーが21日に国内発売",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/734/1.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493723.html",
-          "author": null,
-          "description": "Amazonは、4月22日9時から4月25日23時59分にかけて、「ゴールデンウィークSALE」を開催する。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493723.html",
-          "publishedOn": "2023-04-14T06:58:23.000Z",
-          "wordCount": 5378,
-          "title": "Amazon、ゴールデンウィークセールを22日から開催。AirPodsなどが特価に",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/723/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493698.html",
-          "author": null,
-          "description": "ビデオゲームなど「遊び」に関する品を展示している米国の博物館The Strong National Museum of Playは10日、世界一の大きさを謳うアーケード版「ドンキーコング」を制作していると発表した。サイズはオリジナルの約3.7倍で、高さは20フィート(約6.09m)にもなる。6月30日から展示が始まる予定で、実際に遊ぶこともできる。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493698.html",
-          "publishedOn": "2023-04-14T06:15:01.000Z",
-          "wordCount": 5369,
-          "title": "高さ6m！実際に遊べる世界一大きな「ドンキーコング」を米国博物館が制作中",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/698/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493665.html",
-          "author": null,
-          "description": "株式会社ユニークはTargusから、16型までのノートPCが入る耐衝撃ポケットを備えたバックパック「Transpire Advanced」を19日より直販にて先行販売する。本体カラーはブラックとネイビーの2種類で、価格はどちらも1万860円。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493665.html",
-          "publishedOn": "2023-04-14T06:10:47.000Z",
-          "wordCount": 5358,
-          "title": "ユニーク、衝撃吸収ポケットに16型ノートも収まる軽量バックパック",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/665/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493655.html",
-          "author": null,
-          "description": "ロジテックINAソリューションズ株式会社は、Ultra HD Blu-ray(UHD BD)対応のポータブルBlu-rayドライブ「LBD-PWB6U3CS」シリーズおよび「LBD-PWB6U3CV」シリーズを発売した。価格はそれぞれ1万8,095円、1万9,514円。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493655.html",
-          "publishedOn": "2023-04-14T04:32:38.000Z",
-          "wordCount": 5377,
-          "title": "ロジテック、UHD BD対応の薄型軽量ポータブルBlu-rayドライブ",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/655/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493631.html",
-          "author": null,
-          "description": "Metaは、手書きの絵をアニメーションさせられるAIツール「Animated Drawings」を発表した。オープンソースプロジェクトとして、GitHubにて公開している。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493631.html",
-          "publishedOn": "2023-04-14T03:40:23.000Z",
-          "wordCount": 5375,
-          "title": "Meta、絵を簡単にアニメ化できるAIツール。オープンソースで公開",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/631/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493577.html",
-          "author": null,
-          "description": "NVIDIAは13日、アッパーミドルレンジのGPU「GeForce RTX 4070」を発売。これにともない、BTO PCメーカーから搭載のデスクトップPCが発売となった。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493577.html",
-          "publishedOn": "2023-04-14T02:50:10.000Z",
-          "wordCount": 5406,
-          "title": "20万円切りも。GeForce RTX 4070搭載デスクトップPCが各社から発売",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/577/1.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493581.html",
-          "author": null,
-          "description": "株式会社ユニットコムはパソコン工房で、ゲーミングブランドLEVEL∞およびクリエイターブランドSENSE∞シリーズより、GeForce RTX 4080/4090 Laptopを搭載したハイエンドノートPCを発売した。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493581.html",
-          "publishedOn": "2023-04-14T02:40:07.000Z",
-          "wordCount": 5408,
-          "title": "パソコン工房、GeForce RTX 4080/4090 Laptop搭載のノートPC",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/581/1.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493569.html",
-          "author": null,
-          "description": "CHUWIは、同社製ノート/着脱式2in1など一部製品がWi-Fiの5GHz帯に関する技適未取得の件についてお詫びを発表した。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493569.html",
-          "publishedOn": "2023-04-14T02:29:01.000Z",
-          "wordCount": 5355,
-          "title": "CHUWI、一部製品5GHz帯技適未取得についてお詫び。4月30日までに取得完了予定",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/569/1.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493565.html",
-          "author": null,
-          "description": "Razerは、第13世代CoreやGeForce RTX 40シリーズを搭載したゲーミングノート「Razer Blade 16」、「Razer Blade 18」、およびRyzen 9 6900HX/GeForce RTX 3070 Tiを搭載した14型ゲーミングノート「Razer Blade 14 Mercury Edition」の3製品を21日に発売する。代理店は株式会社アユート。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493565.html",
-          "publishedOn": "2023-04-14T02:00:00.000Z",
-          "wordCount": 5509,
-          "title": "Razerの第13世代Core/RTX 40シリーズ搭載ゲーミングノートが国内発売",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/565/1.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/topic/feature/1493097.html",
-          "author": null,
-          "description": "マウスコンピューターは4月13日11時から4月26日10時59分までの期間限定で、「春の感謝セール」を開催中。Core i7-12700/GeForce RTX 3060搭載のゲーミングPC「G-Tune HM-BJ(JeSU公認PC) [Windows 11]」や、Core i7-13700KF/GeForce RTX 4090搭載の「G-Tune XP-Z [Windows 11]」が9万円引きとなるなど、多数の製品を対象に値引きを実施している。",
-          "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1493097.html",
-          "publishedOn": "2023-04-14T02:00:00.000Z",
-          "wordCount": 5445,
-          "title": "RTX 4090と3060搭載ゲーミングPCが9万円引き。マウスの春の感謝セール - sponsored byマウスコンピューター -",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/097/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1493541.html",
-          "author": null,
-          "description": "Amazonにおいて、Bluetooth接続が可能なスピーカーがお買い得だ。Edifier「MP230」の場合、直近価格からの3,600円引きと1,000円オフのクーポンで、1万3,399円にて購入できる。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1493541.html",
-          "publishedOn": "2023-04-14T00:38:46.000Z",
-          "wordCount": 5345,
-          "title": "本日みつけたお買い得品Edifierのレトロ調Bluetoothスピーカーが4,600円引き。Ankerやロジクール製もお買い得",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/541/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1493538.html",
-          "author": null,
-          "description": "Amazonにおいて、GIGABYTEのゲーミングノートPC「AORUS 15」に15%オフのクーポンが用意されており、3万7,950円引きの21万5,050円にて購入可能となっている。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1493538.html",
-          "publishedOn": "2023-04-14T00:30:59.000Z",
-          "wordCount": 5399,
-          "title": "本日みつけたお買い得品GeForce RTX 3070 Tiや第12世代Core、WQHD液晶を搭載した15.6型ゲーミングノートが約3万8千円引き",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/538/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493476.html",
-          "author": null,
-          "description": "各社より、GeForce RTX 4070搭載ビデオカードが13日より順次発売となった。GeForce RTX 4070は、Ada Lovelaceアーキテクチャを採用したNVIDIA製のミドルハイGPUで、メモリは12GB GDDR6X、速度が21Gbps、バス幅が192bit。さらに46基のSM、5,888基のCUDAコア、46基のRTコア、184基のTensorコアなどを備え、TGPは200Wとなっている。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493476.html",
-          "publishedOn": "2023-04-13T21:37:00.000Z",
-          "wordCount": 5568,
-          "title": "各社からGeForce RTX 4070搭載カードが登場",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/476/17.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/topic/special/1489496.html",
-          "author": null,
-          "description": "最近は大画面モニターが人気だ。 一般に広く利用されてきた24型モニターでは、解像度や画面サイズで満足できず、27型やそれを超えるものを選ぶ人が増えてきているのだ。ハイブリッドワークで自宅作業が活用されていることもその一因だろう。ワークスタイルが多様化するとともに、誰もが作業効率を高めたいという切実な思いを抱えている。",
-          "link": "https://pc.watch.impress.co.jp/docs/topic/special/1489496.html",
-          "publishedOn": "2023-04-13T21:30:00.000Z",
-          "wordCount": 5542,
-          "title": "モニターを変えると、ノートPCの使い勝手まで向上！EIZOの新生4Kモニターはここがアツい！ ～ビジネス4Kモニターの真打ちとなるFlexScan EV2740X、EV3240X登場[Sponsored]",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1489/496/00.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/column/hothot/1493479.html",
-          "author": null,
-          "description": "近年中国メーカーが台頭する中、意外かもしれないが、Intelは昔から小型デスクトップPCに積極的だったメーカーの1つである。「NUC」(Next Unit of Computing)というブランドを立ち上げ、CPUの世代が進化するたびに、手のひらサイズの小型デスクトップPCを市場に投入し、牽引してきたからだ。",
-          "link": "https://pc.watch.impress.co.jp/docs/column/hothot/1493479.html",
-          "publishedOn": "2023-04-13T21:18:00.000Z",
-          "wordCount": 5458,
-          "title": "【Hothotレビュー】第13世代Coreを搭載して進化したIntelの「NUC 13 Pro」を試す",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/479/1.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1493486.html",
-          "author": null,
-          "description": "株式会社タカラトミーは2023年4月13日、JAXAらと共同開発した変形型月面探査ロボット「SORA-Q(ソラキュー)」の1/1スケールモデル「SORA-Q Flagship Model」を2023年9月2日から一般販売すると発表し、東京都内で記者会見を行なった。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1493486.html",
-          "publishedOn": "2023-04-13T21:14:00.000Z",
-          "wordCount": 5427,
-          "title": "【やじうまPC Watch】タカラトミーの変形月面探査ロボ「SORA-Q」、販売へ。本物は2023年度中に2回の月探査ミッションを予定",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/486/0143.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1493516.html",
-          "author": null,
-          "description": "※毎週金曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイターV攻略企画「ガチくんに!」をTwitchで配信しています。レギュラー出演者はカワノ、ぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードしたアーカイブの動画を掲載しています。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1493516.html",
-          "publishedOn": "2023-04-13T21:00:00.000Z",
-          "wordCount": 4916,
-          "title": "ガチくんに! 第265回 6人で2時間まるごと「ワードウルフ王決定戦」",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1493/516/01.jpg"
         }
       ]
     },
@@ -32212,6 +31642,36 @@
       "feedUrl": "https://win-tab.net/feed/",
       "siteUrl": "https://win-tab.net",
       "articles": [
+        {
+          "id": "https://win-tab.net/?p=133890",
+          "author": "wintab",
+          "description": "レノボがノートPC「ThinkPad L14 Gen 4 AMD」「ThinkPad L15 Gen 4 AMD」の国内販売を開始しました。L14/L15シリーズにはIntel版とAMD版があり、5月13日現在だとAMD...",
+          "link": "https://win-tab.net/lenovo/thinkpad_l14_l15_gen_4_amd_2305141/",
+          "publishedOn": "2023-05-13T15:29:24.000Z",
+          "wordCount": 2022,
+          "title": "Lenovo ThinkPad L14 Gen 4 AMD / L15 Gen 4 AMD － コストパフォーマンスに優れたThinkPad Lシリーズの2023年モデル",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2023/05/lenovo_thinkpad_l15_gen4_amd-1.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=133837",
+          "author": "かのあゆ",
+          "description": "ソニーがスマートフォン「Xperia 10 V」を発表しました。Xperia 1 Vとは異なり、現時点では国内オープンマーケット版は発表されておらず、キャリアでの取り扱いのみとなります。購入しやすい価格帯のミッドレンジモ...",
+          "link": "https://win-tab.net/android/sony_xperia_10_5_2305133/",
+          "publishedOn": "2023-05-13T09:31:44.000Z",
+          "wordCount": 1895,
+          "title": "SONY Xperia 10 V － 購入しやすい価格帯のミッドレンジXperiaもニューモデルに。オーディオ機能も強力です",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2023/05/sony_xperia_10_5-a1.jpg"
+        },
+        {
+          "id": "https://win-tab.net/?p=133856",
+          "author": "natsuki",
+          "description": "こんにちは、natsukiです。ALLDOCUBEより、8.4インチAndroidタブレット「ALLDOCUBE iPlay 50 mini」が発売されましたので、紹介します。Aliexpressでのメーカー直売店から、...",
+          "link": "https://win-tab.net/android/alldocube_iplay50mini/",
+          "publishedOn": "2023-05-13T02:35:55.000Z",
+          "wordCount": 1902,
+          "title": "ALLDOCUBE iPlay 50 mini － 希少な8.4インチAndroidタブレットが、発売セールで1万円強！低価格ながらもしっかり使えるスペックになっています",
+          "imageUrl": "https://win-tab.net/wp-content/uploads/2023/05/alldocube_iplay50mini_00_title.jpg"
+        },
         {
           "id": "https://win-tab.net/?p=133871",
           "author": "wintab",
@@ -33071,36 +32531,6 @@
           "wordCount": 1887,
           "title": "最新型番のRyzen 7 7745HXとGeForce RTX4060搭載のLegion Pro 5 Gen 8が20万円切り！ThinkPad E15も8万円台から！Lenovoクーポン、セール情報",
           "imageUrl": "https://win-tab.net/wp-content/uploads/2023/03/lenovo_legion_pro_5i_gen_8_16-4.jpg"
-        },
-        {
-          "id": "https://win-tab.net/?p=132044",
-          "author": "wintab",
-          "description": "DOOGEEがスマートフォン「N50」を発売します。4月17日からワールドプレミア（セール）が開催され、予定セール価格は89.99ドル（約12,150円）と非常に安価です。しかし、90ドルで買えるようなスペックとも思えず...",
-          "link": "https://win-tab.net/android/doogee_n50_2204143/",
-          "publishedOn": "2023-04-14T07:59:03.000Z",
-          "wordCount": 1789,
-          "title": "DOOGEE N50 － 50MPカメラ搭載でAntutu 22万点のエントリースマホ、発売セールの価格は89.99ドルです",
-          "imageUrl": "https://win-tab.net/wp-content/uploads/2023/04/doogee_n50-1.jpg"
-        },
-        {
-          "id": "https://win-tab.net/?p=132036",
-          "author": "wintab",
-          "description": "こんにちは、ウインタブ（@WTab8）です。HPの週末セール情報です。HPは4月6日にゲーミングPCのニューモデル「OMEN TRANSCEND 16」「OMEN 16（2023 Intel）」「Victus 16 （2...",
-          "link": "https://win-tab.net/sale/hp_sale_2304142/",
-          "publishedOn": "2023-04-14T03:02:52.000Z",
-          "wordCount": 1887,
-          "title": "モバイルノート最上位モデル、Spectre x360がお買い得に！Cherry MXスイッチのメカニカルキーボードも激安です！HPクーポン、セール情報",
-          "imageUrl": "https://win-tab.net/wp-content/uploads/2022/10/hp_spectre_x360_14_ef_r-18.jpg"
-        },
-        {
-          "id": "https://win-tab.net/?p=132023",
-          "author": "wintab",
-          "description": "マウスコンピューターが15.6インチノート「B5シリーズ（B5-I5I01SR-A、B5-I7I01SR-A）」を発売しました。従来は「B5-i5」「B5-i7」という名称でしたが、マウスコンピューターはこの4月から順次...",
-          "link": "https://win-tab.net/mouse/mouse_b5_2304141/",
-          "publishedOn": "2023-04-13T15:23:58.000Z",
-          "wordCount": 1783,
-          "title": "mouse B5シリーズ － シンプルなデザインで使いやすい15.6インチスタンダードノート、保証期間も3年に！",
-          "imageUrl": "https://win-tab.net/wp-content/uploads/2023/04/mouse_b5-i5_i7_2023-5.jpg"
         }
       ]
     },
@@ -33194,6 +32624,26 @@
       "feedUrl": "http://shimajiro-mobiler.net/feed/",
       "siteUrl": "http://shimajiro-mobiler.net",
       "articles": [
+        {
+          "id": "http://shimajiro-mobiler.net/?p=80047",
+          "author": "shimajiro",
+          "description": "KDDIおよび沖縄セルラーは、2023年5月中旬以降、auとUQ mobileの契約者を対象に、Netflixの「Netflix（広告つきスタンダード）」（月額790円）を1カ月無料で提供する。サービスの詳細については、...",
+          "link": "http://shimajiro-mobiler.net/2023/05/14/post80047/?utm_source=rss&utm_medium=rss&utm_campaign=post-80047",
+          "publishedOn": "2023-05-13T22:32:15.000Z",
+          "wordCount": 2320,
+          "title": "auとUQ mobile、Netflixの広告つきベーシックが1カ月無料に",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2023/05/230514_Netflix.jpg"
+        },
+        {
+          "id": "http://shimajiro-mobiler.net/?p=80044",
+          "author": "shimajiro",
+          "description": "楽天モバイルは、新たな料金プラン「Rakuten最強プラン」を発表した。2023年6月1日より提供を開始し、既存の「Rakuten UN-LIMIT Ⅶ」の契約者は新プランに自動移行する。 新プランの「Rakuten最強...",
+          "link": "http://shimajiro-mobiler.net/2023/05/13/post80044/?utm_source=rss&utm_medium=rss&utm_campaign=post-80044",
+          "publishedOn": "2023-05-13T04:26:03.000Z",
+          "wordCount": 2316,
+          "title": "6月1日から「Rakuten最強プラン」、料金変わらずauローミングも無制限に",
+          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2020/09/200910_Rakuten.jpg"
+        },
         {
           "id": "http://shimajiro-mobiler.net/?p=80040",
           "author": "shimajiro",
@@ -33843,46 +33293,6 @@
           "wordCount": 2317,
           "title": "楽天モバイルを追加申込で3,000ポイント還元、事務手数料無料",
           "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2023/04/230415_RakutenMobile.png"
-        },
-        {
-          "id": "http://shimajiro-mobiler.net/?p=79776",
-          "author": "shimajiro",
-          "description": "楽天市場の公式ショップ「スーパーDEAL SHOP」で、サムスンのAndroidタブレット「Galaxy Tab S8 Ultra」が40%ポイント還元の対象商品となるキャンペーンが 4月16日（日）09:59で終了。通...",
-          "link": "http://shimajiro-mobiler.net/2023/04/14/post79776/?utm_source=rss&utm_medium=rss&utm_campaign=post-79776",
-          "publishedOn": "2023-04-14T11:00:32.000Z",
-          "wordCount": 2344,
-          "title": "【間もなく終了】Galaxy Tab S8 Ultra購入で75,520ポイント還元",
-          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2022/11/221125_GalaxyTabS8Ultra.jpg"
-        },
-        {
-          "id": "http://shimajiro-mobiler.net/?p=79787",
-          "author": "shimajiro",
-          "description": "楽天モバイルは、「Rakuten UN-LIMIT Ⅶ」新規契約と同時購入で、「Rakuten Hand 5G」または「Rakuten WiFi Pocket 2C」の本体代金が1円に割引されるキャンペーンを実施中。 楽...",
-          "link": "http://shimajiro-mobiler.net/2023/04/14/post79787/?utm_source=rss&utm_medium=rss&utm_campaign=post-79787",
-          "publishedOn": "2023-04-14T02:04:36.000Z",
-          "wordCount": 2369,
-          "title": "楽天モバイル、新規契約でRakuten Hand 5GとRakuten WiFi Pocket 2Cの本体代金を一括1円に",
-          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2023/04/230414_RakutenMobile.jpg"
-        },
-        {
-          "id": "http://shimajiro-mobiler.net/?p=79785",
-          "author": "shimajiro",
-          "description": "ワイモバイルオンラインストア（ソフトバンク）の公式オンラインストアのタイムセール（21時〜翌9時）で、ソフトバンク認定中古品のiPhone 11（128GB）の販売が再開されている。 タイムセール期間中に購入すると、本体...",
-          "link": "http://shimajiro-mobiler.net/2023/04/14/post79785/?utm_source=rss&utm_medium=rss&utm_campaign=post-79785",
-          "publishedOn": "2023-04-14T00:54:07.000Z",
-          "wordCount": 2288,
-          "title": "【Y!mobile】認定中古品のiPhone 11がMNP契約で19,800円から",
-          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2021/07/210707_iPhone11_Ymobile.jpg"
-        },
-        {
-          "id": "http://shimajiro-mobiler.net/?p=79781",
-          "author": "shimajiro",
-          "description": "ドコモの公式オンラインストア「ドコモオンラインショップ」は、Galaxy S23およびGalaxy S23 Ultraの購入手続を2023年4月17日（月）10:00より開始する。 ドコモオンラインショップでは、商品の入...",
-          "link": "http://shimajiro-mobiler.net/2023/04/14/post79781/?utm_source=rss&utm_medium=rss&utm_campaign=post-79781",
-          "publishedOn": "2023-04-13T20:14:35.000Z",
-          "wordCount": 2302,
-          "title": "Galaxy S23/S23 Ultra、ドコモオンラインショップの購入手続は4月17日（月）10時から",
-          "imageUrl": "http://shimajiro-mobiler.net/wp-content/uploads/2023/04/030414_S23Ultra_docomo.jpg"
         }
       ]
     },
@@ -33919,16 +33329,6 @@
           "publishedOn": "2023-04-24T02:43:21.000Z",
           "wordCount": null,
           "title": "危険な情報漏洩。機密情報や個人情報を扱う人にこそNrealAirを使ってほしい理由",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sinmoble.com/?p=10964",
-          "author": "sinmoble",
-          "description": "M2チップ搭載のMacBookは本当に売れていないのか？ M1チップ搭載のMacBookを発売してApple製シリコンチップの新型MacBookの性能の高さをアピールしたAppleですが、最新型となるM2チップ搭載のMa […]\nThe post 2023年　M2搭載型のMacBookが売れない理由。ハードウェアに問題はなくても大きな欠点が… first appeared on モバイルやIT機器を活用するSINのモバイル修行3rd 復活編.",
-          "link": "https://sinmoble.com/2023/04/14/post-10964/",
-          "publishedOn": "2023-04-14T08:16:49.000Z",
-          "wordCount": 2766,
-          "title": "2023年　M2搭載型のMacBookが売れない理由。ハードウェアに問題はなくても大きな欠点が…",
           "imageUrl": null
         }
       ]
@@ -40508,96 +39908,6 @@
           "wordCount": 4464,
           "title": "ニトリ、間接照明や読書灯にもなるスリムなフロアランプ",
           "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1493/741/n1.jpg"
-        },
-        {
-          "id": "https://kaden.watch.impress.co.jp/docs/news/1493639.html",
-          "author": null,
-          "description": "Jackery Japanは、日本国内で販売されたJackeryポータブル電源のリサイクルサービスを4月13日より開始した。費用は無料で、送料はユーザーが負担する。対象は日本国内で販売されたJackeryポータブル電源本体。",
-          "link": "https://kaden.watch.impress.co.jp/docs/news/1493639.html",
-          "publishedOn": "2023-04-14T04:10:00.000Z",
-          "wordCount": 4477,
-          "title": "Jackery、ポータブル電源の無料リサイクルサービス開始",
-          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1493/639/00.jpg"
-        },
-        {
-          "id": "https://kaden.watch.impress.co.jp/docs/news/1493468.html",
-          "author": null,
-          "description": "アクア(AQUA)は、冷凍室や野菜室などの鮮度保持機能を高めた冷蔵庫のフラッグシップモデル「TXシリーズ」を4月19日に発売する。価格はオープンプライスで、店頭予想価格は、マイクロオゾン除菌機能を搭載する「AQR-TXA50N」が37万円前後、同機能を搭載しない「AQR-TX51N」が33万円前後。",
-          "link": "https://kaden.watch.impress.co.jp/docs/news/1493468.html",
-          "publishedOn": "2023-04-14T03:30:00.000Z",
-          "wordCount": 4493,
-          "title": "アクア、肉や野菜の鮮度保持に強い薄型500L冷蔵庫",
-          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1493/468/00.JPG"
-        },
-        {
-          "id": "https://kaden.watch.impress.co.jp/docs/news/1492623.html",
-          "author": null,
-          "description": "ラドンナは、「Toffy(トフィー)」ブランドから、自家製アイスクリームが手軽に作れる「Toffy アイスクリームメーカー K-IS11」を4月19日に発売する。価格は4,500円(税別)。本体カラーは「ペールアクア」、「ミルキーホワイト」、「シェルピンク」の3色。",
-          "link": "https://kaden.watch.impress.co.jp/docs/news/1492623.html",
-          "publishedOn": "2023-04-14T03:05:00.000Z",
-          "wordCount": 4472,
-          "title": "Toffy、自家製アイスが簡単なアイスクリームメーカー",
-          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1492/623/00-top.jpg"
-        },
-        {
-          "id": "https://kaden.watch.impress.co.jp/docs/news/1492456.html",
-          "author": null,
-          "description": "ライフオンプロダクツは、「PRISMATE(プリズメイト)」ブランドから、「完全分解式DC 3Dサーキュレーター リモコン付 PR-F087」を4月11日に販売した。価格は10,978円。",
-          "link": "https://kaden.watch.impress.co.jp/docs/news/1492456.html",
-          "publishedOn": "2023-04-14T01:05:00.000Z",
-          "wordCount": 4491,
-          "title": "完全分解式で丸洗いできるサーキュレーター。DCモーターで省エネ",
-          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1492/456/r_main.jpg"
-        },
-        {
-          "id": "https://kaden.watch.impress.co.jp/docs/topic/special/1491997.html",
-          "author": null,
-          "description": "Jackery Japanのポータブル電源に関するアンケートにご協力ください。ご回答いただいた方から抽選で5名様に、1万円のAmazonギフト券をプレゼントいたします。締め切りは2023年4月24日の13時です。",
-          "link": "https://kaden.watch.impress.co.jp/docs/topic/special/1491997.html",
-          "publishedOn": "2023-04-14T00:00:00.000Z",
-          "wordCount": 4535,
-          "title": "Jackeryポータブル電源に関するアンケート実施中。1万円のAmazonギフト券を5名様に進呈![Sponsored]",
-          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1491/997/j01.jpg"
-        },
-        {
-          "id": "https://kaden.watch.impress.co.jp/docs/topic/topic/1487964.html",
-          "author": null,
-          "description": "2023年4月1日より、自転車走行時のヘルメット着用“努力義務化”がスタートしました。さまざまなメディアでも報道されており、大きな戸惑いがある人も多いかもしれません。レースにトレーニング、サイクリングの際には必ずヘルメットをかぶっている私ですが、正直、若干の不安や心配があるのも事実です。それは「果たしてヘルメット着用が増えるのだろうか? 乗る人が減らないだろうか?」ということ。そんな現状も踏まえて、自転車に乗り続けて25年の私からヘルメットについて、いろいろお届けしたいと思います。",
-          "link": "https://kaden.watch.impress.co.jp/docs/topic/topic/1487964.html",
-          "publishedOn": "2023-04-13T23:05:00.000Z",
-          "wordCount": 4512,
-          "title": "【自転車を楽しもう!】ヘルメット着用は増える? 知っておきたい重要性と正しいかぶり方",
-          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1487/964/01.jpg"
-        },
-        {
-          "id": "https://kaden.watch.impress.co.jp/docs/column/puko/1493362.html",
-          "author": null,
-          "description": "私は肉が好きだ。と言いながら本当は魚がものすごく好きだ。出身地の福岡は、暖かい地域性の所以か、あまり保存食の文化が発達していないように思う。魚にしても同様で、海が近いので江戸前のように熟成させて食べる文化は発達してこなかったように感じる。獲ったら食べる! 鮮度命! みたいな感じ。もちろんその中で育った私の舌は完全にその環境に馴染んで形成されているもので、踊り食いが最高! くらいに鮮度第1主義のようになってしまっている。",
-          "link": "https://kaden.watch.impress.co.jp/docs/column/puko/1493362.html",
-          "publishedOn": "2023-04-13T22:05:00.000Z",
-          "wordCount": 4480,
-          "title": "ちょっと早起きして市場まで出かけよう",
-          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1493/362/001.jpg"
-        },
-        {
-          "id": "https://kaden.watch.impress.co.jp/docs/column/precooking/1493434.html",
-          "author": null,
-          "description": "くたくたに疲れたときや、在宅勤務時のランチには10分で作れる手軽なメニューがあると重宝します。今回は、卵黄を後のせして、とろっとした味わいを楽しめる「油揚げのとろたま丼」をご紹介します。めんつゆが染みた油揚げが、卵とごはんによく合います。",
-          "link": "https://kaden.watch.impress.co.jp/docs/column/precooking/1493434.html",
-          "publishedOn": "2023-04-13T21:30:00.000Z",
-          "wordCount": 4503,
-          "title": "味付けはめんつゆ、包丁もいらない「油揚げのとろたま丼」",
-          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1493/434/0.jpg"
-        },
-        {
-          "id": "https://kaden.watch.impress.co.jp/docs/column/iine/1490124.html",
-          "author": null,
-          "description": "100均でおなじみのダイソーのキッチン用品は、あると便利な商品が豊富で、価格の安さも相まって、アレもコレもとたくさん買ってしまいがち。購入したものの、実際はほとんど使っていないというアイテムも一定数あるのではないでしょうか。",
-          "link": "https://kaden.watch.impress.co.jp/docs/column/iine/1490124.html",
-          "publishedOn": "2023-04-13T21:05:00.000Z",
-          "wordCount": 4498,
-          "title": "買って損なし! ダイソーの調理スプーンや保存袋など小物3選【今日のいいね！】",
-          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/1490/124/01.JPG"
         }
       ]
     },
@@ -40606,6 +39916,156 @@
       "feedUrl": "http://blog.livedoor.jp/damekyoshi/index.rdf",
       "siteUrl": "http://blog.livedoor.jp/damekyoshi/",
       "articles": [
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432462.html",
+          "author": "damekyoshi",
+          "description": "平手打ち、肛門にナット　障害者施設中井やまゆり園で虐待9件認定\n朝日新聞デジタル　2023/5/13(土) 11:00配信\n\n\n　神奈川県は12日、直営の障害者施設「中井やまゆり園」（中井町）で利用者への虐待が疑われるとして関係自治体に通報していた25件の事案のうち、9件が虐待とし...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432462.html",
+          "publishedOn": "2023-05-14T01:00:52.000Z",
+          "wordCount": 1947,
+          "title": "平手打ち、肛門にナット　障害者施設中井やまゆり園で虐待9件認定",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432458.html",
+          "author": "damekyoshi",
+          "description": "福島大学でまたも出題ミス\nKFB福島放送　2023/5/12(金) 19:44配信\n\n\n　今年３月に行われた福島大学食農学類の後期日程の入試で、出題ミスがあったことが分かりました。\n\n　大学によりますと、５月２日、選択科目となっている数学の問題に誤りがあるのではないかと、出版社か...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432458.html",
+          "publishedOn": "2023-05-14T00:00:36.000Z",
+          "wordCount": 1942,
+          "title": "福島大学でまたも出題ミス",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432435.html",
+          "author": "damekyoshi",
+          "description": "小学校で体育館の壁が崩落…教師・児童13人が負傷　／麗水\n朝鮮日報日本語版　2023/5/13(土) 9:42配信\n\n【NEWSIS】全羅南道麗水市内の小学校で、体育館の天井近くの壁の一部が崩落し、当時現場近くにいた教師と児童13人が負傷した。\n\n　麗水消防署が12日に明らかにしたところ...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432435.html",
+          "publishedOn": "2023-05-13T23:00:35.000Z",
+          "wordCount": 1945,
+          "title": "小学校で体育館の壁が崩落…教師・児童13人が負傷　／麗水",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432456.html",
+          "author": "damekyoshi",
+          "description": "「メロン盗んだ疑い」県立支援学校教員を現行犯逮捕〈宮城・角田市〉\n仙台放送　2023/5/12(金) 21:00配信\n\n\n５月１２日、宮城県角田市のスーパーマーケットで、メロンなどを盗んだとして、県立支援学校教員の５３歳の女が逮捕されました。\n\n窃盗の疑いで逮捕されたのは、県立...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432456.html",
+          "publishedOn": "2023-05-13T08:27:09.000Z",
+          "wordCount": 2018,
+          "title": "「メロン盗んだ疑い」県立支援学校教員を現行犯逮捕〈宮城・角田市〉",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432455.html",
+          "author": "damekyoshi",
+          "description": "【支援学校でいじめ】“牛乳パック” をかばんに入れたり 同級生の “ゲーム代” を払わせたり…詳細な調査へ\nRKK熊本放送　2023/5/9(火) 18:41配信\n\n\n熊本県教育委員会は、県立支援学校で確認されたいじめを公表し、今後、詳細な調査を行う方針を明らかにしました。\n\n熊本県...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432455.html",
+          "publishedOn": "2023-05-13T08:15:00.000Z",
+          "wordCount": 1962,
+          "title": "【支援学校でいじめ】“牛乳パック” をかばんに入れたり 同級生の “ゲーム代” を払わせたり…詳細な調査へ",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432454.html",
+          "author": "damekyoshi",
+          "description": "「おむつ袋を顔に近づける」「頭を叩く」虐待相次ぐ熊本乳児院　市が改善勧告\nRKK熊本放送　2023/5/9(火) 18:58配信\n\n\n熊本市の熊本乳児院でおむつが入った袋を子どもの顔に近づけるなどの虐待が明らかになりました。\n\n熊本市は、市民からの情報提供を受け、去年11月から今年...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432454.html",
+          "publishedOn": "2023-05-13T08:13:51.000Z",
+          "wordCount": 1956,
+          "title": "「おむつ袋を顔に近づける」「頭を叩く」虐待相次ぐ熊本乳児院　市が改善勧告",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432453.html",
+          "author": "damekyoshi",
+          "description": "中学生の個人情報が載った書類、突風で飛ばされ紛失…担任が家庭訪問で持ち出し中\n読売新聞オンライン　2023/5/11(木) 21:59配信\n\n　山梨県甲斐市教育委員会は９日、市立中学校の生徒１人の個人情報が記入された書類を紛失したと発表した。８日、担任教諭が家庭訪問の際に突...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432453.html",
+          "publishedOn": "2023-05-13T08:08:11.000Z",
+          "wordCount": 1942,
+          "title": "中学生の個人情報が載った書類、突風で飛ばされ紛失…担任が家庭訪問で持ち出し中",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432452.html",
+          "author": "damekyoshi",
+          "description": "生徒に体罰　５０代男性教師を文書訓告処分に　鹿児島県徳之島町\n鹿児島ニュースＫＴＳ　2023/5/10(水) 18:55配信\n\n\n１月、鹿児島県徳之島町の公立中学校で、５０代の男性教師が生徒の顔などを殴り、けがをさせる体罰を行っていたことがわかりました。徳之島町教育委員会はこ...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432452.html",
+          "publishedOn": "2023-05-13T07:54:17.000Z",
+          "wordCount": 1945,
+          "title": "生徒に体罰　５０代男性教師を文書訓告処分に　鹿児島県徳之島町",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432451.html",
+          "author": "damekyoshi",
+          "description": "生徒の個人情報を誤送信　ファイルの中身確認せず　北海道・旭川市立の中学校\nSTVニュース北海道　2023/5/10(水) 21:00配信\n\n\n北海道・旭川市教育委員会は１０日、旭川市立の中学校で５０代の男性教員が生徒の個人情報が記載されたデータを保護者にメールで誤送信したと発表...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432451.html",
+          "publishedOn": "2023-05-13T07:51:29.000Z",
+          "wordCount": 1945,
+          "title": "生徒の個人情報を誤送信　ファイルの中身確認せず　北海道・旭川市立の中学校",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432450.html",
+          "author": "damekyoshi",
+          "description": "県立支援学校の元生徒「いじめで不登校に」　熊本県教委が調査委\n毎日新聞　2023/5/10(水) 5:15配信\n\n\n　熊本県教育委員会は9日、県立ひのくに高等支援学校（合志市）で、今春卒業した男子生徒が在学中にいじめを受けたとして不登校になっていたと明らかにした。県教委は第三...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432450.html",
+          "publishedOn": "2023-05-13T07:50:09.000Z",
+          "wordCount": 1942,
+          "title": "県立支援学校の元生徒「いじめで不登校に」　熊本県教委が調査委",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432449.html",
+          "author": "damekyoshi",
+          "description": "女子野球部員が意識不明、移動式の打撃ケージの下敷き…全国出場の札幌新陽高校、現場は初めて使用の学校外のグラウンド\nHBCニュース北海道　2023/5/12(金) 9:04配信\n\n\n　６日午前、札幌新陽高校の女子硬式野球部の部員が学校外のグラウンドで練習中、倒れたバッティングケー...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432449.html",
+          "publishedOn": "2023-05-13T07:48:25.000Z",
+          "wordCount": 1955,
+          "title": "女子野球部員が意識不明、移動式の打撃ケージの下敷き…全国出場の札幌新陽高校、現場は初めて使用の学校外のグラウンド",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432445.html",
+          "author": "damekyoshi",
+          "description": "【長崎】ゲージ倒れ生徒が下敷き　責任者教諭を書類送検\n長崎国際テレビ　2023/5/10(水) 20:02配信\n\n\n去年９月、県立波佐見高校で、台風の接近に備えてバッティングゲージを収納中に、生徒が下敷きになりケガをしたことを受け、警察は、５４歳の男性教諭を業務上過失傷害の疑...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432445.html",
+          "publishedOn": "2023-05-13T07:35:44.000Z",
+          "wordCount": 1944,
+          "title": "【長崎】ゲージ倒れ生徒が下敷き　責任者教諭を書類送検",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432444.html",
+          "author": "damekyoshi",
+          "description": "湖西いじめ　第三者委が認定　学校、市教委対応「不適切」　市立中生不登校\nあなたの静岡新聞　2023/5/12(金) 7:05配信\n\n\n　湖西市立中で2019年、当時2年生の女子生徒が部活動で無視されたとして不登校になった問題で、いじめの重大事態への対応として21年11月に設置された第...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432444.html",
+          "publishedOn": "2023-05-13T07:23:52.000Z",
+          "wordCount": 1954,
+          "title": "湖西いじめ　第三者委が認定　学校、市教委対応「不適切」　市立中生不登校",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432443.html",
+          "author": "damekyoshi",
+          "description": "休日の部活動指導手当、77万円を不正受給　札幌の高校教諭を懲戒免職　北海道教委\n北海道新聞　2023/5/11(木) 14:20配信\n\n　北海道教委は10日、休日の部活動指導に対する手当計77万9400円を不正に受給したとして、札幌市内の高校の男性教諭（60）を同日付で懲戒免職とした。\n...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432443.html",
+          "publishedOn": "2023-05-13T07:21:41.000Z",
+          "wordCount": 2010,
+          "title": "休日の部活動指導手当、77万円を不正受給　札幌の高校教諭を懲戒免職　北海道教委",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
+        {
+          "id": "http://blog.livedoor.jp/damekyoshi/archives/2432442.html",
+          "author": "damekyoshi",
+          "description": "前校長が実名告発　国立兵庫教育大附属中で2年3カ月分の残業代の未払いの疑い\n文春オンライン　2023/5/11(木) 11:12配信\n\n　2021年以来、相次いで発覚する国立大学法人の附属小中学校での教員への残業代未払い問題。国立兵庫教育大学附属中学で2020年4月から22年6月までの残...",
+          "link": "http://blog.livedoor.jp/damekyoshi/archives/2432442.html",
+          "publishedOn": "2023-05-13T07:20:06.000Z",
+          "wordCount": 1944,
+          "title": "前校長が実名告発　国立兵庫教育大附属中で2年3カ月分の残業代の未払いの疑い",
+          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
+        },
         {
           "id": "http://blog.livedoor.jp/damekyoshi/archives/2432259.html",
           "author": "damekyoshi",
@@ -41845,46 +41305,6 @@
           "wordCount": 1953,
           "title": "「会いたいなーと思って」「大人っぽくなってるんだろうな」男性高校教師が元教え子女性にしつこくデート誘う“不適切メッセージ”送る　仙台",
           "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
-        },
-        {
-          "id": "http://blog.livedoor.jp/damekyoshi/archives/2429050.html",
-          "author": "damekyoshi",
-          "description": "支援学級男児を縄で椅子に縛る　「給食時に離席」教諭を減給処分\n毎日新聞　2023/4/13(木) 18:17配信\n\n　埼玉県教育委員会は13日、給食時間に離席した特別支援学級の男児を縄跳びの長縄で椅子に縛ったとして、男性教諭（44）を減給10分の1（1カ月）の懲戒処分とした。\n\n　県...",
-          "link": "http://blog.livedoor.jp/damekyoshi/archives/2429050.html",
-          "publishedOn": "2023-04-14T01:00:35.000Z",
-          "wordCount": 1933,
-          "title": "支援学級男児を縄で椅子に縛る　「給食時に離席」教諭を減給処分",
-          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
-        },
-        {
-          "id": "http://blog.livedoor.jp/damekyoshi/archives/2429045.html",
-          "author": "damekyoshi",
-          "description": "小学校のスクールバス急停止で児童けが、73歳の運転手を略式起訴…叩く、怒鳴るなども12件「車内で騒ぐ児童に、いらだった」\nHBCニュース北海道　2023/4/13(木) 12:45配信\n\n\n　去年８月、北海道小樽市の小学校で、スクールバスを急停止させ、児童１人にけがをさせたとして、...",
-          "link": "http://blog.livedoor.jp/damekyoshi/archives/2429045.html",
-          "publishedOn": "2023-04-14T00:00:12.000Z",
-          "wordCount": 1957,
-          "title": "小学校のスクールバス急停止で児童けが、73歳の運転手を略式起訴…叩く、怒鳴るなども12件「車内で騒ぐ児童に、いらだった」",
-          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
-        },
-        {
-          "id": "http://blog.livedoor.jp/damekyoshi/archives/2429044.html",
-          "author": "damekyoshi",
-          "description": "フン堆積の納屋で飼育　犬9匹虐待か　中高一貫校臨時教員の女逮捕　埼玉県警\nTBS NEWS DIG Powered by JNN　2023/4/13(木) 15:03配信\n\n\n埼玉県日高市でフンが積もるなど劣悪な環境で犬9匹を飼い、虐待したとして臨時教員の女が逮捕されました。\n\n動物愛護法違反の疑いで逮捕...",
-          "link": "http://blog.livedoor.jp/damekyoshi/archives/2429044.html",
-          "publishedOn": "2023-04-13T23:00:22.000Z",
-          "wordCount": 1943,
-          "title": "フン堆積の納屋で飼育　犬9匹虐待か　中高一貫校臨時教員の女逮捕　埼玉県警",
-          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
-        },
-        {
-          "id": "http://blog.livedoor.jp/damekyoshi/archives/2429049.html",
-          "author": "damekyoshi",
-          "description": "駅伝実行委員会の資金を着服　市教委職員を懲戒免職（秋田県）\nABS秋田放送　2023/4/12(水) 16:37配信\n\n\n鹿角市は、十和田八幡平駅伝競走全国大会（十八駅伝）の実行委員会の資金など６３０万円近くを着服したとして３０代の職員を懲戒免職にしました。\n\n懲戒免職となったの...",
-          "link": "http://blog.livedoor.jp/damekyoshi/archives/2429049.html",
-          "publishedOn": "2023-04-13T14:24:11.000Z",
-          "wordCount": 1944,
-          "title": "駅伝実行委員会の資金を着服　市教委職員を懲戒免職（秋田県）",
-          "imageUrl": "https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png"
         }
       ]
     },
@@ -41893,6 +41313,26 @@
       "feedUrl": "https://www.kyobun.co.jp/feed/",
       "siteUrl": "https://www.kyobun.co.jp",
       "articles": [
+        {
+          "id": "https://www.kyobun.co.jp/?p=390101",
+          "author": "教育新聞編集部",
+          "description": "アカデミー賞を受賞したデンマーク映画『アナザーラウンド』（原題はデンマーク語でDruk＝大量飲酒）では、さえない高校教師たちが、飲酒によって人生を上向きにできるかどうかを実験する顛末が描かれている。劇中にはデンマークの […]",
+          "link": "https://www.kyobun.co.jp/close-up/cu20230513/",
+          "publishedOn": "2023-05-13T03:00:00.000Z",
+          "wordCount": null,
+          "title": "【北欧の教育最前線】デンマークの若者が飲酒する深い理由",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kyobun.co.jp/?p=389892",
+          "author": "教育新聞編集部",
+          "description": "植草学園短期大学特別教授　佐藤愼二 この連載の一覧 通常学級の「特別」ではない支援教育－ユニバーサルデザインの実践的展開－ 　前回に続き、学級経営のUD（ユニバーサルデザイン）について具体的に解説していく。 ○逆転の発想 […]",
+          "link": "https://www.kyobun.co.jp/education-practice/p20230513/",
+          "publishedOn": "2023-05-13T03:00:00.000Z",
+          "wordCount": null,
+          "title": "【通常学級の「特別」ではない支援教育（5）】学級経営UD③　逆転の発想で「ほめる」機会を増やす",
+          "imageUrl": null
+        },
         {
           "id": "https://www.kyobun.co.jp/?p=390233",
           "author": "佐野 領（教育新聞編集委員）",
@@ -43372,76 +42812,6 @@
           "wordCount": 1819,
           "title": "【北欧の教育最前線】子供にも年休10日 スウェーデン",
           "imageUrl": "https://www.kyobun.co.jp/wp-content/uploads/2022/10/cu20221029_title.jpg"
-        },
-        {
-          "id": "https://www.kyobun.co.jp/?p=388739",
-          "author": "佐野 領（教育新聞編集委員）",
-          "description": "文科省の調査研究会が取りまとめた教員の給与や学校における働き方改革の論点整理について、永岡桂子文科相は4月14日の閣議後会見で、「論点整理においては、教員の意欲や能力の向上に資する給与体制、勤務体制の在り方など、非常に […]",
-          "link": "https://www.kyobun.co.jp/news/20230414_06/",
-          "publishedOn": "2023-04-14T11:55:00.000Z",
-          "wordCount": 1779,
-          "title": "【給特法】廃止は検討対象か？ 文科相「方向性決まっていない」",
-          "imageUrl": "https://www.kyobun.co.jp/wp-content/uploads/2023/04/n20230414_06.jpg"
-        },
-        {
-          "id": "https://www.kyobun.co.jp/?p=388729",
-          "author": "河嶋 一郎（教育新聞記者）",
-          "description": "全国の小学6年生と中学3年生を対象として4月18日に実施される「全国学力・学習状況調査」について文科省は4月14日、国公私立合わせて2万8656校、児童・生徒計約205万人（4月7日現在、後日実施を含む）が参加すると発 […]",
-          "link": "https://www.kyobun.co.jp/news/20230414_05/",
-          "publishedOn": "2023-04-14T11:54:00.000Z",
-          "wordCount": 1767,
-          "title": "【全国学力調査】2万8656校、205万人参加 4月18日実施",
-          "imageUrl": "https://www.kyobun.co.jp/wp-content/uploads/2023/04/n20230414_05-eye.jpg"
-        },
-        {
-          "id": "https://www.kyobun.co.jp/?p=388731",
-          "author": "玉村 勇樹（教育新聞記者）",
-          "description": "新型コロナウイルスの感染症法上の位置付けが「5類」に引き下げられた後の児童生徒の出席停止について、永岡桂子文科相は4月14日の閣議後会見で、「発症から5日間が経過し、かつ症状が軽くなった後1日を経過するまで」とする方針 […]",
-          "link": "https://www.kyobun.co.jp/news/20230414_04/",
-          "publishedOn": "2023-04-14T11:53:00.000Z",
-          "wordCount": 1766,
-          "title": "【5類移行】出席停止2日短縮へ 文科省令改正案が公表",
-          "imageUrl": "https://www.kyobun.co.jp/wp-content/uploads/2023/04/n20230414_04-eye.jpg"
-        },
-        {
-          "id": "https://www.kyobun.co.jp/?p=388737",
-          "author": "玉村 勇樹（教育新聞記者）",
-          "description": "働いている人だけでなく、不登校や特別な配慮が必要な生徒に対する柔軟な取り組みが受け入れられ、生徒数が年々増えている通信制高校。その需要は非行により矯正教育を受けている少年にも広がりを見せている。法務省が文科省と連携し、 […]",
-          "link": "https://www.kyobun.co.jp/news/20230414_03/",
-          "publishedOn": "2023-04-14T11:52:00.000Z",
-          "wordCount": 1832,
-          "title": "通信制を活用した少年院での学習支援 高校卒業を下支え",
-          "imageUrl": "https://www.kyobun.co.jp/wp-content/uploads/2023/04/n20230414_03-eye.jpg"
-        },
-        {
-          "id": "https://www.kyobun.co.jp/?p=388727",
-          "author": "藤井 孝良（教育新聞記者）",
-          "description": "5月に広島で開かれるG7広島サミットを前に、G7各国とEUのユース代表で構成されるY7の代表団が4月13日、小倉将信こども政策担当相と面会し、政策提言を手渡した。政策提言では、若者向けの就労トレーニングやデジタルリテラ […]",
-          "link": "https://www.kyobun.co.jp/news/20230414_02/",
-          "publishedOn": "2023-04-14T11:51:00.000Z",
-          "wordCount": 1793,
-          "title": "広島サミットを前にY7開催 ユース世代の代表団が政策提言",
-          "imageUrl": "https://www.kyobun.co.jp/wp-content/uploads/2023/04/n20230414_02.jpg"
-        },
-        {
-          "id": "https://www.kyobun.co.jp/?p=388744",
-          "author": "秦 さわみ（教育新聞記者）",
-          "description": "岐阜県はこのほど、県内の高校を卒業し、大学・短大などを経て同県の小中学校の教諭として新たに採用された人に対し、7年経過後まで教諭として勤務することなどを条件に、日本学生支援機構の奨学金返還の一部補助を始めると発表した。 […]",
-          "link": "https://www.kyobun.co.jp/news/20230414_01/",
-          "publishedOn": "2023-04-14T11:50:00.000Z",
-          "wordCount": 1766,
-          "title": "小中新採教員の奨学金返還を一部補助 岐阜県が制度新設",
-          "imageUrl": "https://www.kyobun.co.jp/wp-content/uploads/2023/04/n20230414_01-eye.jpg"
-        },
-        {
-          "id": "https://www.kyobun.co.jp/?p=388400",
-          "author": "教育新聞編集部",
-          "description": "創価大学教育学部専任講師　飯村周平 この連載の一覧 HSP・HSCの本質　正しい理解に基づく対応のために 　前回、心理学の研究でHSPがどのように考えられているのかを紹介しました。すでにネットや書籍でHSPを知っていた方 […]",
-          "link": "https://www.kyobun.co.jp/education-practice/p20230414/",
-          "publishedOn": "2023-04-14T03:00:00.000Z",
-          "wordCount": 1824,
-          "title": "【HSP・HSCの本質（3）】ポピュラー心理学と学術的な心理学におけるHSPの理解の違い",
-          "imageUrl": "https://www.kyobun.co.jp/wp-content/uploads/2023/03/eye-catch_1280-720_rensai_HSP-HSC_fin.jpg"
         }
       ]
     },
@@ -43450,6 +42820,106 @@
       "feedUrl": "http://nikkan-spa.jp/feed",
       "siteUrl": "https://nikkan-spa.jp",
       "articles": [
+        {
+          "id": "https://nikkan-spa.jp/?p=1910660",
+          "author": null,
+          "description": "客による迷惑行為が世間を騒がせている。ひとりひとりが節度ある行動を心がけることで、そういった場面を減らすことができるかもしれないが、回避できない事態もある。今回は、理不尽な思いを吐露できずに仕事を辞めてしまった今田吾郎 […]",
+          "link": "https://nikkan-spa.jp/1910660",
+          "publishedOn": "2023-05-13T23:54:26.000Z",
+          "wordCount": 784,
+          "title": "「半額シール貼ってよ」スーパーの“迷惑なオバさん客”、バイトが失望した先輩スタッフの対応",
+          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/05/4674659_s.jpg"
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1907783",
+          "author": null,
+          "description": "カーマニアの鑑！ ヤフオクで7万円のシトロエンに、200万円つぎ込んだ男 カーマニアにとってシトロエンは特別な存在。なかでもオイルと窒素ガスを使ったハイドロニューマチックサスペンションは、70年近く前に開発された魔法の絨 […]",
+          "link": "https://nikkan-spa.jp/1907783",
+          "publishedOn": "2023-05-13T23:53:14.000Z",
+          "wordCount": 813,
+          "title": "‟7万円で買ったシトロエン”を200万円かけて直した理由。フェラーリみたいに価値は上がらなくても手に入れたかったエグザンティアの魅力",
+          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/AUTO115223050209002.jpg"
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1752020",
+          "author": null,
+          "description": "今、住宅系のYouTube界隈を騒がせている男がいる。動画チャンネル『ジュータクギャング』の押村知也だ。設計から建築、インテリアコーディネイトに至るまで住宅に関するすべてをこなす住宅のスペシャリスト「住空間クリエイター」 […]",
+          "link": "https://nikkan-spa.jp/1752020",
+          "publishedOn": "2023-05-13T23:52:43.000Z",
+          "wordCount": 780,
+          "title": "リビングには必ずラグを敷くべき理由。「家のホコリはどこへいく？」",
+          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/DSC01954-scaled.jpg"
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1910037",
+          "author": null,
+          "description": "4月23日、お笑いコンビ・TKOのこれまでの激動の歩みを描いた書籍『転落』（幻冬舎）が発売された。執筆を務めたのは『22年目の告白』などの著書で知られる作家の浜口倫太郎氏。元放送作家でもある彼が、TKOの2人へのインタビ […]",
+          "link": "https://nikkan-spa.jp/1910037",
+          "publishedOn": "2023-05-13T23:51:00.000Z",
+          "wordCount": 785,
+          "title": "「TKO木下の修正依頼は1か所だけ」取材を重ねた作家が直面した“謎のこだわり”",
+          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/05/TKO3-scaled.jpg"
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1903828",
+          "author": null,
+          "description": "読者からの反響が大きかった結婚に関する記事に注目。増える独身者、「少子化」や「おひとりさま老後」の問題……日本の未来を少し明るくするかもしれない記事トップ10、第3位はこちら！（集計期間は2022年1月～11月まで。初公 […]",
+          "link": "https://nikkan-spa.jp/1903828",
+          "publishedOn": "2023-05-13T23:45:52.000Z",
+          "wordCount": null,
+          "title": "「男が結婚相手に絶対に選んではいけない女性」に共通する4つの特徴――結婚トップ10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1911112",
+          "author": null,
+          "description": "みなさんは「ギャンブルに必要なことは？」と聞かれたら何を思い浮かべるでしょうか？ 　運、データ、緻密な計算、統計などいろいろあるでしょう。もちろんこれらも大切ですが、私はギャンブルで勝つために一番重要なのはメンタルだと […]",
+          "link": "https://nikkan-spa.jp/1911112",
+          "publishedOn": "2023-05-13T23:28:05.000Z",
+          "wordCount": null,
+          "title": "競馬で9370万円を的中させた芸人が‟稼ぐメンタル”を語る。「負けを知らない人は勝者になれない」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1911216",
+          "author": null,
+          "description": "「ルパン三世」シリーズのパチスロ最新作、「L主役は銭形4」が満を持して登場した。スマスロとなった銭形の実力を紐解く。また、スマスロで話題となった「ゴブリンスレイヤー」が、今度はパチンコで登場！　初当りがALL約1500個 […]",
+          "link": "https://nikkan-spa.jp/1911216",
+          "publishedOn": "2023-05-13T23:26:22.000Z",
+          "wordCount": null,
+          "title": "スマスロ「主役は銭形4」が満を持して登場！継続率約90%のパチンコ「ゴブリンスレイヤー」も大注目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1910928",
+          "author": null,
+          "description": "毎月のように新人がデビューして誰かが去っていく、入れ替わりの激しいセクシー業界。半年、1年続けば早くもベテラン扱いだ。10年、20年選手もいるが、その数は決して多くない。 　仕事量が安定しない、まったくオファーが来ず生 […]",
+          "link": "https://nikkan-spa.jp/1910928",
+          "publishedOn": "2023-05-13T06:54:57.000Z",
+          "wordCount": null,
+          "title": "元セクシー女優が「引退した女優たち」の“その後の人生”を語る",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1909781",
+          "author": null,
+          "description": "春は出会いの季節。コロナ禍も落ち着いたこともあって、街には例年よりカップルが溢れ、孤独に拍車をかけてくる。今年30歳になった筆者も出会いの機会が激減。 　一方で、同級生や会社の同僚などの結婚ラッシュが止まらない。焦って […]",
+          "link": "https://nikkan-spa.jp/1909781",
+          "publishedOn": "2023-05-13T06:53:30.000Z",
+          "wordCount": null,
+          "title": "女性が男の顔立ちよりも重視する「髪型、服装、写真」は？非モテ男子をプロが改造してみた",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nikkan-spa.jp/?p=1909882",
+          "author": null,
+          "description": "2023年3月にスタートした「HORIE MOBILE（ホリエモバイル）」は、ホリエモンこと堀江貴文氏による格安SIMサービス。格安航空機のLLCになぞらえて「通信業界のLCC」をうたっているが、果たして本当に「お得」と […]",
+          "link": "https://nikkan-spa.jp/1909882",
+          "publishedOn": "2023-05-13T06:52:15.000Z",
+          "wordCount": null,
+          "title": "ahamoより高い「ホリエモバイル」にメリットはあるのか？実際に使ってみてわかったこと",
+          "imageUrl": null
+        },
         {
           "id": "https://nikkan-spa.jp/?p=1909898",
           "author": null,
@@ -46029,86 +45499,6 @@
           "wordCount": 805,
           "title": "過去には162万馬券が飛び出す大波乱も。予想のヒントが隠れた「皐月賞」3選",
           "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/PH2-1.jpg"
-        },
-        {
-          "id": "https://nikkan-spa.jp/?p=1904075",
-          "author": null,
-          "description": "恋愛戦略家の関口美奈子と申します。結婚相談所を運営しつつ、YouTubeで日々、恋愛心理を中心とした男女の恋愛観に関する情報発信をしています。 　ホステスを9年間経験し、恋愛や心理学について12年間学んできました。これ […]",
-          "link": "https://nikkan-spa.jp/1904075",
-          "publishedOn": "2023-04-14T06:54:46.000Z",
-          "wordCount": 799,
-          "title": "「初対面から、なぜか好印象を与える男性」に実は共通している特徴",
-          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/AdobeStock_566108880-scaled.jpg"
-        },
-        {
-          "id": "https://nikkan-spa.jp/?p=1903064",
-          "author": null,
-          "description": "新年度がはじまり、貯金や資格習得などの新しい挑戦を考えている人も多いでしょう。なかには夏に向けてダイエットを始める人もいるかもしれません。しかし、やり方を間違えてしまうと、カネの無駄になるかも。 　今回は、大手パーソナ […]",
-          "link": "https://nikkan-spa.jp/1903064",
-          "publishedOn": "2023-04-14T06:53:19.000Z",
-          "wordCount": 790,
-          "title": "“鬼軍曹”の異名を持つ美女トレーナーの意外な過去「エステに300万円かけても水を飲むだけでリバウンド」",
-          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/FtMJT5oagAEu_bk.jpg"
-        },
-        {
-          "id": "https://nikkan-spa.jp/?p=1902755",
-          "author": null,
-          "description": "不貞行為の被害者はパートナーとその相手に慰謝料を請求することができるが、多いのが貯金がなくて一括では支払えないケース。その場合は分割払いを認めることも可能だが、親から借金して慰謝料を用意することも珍しくない。 　ただし […]",
-          "link": "https://nikkan-spa.jp/1902755",
-          "publishedOn": "2023-04-14T06:52:07.000Z",
-          "wordCount": 781,
-          "title": "絶縁していた娘から「200万円出せ」という連絡が…自分勝手な主張に戦慄",
-          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/AdobeStock_279609022-scaled.jpg"
-        },
-        {
-          "id": "https://nikkan-spa.jp/?p=1903128",
-          "author": null,
-          "description": "’22年に発生した炎上事件は1570件（『デジタル・クライシス白書2023』より）。一日平均4.3件。今日もどこかで誰かが燃えている。特に、回転寿司チェーン「スシロー」での迷惑動画がSNSで拡散されたことが記 […]",
-          "link": "https://nikkan-spa.jp/1903128",
-          "publishedOn": "2023-04-13T23:54:18.000Z",
-          "wordCount": 782,
-          "title": "ツナマヨおにぎりで炎上した「同姓のシェフ」に勘違いされ…59歳男性に振りかざされた“偽りの正義”",
-          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/DMA-5551-scaled-1.jpg"
-        },
-        {
-          "id": "https://nikkan-spa.jp/?p=1902311",
-          "author": null,
-          "description": "こんにちは、日本のデブ諸氏の笑顔製造マシンとして日夜活動している「心もカラダもビッグサイズな男たち」のためのファッション＆ライフスタイル情報を配信するWebマガジン「Mr.Babe」編集長の倉科典仁です。 　4月を迎え […]",
-          "link": "https://nikkan-spa.jp/1902311",
-          "publishedOn": "2023-04-13T23:53:53.000Z",
-          "wordCount": 803,
-          "title": "「飲み会あるある」で、実は女性から嫌がられている男性の言動",
-          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/nomikai01.jpg"
-        },
-        {
-          "id": "https://nikkan-spa.jp/?p=1902774",
-          "author": null,
-          "description": "『らんまん』のモデル「牧野富太郎」とは 　4月3日にスタートしたNHK連続テレビ小説『らんまん』。今回の朝ドラでは、高知県出身の植物学者・牧野富太郎博士をモデルにしたオリジナルストーリーが描かれる。 　牧野博士は幕末〜昭 […]",
-          "link": "https://nikkan-spa.jp/1902774",
-          "publishedOn": "2023-04-13T23:52:18.000Z",
-          "wordCount": 778,
-          "title": "NHK朝ドラ『らんまん』。坂本龍馬“天狗”の深い言葉は、今後の伏線か",
-          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/60a8f0b76adf94131a6eaa13a13b021e.jpg"
-        },
-        {
-          "id": "https://nikkan-spa.jp/?p=1903451",
-          "author": null,
-          "description": "4年に一度の統一地方選が、前半戦は4月9日投開票、後半戦は4月23日投開票で開催。密かに注目を浴び始めているのが、ひとクセもふたクセもある候補者の存在だ。彼らが、地方政治に打って出た理由とその動向を直撃取材！ 萌え文化を […]",
-          "link": "https://nikkan-spa.jp/1903451",
-          "publishedOn": "2023-04-13T23:51:54.000Z",
-          "wordCount": 780,
-          "title": "統一地方選で再選を目指す“議員系VTuber”荻野稔「表現の自由を守る」",
-          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/23041107.jpg"
-        },
-        {
-          "id": "https://nikkan-spa.jp/?p=1903442",
-          "author": null,
-          "description": "4年に一度の統一地方選が、前半戦は4月9日投開票、後半戦は4月23日投開票で開催。密かに注目を浴び始めているのが、ひとクセもふたクセもある候補者の存在だ。彼らが、地方政治に打って出た理由とその動向を直撃取材！ 行動派右翼 […]",
-          "link": "https://nikkan-spa.jp/1903442",
-          "publishedOn": "2023-04-13T23:50:41.000Z",
-          "wordCount": 781,
-          "title": "“元テロリスト”31歳が選挙に出る理由「馴れあいまみれの田舎を変えたい」",
-          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2023/04/23041111.jpg"
         }
       ]
     },
@@ -46166,6 +45556,56 @@
       "feedUrl": "http://buy.livedoor.biz/index.rdf",
       "siteUrl": "http://buy.livedoor.biz/",
       "articles": [
+        {
+          "id": "http://buy.livedoor.biz/archives/51648866.html",
+          "author": "talesofnamco",
+          "description": "明治の銀座カリー あたためなくても そのままおいしいカリー 中辛 5袋が税込734円(146.8円/個)の激安超特価。Amazonプライム会員(無料体験中でもOK)または2,000円以上購入で送料も無料。特選タイムセール価格。\n\n古き良き銀座の洋食文化を今に伝える「銀座カリーブランド」の...",
+          "link": "http://buy.livedoor.biz/archives/51648866.html",
+          "publishedOn": "2023-05-13T15:37:56.000Z",
+          "wordCount": 783,
+          "title": "明治 銀座カリー あたためなくても そのままおいしいカリー 中辛 5袋 税込734円(146.8円/個) プライム会員送料無料",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/4/0/40837c49.jpg"
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51648865.html",
+          "author": "talesofnamco",
+          "description": "全農パールライスの鳥取県産 白米 コシヒカリ 5kg 令和4年産が税込2,018円→1,413円の激安超特価。Amazonプライム会員(無料体験中でもOK)または2,000円以上購入で送料も無料。リンク先画面内の30％OFFクーポン適用価格。20日までのセール品。\n\n梨や白ねぎなど、さまざまな農...",
+          "link": "http://buy.livedoor.biz/archives/51648865.html",
+          "publishedOn": "2023-05-13T15:22:04.000Z",
+          "wordCount": 780,
+          "title": "【精米】全農パールライス 鳥取県産 白米 コシヒカリ 5kg 令和4年産 送料込1,413円",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/e/f/ef8715c5.jpg"
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51639200b.html",
+          "author": "kotori5000",
+          "description": "名古屋コーチン・鶏肉専門鶏三和のさんわの手羽唐揚 1kgが税込3,024円(実質2,884円)の激安超特価。もちろんお買い物マラソンのエントリー＆買いまわりでポイント最大10倍と楽天SPU スーパーポイントアップで最大16倍の対象。きょう24時まで2時間限定のセール品。\n\nレンジで簡...",
+          "link": "http://buy.livedoor.biz/archives/51639200b.html",
+          "publishedOn": "2023-05-13T13:00:42.000Z",
+          "wordCount": 769,
+          "title": "【24時まで】三和 さんわの手羽唐揚 1kg 送料込3,024円(実質2,884円)",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/d/3/d308b244.png"
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51640144e.html",
+          "author": "kotori5000",
+          "description": "北海道産直グルメぼーのの北海道帯広名物 本ロース 豚丼の具 15食セットが税込3,990円(266円/食)の激安超特価。送料も無料。サンキューショップ限定エントリー＆3,980円以上購入でポイント2倍も適用可能。もちろんお買い物マラソンのエントリー＆買いまわりでポイント最大10...",
+          "link": "http://buy.livedoor.biz/archives/51640144e.html",
+          "publishedOn": "2023-05-13T12:00:05.000Z",
+          "wordCount": null,
+          "title": "北海道帯広名物 本ロース 豚丼の具 15食セット 送料込3,990円(266円/食)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://buy.livedoor.biz/archives/51648854.html",
+          "author": "talesofnamco",
+          "description": "Banioの完全ワイヤレスイヤホンが税込1,380円→828円の激安超特価。Amazonプライム会員(無料体験中でもOK)または2,000円以上購入で送料も無料。激安★超特価商店街読者様限定40%OFFプロモーションコード「GEKKY050823」コピー適用価格。14日までのセール品。\n\n左右のイヤホン...",
+          "link": "http://buy.livedoor.biz/archives/51648854.html",
+          "publishedOn": "2023-05-13T09:05:09.000Z",
+          "wordCount": 764,
+          "title": "Banio 完全ワイヤレスイヤホン 税込828円 プライム会員送料無料",
+          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/0/1/01ae5b12.jpg"
+        },
         {
           "id": "http://buy.livedoor.biz/archives/51648829.html",
           "author": "talesofnamco",
@@ -48255,56 +47695,6 @@
           "wordCount": 764,
           "title": "【本日限定】三笠会館 インド風チキンカレー×2食セット 送料込1,000円(500円/食)【買いまわりに】",
           "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/f/b/fb7182fe.png"
-        },
-        {
-          "id": "http://buy.livedoor.biz/archives/51646751a.html",
-          "author": "talesofnamco",
-          "description": "PUETのスマホ遠隔操作対応 自動給餌器が税込8,218円→3,541円の激安超特価。送料も無料。激安★超特価商店街読者様限定50％OFFプロモーションコード「GEKKY0410」コピー適用＆リンク先画面内の568円OFFクーポン適用価格。16日までのセール品(早期終了する場合があります)。\n\n...",
-          "link": "http://buy.livedoor.biz/archives/51646751a.html",
-          "publishedOn": "2023-04-14T13:00:08.000Z",
-          "wordCount": 765,
-          "title": "PUET スマホ遠隔操作対応 自動給餌器 送料込3,541円",
-          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/3/d/3defabb3.jpg"
-        },
-        {
-          "id": "http://buy.livedoor.biz/archives/51647646.html",
-          "author": "buy",
-          "description": "紀州梅本舗の塩分約2.7％ 紀州南高梅 つぶれ梅(はちみつ) 450g×2パックが税込2,600円→2,000円(1,000円/パック)の激安超特価。送料も無料。600円OFFクーポン適用価格。もちろんお買い物マラソンのエントリー＆買いまわりでポイント最大10倍のエントリー＆買いまわりでポイン...",
-          "link": "http://buy.livedoor.biz/archives/51647646.html",
-          "publishedOn": "2023-04-14T11:24:28.000Z",
-          "wordCount": 788,
-          "title": "【2パック】紀州梅本舗 塩分約2.7％ 紀州南高梅 つぶれ梅(はちみつ) 450g×2パック 送料込2,000円(1,000円/パック)",
-          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/c/0/c0617b04.jpg"
-        },
-        {
-          "id": "http://buy.livedoor.biz/archives/51647613.html",
-          "author": "talesofnamco",
-          "description": "XSIN LUNGのUSB充電式アイマッサージャーが税込6,012円→3,509円の激安超特価(プライム会員以外は税込6,680円→4,010円)。送料も無料。激安★超特価商店街読者様限定25%OFFプロモーションコード「GEKKYQNJQ」コピー適用＆リンク先画面内の1,000円OFFクーポン適用価格。16日ま...",
-          "link": "http://buy.livedoor.biz/archives/51647613.html",
-          "publishedOn": "2023-04-14T08:00:40.000Z",
-          "wordCount": 768,
-          "title": "XSIN LUNG Bluetoothスピーカー機能搭載 USB充電式アイマッサージャー プライム会員送料込3,509円",
-          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/f/4/f4b534d3.jpg"
-        },
-        {
-          "id": "http://buy.livedoor.biz/archives/51647615.html",
-          "author": "talesofnamco",
-          "description": "QUTOGOのIP67防水 1.85インチ大画面スクリーン スマートウォッチが税込3,744円→1,872円の激安超特価。送料も無料。激安★超特価商店街読者様限定50％OFFプロモーションコード「GEKKY0404」コピー適用価格。16日までのセール品(早期終了する場合があります)。\n\n1.85インチの...",
-          "link": "http://buy.livedoor.biz/archives/51647615.html",
-          "publishedOn": "2023-04-13T22:00:37.000Z",
-          "wordCount": 770,
-          "title": "QUTOGO IP67防水 1.85インチ大画面スクリーン スマートウォッチ 送料込1,872円",
-          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/e/e/ee3344de.jpg"
-        },
-        {
-          "id": "http://buy.livedoor.biz/archives/51634779c.html",
-          "author": "kotori5000",
-          "description": "寛文五年堂の乾麺うどん、いなにわ手綯うどん160g×14袋(22～28人前)が税込3,960円の激安超特価。送料も無料。通常価格160g×7袋で3,960円(税込)の品。サンキューショップ限定エントリー＆3,980円以上購入でポイント2倍も適用可能。もちろんお買い物マラソンのエントリー＆買...",
-          "link": "http://buy.livedoor.biz/archives/51634779c.html",
-          "publishedOn": "2023-04-13T13:54:55.000Z",
-          "wordCount": 770,
-          "title": "【24時まで・半額】寛文五年堂  稲庭うどん いなにわ手綯うどん160g×14袋(22～28人前) 送料込3,960円",
-          "imageUrl": "https://livedoor.blogimg.jp/buy/imgs/9/8/98a6d897.png"
         }
       ]
     },
@@ -48687,6 +48077,16 @@
       "siteUrl": "https://ameblo.jp/kekkon-monogatari/",
       "articles": [
         {
+          "id": "https://ameblo.jp/kekkon-monogatari/entry-12802605502.html",
+          "author": null,
+          "description": "35歳以上からの申込みは全て断っていた、\n29歳ハイスペ美女。\n \n\n\nところが、彼女とご縁があったのは、\nなんと37歳の男性だった！？\n\n\n\n\n東京・恵比寿と兵庫県にある結婚相談所、\n\n結婚物語。の仲人Tです。\n \n弊社のブログが漫画になりました！\n\n【新連載マンガ】『本日はご成婚なり！』配信スタート★ | anna（アンナ）anna オリジナルマンガ『本日はご成婚なり！』の配信がはじまりました！ 結婚相談所の仲人が書くブログ「結婚物語。」の人気エピソードを、annaanna-media.jp\n\n\n入会面談のネット予約はこちらから！\n\n結婚物語。公式サイト | ブログで人気殺到中の結婚相談所自分に自信がない方でも安心！お見合い以外のサポートも充実。婚活・恋愛セミナーあり。 2019年日本結婚相談所連盟IBJ「入会最優秀賞・成婚最優秀賞」TOP20受賞。 仲人T・入会キャンペーン実施中・アメブロNo.1ブロガー。kekkon-monogatari.com\n\n\n\n東京、大阪、名古屋、宝殿で面談中。\nオンラインでの入会相談も可能です。\n \n結婚物語は5つの連盟に所属しています。\n※IBJ、BIU、TMS、JMN、良縁ネット\n \n所長がNHK for JAPANに出てます！\nここから見れます！来週も出ます！\n \n\n \nさて、今週の結婚物語。ブログは、\n29歳の美人女医のお話。\n \n予想外の年上だったものの、\n素敵な男性に出会えた彼女。\n \nしかし、\n真剣交際に入ったのに、\n全然成婚できない！？\n \n「運命の人とはトントン拍子に進む」\nなんて真っ赤な嘘？\n \n婚活に苦戦しても病まない秘訣とは？\n \nそれでは、張り切ってどうぞ！！\n\n \n年齢・29歳\n職業・医師\n外見・身長162cm  体重47kg\n特技・料理（1時間で5品作れる）\n趣味・読書、語学の勉強、キャンプ\n \n\n\n\n \n【…",
+          "link": "https://ameblo.jp/kekkon-monogatari/entry-12802605502.html",
+          "publishedOn": "2023-05-13T15:00:34.000Z",
+          "wordCount": 1701,
+          "title": "29歳女医の想定外の婚活〜思ってたんと全然違う！編〜",
+          "imageUrl": "https://stat.ameba.jp/user_images/20230512/17/kekkon-monogatari/52/b6/j/o1024102315283278890.jpg"
+        },
+        {
           "id": "https://ameblo.jp/kekkon-monogatari/entry-12802464129.html",
           "author": null,
           "description": "弊社\n\n「うちの会員は、オンラインでのお見合いを希望しております」\n\n\n\n\n\nとある他社\n「この時期にオンライン！？\nその方は本気で婚活されているんですか？」\n \n\n\n\n\n\n\n\n\n \n東京・恵比寿と兵庫県にある結婚相談所、\n結婚物語。です。\n \n今日は、今後、オンラインお見合いをする可能性がある婚活男女にぜひ読んで欲しいブログです。超急ぎで書きました。\n \n\n\n入会面談のネット予約はこちらから！\n\n結婚物語。公式サイト | ブログで人気殺到中の結婚相談所自分に自信がない方でも安心！お見合い以外のサポートも充実。婚活・恋愛セミナーあり。 2019年日本結婚相談所連盟IBJ「入会最優秀賞・成婚最優秀賞」TOP20受賞。 仲人T・入会キャンペーン実施中・アメブロNo.1ブロガー。kekkon-monogatari.com\n\n\n\n東京、大阪、名古屋、宝殿で面談中。\nオンラインでの入会相談も可能です。\n \n弊社のブログが漫画になりました！\n\n【新連載マンガ】『本日はご成婚なり！』配信スタート★ | anna（アンナ）anna オリジナルマンガ『本日はご成婚なり！』の配信がはじまりました！ 結婚相談所の仲人が書くブログ「結婚物語。」の人気エピソードを、annaanna-media.jp\n\n\nツイッターでも情報発信中！\n\n結婚物語｡仲人T /婚活するなら結婚物語。東京恵比寿と兵庫県高砂市にある結婚相談所@NakoudoT \n5月12日（金）18時から、結婚物語の代表・苅谷がTV出演します！NHK For JAPAN#19「日本人は働きすぎか 前編！」いや所長が働きすぎやから。日本人について語ってる場合じゃないんよ。とりあえず定休日の火曜日… https://t.co/35u0ua1bND\n2023年05月10日 18:54\n\n\n\n \nさて、今日は、最近のオンラインお見合いの傾向についてお…",
@@ -48916,6 +48316,16 @@
       "feedUrl": "http://www.drone-aerialshoot.com/feed/",
       "siteUrl": "https://www.drone-aerialshoot.com",
       "articles": [
+        {
+          "id": "https://www.drone-aerialshoot.com/?p=2418",
+          "author": "ZAKIO",
+          "description": "May 13, 2023 at 12:52PM ※この記事は BLUE SKY Camper Project のFacebook ページに投稿された内容の自動投稿です。機能上、写真は表示されません。  ...\nThe post 【FB投稿】   BSCPざきおです。\nGWたっぷり頂きました！ありがとうございます。\n明けて、ボチボチ動いております。… first appeared on 蒼天航路　〜ドローンと空撮とキャンピングカーのブログ〜.\nCopyright © 2023 蒼天航路　〜ドローンと空撮とキャンピングカーのブログ〜 All Rights Reserved.",
+          "link": "https://www.drone-aerialshoot.com/camper/%e3%80%90fb%e6%8a%95%e7%a8%bf%e3%80%91-bscp%e3%81%96%e3%81%8d%e3%81%8a%e3%81%a7%e3%81%99%e3%80%82gw%e3%81%9f%e3%81%a3%e3%81%b7%e3%82%8a%e9%a0%82%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/",
+          "publishedOn": "2023-05-13T04:41:38.000Z",
+          "wordCount": null,
+          "title": "【FB投稿】   BSCPざきおです。\nGWたっぷり頂きました！ありがとうございます。\n明けて、ボチボチ動いております。…",
+          "imageUrl": null
+        },
         {
           "id": "https://www.drone-aerialshoot.com/?p=2416",
           "author": "ZAKIO",
